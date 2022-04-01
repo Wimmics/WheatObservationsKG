@@ -1,0 +1,33 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix dct: <http://purl.org/dct/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix schema: <https://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dce: <http://purl.org/dc/elements/1.1/> .
+
+<http://opendata.inrae.fr/wto/v3.0/WTO-thesaurus>
+  a skos:ConceptScheme, rdfs:Resource ;
+  vann:preferredNamespaceUri "http://opendata.inrae.fr/wto/v3.0/thesaurus" ;
+  vann:preferredNamespacePrefix "wt" ;
+  dct:title "Wheat Trait Thesaurus"@en ;
+  dct:description "Wheat Trait Thesaurus is a collection of terms used to denote traits and phenotypes ."@en ;
+  dct:subject <http://data.agroportal.lirmm.fr/categories/TRAITS> ;
+  dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+  schema:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dct:publisher [
+    a <https://schema.org/Organization> ;
+    foaf:name "INRA" ;
+    foaf:homepage <http://www.inrae.fr/>
+  ] ;
+  bibo:status "draft" ;
+  owl:versionIRI "3.0" ;
+  owl:versionInfo "3.0" ;
+  dct:replaces "2.2.2" ;
+  dct:issued "2022-02-18" ;
+  schema:keywords "information extraction, corpus annotation, natural language processing, ontology building, biology, genetics"@en ;
+  bibo:doi <https://doi.org/10.15454/1.4382637738008071E12> ;
+  dct:creator "Claire Nédellec, Thierry Marcel, Pierre Sourdille" ;
+  dct:contributor "Catherine Faron, Franck Michel, Nadia Yacoubi Ayadi" .

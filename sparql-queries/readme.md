@@ -206,41 +206,57 @@ Comme **[3]** mais dont l’année de publication du document qui mentionne le m
 * __Requête__:
 
   ```turtle
+  prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+  prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+  prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+  prefix schema:  <http://schema.org/> .
+  prefix owl:     <http://www.w3.org/2002/07/owl#> .
+  prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+  prefix oa:      <http://www.w3.org/ns/oa#> .
+  prefix ncbi:    <http://identifiers.org/taxonomy/> .
+  prefix dct:     <http://purl.org/dc/terms/> .
+  prefix frbr:    <http://purl.org/vocab/frbr/core#> .
+  prefix fabio:   <http://purl.org/spar/fabio/> .
+  prefix obo:     <http://purl.obolibrary.org/obo/> .
+  prefix bibo: <http://purl.org/ontology/bibo/> .
+  prefix d2kab:   <http://ns.inria.fr/d2kab/> .
+  
   select distinct ?gene ?marker  ?doc1 ?doc2 where {
     ?x1 a oa:Annotation; 
      oa:hasTarget ?y1;
      oa:hasBody ?e1 .
     ?y1 oa:hasSource ?d1 .
-    ?e1 skos:prefLabel ?a .
+    ?e1 skos:prefLabel ?a ;
+        a d2kab:Phenotype .
   
     ?x2 a oa:Annotation ;
            oa:hasTarget ?y2 ;
            oa:hasBody ?e2 .
-    ?y2 oa:hasSource ?d1 .
+    ?y2 oa:hasSource ?d2 .
     ?e2 a d2kab:Gene ;
            skos:prefLabel ?gene.
   
     ?x3 a oa:Annotation ;
            oa:hasTarget ?y3 ;
            oa:hasBody ?e3 .
-     ?y3 oa:hasSource ?d2 .
+     ?y3 oa:hasSource ?d3 .
      ?e3 a d2kab:Marker ;
             skos:prefLabel ?marker .
      
     ?x4 a oa:Annotation ;
            oa:hasTarget ?y4 ;
            oa:hasBody ?e2 .
-    ?y4 oa:hasSource ?d2 .
+    ?y4 oa:hasSource ?d4 .
   
     ?d1 frbr:partOf+ ?doc1 .
     ?d2 frbr:partOf+ ?doc1 .
     ?d3 frbr:partOf+ ?doc2 .
     ?d4 frbr:partOf+ ?doc2 .
-    ?doc2 dct:issued ?date.
+    ?doc2 dct:issued ?date .
     ?doc1  a fabio:ResearchPaper .
     ?doc2  a fabio:ResearchPaper .
     filter (?a =   "crop yield") .
-    filter (year(?date) > 2010) .
+    filter (?date >= 2010 ) .
   }
   ```
 
@@ -315,7 +331,7 @@ Comme **[4]** mais seulement dans les documents qui mentionnent aussi le blé d�
 * __Requête__:
 
   ```SPARQL
-  select ?var  ?doc where {
+  select distinct ?var  ?doc where {
     ?rel1 d2kab:hasVariety ?ano1 ;
              d2kab:hasPhenotype ?ano2 .
     

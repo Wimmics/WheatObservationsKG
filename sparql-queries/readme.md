@@ -1,21 +1,5 @@
 
 
-# Exemple de requête SPARQL
-
-[TOC]
-
-```turtle
-select distinct ?docu where {
-?x a oa:Annotation;
-oa:hasTarget ?y;
-oa:hasBody ?e .
-?y oa:hasSource ?d .
-?e skos:prefLabel ?a .
-?d frbr:partOf/frbr:partOf ?docu .
-filter (?a = "Lr34") .
-}
-```
-
 
 
 ## 0. Préfixes utilisés

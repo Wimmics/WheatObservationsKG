@@ -40,8 +40,7 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 
 * __Requête__:
 
-  ```
- turtle
+  ```turtle
  SELECT distinct ?docu ?title ?pubmedID where {
     ?x a oa:Annotation; 
      oa:hasTarget [oa:hasSource ?d ];
@@ -505,7 +504,7 @@ Comme **[4]** mais en prenant en compte les sous-concepts de *{phenotype}*.
   
 * __Résultat__:
 
-  ```turtl
+  ```turtle
   
   ```
 

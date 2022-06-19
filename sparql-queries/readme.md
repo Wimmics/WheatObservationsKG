@@ -40,7 +40,8 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 
 * __Requête__:
 
-  ```turtle
+  ```
+ turtle
  SELECT distinct ?docu ?title ?pubmedID where {
     ?x a oa:Annotation; 
      oa:hasTarget [oa:hasSource ?d ];
@@ -82,7 +83,8 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 
 * __Requête__: Même document
 
-  ```turtle
+  ```
+  turtle
   select distinct ?gene ?article where {
     ?x1 a oa:Annotation;  
         oa:hasTarget [oa:hasSource ?d1];
@@ -122,7 +124,8 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 
 * __Requête__:
 
-  ```turtle
+  ```
+  turtle
  select distinct ?gene ?marker  ?doc1 ?doc2 where {
 
     ?x1 a oa:Annotation; 

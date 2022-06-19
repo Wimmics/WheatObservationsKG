@@ -2,7 +2,7 @@
 
 
 
-## 0. Préfixes utilisés
+## Préfixes utilisés
 
 ```turtle
 prefix rr:      <http://www.w3.org/ns/r2rml#> .
@@ -41,15 +41,14 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 * __Requête__:
 
   ```turtle
-  select distinct ?docu where {
+ SELECT distinct ?docu ?title ?pubmedID where {
     ?x a oa:Annotation; 
-     oa:hasTarget ?y;
-     oa:hasBody ?e .
-    ?y oa:hasSource ?d .
-    ?e skos:prefLabel ?a .
+     oa:hasTarget [oa:hasSource ?d ];
+     oa:hasBody [  skos:prefLabel  "Lr34" ] .
     ?d frbr:partOf+ ?docu .
-    ?docu a fabio:ResearchPaper .
-    filter (?a =   "Lr34") .
+    ?docu a fabio:ResearchPaper ; dct:title ?title ; fabio:hasPubMedId ?pubmedID
+    FILTER(!ISURI(?title))
+    
   }
   ```
 
@@ -64,7 +63,7 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 | 5    | <http://ns.inria.fr/d2kab/article/21265893>              |
 | 6    | <http://ns.inria.fr/d2kab/article/32281004#articletitle> |
 
-## 2. Quels gènes sont mentionnés à proximité de *{phenotype}*? +source
+## 2. Quels gènes sont mentionnés à proximité de *{phenotype}*? + article source
 
 * __Variable:__ *{phenotype}*, 
 
@@ -84,41 +83,33 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 * __Requête__: Même document
 
   ```turtle
-  select distinct ?label  ?docu where {
-    ?x1 a oa:Annotation; 
-     oa:hasTarget ?y1;
-     oa:hasBody ?e1 .
-    ?y1 oa:hasSource ?d1 .
-    ?e1 skos:prefLabel ?a ;
-        a d2kab:Phenotype.
-    ?x2 a oa:Annotation ;
-           oa:hasTarget ?y2 ;
-           oa:hasBody ?e2 .
-    ?y2 oa:hasSource ?d2 .
-    ?e2 a d2kab:Gene ;
-           skos:prefLabel ?label.
-    ?d1 frbr:partOf+ ?docu .
-    ?d2 frbr:partOf+ ?docu .
-    ?docu  a fabio:ResearchPaper .
-    filter (?a =   "crop yield") .
+  select distinct ?gene ?article where {
+    ?x1 a oa:Annotation;  
+        oa:hasTarget [oa:hasSource ?d1];
+        oa:hasBody   [a d2kab:Phenotype ; skos:prefLabel "crop yield" ] .
+    
+  ?x2 a oa:Annotation ;
+      oa:hasTarget [oa:hasSource ?d2] ;
+      oa:hasBody  [ a d2kab:Gene ; skos:prefLabel ?gene].
+
+ ?d1 frbr:partOf+ ?docu .
+ ?d2 frbr:partOf+ ?docu .
+ ?docu  a fabio:ResearchPaper .
   }
   ```
 
   
 
-* __Résultat__:
+* __Sous ensemble du Résultat__:
 
   | Gene  | Document                                    |
   | ----- | ------------------------------------------- |
-  | Gb7   | <http://ns.inria.fr/d2kab/article/28624908  |
-  | H32   | <http://ns.inria.fr/d2kab/article/24737716  |
-  | W7984 | <http://ns.inria.fr/d2kab/article/24186257> |
-  | Kna1  | <http://ns.inria.fr/d2kab/article/29545269> |
+  | Gb7   | <https://pubmed.ncbi.nlm.nih.gov/28624908>  |
+  | H32   | <https://pubmed.ncbi.nlm.nih.gov/28624908> |
+  | W7984 | <https://pubmed.ncbi.nlm.nih.gov/25846875> |
+  | Kna1  | <https://pubmed.ncbi.nlm.nih.gov/24737716>|
 
   
-
-  
-
 ## 3. Quels marqueurs sont mentionnés à proximité d’un gène, qui est lui-même mentionné à proximité de *{phenotype}*? +source
 
 * **Variable**: *{phenotype}*, exemples: *“resistance to Powdery Mildew”*, *“crop yield”*, *“drought tolerance”*, *“protein content of seed”*.
@@ -132,40 +123,33 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 * __Requête__:
 
   ```turtle
-  select distinct ?gene ?marker  ?doc1 ?doc2 where {
+ select distinct ?gene ?marker  ?doc1 ?doc2 where {
+
     ?x1 a oa:Annotation; 
-     oa:hasTarget ?y1;
-     oa:hasBody ?e1 .
-    ?y1 oa:hasSource ?d1 .
-    ?e1 skos:prefLabel ?a ;
-        a d2kab:Phenotype .
-  
+     oa:hasTarget [oa:hasSource ?d1];
+     oa:hasBody [ skos:prefLabel "crop yield" ;
+        a d2kab:Phenotype ] .
     ?x2 a oa:Annotation ;
-           oa:hasTarget ?y2 ;
+           oa:hasTarget [oa:hasSource ?d2 ] ;
            oa:hasBody ?e2 .
-    ?y2 oa:hasSource ?d2 .
-    ?e2 a d2kab:Gene ;
-           skos:prefLabel ?gene.
-  
+           ?e2 a d2kab:Gene ;
+           skos:prefLabel ?gene .
+      
     ?x3 a oa:Annotation ;
-           oa:hasTarget ?y3 ;
-           oa:hasBody ?e3 .
-     ?y3 oa:hasSource ?d3 .
-     ?e3 a d2kab:Marker ;
-            skos:prefLabel ?marker .
+           oa:hasTarget [ oa:hasSource ?d3] ;
+           oa:hasBody [ a d2kab:Marker ;
+            skos:prefLabel ?marker] .
      
     ?x4 a oa:Annotation ;
-           oa:hasTarget ?y4 ;
+           oa:hasTarget  [oa:hasSource ?d4];
            oa:hasBody ?e2 .
-    ?y4 oa:hasSource ?d4 .
-  
     ?d1 frbr:partOf+ ?doc1 .
     ?d2 frbr:partOf+ ?doc1 .
     ?d3 frbr:partOf+ ?doc2 .
     ?d4 frbr:partOf+ ?doc2 .
     ?doc1  a fabio:ResearchPaper .
     ?doc2  a fabio:ResearchPaper .
-    filter (?a =   "crop yield") .
+    
   }
   ```
 
@@ -181,9 +165,7 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
   
   
 
-### 3-1. (Nécessite la complétion de result_article avec l'API)
-
-Comme **[3]** mais dont l’année de publication du document qui mentionne le marqueur est ultérieure à 2010.
+### 3-1.  Comme **[3]** mais dont l’année de publication du document qui mentionne le marqueur est ultérieure à 2010.
 
 * **Intention**: Les articles trop vieux utilisaient des techniques de marquage génétique qui sont devenues obsolètes.
 
@@ -205,42 +187,36 @@ Comme **[3]** mais dont l’année de publication du document qui mentionne le m
   prefix bibo: <http://purl.org/ontology/bibo/> .
   prefix d2kab:   <http://ns.inria.fr/d2kab/> .
   
-  select distinct ?gene ?marker  ?doc1 ?doc2 where {
+  
+select distinct ?gene ?marker  ?doc1 ?doc2 where {
+
     ?x1 a oa:Annotation; 
-     oa:hasTarget ?y1;
-     oa:hasBody ?e1 .
-    ?y1 oa:hasSource ?d1 .
-    ?e1 skos:prefLabel ?a ;
-        a d2kab:Phenotype .
-  
+     oa:hasTarget [oa:hasSource ?d1];
+     oa:hasBody [ skos:prefLabel "crop yield" ;
+        a d2kab:Phenotype ] .
     ?x2 a oa:Annotation ;
-           oa:hasTarget ?y2 ;
+           oa:hasTarget [oa:hasSource ?d2 ] ;
            oa:hasBody ?e2 .
-    ?y2 oa:hasSource ?d2 .
-    ?e2 a d2kab:Gene ;
-           skos:prefLabel ?gene.
-  
+           ?e2 a d2kab:Gene ;
+           skos:prefLabel ?gene .
+      
     ?x3 a oa:Annotation ;
-           oa:hasTarget ?y3 ;
-           oa:hasBody ?e3 .
-     ?y3 oa:hasSource ?d3 .
-     ?e3 a d2kab:Marker ;
-            skos:prefLabel ?marker .
+           oa:hasTarget [ oa:hasSource ?d3] ;
+           oa:hasBody [ a d2kab:Marker ;
+            skos:prefLabel ?marker] .
      
     ?x4 a oa:Annotation ;
-           oa:hasTarget ?y4 ;
+           oa:hasTarget  [oa:hasSource ?d4];
            oa:hasBody ?e2 .
-    ?y4 oa:hasSource ?d4 .
-  
     ?d1 frbr:partOf+ ?doc1 .
     ?d2 frbr:partOf+ ?doc1 .
     ?d3 frbr:partOf+ ?doc2 .
     ?d4 frbr:partOf+ ?doc2 .
-    ?doc2 dct:issued ?date .
+   
     ?doc1  a fabio:ResearchPaper .
     ?doc2  a fabio:ResearchPaper .
-    filter (?a =   "crop yield") .
-    filter (?date >= 2010 ) .
+     ?doc2 dct:issued ?date .
+      filter (?date >= 2010 ) .
   }
   ```
 
@@ -248,9 +224,7 @@ Comme **[3]** mais dont l’année de publication du document qui mentionne le m
 
 * __Résultat__:
 
-  ```turtl
-  "NON testé"
-  ```
+ 
 
   
 
@@ -267,46 +241,32 @@ Comme **[3]** mais dont l’année de publication du document qui mentionne le m
 * __Requête__:
 
   ```turtle
-  select distinct ?var  ?doc where {
-    ?rel1 d2kab:hasVariety ?ano1 ;
-             d2kab:hasPhenotype ?ano2 .
-    
-    ?ano1 a oa:Annotation ;
-               oa:hasTarget ?t1 ;
-               oa:hasBody ?e1 .
-    ?t1 oa:hasSource ?d1 .
+ Select distinct ?variety ?article where {
   
-    ?e1 a d2kab:Variety ;
-           skos:prefLabel ?var.
+  ?rel1 d2kab:hasVariety ?ano1 ;
+           d2kab:hasPhenotype ?ano2 .
   
-    ?ano2 a oa:Annotation ;
-               oa:hasTarget ?t2 ;
-               oa:hasBody ?e2 .
-    ?t2 oa:hasSource ?d2 .
-  
-    ?e2 skos:prefLabel ?a ;
-        a d2kab:Phenotype .
-  
-    ?d1 frbr:partOf+ ?doc .
-    ?d2 frbr:partOf+ ?doc . # Pas nécessaire car l'annotation est dans le même doc
-    ?doc  a fabio:ResearchPaper .
-    filter (?a = "crop yield") .
+  ?ano1 a oa:Annotation ;
+          oa:hasTarget [ oa:hasSource ?d1];
+          oa:hasBody [ a d2kab:Variety ;
+                       skos:prefLabel ?variety].
+
+  ?ano2 a oa:Annotation ;
+             oa:hasTarget [ oa:hasSource ?d2] ;
+             oa:hasBody [ skos:prefLabel "crop yield";
+                         a d2kab:Phenotype] .
+     
+  ?d1 frbr:partOf+ ?article .
+  ?d2 frbr:partOf+ ?article. 
+  ?article  a fabio:ResearchPaper .
   }
+
   ```
 
   
-
-* __Résultat__:
-
-  | Variété | Document                                    |
-  | ------- | ------------------------------------------- |
-  | Scout   | <http://ns.inria.fr/d2kab/article/32652543> |
-  | Gazul   | <http://ns.inria.fr/d2kab/article/29093532> |
-  | Scout   | <http://ns.inria.fr/d2kab/article/32652543> |
-  
   
 
-### 4-1. Quelles variétés présentent un <phenotype> donné et un <taxon> donné?
+### 4-1. Quelles variétés d'un <taxon> donné qui présentent un <phenotype> donné?
 
 Comme **[4]** mais seulement dans les documents qui mentionnent aussi le blé d’été (Taxon: *Triticum aestivum*).
 
@@ -315,50 +275,31 @@ Comme **[4]** mais seulement dans les documents qui mentionnent aussi le blé d�
 * __Requête__:
 
   ```SPARQL
-  select distinct ?var  ?doc where {
-    ?rel1 d2kab:hasVariety ?ano1 ;
-             d2kab:hasPhenotype ?ano2 .
-    
-    ?ano1 a oa:Annotation ;
-               oa:hasTarget ?t1 ;
-               oa:hasBody ?e1 .
-    ?t1 oa:hasSource ?d1 .
-  
-    ?e1 a d2kab:Variety ;
-           skos:prefLabel ?var.
-  
-    ?ano2 a oa:Annotation ;
-               oa:hasTarget ?t2 ;
-               oa:hasBody ?e2 .
-    ?t2 oa:hasSource ?d2 .
-  
-    ?e2 skos:prefLabel ?a ;
-        a d2kab:Phenotype .
-  
-    ?ano3 a oa:Annotation ;
-                  oa:hasTarget ?t3 ;
-                  oa:hasBody ?e3 .
-    ?t3 oa:hasSource ?d3 .
-  
-    ?e3 skos:prefLabel ?label .
-  
-    ?d1 frbr:partOf+ ?doc .
-    ?d2 frbr:partOf+ ?doc .
-    ?d3 frbr:partOf+ ?doc .
-    ?doc a fabio:ResearchPaper .
-    filter (?a = "crop yield") .
-    filter (contains(?label, "Triticum aestivum")) .
-  }
+  SELECT distinct  ?article ?variety  
+
+?rel1 d2kab:hasVariety ?aVariety ;
+    d2kab:hasPhenotype ?aPhenotype.
+?aVariety a oa:Annotation ;
+            oa:hasTarget [ oa:hasSource ?d1];
+            oa:hasBody [a d2kab:Variety ;
+        skos:prefLabel ?variety] .
+
+?aPhenotype a oa:Annotation ;
+            oa:hasTarget [oa:hasSource ?d2];
+            oa:hasBody [ skos:prefLabel "resistance to Fusarium head blight"]. 
+
+?aTaxon a oa:Annotation ;
+        oa:hasTarget [oa:hasSource ?d ];
+        oa:hasBody [ a d2kab:Taxon ;
+                      skos:prefLabel "Triticum aestivum"].
+?d1 frbr:partOf+ ?article .
+?d2 frbr:partOf+ ?article .
+?d frbr:partOf+  ?article .
+?article  a fabio:ResearchPaper .}
   ```
 
-  
 
-* __Résultat__:
-
-  | Scout | <http://ns.inria.fr/d2kab/article/32652543> |
-  | ----- | ------------------------------------------- |
-  | Gazul | <http://ns.inria.fr/d2kab/article/29093532> |
-
+ 
   
 
 ### 4-2. Quelles variétés présentent un <phenotype> donné et un <taxon> donné à l'exclusion de tout autre taxon?

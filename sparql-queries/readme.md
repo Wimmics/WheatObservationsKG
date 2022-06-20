@@ -40,28 +40,22 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 
 * __Requête__:
 
-  ```turtle
- SELECT distinct ?docu ?title ?pubmedID where {
+```turtle
+ SELECT distinct ?docu ?title ?pubmedID
+ where 
+ {
     ?x a oa:Annotation; 
      oa:hasTarget [oa:hasSource ?d ];
-     oa:hasBody [  skos:prefLabel  "Lr34" ] .
+     oa:hasBody   [skos:prefLabel  "Lr34" ] .
     ?d frbr:partOf+ ?docu .
     ?docu a fabio:ResearchPaper ; dct:title ?title ; fabio:hasPubMedId ?pubmedID
-    FILTER(!ISURI(?title))
+ FILTER(!ISURI(?title))
     
   }
   ```
 
-* __Résultat__:
 
-| Row  | ?d                                                       |
-| ---- | -------------------------------------------------------- |
-| 1    | <http://ns.inria.fr/d2kab/article/28005310               |
-| 2    | <http://ns.inria.fr/d2kab/article/18074114>              |
-| 3    | <http://ns.inria.fr/d2kab/article/31506776>              |
-| 4    | <http://ns.inria.fr/d2kab/article/16896711>              |
-| 5    | <http://ns.inria.fr/d2kab/article/21265893>              |
-| 6    | <http://ns.inria.fr/d2kab/article/32281004#articletitle> |
+
 
 ## 2. Quels gènes sont mentionnés à proximité de *{phenotype}*? + article source
 

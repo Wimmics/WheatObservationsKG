@@ -76,20 +76,20 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 
 * __Requête__: Même document
 
-  ```
-  turtle
-  select distinct ?gene ?article where {
+  ``` turtle
+  SELECT distinct ?gene ?article where 
+  {
     ?x1 a oa:Annotation;  
         oa:hasTarget [oa:hasSource ?d1];
         oa:hasBody   [a d2kab:Phenotype ; skos:prefLabel "crop yield" ] .
     
-  ?x2 a oa:Annotation ;
-      oa:hasTarget [oa:hasSource ?d2] ;
-      oa:hasBody  [ a d2kab:Gene ; skos:prefLabel ?gene].
+    ?x2 a oa:Annotation ;
+        oa:hasTarget [oa:hasSource ?d2] ;
+        oa:hasBody  [ a d2kab:Gene ; skos:prefLabel ?gene].
 
- ?d1 frbr:partOf+ ?docu .
- ?d2 frbr:partOf+ ?docu .
- ?docu  a fabio:ResearchPaper .
+    ?d1 frbr:partOf+ ?article .
+    ?d2 frbr:partOf+ ?article .
+    ?article  a fabio:ResearchPaper .
   }
   ```
 

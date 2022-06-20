@@ -117,9 +117,9 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 
 * __Requête__:
 
-  ```
-  turtle
- select distinct ?gene ?marker  ?doc1 ?doc2 where {
+  
+  ``` turtle
+  SELECT distinct ?gene ?marker  ?doc1 ?doc2 where {
 
     ?x1 a oa:Annotation; 
      oa:hasTarget [oa:hasSource ?d1];
@@ -167,24 +167,8 @@ prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 
 * __Requête__:
 
-  ```turtle
-  prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-  prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
-  prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
-  prefix schema:  <http://schema.org/> .
-  prefix owl:     <http://www.w3.org/2002/07/owl#> .
-  prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
-  prefix oa:      <http://www.w3.org/ns/oa#> .
-  prefix ncbi:    <http://identifiers.org/taxonomy/> .
-  prefix dct:     <http://purl.org/dc/terms/> .
-  prefix frbr:    <http://purl.org/vocab/frbr/core#> .
-  prefix fabio:   <http://purl.org/spar/fabio/> .
-  prefix obo:     <http://purl.obolibrary.org/obo/> .
-  prefix bibo: <http://purl.org/ontology/bibo/> .
-  prefix d2kab:   <http://ns.inria.fr/d2kab/> .
-  
-  
-select distinct ?gene ?marker  ?doc1 ?doc2 where {
+ ``` turtle
+  SELECT distinct ?gene ?marker  ?doc1 ?doc2 where {
 
     ?x1 a oa:Annotation; 
      oa:hasTarget [oa:hasSource ?d1];
@@ -211,20 +195,12 @@ select distinct ?gene ?marker  ?doc1 ?doc2 where {
    
     ?doc1  a fabio:ResearchPaper .
     ?doc2  a fabio:ResearchPaper .
-     ?doc2 dct:issued ?date .
-      filter (?date >= 2010 ) .
+    ?doc2 dct:issued ?date .
+    filter (?date >= 2010 ) .
   }
   ```
 
-  
-
-* __Résultat__:
-
- 
-
-  
-
-## 4. Quelles variétés présentent un <phenotype> donné? +source
+ ### 4. Quelles sont variétés présentent un phenotype donné? +source
 
 * **Variable: **{phenotype}, exemples: *“resistance to Powdery Mildew”*, *“crop yield”*, *“drought tolerance”*, *“protein content of seed”*.
 
@@ -236,10 +212,9 @@ select distinct ?gene ?marker  ?doc1 ?doc2 where {
 
 * __Requête__:
 
-  ```turtle
+ ``` turtle
  Select distinct ?variety ?article where {
-  
-  ?rel1 d2kab:hasVariety ?ano1 ;
+ ?rel1 d2kab:hasVariety ?ano1 ;
            d2kab:hasPhenotype ?ano2 .
   
   ?ano1 a oa:Annotation ;
@@ -255,14 +230,13 @@ select distinct ?gene ?marker  ?doc1 ?doc2 where {
   ?d1 frbr:partOf+ ?article .
   ?d2 frbr:partOf+ ?article. 
   ?article  a fabio:ResearchPaper .
-  }
-
+  } 
   ```
 
   
   
 
-### 4-1. Quelles variétés d'un <taxon> donné qui présentent un <phenotype> donné?
+### 4-1. Quelles variétés d'un taxon donné présentent un phenotype donné?
 
 Comme **[4]** mais seulement dans les documents qui mentionnent aussi le blé d’été (Taxon: *Triticum aestivum*).
 
@@ -270,15 +244,16 @@ Comme **[4]** mais seulement dans les documents qui mentionnent aussi le blé d�
 
 * __Requête__:
 
-  ```SPARQL
-  SELECT distinct  ?article ?variety  
+  ``` turtle
+  SELECT distinct  ?article ?variety  WHERE
+  {
 
-?rel1 d2kab:hasVariety ?aVariety ;
-    d2kab:hasPhenotype ?aPhenotype.
-?aVariety a oa:Annotation ;
+ ?rel1 d2kab:hasVariety ?aVariety ;
+     d2kab:hasPhenotype ?aPhenotype.
+ ?aVariety a oa:Annotation ;
             oa:hasTarget [ oa:hasSource ?d1];
             oa:hasBody [a d2kab:Variety ;
-        skos:prefLabel ?variety] .
+           skos:prefLabel ?variety] .
 
 ?aPhenotype a oa:Annotation ;
             oa:hasTarget [oa:hasSource ?d2];

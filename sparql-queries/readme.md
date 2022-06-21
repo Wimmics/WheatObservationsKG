@@ -244,7 +244,7 @@ Comme **[4]** mais seulement dans les documents qui mentionnent aussi le bl√© d‚
 
 * __Requ√™te__:
 
-  ``` turtle
+``` turtle
   SELECT distinct  ?article ?variety  WHERE
   {
 
@@ -267,7 +267,7 @@ Comme **[4]** mais seulement dans les documents qui mentionnent aussi le bl√© d‚
 ?d2 frbr:partOf+ ?article .
 ?d frbr:partOf+  ?article .
 ?article  a fabio:ResearchPaper .}
-  ```
+```
 
 
  

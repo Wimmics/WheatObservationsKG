@@ -5,27 +5,27 @@
 ## Préfixes utilisés
 
 ```turtle
-prefix rr:      <http://www.w3.org/ns/r2rml#> .
-prefix schema:  <http://schema.org/> .
-prefix bioT:    <http://purl.org/biotop/biotop.owl#> .
-prefix owl:     <http://www.w3.org/2002/07/owl#> .
-prefix issap:   <http://ns.inria.fr/issa/property/> .
-prefix d2kab:   <http://ns.inria.fr/d2kab/> .
-prefix dce:     <http://purl.org/dc/elements/1.1/> .
-prefix fabio:   <http://purl.org/spar/fabio/> .
-prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
-prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
-prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
-prefix frbr:    <http://purl.org/vocab/frbr/core#> .
-prefix ncbi:    <http://identifiers.org/taxonomy/> .
-prefix rml:     <http://semweb.mmlab.be/ns/rml#> .
-prefix oa:      <http://www.w3.org/ns/oa#> .
-prefix dct:     <http://purl.org/dc/terms/> .
-prefix xrr:     <http://i3s.unice.fr/xr2rml#> .
-prefix bibo:    <http://purl.org/ontology/bibo/> .
-prefix prov:    <http://www.w3.org/ns/prov#> .
-prefix obo:     <http://purl.obolibrary.org/obo/> .
-prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+prefix rr:      <http://www.w3.org/ns/r2rml#> 
+prefix schema:  <http://schema.org/> 
+prefix bioT:    <http://purl.org/biotop/biotop.owl#> 
+prefix owl:     <http://www.w3.org/2002/07/owl#> 
+prefix issap:   <http://ns.inria.fr/issa/property/> 
+prefix d2kab:   <http://ns.inria.fr/d2kab/> 
+prefix dce:     <http://purl.org/dc/elements/1.1/> 
+prefix fabio:   <http://purl.org/spar/fabio/> 
+prefix xsd:     <http://www.w3.org/2001/XMLSchema#> 
+prefix skos:    <http://www.w3.org/2004/02/skos/core#> 
+prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> 
+prefix frbr:    <http://purl.org/vocab/frbr/core#> 
+prefix ncbi:    <http://identifiers.org/taxonomy/> 
+prefix rml:     <http://semweb.mmlab.be/ns/rml#> 
+prefix oa:      <http://www.w3.org/ns/oa#> 
+prefix dct:     <http://purl.org/dc/terms/> 
+prefix xrr:     <http://i3s.unice.fr/xr2rml#> 
+prefix bibo:    <http://purl.org/ontology/bibo/> 
+prefix prov:    <http://www.w3.org/ns/prov#> 
+prefix obo:     <http://purl.obolibrary.org/obo/> 
+prefix foaf:    <http://xmlns.com/foaf/0.1/> 
 ```
 
 

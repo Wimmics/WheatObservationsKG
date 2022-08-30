@@ -1,0 +1,241 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,DI10006itkfi,2850579,BTH_Estrées-Mons_2010_SetB2,48901,https://doi.org/10.15454/QECZYG,DI10006,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+1,2,2850484,BTH_Estrées-Mons_2010_SetB2,48901,https://doi.org/10.15454/QECZYG,DI10006,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+2,1,2850481,BTH_Estrées-Mons_2010_SetB2,48901,https://doi.org/10.15454/QECZYG,DI10006,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+3,1,2850483,BTH_Estrées-Mons_2010_SetB2,48901,https://doi.org/10.15454/QECZYG,DI10006,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+4,2,2850482,BTH_Estrées-Mons_2010_SetB2,48901,https://doi.org/10.15454/QECZYG,DI10006,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+5,DI10006itkt,2850580,BTH_Estrées-Mons_2010_SetB2,48901,https://doi.org/10.15454/QECZYG,DI10006,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+6,DI10007itkt,2850578,BTH_Estrées-Mons_2010_SetB2,48917,https://doi.org/10.15454/SFOD7H,DI10007,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+7,1,2850479,BTH_Estrées-Mons_2010_SetB2,48917,https://doi.org/10.15454/SFOD7H,DI10007,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+8,1,2850477,BTH_Estrées-Mons_2010_SetB2,48917,https://doi.org/10.15454/SFOD7H,DI10007,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+9,DI10007itkfi,2850577,BTH_Estrées-Mons_2010_SetB2,48917,https://doi.org/10.15454/SFOD7H,DI10007,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+10,2,2850480,BTH_Estrées-Mons_2010_SetB2,48917,https://doi.org/10.15454/SFOD7H,DI10007,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+11,2,2850478,BTH_Estrées-Mons_2010_SetB2,48917,https://doi.org/10.15454/SFOD7H,DI10007,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+12,1,2850515,BTH_Estrées-Mons_2010_SetB2,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+13,RE09055itkfi,2850595,BTH_Estrées-Mons_2010_SetB2,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+14,RE09055itkt,2850596,BTH_Estrées-Mons_2010_SetB2,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+15,2,2850514,BTH_Estrées-Mons_2010_SetB2,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+16,1,2850513,BTH_Estrées-Mons_2010_SetB2,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+17,2,2850516,BTH_Estrées-Mons_2010_SetB2,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+18,Barokitkt,2850518,BTH_Estrées-Mons_2010_SetB2,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+19,2,2850358,BTH_Estrées-Mons_2010_SetB2,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+20,1,2850357,BTH_Estrées-Mons_2010_SetB2,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+21,2,2850360,BTH_Estrées-Mons_2010_SetB2,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+22,1,2850359,BTH_Estrées-Mons_2010_SetB2,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+23,Barokitkfi,2850517,BTH_Estrées-Mons_2010_SetB2,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+24,CF09182itkfi,2850545,BTH_Estrées-Mons_2010_SetB2,48586,https://doi.org/10.15454/TEBGJY,CF09182,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+25,1,2850415,BTH_Estrées-Mons_2010_SetB2,48586,https://doi.org/10.15454/TEBGJY,CF09182,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+26,2,2850414,BTH_Estrées-Mons_2010_SetB2,48586,https://doi.org/10.15454/TEBGJY,CF09182,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+27,CF09182itkt,2850546,BTH_Estrées-Mons_2010_SetB2,48586,https://doi.org/10.15454/TEBGJY,CF09182,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+28,2,2850416,BTH_Estrées-Mons_2010_SetB2,48586,https://doi.org/10.15454/TEBGJY,CF09182,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+29,1,2850413,BTH_Estrées-Mons_2010_SetB2,48586,https://doi.org/10.15454/TEBGJY,CF09182,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+30,2,2850476,BTH_Estrées-Mons_2010_SetB2,49359,https://doi.org/10.15454/HRZCLT,CF09176,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+31,CF09176itkt,2850576,BTH_Estrées-Mons_2010_SetB2,49359,https://doi.org/10.15454/HRZCLT,CF09176,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+32,1,2850475,BTH_Estrées-Mons_2010_SetB2,49359,https://doi.org/10.15454/HRZCLT,CF09176,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+33,2,2850474,BTH_Estrées-Mons_2010_SetB2,49359,https://doi.org/10.15454/HRZCLT,CF09176,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+34,CF09176itkfi,2850575,BTH_Estrées-Mons_2010_SetB2,49359,https://doi.org/10.15454/HRZCLT,CF09176,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+35,1,2850473,BTH_Estrées-Mons_2010_SetB2,49359,https://doi.org/10.15454/HRZCLT,CF09176,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+36,1,2850375,BTH_Estrées-Mons_2010_SetB2,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+37,2,2850374,BTH_Estrées-Mons_2010_SetB2,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+38,Premioitkt,2850526,BTH_Estrées-Mons_2010_SetB2,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+39,Premioitkfi,2850525,BTH_Estrées-Mons_2010_SetB2,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+40,2,2850376,BTH_Estrées-Mons_2010_SetB2,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+41,1,2850373,BTH_Estrées-Mons_2010_SetB2,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+42,RE09038itkfi,2850529,BTH_Estrées-Mons_2010_SetB2,49325,gnpis_pui:holding-921_taxon-4898_accession-49325,RE09038,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+43,2,2850384,BTH_Estrées-Mons_2010_SetB2,49325,gnpis_pui:holding-921_taxon-4898_accession-49325,RE09038,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+44,1,2850383,BTH_Estrées-Mons_2010_SetB2,49325,gnpis_pui:holding-921_taxon-4898_accession-49325,RE09038,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+45,1,2850381,BTH_Estrées-Mons_2010_SetB2,49325,gnpis_pui:holding-921_taxon-4898_accession-49325,RE09038,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+46,RE09038itkt,2850530,BTH_Estrées-Mons_2010_SetB2,49325,gnpis_pui:holding-921_taxon-4898_accession-49325,RE09038,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+47,2,2850382,BTH_Estrées-Mons_2010_SetB2,49325,gnpis_pui:holding-921_taxon-4898_accession-49325,RE09038,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+48,CF09164itkt,2850540,BTH_Estrées-Mons_2010_SetB2,49662,gnpis_pui:holding-921_taxon-4898_accession-49662,CF09164,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+49,1,2850403,BTH_Estrées-Mons_2010_SetB2,49662,gnpis_pui:holding-921_taxon-4898_accession-49662,CF09164,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+50,2,2850402,BTH_Estrées-Mons_2010_SetB2,49662,gnpis_pui:holding-921_taxon-4898_accession-49662,CF09164,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+51,2,2850404,BTH_Estrées-Mons_2010_SetB2,49662,gnpis_pui:holding-921_taxon-4898_accession-49662,CF09164,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+52,1,2850401,BTH_Estrées-Mons_2010_SetB2,49662,gnpis_pui:holding-921_taxon-4898_accession-49662,CF09164,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+53,CF09164itkfi,2850539,BTH_Estrées-Mons_2010_SetB2,49662,gnpis_pui:holding-921_taxon-4898_accession-49662,CF09164,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+54,RE09033itkt,2850594,BTH_Estrées-Mons_2010_SetB2,48510,gnpis_pui:holding-921_taxon-4898_accession-48510,RE09033,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+55,RE09033itkfi,2850593,BTH_Estrées-Mons_2010_SetB2,48510,gnpis_pui:holding-921_taxon-4898_accession-48510,RE09033,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+56,2,2850512,BTH_Estrées-Mons_2010_SetB2,48510,gnpis_pui:holding-921_taxon-4898_accession-48510,RE09033,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+57,2,2850510,BTH_Estrées-Mons_2010_SetB2,48510,gnpis_pui:holding-921_taxon-4898_accession-48510,RE09033,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+58,1,2850511,BTH_Estrées-Mons_2010_SetB2,48510,gnpis_pui:holding-921_taxon-4898_accession-48510,RE09033,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+59,1,2850509,BTH_Estrées-Mons_2010_SetB2,48510,gnpis_pui:holding-921_taxon-4898_accession-48510,RE09033,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+60,RE09036itkfi,2850521,BTH_Estrées-Mons_2010_SetB2,48544,gnpis_pui:holding-921_taxon-4898_accession-48544,RE09036,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+61,1,2850367,BTH_Estrées-Mons_2010_SetB2,48544,gnpis_pui:holding-921_taxon-4898_accession-48544,RE09036,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+62,2,2850366,BTH_Estrées-Mons_2010_SetB2,48544,gnpis_pui:holding-921_taxon-4898_accession-48544,RE09036,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+63,RE09036itkt,2850522,BTH_Estrées-Mons_2010_SetB2,48544,gnpis_pui:holding-921_taxon-4898_accession-48544,RE09036,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+64,2,2850368,BTH_Estrées-Mons_2010_SetB2,48544,gnpis_pui:holding-921_taxon-4898_accession-48544,RE09036,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+65,1,2850365,BTH_Estrées-Mons_2010_SetB2,48544,gnpis_pui:holding-921_taxon-4898_accession-48544,RE09036,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+66,CF09172itkfi,2850567,BTH_Estrées-Mons_2010_SetB2,48708,gnpis_pui:holding-921_taxon-4898_accession-48708,CF09172,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+67,1,2850459,BTH_Estrées-Mons_2010_SetB2,48708,gnpis_pui:holding-921_taxon-4898_accession-48708,CF09172,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+68,2,2850458,BTH_Estrées-Mons_2010_SetB2,48708,gnpis_pui:holding-921_taxon-4898_accession-48708,CF09172,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+69,CF09172itkt,2850568,BTH_Estrées-Mons_2010_SetB2,48708,gnpis_pui:holding-921_taxon-4898_accession-48708,CF09172,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+70,2,2850460,BTH_Estrées-Mons_2010_SetB2,48708,gnpis_pui:holding-921_taxon-4898_accession-48708,CF09172,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+71,1,2850457,BTH_Estrées-Mons_2010_SetB2,48708,gnpis_pui:holding-921_taxon-4898_accession-48708,CF09172,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+72,1,2850395,BTH_Estrées-Mons_2010_SetB2,48559,gnpis_pui:holding-921_taxon-4898_accession-48559,AO10023,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+73,AO10023itkfi,2850535,BTH_Estrées-Mons_2010_SetB2,48559,gnpis_pui:holding-921_taxon-4898_accession-48559,AO10023,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+74,2,2850396,BTH_Estrées-Mons_2010_SetB2,48559,gnpis_pui:holding-921_taxon-4898_accession-48559,AO10023,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+75,2,2850394,BTH_Estrées-Mons_2010_SetB2,48559,gnpis_pui:holding-921_taxon-4898_accession-48559,AO10023,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+76,1,2850393,BTH_Estrées-Mons_2010_SetB2,48559,gnpis_pui:holding-921_taxon-4898_accession-48559,AO10023,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+77,AO10023itkt,2850536,BTH_Estrées-Mons_2010_SetB2,48559,gnpis_pui:holding-921_taxon-4898_accession-48559,AO10023,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+78,1,2850423,BTH_Estrées-Mons_2010_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+79,2,2850422,BTH_Estrées-Mons_2010_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+80,1,2850421,BTH_Estrées-Mons_2010_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+81,Apacheitkt,2850550,BTH_Estrées-Mons_2010_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+82,2,2850424,BTH_Estrées-Mons_2010_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+83,Apacheitkfi,2850549,BTH_Estrées-Mons_2010_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+84,2,2850420,BTH_Estrées-Mons_2010_SetB2,48345,gnpis_pui:holding-921_taxon-4898_accession-48345,EM09310,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+85,EM09310itkt,2850548,BTH_Estrées-Mons_2010_SetB2,48345,gnpis_pui:holding-921_taxon-4898_accession-48345,EM09310,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+86,1,2850419,BTH_Estrées-Mons_2010_SetB2,48345,gnpis_pui:holding-921_taxon-4898_accession-48345,EM09310,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+87,1,2850417,BTH_Estrées-Mons_2010_SetB2,48345,gnpis_pui:holding-921_taxon-4898_accession-48345,EM09310,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+88,EM09310itkfi,2850547,BTH_Estrées-Mons_2010_SetB2,48345,gnpis_pui:holding-921_taxon-4898_accession-48345,EM09310,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+89,2,2850418,BTH_Estrées-Mons_2010_SetB2,48345,gnpis_pui:holding-921_taxon-4898_accession-48345,EM09310,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+90,1,2850429,BTH_Estrées-Mons_2010_SetB2,49265,gnpis_pui:holding-921_taxon-4898_accession-49265,CF09122,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+91,CF09122itkt,2850554,BTH_Estrées-Mons_2010_SetB2,49265,gnpis_pui:holding-921_taxon-4898_accession-49265,CF09122,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+92,1,2850431,BTH_Estrées-Mons_2010_SetB2,49265,gnpis_pui:holding-921_taxon-4898_accession-49265,CF09122,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+93,CF09122itkfi,2850553,BTH_Estrées-Mons_2010_SetB2,49265,gnpis_pui:holding-921_taxon-4898_accession-49265,CF09122,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+94,2,2850432,BTH_Estrées-Mons_2010_SetB2,49265,gnpis_pui:holding-921_taxon-4898_accession-49265,CF09122,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+95,2,2850430,BTH_Estrées-Mons_2010_SetB2,49265,gnpis_pui:holding-921_taxon-4898_accession-49265,CF09122,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+96,CF09198itkt,2850590,BTH_Estrées-Mons_2010_SetB2,48921,gnpis_pui:holding-921_taxon-4898_accession-48921,CF09198,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+97,1,2850503,BTH_Estrées-Mons_2010_SetB2,48921,gnpis_pui:holding-921_taxon-4898_accession-48921,CF09198,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+98,1,2850501,BTH_Estrées-Mons_2010_SetB2,48921,gnpis_pui:holding-921_taxon-4898_accession-48921,CF09198,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+99,CF09198itkfi,2850589,BTH_Estrées-Mons_2010_SetB2,48921,gnpis_pui:holding-921_taxon-4898_accession-48921,CF09198,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+100,2,2850504,BTH_Estrées-Mons_2010_SetB2,48921,gnpis_pui:holding-921_taxon-4898_accession-48921,CF09198,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+101,2,2850502,BTH_Estrées-Mons_2010_SetB2,48921,gnpis_pui:holding-921_taxon-4898_accession-48921,CF09198,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+102,2,2850488,BTH_Estrées-Mons_2010_SetB2,26823,https://doi.org/10.15454/4BHB0N,ATTLASS,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+103,1,2850487,BTH_Estrées-Mons_2010_SetB2,26823,https://doi.org/10.15454/4BHB0N,ATTLASS,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+104,2,2850486,BTH_Estrées-Mons_2010_SetB2,26823,https://doi.org/10.15454/4BHB0N,ATTLASS,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+105,Attlassitkfi,2850581,BTH_Estrées-Mons_2010_SetB2,26823,https://doi.org/10.15454/4BHB0N,ATTLASS,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+106,Attlassitkt,2850582,BTH_Estrées-Mons_2010_SetB2,26823,https://doi.org/10.15454/4BHB0N,ATTLASS,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+107,1,2850485,BTH_Estrées-Mons_2010_SetB2,26823,https://doi.org/10.15454/4BHB0N,ATTLASS,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+108,Caphornitkt,2850556,BTH_Estrées-Mons_2010_SetB2,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+109,2,2850436,BTH_Estrées-Mons_2010_SetB2,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+110,1,2850433,BTH_Estrées-Mons_2010_SetB2,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+111,Caphornitkfi,2850555,BTH_Estrées-Mons_2010_SetB2,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+112,1,2850435,BTH_Estrées-Mons_2010_SetB2,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+113,2,2850434,BTH_Estrées-Mons_2010_SetB2,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+114,1,2850369,BTH_Estrées-Mons_2010_SetB2,49175,gnpis_pui:holding-921_taxon-4898_accession-49175,AO10016,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+115,AO10016itkt,2850524,BTH_Estrées-Mons_2010_SetB2,49175,gnpis_pui:holding-921_taxon-4898_accession-49175,AO10016,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+116,1,2850371,BTH_Estrées-Mons_2010_SetB2,49175,gnpis_pui:holding-921_taxon-4898_accession-49175,AO10016,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+117,AO10016itkfi,2850523,BTH_Estrées-Mons_2010_SetB2,49175,gnpis_pui:holding-921_taxon-4898_accession-49175,AO10016,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+118,2,2850370,BTH_Estrées-Mons_2010_SetB2,49175,gnpis_pui:holding-921_taxon-4898_accession-49175,AO10016,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+119,2,2850372,BTH_Estrées-Mons_2010_SetB2,49175,gnpis_pui:holding-921_taxon-4898_accession-49175,AO10016,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+120,2,2850408,BTH_Estrées-Mons_2010_SetB2,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+121,1,2850405,BTH_Estrées-Mons_2010_SetB2,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+122,1,2850407,BTH_Estrées-Mons_2010_SetB2,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+123,CF09169itkt,2850542,BTH_Estrées-Mons_2010_SetB2,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+124,CF09169itkfi,2850541,BTH_Estrées-Mons_2010_SetB2,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+125,2,2850406,BTH_Estrées-Mons_2010_SetB2,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+126,DI10011itkt,2850528,BTH_Estrées-Mons_2010_SetB2,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+127,DI10011itkfi,2850527,BTH_Estrées-Mons_2010_SetB2,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+128,2,2850378,BTH_Estrées-Mons_2010_SetB2,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+129,2,2850380,BTH_Estrées-Mons_2010_SetB2,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+130,1,2850377,BTH_Estrées-Mons_2010_SetB2,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+131,1,2850379,BTH_Estrées-Mons_2010_SetB2,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+132,AO10021itkt,2850572,BTH_Estrées-Mons_2010_SetB2,49282,gnpis_pui:holding-921_taxon-4898_accession-49282,AO10021,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+133,AO10021itkfi,2850571,BTH_Estrées-Mons_2010_SetB2,49282,gnpis_pui:holding-921_taxon-4898_accession-49282,AO10021,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+134,2,2850468,BTH_Estrées-Mons_2010_SetB2,49282,gnpis_pui:holding-921_taxon-4898_accession-49282,AO10021,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+135,1,2850467,BTH_Estrées-Mons_2010_SetB2,49282,gnpis_pui:holding-921_taxon-4898_accession-49282,AO10021,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+136,2,2850466,BTH_Estrées-Mons_2010_SetB2,49282,gnpis_pui:holding-921_taxon-4898_accession-49282,AO10021,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+137,1,2850465,BTH_Estrées-Mons_2010_SetB2,49282,gnpis_pui:holding-921_taxon-4898_accession-49282,AO10021,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+138,EM09318itkt,2850552,BTH_Estrées-Mons_2010_SetB2,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+139,EM09318itkfi,2850551,BTH_Estrées-Mons_2010_SetB2,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+140,2,2850428,BTH_Estrées-Mons_2010_SetB2,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+141,1,2850427,BTH_Estrées-Mons_2010_SetB2,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+142,2,2850426,BTH_Estrées-Mons_2010_SetB2,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+143,1,2850425,BTH_Estrées-Mons_2010_SetB2,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+144,2,2850464,BTH_Estrées-Mons_2010_SetB2,48598,gnpis_pui:holding-921_taxon-4898_accession-48598,AO10020,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+145,2,2850462,BTH_Estrées-Mons_2010_SetB2,48598,gnpis_pui:holding-921_taxon-4898_accession-48598,AO10020,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+146,1,2850463,BTH_Estrées-Mons_2010_SetB2,48598,gnpis_pui:holding-921_taxon-4898_accession-48598,AO10020,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+147,1,2850461,BTH_Estrées-Mons_2010_SetB2,48598,gnpis_pui:holding-921_taxon-4898_accession-48598,AO10020,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+148,AO10020itkt,2850570,BTH_Estrées-Mons_2010_SetB2,48598,gnpis_pui:holding-921_taxon-4898_accession-48598,AO10020,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+149,AO10020itkfi,2850569,BTH_Estrées-Mons_2010_SetB2,48598,gnpis_pui:holding-921_taxon-4898_accession-48598,AO10020,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+150,1,2850391,BTH_Estrées-Mons_2010_SetB2,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+151,2,2850390,BTH_Estrées-Mons_2010_SetB2,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+152,Bermudeitkfi,2850533,BTH_Estrées-Mons_2010_SetB2,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+153,2,2850392,BTH_Estrées-Mons_2010_SetB2,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+154,Bermudeitkt,2850534,BTH_Estrées-Mons_2010_SetB2,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+155,1,2850389,BTH_Estrées-Mons_2010_SetB2,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+156,RE09034itkt,2850520,BTH_Estrées-Mons_2010_SetB2,48900,gnpis_pui:holding-921_taxon-4898_accession-48900,RE09034,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+157,2,2850364,BTH_Estrées-Mons_2010_SetB2,48900,gnpis_pui:holding-921_taxon-4898_accession-48900,RE09034,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+158,2,2850362,BTH_Estrées-Mons_2010_SetB2,48900,gnpis_pui:holding-921_taxon-4898_accession-48900,RE09034,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+159,1,2850361,BTH_Estrées-Mons_2010_SetB2,48900,gnpis_pui:holding-921_taxon-4898_accession-48900,RE09034,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+160,RE09034itkfi,2850519,BTH_Estrées-Mons_2010_SetB2,48900,gnpis_pui:holding-921_taxon-4898_accession-48900,RE09034,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+161,1,2850363,BTH_Estrées-Mons_2010_SetB2,48900,gnpis_pui:holding-921_taxon-4898_accession-48900,RE09034,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+162,CF09133itkfi,2850543,BTH_Estrées-Mons_2010_SetB2,48903,gnpis_pui:holding-921_taxon-4898_accession-48903,CF09133,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+163,1,2850411,BTH_Estrées-Mons_2010_SetB2,48903,gnpis_pui:holding-921_taxon-4898_accession-48903,CF09133,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+164,1,2850409,BTH_Estrées-Mons_2010_SetB2,48903,gnpis_pui:holding-921_taxon-4898_accession-48903,CF09133,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+165,CF09133itkt,2850544,BTH_Estrées-Mons_2010_SetB2,48903,gnpis_pui:holding-921_taxon-4898_accession-48903,CF09133,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+166,2,2850410,BTH_Estrées-Mons_2010_SetB2,48903,gnpis_pui:holding-921_taxon-4898_accession-48903,CF09133,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+167,2,2850412,BTH_Estrées-Mons_2010_SetB2,48903,gnpis_pui:holding-921_taxon-4898_accession-48903,CF09133,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+168,DI10010itkfi,2850537,BTH_Estrées-Mons_2010_SetB2,49025,gnpis_pui:holding-921_taxon-4898_accession-49025,DI10010,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+169,1,2850399,BTH_Estrées-Mons_2010_SetB2,49025,gnpis_pui:holding-921_taxon-4898_accession-49025,DI10010,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+170,2,2850398,BTH_Estrées-Mons_2010_SetB2,49025,gnpis_pui:holding-921_taxon-4898_accession-49025,DI10010,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+171,2,2850400,BTH_Estrées-Mons_2010_SetB2,49025,gnpis_pui:holding-921_taxon-4898_accession-49025,DI10010,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+172,1,2850397,BTH_Estrées-Mons_2010_SetB2,49025,gnpis_pui:holding-921_taxon-4898_accession-49025,DI10010,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+173,DI10010itkt,2850538,BTH_Estrées-Mons_2010_SetB2,49025,gnpis_pui:holding-921_taxon-4898_accession-49025,DI10010,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+174,1,2850499,BTH_Estrées-Mons_2010_SetB2,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+175,EM09221itkfi,2850587,BTH_Estrées-Mons_2010_SetB2,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+176,EM09221itkt,2850588,BTH_Estrées-Mons_2010_SetB2,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+177,2,2850498,BTH_Estrées-Mons_2010_SetB2,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+178,2,2850500,BTH_Estrées-Mons_2010_SetB2,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+179,1,2850497,BTH_Estrées-Mons_2010_SetB2,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+180,EM09222itkfi,2850585,BTH_Estrées-Mons_2010_SetB2,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+181,1,2850493,BTH_Estrées-Mons_2010_SetB2,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+182,EM09222itkt,2850586,BTH_Estrées-Mons_2010_SetB2,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+183,2,2850496,BTH_Estrées-Mons_2010_SetB2,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+184,1,2850495,BTH_Estrées-Mons_2010_SetB2,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+185,2,2850494,BTH_Estrées-Mons_2010_SetB2,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+186,2,2850438,BTH_Estrées-Mons_2010_SetB2,49053,gnpis_pui:holding-921_taxon-4898_accession-49053,AO10019,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+187,1,2850437,BTH_Estrées-Mons_2010_SetB2,49053,gnpis_pui:holding-921_taxon-4898_accession-49053,AO10019,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+188,AO10019itkt,2850558,BTH_Estrées-Mons_2010_SetB2,49053,gnpis_pui:holding-921_taxon-4898_accession-49053,AO10019,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+189,AO10019itkfi,2850557,BTH_Estrées-Mons_2010_SetB2,49053,gnpis_pui:holding-921_taxon-4898_accession-49053,AO10019,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+190,2,2850440,BTH_Estrées-Mons_2010_SetB2,49053,gnpis_pui:holding-921_taxon-4898_accession-49053,AO10019,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+191,1,2850439,BTH_Estrées-Mons_2010_SetB2,49053,gnpis_pui:holding-921_taxon-4898_accession-49053,AO10019,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+192,2,2850492,BTH_Estrées-Mons_2010_SetB2,49109,gnpis_pui:holding-921_taxon-4898_accession-49109,EM09225,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+193,1,2850489,BTH_Estrées-Mons_2010_SetB2,49109,gnpis_pui:holding-921_taxon-4898_accession-49109,EM09225,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+194,EM09225itkfi,2850583,BTH_Estrées-Mons_2010_SetB2,49109,gnpis_pui:holding-921_taxon-4898_accession-49109,EM09225,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+195,EM09225itkt,2850584,BTH_Estrées-Mons_2010_SetB2,49109,gnpis_pui:holding-921_taxon-4898_accession-49109,EM09225,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+196,1,2850491,BTH_Estrées-Mons_2010_SetB2,49109,gnpis_pui:holding-921_taxon-4898_accession-49109,EM09225,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+197,2,2850490,BTH_Estrées-Mons_2010_SetB2,49109,gnpis_pui:holding-921_taxon-4898_accession-49109,EM09225,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+198,AO10017itkt,2850532,BTH_Estrées-Mons_2010_SetB2,49185,gnpis_pui:holding-921_taxon-4898_accession-49185,AO10017,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+199,2,2850388,BTH_Estrées-Mons_2010_SetB2,49185,gnpis_pui:holding-921_taxon-4898_accession-49185,AO10017,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+200,2,2850386,BTH_Estrées-Mons_2010_SetB2,49185,gnpis_pui:holding-921_taxon-4898_accession-49185,AO10017,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+201,AO10017itkfi,2850531,BTH_Estrées-Mons_2010_SetB2,49185,gnpis_pui:holding-921_taxon-4898_accession-49185,AO10017,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+202,1,2850387,BTH_Estrées-Mons_2010_SetB2,49185,gnpis_pui:holding-921_taxon-4898_accession-49185,AO10017,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+203,1,2850385,BTH_Estrées-Mons_2010_SetB2,49185,gnpis_pui:holding-921_taxon-4898_accession-49185,AO10017,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+204,RE09061itkt,2850560,BTH_Estrées-Mons_2010_SetB2,49193,gnpis_pui:holding-921_taxon-4898_accession-49193,RE09061,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+205,1,2850443,BTH_Estrées-Mons_2010_SetB2,49193,gnpis_pui:holding-921_taxon-4898_accession-49193,RE09061,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+206,2,2850444,BTH_Estrées-Mons_2010_SetB2,49193,gnpis_pui:holding-921_taxon-4898_accession-49193,RE09061,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+207,RE09061itkfi,2850559,BTH_Estrées-Mons_2010_SetB2,49193,gnpis_pui:holding-921_taxon-4898_accession-49193,RE09061,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+208,1,2850441,BTH_Estrées-Mons_2010_SetB2,49193,gnpis_pui:holding-921_taxon-4898_accession-49193,RE09061,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+209,2,2850442,BTH_Estrées-Mons_2010_SetB2,49193,gnpis_pui:holding-921_taxon-4898_accession-49193,RE09061,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+210,1,2850447,BTH_Estrées-Mons_2010_SetB2,49584,gnpis_pui:holding-921_taxon-4898_accession-49584,AO10018,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+211,AO10018itkt,2850562,BTH_Estrées-Mons_2010_SetB2,49584,gnpis_pui:holding-921_taxon-4898_accession-49584,AO10018,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+212,2,2850448,BTH_Estrées-Mons_2010_SetB2,49584,gnpis_pui:holding-921_taxon-4898_accession-49584,AO10018,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+213,2,2850446,BTH_Estrées-Mons_2010_SetB2,49584,gnpis_pui:holding-921_taxon-4898_accession-49584,AO10018,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+214,1,2850445,BTH_Estrées-Mons_2010_SetB2,49584,gnpis_pui:holding-921_taxon-4898_accession-49584,AO10018,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+215,AO10018itkfi,2850561,BTH_Estrées-Mons_2010_SetB2,49584,gnpis_pui:holding-921_taxon-4898_accession-49584,AO10018,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+216,DI10008itkt,2850566,BTH_Estrées-Mons_2010_SetB2,49226,gnpis_pui:holding-921_taxon-4898_accession-49226,DI10008,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+217,DI10008itkfi,2850565,BTH_Estrées-Mons_2010_SetB2,49226,gnpis_pui:holding-921_taxon-4898_accession-49226,DI10008,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+218,2,2850454,BTH_Estrées-Mons_2010_SetB2,49226,gnpis_pui:holding-921_taxon-4898_accession-49226,DI10008,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+219,1,2850453,BTH_Estrées-Mons_2010_SetB2,49226,gnpis_pui:holding-921_taxon-4898_accession-49226,DI10008,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+220,1,2850455,BTH_Estrées-Mons_2010_SetB2,49226,gnpis_pui:holding-921_taxon-4898_accession-49226,DI10008,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+221,2,2850456,BTH_Estrées-Mons_2010_SetB2,49226,gnpis_pui:holding-921_taxon-4898_accession-49226,DI10008,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+222,DI10009itkfi,2850563,BTH_Estrées-Mons_2010_SetB2,48858,gnpis_pui:holding-921_taxon-4898_accession-48858,DI10009,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+223,1,2850451,BTH_Estrées-Mons_2010_SetB2,48858,gnpis_pui:holding-921_taxon-4898_accession-48858,DI10009,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+224,2,2850450,BTH_Estrées-Mons_2010_SetB2,48858,gnpis_pui:holding-921_taxon-4898_accession-48858,DI10009,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+225,DI10009itkt,2850564,BTH_Estrées-Mons_2010_SetB2,48858,gnpis_pui:holding-921_taxon-4898_accession-48858,DI10009,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+226,2,2850452,BTH_Estrées-Mons_2010_SetB2,48858,gnpis_pui:holding-921_taxon-4898_accession-48858,DI10009,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+227,1,2850449,BTH_Estrées-Mons_2010_SetB2,48858,gnpis_pui:holding-921_taxon-4898_accession-48858,DI10009,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+228,AO10022itkt,2850574,BTH_Estrées-Mons_2010_SetB2,48862,gnpis_pui:holding-921_taxon-4898_accession-48862,AO10022,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+229,AO10022itkfi,2850573,BTH_Estrées-Mons_2010_SetB2,48862,gnpis_pui:holding-921_taxon-4898_accession-48862,AO10022,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+230,2,2850472,BTH_Estrées-Mons_2010_SetB2,48862,gnpis_pui:holding-921_taxon-4898_accession-48862,AO10022,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+231,1,2850471,BTH_Estrées-Mons_2010_SetB2,48862,gnpis_pui:holding-921_taxon-4898_accession-48862,AO10022,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+232,2,2850470,BTH_Estrées-Mons_2010_SetB2,48862,gnpis_pui:holding-921_taxon-4898_accession-48862,AO10022,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+233,1,2850469,BTH_Estrées-Mons_2010_SetB2,48862,gnpis_pui:holding-921_taxon-4898_accession-48862,AO10022,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+234,EM09307itkt,2850592,BTH_Estrées-Mons_2010_SetB2,48864,gnpis_pui:holding-921_taxon-4898_accession-48864,EM09307,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+235,1,2850507,BTH_Estrées-Mons_2010_SetB2,48864,gnpis_pui:holding-921_taxon-4898_accession-48864,EM09307,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+236,2,2850506,BTH_Estrées-Mons_2010_SetB2,48864,gnpis_pui:holding-921_taxon-4898_accession-48864,EM09307,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+237,1,2850505,BTH_Estrées-Mons_2010_SetB2,48864,gnpis_pui:holding-921_taxon-4898_accession-48864,EM09307,BTH_Estrées-Mons_2010_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+238,2,2850508,BTH_Estrées-Mons_2010_SetB2,48864,gnpis_pui:holding-921_taxon-4898_accession-48864,EM09307,BTH_Estrées-Mons_2010_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+239,EM09307itkfi,2850591,BTH_Estrées-Mons_2010_SetB2,48864,gnpis_pui:holding-921_taxon-4898_accession-48864,EM09307,BTH_Estrées-Mons_2010_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs

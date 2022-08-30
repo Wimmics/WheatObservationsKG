@@ -1,0 +1,111 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,DI08019-2itkfi,2844018,BTH_Estrées-Mons_2009_TECH,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+1,DI08019-2itkt,2844019,BTH_Estrées-Mons_2009_TECH,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+2,DI08011itkt,2844017,BTH_Estrées-Mons_2009_TECH,27807,https://doi.org/10.15454/E8FP9Y,DI08011,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+3,DI08011itkfi,2844016,BTH_Estrées-Mons_2009_TECH,27807,https://doi.org/10.15454/E8FP9Y,DI08011,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+4,HadmF276itkfi,2844050,BTH_Estrées-Mons_2009_TECH,60837,https://doi.org/10.15454/9DIH2Q,HadmF276,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+5,HadmF276itkt,2844051,BTH_Estrées-Mons_2009_TECH,60837,https://doi.org/10.15454/9DIH2Q,HadmF276,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+6,CF08127itkt,2844079,BTH_Estrées-Mons_2009_TECH,27800,https://doi.org/10.15454/WQU9II,CF08127,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+7,CF08127itkfi,2844078,BTH_Estrées-Mons_2009_TECH,27800,https://doi.org/10.15454/WQU9II,CF08127,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+8,CF07097itkt,2844041,BTH_Estrées-Mons_2009_TECH,27791,https://doi.org/10.15454/VCEDFU,CF07097,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+9,CF07097itkfi,2844040,BTH_Estrées-Mons_2009_TECH,27791,https://doi.org/10.15454/VCEDFU,CF07097,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+10,CF08139itkfi,2844046,BTH_Estrées-Mons_2009_TECH,27801,https://doi.org/10.15454/1DEONX,CF08139,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+11,CF08139itkt,2844047,BTH_Estrées-Mons_2009_TECH,27801,https://doi.org/10.15454/1DEONX,CF08139,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+12,AO09007itkt,2844021,BTH_Estrées-Mons_2009_TECH,27776,https://doi.org/10.15454/4JXOGF,AO09007,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+13,AO09007itkfi,2844020,BTH_Estrées-Mons_2009_TECH,27776,https://doi.org/10.15454/4JXOGF,AO09007,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+14,DI09015itkt,2844025,BTH_Estrées-Mons_2009_TECH,27811,https://doi.org/10.15454/N3NIWD,DI09015,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+15,DI09015itkfi,2844024,BTH_Estrées-Mons_2009_TECH,27811,https://doi.org/10.15454/N3NIWD,DI09015,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+16,DI09017itkt,2844105,BTH_Estrées-Mons_2009_TECH,27812,https://doi.org/10.15454/BEWTVM,DI09017,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+17,DI09017itkfi,2844104,BTH_Estrées-Mons_2009_TECH,27812,https://doi.org/10.15454/BEWTVM,DI09017,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+18,DI09004itkt,2844059,BTH_Estrées-Mons_2009_TECH,27808,https://doi.org/10.15454/GGTVHF,DI09004,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+19,DI09004itkfi,2844058,BTH_Estrées-Mons_2009_TECH,27808,https://doi.org/10.15454/GGTVHF,DI09004,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+20,AO09014itkt,2844069,BTH_Estrées-Mons_2009_TECH,27781,https://doi.org/10.15454/NMD5FO,AO09014,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+21,AO09014itkfi,2844068,BTH_Estrées-Mons_2009_TECH,27781,https://doi.org/10.15454/NMD5FO,AO09014,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+22,CF07002itkfi,2844098,BTH_Estrées-Mons_2009_TECH,27786,https://doi.org/10.15454/I30U5V,CF07002,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+23,CF07002itkt,2844099,BTH_Estrées-Mons_2009_TECH,27786,https://doi.org/10.15454/I30U5V,CF07002,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+24,CF05162itkt,2844043,BTH_Estrées-Mons_2009_TECH,26968,https://doi.org/10.15454/3810GN,CF05162,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+25,CF05162itkfi,2844042,BTH_Estrées-Mons_2009_TECH,26968,https://doi.org/10.15454/3810GN,CF05162,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+26,AO09015itkt,2844067,BTH_Estrées-Mons_2009_TECH,27897,https://doi.org/10.15454/QWJPTN,AO09015,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+27,AO09015itkfi,2844066,BTH_Estrées-Mons_2009_TECH,27897,https://doi.org/10.15454/QWJPTN,AO09015,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+28,DI09006itkfi,2844006,BTH_Estrées-Mons_2009_TECH,27810,https://doi.org/10.15454/ADDONA,DI09006,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+29,DI09006itkt,2844007,BTH_Estrées-Mons_2009_TECH,27810,https://doi.org/10.15454/ADDONA,DI09006,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+30,CF07018itkt,2844053,BTH_Estrées-Mons_2009_TECH,27788,https://doi.org/10.15454/72PHHY,CF07018,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+31,CF07018itkfi,2844052,BTH_Estrées-Mons_2009_TECH,27788,https://doi.org/10.15454/72PHHY,CF07018,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+32,RE07019itkfi,2844022,BTH_Estrées-Mons_2009_TECH,27305,https://doi.org/10.15454/OPZZGX,RE07019,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+33,RE07019itkt,2844023,BTH_Estrées-Mons_2009_TECH,27305,https://doi.org/10.15454/OPZZGX,RE07019,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+34,RE07093itkt,2844081,BTH_Estrées-Mons_2009_TECH,27307,https://doi.org/10.15454/CSESMY,RE07093,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+35,RE07093itkfi,2844080,BTH_Estrées-Mons_2009_TECH,27307,https://doi.org/10.15454/CSESMY,RE07093,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+36,RE08030itkt,2844063,BTH_Estrées-Mons_2009_TECH,27308,https://doi.org/10.15454/4AWT90,RE08030,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+37,RE08030itkfi,2844062,BTH_Estrées-Mons_2009_TECH,27308,https://doi.org/10.15454/4AWT90,RE08030,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+38,Hendrixitkt,2844005,BTH_Estrées-Mons_2009_TECH,26833,https://doi.org/10.15454/PYUIEM,HENDRIX,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+39,Hendrixitkfi,2844004,BTH_Estrées-Mons_2009_TECH,26833,https://doi.org/10.15454/PYUIEM,HENDRIX,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+40,Folkloritkt,2844011,BTH_Estrées-Mons_2009_TECH,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+41,Folkloritkfi,2844010,BTH_Estrées-Mons_2009_TECH,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+42,RE07040itkfi,2844088,BTH_Estrées-Mons_2009_TECH,27306,https://doi.org/10.15454/LF7SKR,RE07040,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+43,RE07040itkt,2844089,BTH_Estrées-Mons_2009_TECH,27306,https://doi.org/10.15454/LF7SKR,RE07040,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+44,EM08019itkfi,2844074,BTH_Estrées-Mons_2009_TECH,49300,https://doi.org/10.15454/TFJQEJ,EM08019,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+45,EM08019itkt,2844075,BTH_Estrées-Mons_2009_TECH,49300,https://doi.org/10.15454/TFJQEJ,EM08019,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+46,Apacheitkfi,2844048,BTH_Estrées-Mons_2009_TECH,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+47,Apacheitkt,2844049,BTH_Estrées-Mons_2009_TECH,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+48,CF07022itkt,2844097,BTH_Estrées-Mons_2009_TECH,27790,https://doi.org/10.15454/CEUVSR,CF07022,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+49,CF07022itkfi,2844096,BTH_Estrées-Mons_2009_TECH,27790,https://doi.org/10.15454/CEUVSR,CF07022,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+50,Skerzzoitkfi,2844086,BTH_Estrées-Mons_2009_TECH,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+51,Skerzzoitkt,2844087,BTH_Estrées-Mons_2009_TECH,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+52,Toisondoritkt,2844009,BTH_Estrées-Mons_2009_TECH,26124,https://doi.org/10.15454/S7WZIM,TOISONDOR,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+53,Toisondoritkfi,2844008,BTH_Estrées-Mons_2009_TECH,26124,https://doi.org/10.15454/S7WZIM,TOISONDOR,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+54,Flamenkoitkfi,2844064,BTH_Estrées-Mons_2009_TECH,26969,https://doi.org/10.15454/WDD3QQ,FLAMENKO,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+55,Flamenkoitkt,2844065,BTH_Estrées-Mons_2009_TECH,26969,https://doi.org/10.15454/WDD3QQ,FLAMENKO,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+56,Lyrikitkfi,2844106,BTH_Estrées-Mons_2009_TECH,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+57,Lyrikitkt,2844107,BTH_Estrées-Mons_2009_TECH,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+58,Musikitkfi,2844026,BTH_Estrées-Mons_2009_TECH,27738,https://doi.org/10.15454/JP9LCI,MUSIK,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+59,Musikitkt,2844027,BTH_Estrées-Mons_2009_TECH,27738,https://doi.org/10.15454/JP9LCI,MUSIK,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+60,Karillonitkfi,2844090,BTH_Estrées-Mons_2009_TECH,27739,https://doi.org/10.15454/LFFVPX,KARILLON,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+61,Karillonitkt,2844091,BTH_Estrées-Mons_2009_TECH,27739,https://doi.org/10.15454/LFFVPX,KARILLON,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+62,Ghaytaitkt,2844085,BTH_Estrées-Mons_2009_TECH,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+63,Ghaytaitkfi,2844084,BTH_Estrées-Mons_2009_TECH,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+64,Grapeliitkt,2844031,BTH_Estrées-Mons_2009_TECH,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+65,Grapeliitkfi,2844030,BTH_Estrées-Mons_2009_TECH,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+66,CF08027itkt,2844113,BTH_Estrées-Mons_2009_TECH,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+67,CF08027itkfi,2844112,BTH_Estrées-Mons_2009_TECH,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+68,Caphornitkt,2844061,BTH_Estrées-Mons_2009_TECH,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+69,Caphornitkfi,2844060,BTH_Estrées-Mons_2009_TECH,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+70,EM08024itkt,2844045,BTH_Estrées-Mons_2009_TECH,27822,https://doi.org/10.15454/KNNDVP,EM08024,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+71,EM08024itkfi,2844044,BTH_Estrées-Mons_2009_TECH,27822,https://doi.org/10.15454/KNNDVP,EM08024,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+72,EM08277itkt,2844071,BTH_Estrées-Mons_2009_TECH,27824,https://doi.org/10.15454/OUS6AU,EM08277,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+73,EM08277itkfi,2844070,BTH_Estrées-Mons_2009_TECH,27824,https://doi.org/10.15454/OUS6AU,EM08277,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+74,CF08021itkfi,2844102,BTH_Estrées-Mons_2009_TECH,49645,https://doi.org/10.15454/GXTRDY,CF08021,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+75,CF08021itkt,2844103,BTH_Estrées-Mons_2009_TECH,49645,https://doi.org/10.15454/GXTRDY,CF08021,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+76,RE07095itkfi,2844054,BTH_Estrées-Mons_2009_TECH,27266,https://doi.org/10.15454/PYG05B,RE07095,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+77,RE07095itkt,2844055,BTH_Estrées-Mons_2009_TECH,27266,https://doi.org/10.15454/PYG05B,RE07095,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+78,CF07143itkfi,2844076,BTH_Estrées-Mons_2009_TECH,27792,https://doi.org/10.15454/NZODZY,CF07143,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+79,CF07143itkt,2844077,BTH_Estrées-Mons_2009_TECH,27792,https://doi.org/10.15454/NZODZY,CF07143,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+80,DI09016itkfi,2844110,BTH_Estrées-Mons_2009_TECH,27313,https://doi.org/10.15454/SGNING,DI09016,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+81,DI09016itkt,2844111,BTH_Estrées-Mons_2009_TECH,27313,https://doi.org/10.15454/SGNING,DI09016,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+82,CF08106itkfi,2844108,BTH_Estrées-Mons_2009_TECH,27311,https://doi.org/10.15454/4DNWV7,CF08106,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+83,CF08106itkt,2844109,BTH_Estrées-Mons_2009_TECH,27311,https://doi.org/10.15454/4DNWV7,CF08106,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+84,CF08137itkt,2844035,BTH_Estrées-Mons_2009_TECH,27312,https://doi.org/10.15454/CPWBIX,CF08137,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+85,CF08137itkfi,2844034,BTH_Estrées-Mons_2009_TECH,27312,https://doi.org/10.15454/CPWBIX,CF08137,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+86,EM08223itkt,2844083,BTH_Estrées-Mons_2009_TECH,27314,https://doi.org/10.15454/NY4WWG,EM08223,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+87,EM08223itkfi,2844082,BTH_Estrées-Mons_2009_TECH,27314,https://doi.org/10.15454/NY4WWG,EM08223,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+88,CF08049itkt,2844101,BTH_Estrées-Mons_2009_TECH,27797,https://doi.org/10.15454/II6X3N,CF08049,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+89,CF08049itkfi,2844100,BTH_Estrées-Mons_2009_TECH,27797,https://doi.org/10.15454/II6X3N,CF08049,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+90,CF08084itkt,2844073,BTH_Estrées-Mons_2009_TECH,27798,https://doi.org/10.15454/XZ94CU,CF08084,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+91,CF08084itkfi,2844072,BTH_Estrées-Mons_2009_TECH,27798,https://doi.org/10.15454/XZ94CU,CF08084,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+92,EM07117itkfi,2844028,BTH_Estrées-Mons_2009_TECH,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+93,EM07117itkt,2844029,BTH_Estrées-Mons_2009_TECH,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+94,Soissonsitkfi,2844092,BTH_Estrées-Mons_2009_TECH,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+95,Soissonsitkt,2844093,BTH_Estrées-Mons_2009_TECH,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+96,CF08029itkfi,2844038,BTH_Estrées-Mons_2009_TECH,27796,https://doi.org/10.15454/9MSP5Q,CF08029,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+97,CF08029itkt,2844039,BTH_Estrées-Mons_2009_TECH,27796,https://doi.org/10.15454/9MSP5Q,CF08029,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+98,DI09005itkt,2844057,BTH_Estrées-Mons_2009_TECH,27809,https://doi.org/10.15454/VX6AQV,DI09005,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+99,DI09005itkfi,2844056,BTH_Estrées-Mons_2009_TECH,27809,https://doi.org/10.15454/VX6AQV,DI09005,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+100,DI09018itkt,2844015,BTH_Estrées-Mons_2009_TECH,27813,https://doi.org/10.15454/G5QB1J,DI09018,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+101,DI09018itkfi,2844014,BTH_Estrées-Mons_2009_TECH,27813,https://doi.org/10.15454/G5QB1J,DI09018,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+102,CF08109itkt,2844095,BTH_Estrées-Mons_2009_TECH,27799,https://doi.org/10.15454/G9QV0Y,CF08109,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+103,CF08109itkfi,2844094,BTH_Estrées-Mons_2009_TECH,27799,https://doi.org/10.15454/G9QV0Y,CF08109,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+104,EM06017itkt,2844013,BTH_Estrées-Mons_2009_TECH,27814,https://doi.org/10.15454/ZBYAJC,EM06017,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+105,EM06017itkfi,2844012,BTH_Estrées-Mons_2009_TECH,27814,https://doi.org/10.15454/ZBYAJC,EM06017,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+106,EM08221itkfi,2844032,BTH_Estrées-Mons_2009_TECH,27823,https://doi.org/10.15454/PMYYDQ,EM08221,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs
+107,EM08221itkt,2844033,BTH_Estrées-Mons_2009_TECH,27823,https://doi.org/10.15454/PMYYDQ,EM08221,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+108,DI09023itkt,2844037,BTH_Estrées-Mons_2009_TECH,27904,https://doi.org/10.15454/ICRTTK,DI09023,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,treated
+109,DI09023itkfi,2844036,BTH_Estrées-Mons_2009_TECH,27904,https://doi.org/10.15454/ICRTTK,DI09023,BTH_Estrées-Mons_2009_TECH,VIRTUAL_TRIAL,,,,,,,,low inputs

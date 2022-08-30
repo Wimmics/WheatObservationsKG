@@ -1,0 +1,307 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,2,2778432,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+1,1,2778431,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+2,2,2778428,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+3,Koreliitkfi,2778598,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+4,1,2778429,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+5,Koreliitkt,2778600,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+6,Koreliitknt,2778599,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+7,2,2778430,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+8,1,2778427,BTH_Le_Moulon_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+9,2,2778438,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+10,1,2778433,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+11,RE01004itkt,2778603,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+12,1,2778437,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+13,2,2778436,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+14,1,2778435,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+15,RE01004itknt,2778602,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+16,RE01004itkfi,2778601,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+17,2,2778434,BTH_Le_Moulon_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+18,1,2778467,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+19,2,2778466,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+20,1,2778463,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+21,RE00108itknt,2778617,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+22,2,2778468,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+23,RE00108itkt,2778618,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+24,RE00108itkfi,2778616,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+25,1,2778465,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+26,2,2778464,BTH_Le_Moulon_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+27,1,2778443,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+28,1,2778439,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+29,RE00149itkt,2778606,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+30,2,2778442,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+31,RE00149itkfi,2778604,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+32,2,2778444,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+33,1,2778441,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+34,2,2778440,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+35,RE00149itknt,2778605,BTH_Le_Moulon_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+36,2,2778564,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+37,RE00144itknt,2778665,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+38,1,2778563,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+39,1,2778561,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+40,2,2778560,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+41,1,2778559,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+42,RE00144itkfi,2778664,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+43,2,2778562,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+44,RE00144itkt,2778666,BTH_Le_Moulon_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+45,RE00143itkt,2778633,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+46,RE00143itkfi,2778631,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+47,2,2778498,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+48,1,2778495,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+49,1,2778493,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+50,1,2778497,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+51,2,2778496,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+52,RE00143itknt,2778632,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+53,2,2778494,BTH_Le_Moulon_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+54,1,2778457,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+55,DI01022itknt,2778614,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+56,1,2778461,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+57,1,2778459,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+58,2,2778458,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+59,DI01022itkt,2778615,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+60,DI01022itkfi,2778613,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+61,2,2778462,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+62,2,2778460,BTH_Le_Moulon_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+63,2,2778404,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+64,RE00165itknt,2778587,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+65,RE00165itkfi,2778586,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+66,2,2778408,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+67,2,2778406,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+68,RE00165itkt,2778588,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+69,1,2778407,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+70,1,2778405,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+71,1,2778403,BTH_Le_Moulon_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+72,EM00264itkt,2778651,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+73,EM00264itknt,2778650,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+74,1,2778533,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+75,2,2778530,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+76,1,2778529,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+77,EM00264itkfi,2778649,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+78,2,2778534,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+79,2,2778532,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+80,1,2778531,BTH_Le_Moulon_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+81,1,2778375,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+82,DI01007itkfi,2778571,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+83,2,2778378,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+84,2,2778376,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+85,DI01007itkt,2778573,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+86,1,2778377,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+87,2,2778374,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+88,DI01007itknt,2778572,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+89,1,2778373,BTH_Le_Moulon_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+90,Apacheitkt,2778612,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+91,2,2778456,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+92,1,2778453,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+93,2,2778452,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+94,Apacheitknt,2778611,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+95,Apacheitkfi,2778610,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+96,1,2778451,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+97,1,2778455,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+98,2,2778454,BTH_Le_Moulon_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+99,1,2778423,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+100,RE00163itknt,2778596,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+101,2,2778426,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+102,1,2778425,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+103,1,2778421,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+104,RE00163itkt,2778597,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+105,RE00163itkfi,2778595,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+106,2,2778422,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+107,2,2778424,BTH_Le_Moulon_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+108,1,2778541,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+109,2,2778542,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+110,2,2778546,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+111,Skerzzoitkfi,2778655,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+112,Skerzzoitknt,2778656,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+113,1,2778543,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+114,2,2778544,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+115,1,2778545,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+116,Skerzzoitkt,2778657,BTH_Le_Moulon_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+117,CF99077itknt,2778575,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+118,CF99077itkt,2778576,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+119,2,2778384,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+120,1,2778383,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+121,2,2778382,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+122,2,2778380,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+123,CF99077itkfi,2778574,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+124,1,2778381,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+125,1,2778379,BTH_Le_Moulon_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+126,Chargeritknt,2778629,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+127,2,2778492,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+128,1,2778489,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+129,2,2778488,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+130,1,2778487,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+131,Chargeritkt,2778630,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+132,Chargeritkfi,2778628,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+133,2,2778490,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+134,1,2778491,BTH_Le_Moulon_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+135,CF99351itknt,2778608,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+136,CF99351itkfi,2778607,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+137,1,2778449,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+138,1,2778447,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+139,2,2778450,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+140,2,2778448,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+141,2,2778446,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+142,CF99351itkt,2778609,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+143,1,2778445,BTH_Le_Moulon_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+144,2,2778390,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+145,1,2778389,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+146,2,2778386,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+147,1,2778385,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+148,CF00064itkt,2778579,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+149,CF00064itknt,2778578,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+150,CF00064itkfi,2778577,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+151,2,2778388,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+152,1,2778387,BTH_Le_Moulon_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+153,CF00116itknt,2778623,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+154,1,2778479,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+155,1,2778477,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+156,2,2778478,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+157,1,2778475,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+158,CF00116itkt,2778624,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+159,CF00116itkfi,2778622,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+160,2,2778480,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+161,2,2778476,BTH_Le_Moulon_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+162,EM00072itkt,2778642,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+163,2,2778516,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+164,1,2778515,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+165,2,2778514,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+166,1,2778511,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+167,2,2778512,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+168,1,2778513,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+169,EM00072itknt,2778641,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+170,EM00072itkfi,2778640,BTH_Le_Moulon_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+171,CF00110itkfi,2778619,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+172,2,2778474,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+173,1,2778469,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+174,1,2778473,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+175,1,2778471,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+176,CF00110itkt,2778621,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+177,CF00110itknt,2778620,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+178,2,2778472,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+179,2,2778470,BTH_Le_Moulon_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+180,CF00117itkfi,2778625,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+181,2,2778484,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+182,1,2778483,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+183,2,2778482,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+184,1,2778481,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+185,CF00117itkt,2778627,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+186,CF00117itknt,2778626,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+187,2,2778486,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+188,1,2778485,BTH_Le_Moulon_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+189,CF00020itkt,2778567,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+190,2,2778366,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+191,2,2778364,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+192,1,2778363,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+193,CF00020itkfi,2778565,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+194,2,2778362,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+195,CF00020itknt,2778566,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+196,1,2778365,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+197,1,2778361,BTH_Le_Moulon_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+198,2,2778520,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+199,1,2778519,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+200,RE01002itkfi,2778643,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+201,1,2778517,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+202,2,2778518,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+203,RE01002itkt,2778645,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+204,RE01002itknt,2778644,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+205,2,2778522,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+206,1,2778521,BTH_Le_Moulon_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+207,CF00108itkfi,2778568,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+208,CF00108itkt,2778570,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+209,1,2778367,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+210,2,2778372,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+211,1,2778371,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+212,CF00108itknt,2778569,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+213,2,2778370,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+214,1,2778369,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+215,2,2778368,BTH_Le_Moulon_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+216,1,2778507,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+217,DI01019itkt,2778639,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+218,1,2778509,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+219,2,2778508,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+220,1,2778505,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+221,2,2778506,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+222,DI01019itknt,2778638,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+223,DI01019itkfi,2778637,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+224,2,2778510,BTH_Le_Moulon_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+225,1,2778409,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+226,RE00164itkfi,2778589,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+227,1,2778411,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+228,RE00164itkt,2778591,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+229,2,2778414,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+230,2,2778412,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+231,RE00164itknt,2778590,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+232,1,2778413,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+233,2,2778410,BTH_Le_Moulon_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+234,1,2778549,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+235,2,2778550,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+236,Soissonsitkt,2778660,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+237,2,2778548,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+238,Soissonsitkfi,2778658,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+239,1,2778547,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+240,2,2778552,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+241,1,2778551,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+242,Soissonsitknt,2778659,BTH_Le_Moulon_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+243,Isengrainitkfi,2778652,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+244,2,2778540,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+245,Isengrainitknt,2778653,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+246,1,2778539,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+247,1,2778537,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+248,2,2778536,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+249,1,2778535,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+250,Isengrainitkt,2778654,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+251,2,2778538,BTH_Le_Moulon_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+252,RE00160itkfi,2778592,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+253,RE00160itkt,2778594,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+254,2,2778420,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+255,2,2778418,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+256,RE00160itknt,2778593,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+257,1,2778419,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+258,2,2778416,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+259,1,2778417,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+260,1,2778415,BTH_Le_Moulon_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+261,1,2778391,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+262,DI01021itknt,2778581,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+263,DI01021itkfi,2778580,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+264,2,2778394,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+265,1,2778393,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+266,DI01021itkt,2778582,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+267,2,2778396,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+268,1,2778395,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+269,2,2778392,BTH_Le_Moulon_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+270,DI01032itknt,2778635,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+271,DI01032itkfi,2778634,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+272,2,2778504,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+273,2,2778500,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+274,DI01032itkt,2778636,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+275,1,2778503,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+276,2,2778502,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+277,1,2778501,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+278,1,2778499,BTH_Le_Moulon_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+279,1,2778525,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+280,EM00074itkt,2778648,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+281,2,2778526,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+282,2,2778524,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+283,EM00074itknt,2778647,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+284,1,2778527,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+285,1,2778523,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+286,EM00074itkfi,2778646,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+287,2,2778528,BTH_Le_Moulon_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+288,2,2778402,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+289,1,2778401,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+290,EM00107itkt,2778585,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+291,1,2778399,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+292,2,2778398,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+293,1,2778397,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+294,EM00107itkfi,2778583,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+295,2,2778400,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+296,EM00107itknt,2778584,BTH_Le_Moulon_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+297,RE00113itknt,2778662,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+298,RE00113itkfi,2778661,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,low inputs
+299,2,2778558,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+300,2,2778556,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+301,1,2778555,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+302,2,2778554,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+303,1,2778553,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+304,RE00113itkt,2778663,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+305,1,2778557,BTH_Le_Moulon_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Le_Moulon_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated

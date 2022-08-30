@@ -1,0 +1,241 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,experimental_factors
+0,AO15002itkfi,2975897,BTH_Le_Moulon_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+1,AO15002itkt,2975898,BTH_Le_Moulon_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+2,2,2975756,BTH_Le_Moulon_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+3,1,2975755,BTH_Le_Moulon_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+4,2,2975754,BTH_Le_Moulon_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+5,1,2975753,BTH_Le_Moulon_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+6,AO15005itkfi,2975899,BTH_Le_Moulon_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+7,AO15005itkt,2975900,BTH_Le_Moulon_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+8,2,2975760,BTH_Le_Moulon_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+9,1,2975757,BTH_Le_Moulon_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+10,1,2975759,BTH_Le_Moulon_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+11,2,2975758,BTH_Le_Moulon_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+12,AO15004itkfi,2975901,BTH_Le_Moulon_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+13,AO15004itkt,2975902,BTH_Le_Moulon_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+14,1,2975763,BTH_Le_Moulon_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+15,2,2975764,BTH_Le_Moulon_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+16,2,2975762,BTH_Le_Moulon_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+17,1,2975761,BTH_Le_Moulon_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+18,AO15007itkfi,2975903,BTH_Le_Moulon_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+19,AO15007itkt,2975904,BTH_Le_Moulon_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+20,2,2975768,BTH_Le_Moulon_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+21,1,2975765,BTH_Le_Moulon_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+22,1,2975767,BTH_Le_Moulon_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+23,2,2975766,BTH_Le_Moulon_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+24,AO15006itkfi,2975905,BTH_Le_Moulon_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+25,AO15006itkt,2975906,BTH_Le_Moulon_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+26,2,2975772,BTH_Le_Moulon_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+27,1,2975771,BTH_Le_Moulon_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+28,2,2975770,BTH_Le_Moulon_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+29,1,2975769,BTH_Le_Moulon_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+30,EM14174itkfi,2975907,BTH_Le_Moulon_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+31,EM14174itkt,2975908,BTH_Le_Moulon_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+32,2,2975774,BTH_Le_Moulon_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+33,1,2975773,BTH_Le_Moulon_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+34,2,2975776,BTH_Le_Moulon_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+35,1,2975775,BTH_Le_Moulon_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+36,AO15011itkfi,2975911,BTH_Le_Moulon_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+37,AO15011itkt,2975912,BTH_Le_Moulon_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+38,2,2975782,BTH_Le_Moulon_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+39,1,2975781,BTH_Le_Moulon_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+40,2,2975784,BTH_Le_Moulon_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+41,1,2975783,BTH_Le_Moulon_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+42,AO15023itkfi,2975913,BTH_Le_Moulon_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+43,AO15023itkt,2975914,BTH_Le_Moulon_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+44,2,2975788,BTH_Le_Moulon_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+45,1,2975787,BTH_Le_Moulon_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+46,2,2975786,BTH_Le_Moulon_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+47,1,2975785,BTH_Le_Moulon_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+48,AO15025itkfi,2975915,BTH_Le_Moulon_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+49,AO15025itkt,2975916,BTH_Le_Moulon_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+50,2,2975792,BTH_Le_Moulon_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+51,1,2975791,BTH_Le_Moulon_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+52,2,2975790,BTH_Le_Moulon_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+53,1,2975789,BTH_Le_Moulon_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+54,EM14270itkfi,2975917,BTH_Le_Moulon_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+55,EM14270itkt,2975918,BTH_Le_Moulon_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+56,2,2975794,BTH_Le_Moulon_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+57,1,2975793,BTH_Le_Moulon_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+58,2,2975796,BTH_Le_Moulon_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+59,1,2975795,BTH_Le_Moulon_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+60,AO15022itkfi,2975919,BTH_Le_Moulon_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+61,AO15022itkt,2975920,BTH_Le_Moulon_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+62,2,2975800,BTH_Le_Moulon_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+63,2,2975798,BTH_Le_Moulon_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+64,1,2975799,BTH_Le_Moulon_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+65,1,2975797,BTH_Le_Moulon_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+66,AO15021itkfi,2975921,BTH_Le_Moulon_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+67,AO15021itkt,2975922,BTH_Le_Moulon_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+68,2,2975804,BTH_Le_Moulon_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+69,1,2975803,BTH_Le_Moulon_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+70,2,2975802,BTH_Le_Moulon_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+71,1,2975801,BTH_Le_Moulon_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+72,AO15020itkfi,2975923,BTH_Le_Moulon_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+73,AO15020itkt,2975924,BTH_Le_Moulon_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+74,1,2975805,BTH_Le_Moulon_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+75,2,2975808,BTH_Le_Moulon_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+76,2,2975806,BTH_Le_Moulon_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+77,1,2975807,BTH_Le_Moulon_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+78,AO15016itkfi,2975925,BTH_Le_Moulon_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+79,AO15016itkt,2975926,BTH_Le_Moulon_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+80,2,2975812,BTH_Le_Moulon_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+81,1,2975809,BTH_Le_Moulon_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+82,1,2975811,BTH_Le_Moulon_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+83,2,2975810,BTH_Le_Moulon_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+84,AO15017itkfi,2975927,BTH_Le_Moulon_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+85,AO15017itkt,2975928,BTH_Le_Moulon_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+86,2,2975816,BTH_Le_Moulon_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+87,1,2975813,BTH_Le_Moulon_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+88,1,2975815,BTH_Le_Moulon_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+89,2,2975814,BTH_Le_Moulon_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+90,AO15014itkfi,2975929,BTH_Le_Moulon_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+91,AO15014itkt,2975930,BTH_Le_Moulon_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+92,1,2975819,BTH_Le_Moulon_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+93,2,2975820,BTH_Le_Moulon_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+94,2,2975818,BTH_Le_Moulon_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+95,1,2975817,BTH_Le_Moulon_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+96,AO15015itkfi,2975931,BTH_Le_Moulon_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+97,AO15015itkt,2975932,BTH_Le_Moulon_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+98,2,2975824,BTH_Le_Moulon_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+99,1,2975823,BTH_Le_Moulon_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+100,2,2975822,BTH_Le_Moulon_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+101,1,2975821,BTH_Le_Moulon_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+102,AO15012itkfi,2975933,BTH_Le_Moulon_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+103,AO15012itkt,2975934,BTH_Le_Moulon_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+104,1,2975827,BTH_Le_Moulon_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+105,1,2975825,BTH_Le_Moulon_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+106,2,2975828,BTH_Le_Moulon_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+107,2,2975826,BTH_Le_Moulon_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+108,AO15013itkfi,2975935,BTH_Le_Moulon_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+109,AO15013itkt,2975936,BTH_Le_Moulon_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+110,2,2975830,BTH_Le_Moulon_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+111,1,2975829,BTH_Le_Moulon_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+112,2,2975832,BTH_Le_Moulon_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+113,1,2975831,BTH_Le_Moulon_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+114,AO15010itkfi,2975937,BTH_Le_Moulon_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+115,AO15010itkt,2975938,BTH_Le_Moulon_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+116,2,2975836,BTH_Le_Moulon_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+117,1,2975835,BTH_Le_Moulon_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+118,2,2975834,BTH_Le_Moulon_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+119,1,2975833,BTH_Le_Moulon_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+120,AO15024itkfi,2975941,BTH_Le_Moulon_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+121,AO15024itkt,2975942,BTH_Le_Moulon_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+122,1,2975843,BTH_Le_Moulon_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+123,2,2975842,BTH_Le_Moulon_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+124,1,2975841,BTH_Le_Moulon_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+125,2,2975844,BTH_Le_Moulon_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+126,DI14016itkfi,2975943,BTH_Le_Moulon_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+127,DI14016itkt,2975944,BTH_Le_Moulon_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+128,2,2975848,BTH_Le_Moulon_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+129,1,2975847,BTH_Le_Moulon_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+130,2,2975846,BTH_Le_Moulon_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+131,1,2975845,BTH_Le_Moulon_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+132,DI14014itkfi,2975945,BTH_Le_Moulon_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+133,DI14014itkt,2975946,BTH_Le_Moulon_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+134,2,2975852,BTH_Le_Moulon_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+135,1,2975849,BTH_Le_Moulon_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+136,2,2975850,BTH_Le_Moulon_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+137,1,2975851,BTH_Le_Moulon_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+138,AO15019itkfi,2975947,BTH_Le_Moulon_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+139,AO15019itkt,2975948,BTH_Le_Moulon_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+140,2,2975854,BTH_Le_Moulon_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+141,2,2975856,BTH_Le_Moulon_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+142,1,2975855,BTH_Le_Moulon_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+143,1,2975853,BTH_Le_Moulon_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+144,AO15018itkfi,2975949,BTH_Le_Moulon_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+145,2,2975858,BTH_Le_Moulon_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+146,1,2975857,BTH_Le_Moulon_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+147,AO15018itkt,2975950,BTH_Le_Moulon_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+148,2,2975860,BTH_Le_Moulon_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+149,1,2975859,BTH_Le_Moulon_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+150,1,2975867,BTH_Le_Moulon_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+151,2,2975866,BTH_Le_Moulon_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+152,EM14205itkfi,2975953,BTH_Le_Moulon_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+153,EM14205itkt,2975954,BTH_Le_Moulon_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+154,2,2975868,BTH_Le_Moulon_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+155,1,2975865,BTH_Le_Moulon_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+156,2,2975872,BTH_Le_Moulon_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+157,1,2975871,BTH_Le_Moulon_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+158,1,2975869,BTH_Le_Moulon_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+159,EM14202itkfi,2975955,BTH_Le_Moulon_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+160,EM14202itkt,2975956,BTH_Le_Moulon_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+161,2,2975870,BTH_Le_Moulon_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+162,1,2975863,BTH_Le_Moulon_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+163,2,2975862,BTH_Le_Moulon_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+164,EM14248itkfi,2975951,BTH_Le_Moulon_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+165,EM14248itkt,2975952,BTH_Le_Moulon_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+166,2,2975864,BTH_Le_Moulon_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+167,1,2975861,BTH_Le_Moulon_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+168,Bermudeitkfi,2975891,BTH_Le_Moulon_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+169,Bermudeitkt,2975892,BTH_Le_Moulon_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+170,2,2975742,BTH_Le_Moulon_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+171,2,2975744,BTH_Le_Moulon_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+172,1,2975743,BTH_Le_Moulon_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+173,1,2975741,BTH_Le_Moulon_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+174,DI14009itkfi,2975881,BTH_Le_Moulon_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+175,DI14009itkt,2975882,BTH_Le_Moulon_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+176,2,2975724,BTH_Le_Moulon_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+177,1,2975723,BTH_Le_Moulon_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+178,2,2975722,BTH_Le_Moulon_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+179,1,2975721,BTH_Le_Moulon_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+180,EM14193itkfi,2975883,BTH_Le_Moulon_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+181,EM14193itkt,2975884,BTH_Le_Moulon_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+182,2,2975726,BTH_Le_Moulon_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+183,2,2975728,BTH_Le_Moulon_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+184,1,2975727,BTH_Le_Moulon_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+185,1,2975725,BTH_Le_Moulon_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+186,DI14007itkfi,2975885,BTH_Le_Moulon_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+187,DI14007itkt,2975886,BTH_Le_Moulon_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+188,1,2975731,BTH_Le_Moulon_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+189,1,2975729,BTH_Le_Moulon_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+190,2,2975732,BTH_Le_Moulon_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+191,2,2975730,BTH_Le_Moulon_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+192,AO15009itkfi,2975887,BTH_Le_Moulon_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+193,AO15009itkt,2975888,BTH_Le_Moulon_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+194,2,2975736,BTH_Le_Moulon_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+195,1,2975735,BTH_Le_Moulon_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+196,1,2975733,BTH_Le_Moulon_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+197,2,2975734,BTH_Le_Moulon_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+198,AO15008itkfi,2975889,BTH_Le_Moulon_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+199,AO15008itkt,2975890,BTH_Le_Moulon_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+200,2,2975740,BTH_Le_Moulon_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+201,2,2975738,BTH_Le_Moulon_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+202,1,2975739,BTH_Le_Moulon_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+203,1,2975737,BTH_Le_Moulon_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+204,AO15001itkfi,2975893,BTH_Le_Moulon_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+205,AO15001itkt,2975894,BTH_Le_Moulon_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+206,1,2975745,BTH_Le_Moulon_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+207,2,2975748,BTH_Le_Moulon_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+208,1,2975747,BTH_Le_Moulon_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+209,2,2975746,BTH_Le_Moulon_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+210,AO15003itkfi,2975895,BTH_Le_Moulon_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+211,AO15003itkt,2975896,BTH_Le_Moulon_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+212,2,2975752,BTH_Le_Moulon_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+213,1,2975751,BTH_Le_Moulon_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+214,2,2975750,BTH_Le_Moulon_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+215,1,2975749,BTH_Le_Moulon_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+216,1,2975839,BTH_Le_Moulon_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+217,2,2975838,BTH_Le_Moulon_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+218,1,2975837,BTH_Le_Moulon_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+219,2,2975840,BTH_Le_Moulon_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+220,CELLULEitkfi,2975939,BTH_Le_Moulon_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+221,CELLULEitkt,2975940,BTH_Le_Moulon_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+222,Grapeliitkfi,2975909,BTH_Le_Moulon_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+223,Grapeliitkt,2975910,BTH_Le_Moulon_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+224,2,2975780,BTH_Le_Moulon_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+225,1,2975779,BTH_Le_Moulon_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+226,2,2975778,BTH_Le_Moulon_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+227,1,2975777,BTH_Le_Moulon_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+228,RUBISKOitkt,2975958,BTH_Le_Moulon_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+229,2,2975876,BTH_Le_Moulon_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+230,1,2975875,BTH_Le_Moulon_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+231,2,2975874,BTH_Le_Moulon_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+232,1,2975873,BTH_Le_Moulon_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+233,RUBISKOitkfi,2975957,BTH_Le_Moulon_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+234,AREZZOitkfi,2975959,BTH_Le_Moulon_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+235,AREZZOitkt,2975960,BTH_Le_Moulon_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Le_Moulon_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+236,2,2975880,BTH_Le_Moulon_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'traite'}]"
+237,1,2975877,BTH_Le_Moulon_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+238,1,2975879,BTH_Le_Moulon_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Le_Moulon_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'traite'}]"
+239,2,2975878,BTH_Le_Moulon_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Le_Moulon_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"

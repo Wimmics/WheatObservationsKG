@@ -1,0 +1,241 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,AO13026itkfi,2968530,BTH_Clermont-Ferrand_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+1,2,2968381,BTH_Clermont-Ferrand_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+2,1,2968380,BTH_Clermont-Ferrand_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+3,2,2968379,BTH_Clermont-Ferrand_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+4,1,2968378,BTH_Clermont-Ferrand_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+5,AO13026itkt,2968531,BTH_Clermont-Ferrand_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+6,AO13029itkfi,2968534,BTH_Clermont-Ferrand_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+7,2,2968387,BTH_Clermont-Ferrand_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+8,1,2968386,BTH_Clermont-Ferrand_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+9,AO13029itkt,2968535,BTH_Clermont-Ferrand_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+10,2,2968389,BTH_Clermont-Ferrand_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+11,1,2968388,BTH_Clermont-Ferrand_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+12,2,2968493,BTH_Clermont-Ferrand_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+13,1,2968492,BTH_Clermont-Ferrand_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+14,2,2968491,BTH_Clermont-Ferrand_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+15,AO13031itkt,2968587,BTH_Clermont-Ferrand_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+16,AO13031itkfi,2968586,BTH_Clermont-Ferrand_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+17,1,2968490,BTH_Clermont-Ferrand_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+18,DI14001itkt,2968573,BTH_Clermont-Ferrand_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+19,1,2968464,BTH_Clermont-Ferrand_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+20,2,2968463,BTH_Clermont-Ferrand_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+21,DI14001itkfi,2968572,BTH_Clermont-Ferrand_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+22,2,2968465,BTH_Clermont-Ferrand_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+23,1,2968462,BTH_Clermont-Ferrand_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+24,AO13042itkfi,2968558,BTH_Clermont-Ferrand_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+25,1,2968436,BTH_Clermont-Ferrand_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+26,2,2968435,BTH_Clermont-Ferrand_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+27,AO13042itkt,2968559,BTH_Clermont-Ferrand_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+28,2,2968437,BTH_Clermont-Ferrand_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+29,1,2968434,BTH_Clermont-Ferrand_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+30,1,2968372,BTH_Clermont-Ferrand_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+31,DI14004itkt,2968527,BTH_Clermont-Ferrand_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+32,DI14004itkfi,2968526,BTH_Clermont-Ferrand_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+33,2,2968373,BTH_Clermont-Ferrand_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+34,2,2968371,BTH_Clermont-Ferrand_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+35,1,2968370,BTH_Clermont-Ferrand_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+36,2,2968413,BTH_Clermont-Ferrand_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+37,1,2968412,BTH_Clermont-Ferrand_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+38,RE12080itkt,2968547,BTH_Clermont-Ferrand_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+39,RE12080itkfi,2968546,BTH_Clermont-Ferrand_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+40,2,2968411,BTH_Clermont-Ferrand_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+41,1,2968410,BTH_Clermont-Ferrand_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+42,2,2968515,BTH_Clermont-Ferrand_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+43,1,2968514,BTH_Clermont-Ferrand_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+44,AO14001itkt,2968599,BTH_Clermont-Ferrand_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+45,AO14001itkfi,2968598,BTH_Clermont-Ferrand_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+46,2,2968517,BTH_Clermont-Ferrand_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+47,1,2968516,BTH_Clermont-Ferrand_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+48,2,2968369,BTH_Clermont-Ferrand_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+49,1,2968368,BTH_Clermont-Ferrand_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+50,2,2968367,BTH_Clermont-Ferrand_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+51,1,2968366,BTH_Clermont-Ferrand_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+52,EM11537itkt,2968525,BTH_Clermont-Ferrand_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+53,EM11537itkfi,2968524,BTH_Clermont-Ferrand_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+54,1,2968466,BTH_Clermont-Ferrand_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+55,AO12021-1itkt,2968575,BTH_Clermont-Ferrand_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+56,AO12021-1itkfi,2968574,BTH_Clermont-Ferrand_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+57,2,2968469,BTH_Clermont-Ferrand_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+58,1,2968468,BTH_Clermont-Ferrand_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+59,2,2968467,BTH_Clermont-Ferrand_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+60,AO14005itkt,2968589,BTH_Clermont-Ferrand_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+61,AO14005itkfi,2968588,BTH_Clermont-Ferrand_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+62,1,2968496,BTH_Clermont-Ferrand_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+63,2,2968495,BTH_Clermont-Ferrand_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+64,2,2968497,BTH_Clermont-Ferrand_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+65,1,2968494,BTH_Clermont-Ferrand_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+66,2,2968485,BTH_Clermont-Ferrand_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+67,2,2968483,BTH_Clermont-Ferrand_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+68,1,2968482,BTH_Clermont-Ferrand_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+69,AO13015itkt,2968583,BTH_Clermont-Ferrand_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+70,AO13015itkfi,2968582,BTH_Clermont-Ferrand_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+71,1,2968484,BTH_Clermont-Ferrand_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+72,AO13045itkfi,2968556,BTH_Clermont-Ferrand_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+73,2,2968433,BTH_Clermont-Ferrand_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+74,2,2968431,BTH_Clermont-Ferrand_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+75,AO13045itkt,2968557,BTH_Clermont-Ferrand_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+76,1,2968432,BTH_Clermont-Ferrand_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+77,1,2968430,BTH_Clermont-Ferrand_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+78,CF09117itkfi,2968592,BTH_Clermont-Ferrand_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+79,1,2968502,BTH_Clermont-Ferrand_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+80,2,2968505,BTH_Clermont-Ferrand_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+81,1,2968504,BTH_Clermont-Ferrand_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+82,2,2968503,BTH_Clermont-Ferrand_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+83,CF09117itkt,2968593,BTH_Clermont-Ferrand_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+84,APACHEitkt,2968565,BTH_Clermont-Ferrand_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+85,APACHEitkfi,2968564,BTH_Clermont-Ferrand_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+86,2,2968449,BTH_Clermont-Ferrand_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+87,2,2968447,BTH_Clermont-Ferrand_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+88,1,2968448,BTH_Clermont-Ferrand_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+89,1,2968446,BTH_Clermont-Ferrand_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+90,Bermudeitkt,2968537,BTH_Clermont-Ferrand_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+91,2,2968393,BTH_Clermont-Ferrand_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+92,Bermudeitkfi,2968536,BTH_Clermont-Ferrand_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+93,1,2968392,BTH_Clermont-Ferrand_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+94,2,2968391,BTH_Clermont-Ferrand_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+95,1,2968390,BTH_Clermont-Ferrand_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+96,AO13100itkt,2968541,BTH_Clermont-Ferrand_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+97,AO13100itkfi,2968540,BTH_Clermont-Ferrand_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+98,2,2968401,BTH_Clermont-Ferrand_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+99,1,2968400,BTH_Clermont-Ferrand_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+100,2,2968399,BTH_Clermont-Ferrand_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+101,1,2968398,BTH_Clermont-Ferrand_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+102,1,2968508,BTH_Clermont-Ferrand_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+103,2,2968509,BTH_Clermont-Ferrand_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+104,2,2968507,BTH_Clermont-Ferrand_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+105,1,2968506,BTH_Clermont-Ferrand_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+106,DI11010itkt,2968595,BTH_Clermont-Ferrand_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+107,DI11010itkfi,2968594,BTH_Clermont-Ferrand_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+108,CELLULEitkt,2968571,BTH_Clermont-Ferrand_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+109,2,2968459,BTH_Clermont-Ferrand_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+110,1,2968458,BTH_Clermont-Ferrand_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+111,CELLULEitkfi,2968570,BTH_Clermont-Ferrand_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+112,2,2968461,BTH_Clermont-Ferrand_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+113,1,2968460,BTH_Clermont-Ferrand_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+114,AO11011itkt,2968529,BTH_Clermont-Ferrand_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+115,1,2968376,BTH_Clermont-Ferrand_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+116,2,2968375,BTH_Clermont-Ferrand_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+117,AO11011itkfi,2968528,BTH_Clermont-Ferrand_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+118,2,2968377,BTH_Clermont-Ferrand_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+119,1,2968374,BTH_Clermont-Ferrand_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+120,RE10042itkt,2968577,BTH_Clermont-Ferrand_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+121,1,2968470,BTH_Clermont-Ferrand_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+122,RE10042itkfi,2968576,BTH_Clermont-Ferrand_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+123,2,2968473,BTH_Clermont-Ferrand_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+124,1,2968472,BTH_Clermont-Ferrand_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+125,2,2968471,BTH_Clermont-Ferrand_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+126,RE11058itkfi,2968578,BTH_Clermont-Ferrand_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+127,2,2968477,BTH_Clermont-Ferrand_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+128,1,2968474,BTH_Clermont-Ferrand_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+129,RE11058itkt,2968579,BTH_Clermont-Ferrand_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+130,1,2968476,BTH_Clermont-Ferrand_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+131,2,2968475,BTH_Clermont-Ferrand_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+132,CROUSTYitkt,2968581,BTH_Clermont-Ferrand_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+133,CROUSTYitkfi,2968580,BTH_Clermont-Ferrand_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+134,1,2968480,BTH_Clermont-Ferrand_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+135,1,2968478,BTH_Clermont-Ferrand_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+136,2,2968481,BTH_Clermont-Ferrand_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+137,2,2968479,BTH_Clermont-Ferrand_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+138,2,2968417,BTH_Clermont-Ferrand_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+139,1,2968416,BTH_Clermont-Ferrand_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+140,2,2968415,BTH_Clermont-Ferrand_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+141,Galibieritkt,2968549,BTH_Clermont-Ferrand_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+142,Galibieritkfi,2968548,BTH_Clermont-Ferrand_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+143,1,2968414,BTH_Clermont-Ferrand_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+144,RUBISKOitkt,2968597,BTH_Clermont-Ferrand_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+145,2,2968513,BTH_Clermont-Ferrand_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+146,1,2968512,BTH_Clermont-Ferrand_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+147,2,2968511,BTH_Clermont-Ferrand_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+148,1,2968510,BTH_Clermont-Ferrand_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+149,RUBISKOitkfi,2968596,BTH_Clermont-Ferrand_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+150,2,2968501,BTH_Clermont-Ferrand_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+151,1,2968500,BTH_Clermont-Ferrand_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+152,2,2968499,BTH_Clermont-Ferrand_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+153,1,2968498,BTH_Clermont-Ferrand_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+154,ARKEOSitkt,2968591,BTH_Clermont-Ferrand_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+155,ARKEOSitkfi,2968590,BTH_Clermont-Ferrand_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+156,1,2968364,BTH_Clermont-Ferrand_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+157,2,2968363,BTH_Clermont-Ferrand_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+158,1,2968362,BTH_Clermont-Ferrand_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+159,EM12096itkt,2968523,BTH_Clermont-Ferrand_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+160,EM12096itkfi,2968522,BTH_Clermont-Ferrand_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+161,2,2968365,BTH_Clermont-Ferrand_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+162,EM12231itkfi,2968562,BTH_Clermont-Ferrand_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+163,EM12231itkt,2968563,BTH_Clermont-Ferrand_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+164,2,2968445,BTH_Clermont-Ferrand_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+165,1,2968444,BTH_Clermont-Ferrand_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+166,2,2968443,BTH_Clermont-Ferrand_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+167,1,2968442,BTH_Clermont-Ferrand_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+168,1,2968440,BTH_Clermont-Ferrand_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+169,EM12234itkt,2968561,BTH_Clermont-Ferrand_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+170,EM12234itkfi,2968560,BTH_Clermont-Ferrand_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+171,2,2968441,BTH_Clermont-Ferrand_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+172,2,2968439,BTH_Clermont-Ferrand_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+173,1,2968438,BTH_Clermont-Ferrand_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+174,RE12002itkfi,2968542,BTH_Clermont-Ferrand_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+175,1,2968404,BTH_Clermont-Ferrand_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+176,1,2968402,BTH_Clermont-Ferrand_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+177,RE12002itkt,2968543,BTH_Clermont-Ferrand_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+178,2,2968405,BTH_Clermont-Ferrand_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+179,2,2968403,BTH_Clermont-Ferrand_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+180,RE12020itkfi,2968544,BTH_Clermont-Ferrand_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+181,RE12020itkt,2968545,BTH_Clermont-Ferrand_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+182,2,2968409,BTH_Clermont-Ferrand_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+183,1,2968408,BTH_Clermont-Ferrand_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+184,2,2968407,BTH_Clermont-Ferrand_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+185,1,2968406,BTH_Clermont-Ferrand_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+186,AO14039itkt,2968569,BTH_Clermont-Ferrand_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+187,2,2968457,BTH_Clermont-Ferrand_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+188,2,2968455,BTH_Clermont-Ferrand_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+189,AO14039itkfi,2968568,BTH_Clermont-Ferrand_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+190,1,2968456,BTH_Clermont-Ferrand_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+191,1,2968454,BTH_Clermont-Ferrand_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+192,1,2968450,BTH_Clermont-Ferrand_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+193,AO13022itkt,2968567,BTH_Clermont-Ferrand_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+194,AO13022itkfi,2968566,BTH_Clermont-Ferrand_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+195,2,2968453,BTH_Clermont-Ferrand_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+196,1,2968452,BTH_Clermont-Ferrand_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+197,2,2968451,BTH_Clermont-Ferrand_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+198,AREZZOitkt,2968601,BTH_Clermont-Ferrand_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+199,AREZZOitkfi,2968600,BTH_Clermont-Ferrand_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+200,2,2968519,BTH_Clermont-Ferrand_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+201,1,2968518,BTH_Clermont-Ferrand_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+202,2,2968521,BTH_Clermont-Ferrand_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+203,1,2968520,BTH_Clermont-Ferrand_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+204,AO13030itkfi,2968584,BTH_Clermont-Ferrand_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+205,1,2968488,BTH_Clermont-Ferrand_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+206,2,2968487,BTH_Clermont-Ferrand_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+207,1,2968486,BTH_Clermont-Ferrand_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+208,AO13030itkt,2968585,BTH_Clermont-Ferrand_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+209,2,2968489,BTH_Clermont-Ferrand_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+210,2,2968429,BTH_Clermont-Ferrand_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+211,2,2968427,BTH_Clermont-Ferrand_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+212,1,2968426,BTH_Clermont-Ferrand_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+213,AO13047itkt,2968555,BTH_Clermont-Ferrand_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+214,AO13047itkfi,2968554,BTH_Clermont-Ferrand_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+215,1,2968428,BTH_Clermont-Ferrand_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+216,CF12202itkt,2968551,BTH_Clermont-Ferrand_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+217,2,2968421,BTH_Clermont-Ferrand_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+218,CF12202itkfi,2968550,BTH_Clermont-Ferrand_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+219,1,2968420,BTH_Clermont-Ferrand_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+220,2,2968419,BTH_Clermont-Ferrand_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+221,1,2968418,BTH_Clermont-Ferrand_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+222,2,2968383,BTH_Clermont-Ferrand_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+223,1,2968382,BTH_Clermont-Ferrand_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+224,DI13002-2itkt,2968533,BTH_Clermont-Ferrand_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+225,DI13002-2itkfi,2968532,BTH_Clermont-Ferrand_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+226,2,2968385,BTH_Clermont-Ferrand_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+227,1,2968384,BTH_Clermont-Ferrand_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+228,1,2968424,BTH_Clermont-Ferrand_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+229,2,2968423,BTH_Clermont-Ferrand_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+230,1,2968422,BTH_Clermont-Ferrand_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+231,DI13003itkt,2968553,BTH_Clermont-Ferrand_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+232,DI13003itkfi,2968552,BTH_Clermont-Ferrand_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+233,2,2968425,BTH_Clermont-Ferrand_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+234,DI13005itkt,2968539,BTH_Clermont-Ferrand_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+235,DI13005itkfi,2968538,BTH_Clermont-Ferrand_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Clermont-Ferrand_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+236,2,2968397,BTH_Clermont-Ferrand_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+237,2,2968395,BTH_Clermont-Ferrand_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+238,1,2968394,BTH_Clermont-Ferrand_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+239,1,2968396,BTH_Clermont-Ferrand_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Clermont-Ferrand_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite

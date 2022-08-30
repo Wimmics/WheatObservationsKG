@@ -1,0 +1,161 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,experimental_factors
+0,AO15002itk15,2976418,BTH_Rennes_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+1,2,2976338,BTH_Rennes_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+2,AO15002itkfi,2976417,BTH_Rennes_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+3,1,2976337,BTH_Rennes_2015_SetB3,76166,https://doi.org/10.15454/8JVPYU,AO15002,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+4,AO15005itk15,2976420,BTH_Rennes_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+5,2,2976340,BTH_Rennes_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+6,AO15005itkfi,2976419,BTH_Rennes_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+7,1,2976339,BTH_Rennes_2015_SetB3,76167,https://doi.org/10.15454/SEIIKI,AO15005,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+8,AO15004itk15,2976422,BTH_Rennes_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+9,2,2976342,BTH_Rennes_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+10,1,2976341,BTH_Rennes_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+11,AO15004itkfi,2976421,BTH_Rennes_2015_SetB3,76168,https://doi.org/10.15454/SROBAE,AO15004,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+12,AO15007itk15,2976424,BTH_Rennes_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+13,AO15007itkfi,2976423,BTH_Rennes_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+14,2,2976344,BTH_Rennes_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+15,1,2976343,BTH_Rennes_2015_SetB3,76169,https://doi.org/10.15454/GCQZZJ,AO15007,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+16,AO15006itk15,2976426,BTH_Rennes_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+17,2,2976346,BTH_Rennes_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+18,AO15006itkfi,2976425,BTH_Rennes_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+19,1,2976345,BTH_Rennes_2015_SetB3,76170,https://doi.org/10.15454/UWN5JA,AO15006,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+20,EM14174itk15,2976428,BTH_Rennes_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+21,EM14174itkfi,2976427,BTH_Rennes_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+22,2,2976348,BTH_Rennes_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+23,1,2976347,BTH_Rennes_2015_SetB3,76171,https://doi.org/10.15454/1QQK0E,EM14174,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+24,AO15011itk15,2976432,BTH_Rennes_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+25,2,2976352,BTH_Rennes_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+26,AO15011itkfi,2976431,BTH_Rennes_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+27,1,2976351,BTH_Rennes_2015_SetB3,76172,https://doi.org/10.15454/VNTDAB,AO15011,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+28,AO15023itk15,2976434,BTH_Rennes_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+29,1,2976353,BTH_Rennes_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+30,AO15023itkfi,2976433,BTH_Rennes_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+31,2,2976354,BTH_Rennes_2015_SetB3,76173,https://doi.org/10.15454/JYG8V0,AO15023,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+32,AO15025itk15,2976436,BTH_Rennes_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+33,1,2976355,BTH_Rennes_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+34,AO15025itkfi,2976435,BTH_Rennes_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+35,2,2976356,BTH_Rennes_2015_SetB3,76174,https://doi.org/10.15454/1BWPRH,AO15025,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+36,EM14270itk15,2976438,BTH_Rennes_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+37,EM14270itkfi,2976437,BTH_Rennes_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+38,2,2976358,BTH_Rennes_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+39,1,2976357,BTH_Rennes_2015_SetB3,76175,https://doi.org/10.15454/RHLFBP,EM14270,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+40,AO15022itk15,2976440,BTH_Rennes_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+41,AO15022itkfi,2976439,BTH_Rennes_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+42,2,2976360,BTH_Rennes_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+43,1,2976359,BTH_Rennes_2015_SetB3,76176,https://doi.org/10.15454/TNMBXK,AO15022,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+44,AO15021itk15,2976442,BTH_Rennes_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+45,AO15021itkfi,2976441,BTH_Rennes_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+46,2,2976362,BTH_Rennes_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+47,1,2976361,BTH_Rennes_2015_SetB3,76177,https://doi.org/10.15454/YFBJZV,AO15021,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+48,AO15020itk15,2976444,BTH_Rennes_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+49,AO15020itkfi,2976443,BTH_Rennes_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+50,1,2976363,BTH_Rennes_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+51,2,2976364,BTH_Rennes_2015_SetB3,76178,https://doi.org/10.15454/MQFESQ,AO15020,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+52,AO15016itk15,2976446,BTH_Rennes_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+53,AO15016itkfi,2976445,BTH_Rennes_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+54,2,2976366,BTH_Rennes_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+55,1,2976365,BTH_Rennes_2015_SetB3,76179,https://doi.org/10.15454/HCPLVL,AO15016,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+56,AO15017itk15,2976448,BTH_Rennes_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+57,AO15017itkfi,2976447,BTH_Rennes_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+58,2,2976368,BTH_Rennes_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+59,1,2976367,BTH_Rennes_2015_SetB3,76180,https://doi.org/10.15454/T6ZEFN,AO15017,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+60,AO15014itk15,2976450,BTH_Rennes_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+61,2,2976370,BTH_Rennes_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+62,AO15014itkfi,2976449,BTH_Rennes_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+63,1,2976369,BTH_Rennes_2015_SetB3,76181,https://doi.org/10.15454/SXBFSK,AO15014,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+64,AO15015itk15,2976452,BTH_Rennes_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+65,AO15015itkfi,2976451,BTH_Rennes_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+66,2,2976372,BTH_Rennes_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+67,1,2976371,BTH_Rennes_2015_SetB3,76182,https://doi.org/10.15454/YW05EM,AO15015,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+68,AO15012itk15,2976454,BTH_Rennes_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+69,AO15012itkfi,2976453,BTH_Rennes_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+70,2,2976374,BTH_Rennes_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+71,1,2976373,BTH_Rennes_2015_SetB3,76183,https://doi.org/10.15454/B4W7B0,AO15012,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+72,AO15013itk15,2976456,BTH_Rennes_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+73,2,2976376,BTH_Rennes_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+74,AO15013itkfi,2976455,BTH_Rennes_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+75,1,2976375,BTH_Rennes_2015_SetB3,76184,https://doi.org/10.15454/ENLXZ4,AO15013,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+76,AO15010itk15,2976458,BTH_Rennes_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+77,2,2976378,BTH_Rennes_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+78,AO15010itkfi,2976457,BTH_Rennes_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+79,1,2976377,BTH_Rennes_2015_SetB3,76185,https://doi.org/10.15454/NTLKK0,AO15010,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+80,AO15024itk15,2976462,BTH_Rennes_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+81,AO15024itkfi,2976461,BTH_Rennes_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+82,2,2976382,BTH_Rennes_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+83,1,2976381,BTH_Rennes_2015_SetB3,76186,https://doi.org/10.15454/ZF6HKB,AO15024,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+84,DI14016itk15,2976464,BTH_Rennes_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+85,2,2976384,BTH_Rennes_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+86,DI14016itkfi,2976463,BTH_Rennes_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+87,1,2976383,BTH_Rennes_2015_SetB3,76187,https://doi.org/10.15454/QFGPDG,DI14016,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+88,DI14014itk15,2976466,BTH_Rennes_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+89,DI14014itkfi,2976465,BTH_Rennes_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+90,2,2976386,BTH_Rennes_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+91,1,2976385,BTH_Rennes_2015_SetB3,76188,https://doi.org/10.15454/TOLFPD,DI14014,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+92,AO15019itk15,2976468,BTH_Rennes_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+93,AO15019itkfi,2976467,BTH_Rennes_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+94,2,2976388,BTH_Rennes_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+95,1,2976387,BTH_Rennes_2015_SetB3,76189,https://doi.org/10.15454/RQT7J0,AO15019,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+96,AO15018itk15,2976470,BTH_Rennes_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+97,AO15018itkfi,2976469,BTH_Rennes_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+98,2,2976390,BTH_Rennes_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+99,1,2976389,BTH_Rennes_2015_SetB3,76190,https://doi.org/10.15454/ABHXX9,AO15018,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+100,2,2976394,BTH_Rennes_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+101,1,2976393,BTH_Rennes_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+102,EM14205itk15,2976474,BTH_Rennes_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+103,EM14205itkfi,2976473,BTH_Rennes_2015_SetB3,76192,https://doi.org/10.15454/DRRYGG,EM14205,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+104,1,2976395,BTH_Rennes_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+105,2,2976396,BTH_Rennes_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+106,EM14202itk15,2976476,BTH_Rennes_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+107,EM14202itkfi,2976475,BTH_Rennes_2015_SetB3,76193,https://doi.org/10.15454/B0W4SO,EM14202,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+108,EM14248itkfi,2976471,BTH_Rennes_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+109,2,2976392,BTH_Rennes_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+110,1,2976391,BTH_Rennes_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+111,EM14248itk15,2976472,BTH_Rennes_2015_SetB3,76191,https://doi.org/10.15454/O03HBW,EM14248,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+112,Bermudeitk15,2976412,BTH_Rennes_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+113,1,2976331,BTH_Rennes_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+114,Bermudeitkfi,2976411,BTH_Rennes_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+115,2,2976332,BTH_Rennes_2015_SetB3,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+116,DI14009itk15,2976402,BTH_Rennes_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+117,1,2976321,BTH_Rennes_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+118,DI14009itkfi,2976401,BTH_Rennes_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+119,2,2976322,BTH_Rennes_2015_SetB3,76159,https://doi.org/10.15454/XDKT8M,DI14009,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+120,EM14193itk15,2976404,BTH_Rennes_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+121,EM14193itkfi,2976403,BTH_Rennes_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+122,1,2976323,BTH_Rennes_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+123,2,2976324,BTH_Rennes_2015_SetB3,76160,https://doi.org/10.15454/G9ERKO,EM14193,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+124,DI14007itk15,2976406,BTH_Rennes_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+125,DI14007itkfi,2976405,BTH_Rennes_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+126,2,2976326,BTH_Rennes_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+127,1,2976325,BTH_Rennes_2015_SetB3,76161,https://doi.org/10.15454/ZFV2EH,DI14007,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+128,AO15009itk15,2976408,BTH_Rennes_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+129,AO15009itkfi,2976407,BTH_Rennes_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+130,2,2976328,BTH_Rennes_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+131,1,2976327,BTH_Rennes_2015_SetB3,76162,https://doi.org/10.15454/IRP9J1,AO15009,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+132,AO15008itk15,2976410,BTH_Rennes_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+133,AO15008itkfi,2976409,BTH_Rennes_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+134,2,2976330,BTH_Rennes_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+135,1,2976329,BTH_Rennes_2015_SetB3,76163,https://doi.org/10.15454/JLUQSM,AO15008,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+136,AO15001itk15,2976414,BTH_Rennes_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+137,AO15001itkfi,2976413,BTH_Rennes_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+138,1,2976333,BTH_Rennes_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+139,2,2976334,BTH_Rennes_2015_SetB3,76164,https://doi.org/10.15454/TWP4FZ,AO15001,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+140,AO15003itk15,2976416,BTH_Rennes_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+141,AO15003itkfi,2976415,BTH_Rennes_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+142,2,2976336,BTH_Rennes_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+143,1,2976335,BTH_Rennes_2015_SetB3,76165,https://doi.org/10.15454/7NGLN0,AO15003,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+144,CELLULEitk15,2976460,BTH_Rennes_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+145,CELLULEitkfi,2976459,BTH_Rennes_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+146,2,2976380,BTH_Rennes_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+147,1,2976379,BTH_Rennes_2015_SetB3,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+148,Grapeliitk15,2976430,BTH_Rennes_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+149,Grapeliitkfi,2976429,BTH_Rennes_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+150,1,2976349,BTH_Rennes_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+151,2,2976350,BTH_Rennes_2015_SetB3,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+152,RUBISKOitk15,2976478,BTH_Rennes_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+153,RUBISKOitkfi,2976477,BTH_Rennes_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+154,1,2976397,BTH_Rennes_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+155,2,2976398,BTH_Rennes_2015_SetB3,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+156,AREZZOitk15,2976480,BTH_Rennes_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,[]
+157,2,2976400,BTH_Rennes_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Rennes_2015_SetB3,REPLICATION,2.0,,,,,,REPLICATION:2,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+158,AREZZOitkfi,2976479,BTH_Rennes_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Rennes_2015_SetB3,VIRTUAL_TRIAL,,,,,,,,"[{'factor': 'itk', 'modality': 'faible intrant'}]"
+159,1,2976399,BTH_Rennes_2015_SetB3,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Rennes_2015_SetB3,REPLICATION,1.0,,,,,,REPLICATION:1,"[{'factor': 'itk', 'modality': 'faible intrant'}]"

@@ -1,0 +1,253 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,2,2772892,BTH_Le_Moulon_2001_SetB2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+1,1,2772891,BTH_Le_Moulon_2001_SetB2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+2,2,2772894,BTH_Le_Moulon_2001_SetB2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+3,RE01004itkt,2773028,BTH_Le_Moulon_2001_SetB2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+4,RE01004itkfi,2773027,BTH_Le_Moulon_2001_SetB2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+5,1,2772893,BTH_Le_Moulon_2001_SetB2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+6,1,2772841,BTH_Le_Moulon_2001_SetB2,49338,gnpis_pui:holding-921_taxon-4898_accession-49338,EM00258,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+7,2,2772840,BTH_Le_Moulon_2001_SetB2,49338,gnpis_pui:holding-921_taxon-4898_accession-49338,EM00258,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+8,EM00258itkt,2773002,BTH_Le_Moulon_2001_SetB2,49338,gnpis_pui:holding-921_taxon-4898_accession-49338,EM00258,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+9,2,2772842,BTH_Le_Moulon_2001_SetB2,49338,gnpis_pui:holding-921_taxon-4898_accession-49338,EM00258,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+10,1,2772839,BTH_Le_Moulon_2001_SetB2,49338,gnpis_pui:holding-921_taxon-4898_accession-49338,EM00258,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+11,EM00258itkfi,2773001,BTH_Le_Moulon_2001_SetB2,49338,gnpis_pui:holding-921_taxon-4898_accession-49338,EM00258,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+12,RE01007itkt,2773056,BTH_Le_Moulon_2001_SetB2,49340,gnpis_pui:holding-921_taxon-4898_accession-49340,RE01007,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+13,1,2772947,BTH_Le_Moulon_2001_SetB2,49340,gnpis_pui:holding-921_taxon-4898_accession-49340,RE01007,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+14,2,2772950,BTH_Le_Moulon_2001_SetB2,49340,gnpis_pui:holding-921_taxon-4898_accession-49340,RE01007,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+15,1,2772949,BTH_Le_Moulon_2001_SetB2,49340,gnpis_pui:holding-921_taxon-4898_accession-49340,RE01007,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+16,RE01007itkfi,2773055,BTH_Le_Moulon_2001_SetB2,49340,gnpis_pui:holding-921_taxon-4898_accession-49340,RE01007,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+17,2,2772948,BTH_Le_Moulon_2001_SetB2,49340,gnpis_pui:holding-921_taxon-4898_accession-49340,RE01007,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+18,RE00161itkfi,2773019,BTH_Le_Moulon_2001_SetB2,48948,gnpis_pui:holding-921_taxon-4898_accession-48948,RE00161,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+19,2,2772878,BTH_Le_Moulon_2001_SetB2,48948,gnpis_pui:holding-921_taxon-4898_accession-48948,RE00161,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+20,RE00161itkt,2773020,BTH_Le_Moulon_2001_SetB2,48948,gnpis_pui:holding-921_taxon-4898_accession-48948,RE00161,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+21,1,2772877,BTH_Le_Moulon_2001_SetB2,48948,gnpis_pui:holding-921_taxon-4898_accession-48948,RE00161,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+22,2,2772876,BTH_Le_Moulon_2001_SetB2,48948,gnpis_pui:holding-921_taxon-4898_accession-48948,RE00161,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+23,1,2772875,BTH_Le_Moulon_2001_SetB2,48948,gnpis_pui:holding-921_taxon-4898_accession-48948,RE00161,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+24,1,2772957,BTH_Le_Moulon_2001_SetB2,48949,gnpis_pui:holding-921_taxon-4898_accession-48949,LM01002,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+25,2,2772956,BTH_Le_Moulon_2001_SetB2,48949,gnpis_pui:holding-921_taxon-4898_accession-48949,LM01002,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+26,LM01002itkt,2773060,BTH_Le_Moulon_2001_SetB2,48949,gnpis_pui:holding-921_taxon-4898_accession-48949,LM01002,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+27,2,2772958,BTH_Le_Moulon_2001_SetB2,48949,gnpis_pui:holding-921_taxon-4898_accession-48949,LM01002,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+28,LM01002itkfi,2773059,BTH_Le_Moulon_2001_SetB2,48949,gnpis_pui:holding-921_taxon-4898_accession-48949,LM01002,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+29,1,2772955,BTH_Le_Moulon_2001_SetB2,48949,gnpis_pui:holding-921_taxon-4898_accession-48949,LM01002,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+30,2,2772906,BTH_Le_Moulon_2001_SetB2,48945,gnpis_pui:holding-921_taxon-4898_accession-48945,RE00142,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+31,RE00142itkt,2773034,BTH_Le_Moulon_2001_SetB2,48945,gnpis_pui:holding-921_taxon-4898_accession-48945,RE00142,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+32,RE00142itkfi,2773033,BTH_Le_Moulon_2001_SetB2,48945,gnpis_pui:holding-921_taxon-4898_accession-48945,RE00142,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+33,1,2772905,BTH_Le_Moulon_2001_SetB2,48945,gnpis_pui:holding-921_taxon-4898_accession-48945,RE00142,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+34,2,2772904,BTH_Le_Moulon_2001_SetB2,48945,gnpis_pui:holding-921_taxon-4898_accession-48945,RE00142,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+35,1,2772903,BTH_Le_Moulon_2001_SetB2,48945,gnpis_pui:holding-921_taxon-4898_accession-48945,RE00142,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+36,1,2772897,BTH_Le_Moulon_2001_SetB2,48953,gnpis_pui:holding-921_taxon-4898_accession-48953,EM00191,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+37,EM00191itkt,2773030,BTH_Le_Moulon_2001_SetB2,48953,gnpis_pui:holding-921_taxon-4898_accession-48953,EM00191,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+38,EM00191itkfi,2773029,BTH_Le_Moulon_2001_SetB2,48953,gnpis_pui:holding-921_taxon-4898_accession-48953,EM00191,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+39,2,2772898,BTH_Le_Moulon_2001_SetB2,48953,gnpis_pui:holding-921_taxon-4898_accession-48953,EM00191,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+40,2,2772896,BTH_Le_Moulon_2001_SetB2,48953,gnpis_pui:holding-921_taxon-4898_accession-48953,EM00191,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+41,1,2772895,BTH_Le_Moulon_2001_SetB2,48953,gnpis_pui:holding-921_taxon-4898_accession-48953,EM00191,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+42,2,2772846,BTH_Le_Moulon_2001_SetB2,49179,gnpis_pui:holding-921_taxon-4898_accession-49179,RE01001,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+43,RE01001itkfi,2773003,BTH_Le_Moulon_2001_SetB2,49179,gnpis_pui:holding-921_taxon-4898_accession-49179,RE01001,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+44,1,2772845,BTH_Le_Moulon_2001_SetB2,49179,gnpis_pui:holding-921_taxon-4898_accession-49179,RE01001,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+45,2,2772844,BTH_Le_Moulon_2001_SetB2,49179,gnpis_pui:holding-921_taxon-4898_accession-49179,RE01001,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+46,RE01001itkt,2773004,BTH_Le_Moulon_2001_SetB2,49179,gnpis_pui:holding-921_taxon-4898_accession-49179,RE01001,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+47,1,2772843,BTH_Le_Moulon_2001_SetB2,49179,gnpis_pui:holding-921_taxon-4898_accession-49179,RE01001,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+48,RE00149itkt,2773026,BTH_Le_Moulon_2001_SetB2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+49,2,2772890,BTH_Le_Moulon_2001_SetB2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+50,2,2772888,BTH_Le_Moulon_2001_SetB2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+51,RE00149itkfi,2773025,BTH_Le_Moulon_2001_SetB2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+52,1,2772887,BTH_Le_Moulon_2001_SetB2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+53,1,2772889,BTH_Le_Moulon_2001_SetB2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+54,EM00101itkfi,2773005,BTH_Le_Moulon_2001_SetB2,48394,gnpis_pui:holding-921_taxon-4898_accession-48394,EM00101,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+55,2,2772850,BTH_Le_Moulon_2001_SetB2,48394,gnpis_pui:holding-921_taxon-4898_accession-48394,EM00101,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+56,1,2772849,BTH_Le_Moulon_2001_SetB2,48394,gnpis_pui:holding-921_taxon-4898_accession-48394,EM00101,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+57,2,2772848,BTH_Le_Moulon_2001_SetB2,48394,gnpis_pui:holding-921_taxon-4898_accession-48394,EM00101,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+58,EM00101itkt,2773006,BTH_Le_Moulon_2001_SetB2,48394,gnpis_pui:holding-921_taxon-4898_accession-48394,EM00101,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+59,1,2772847,BTH_Le_Moulon_2001_SetB2,48394,gnpis_pui:holding-921_taxon-4898_accession-48394,EM00101,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+60,2,2772912,BTH_Le_Moulon_2001_SetB2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+61,2,2772914,BTH_Le_Moulon_2001_SetB2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+62,1,2772913,BTH_Le_Moulon_2001_SetB2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+63,1,2772911,BTH_Le_Moulon_2001_SetB2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+64,RE00144itkt,2773038,BTH_Le_Moulon_2001_SetB2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+65,RE00144itkfi,2773037,BTH_Le_Moulon_2001_SetB2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+66,RE00143itkt,2773032,BTH_Le_Moulon_2001_SetB2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+67,2,2772900,BTH_Le_Moulon_2001_SetB2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+68,RE00143itkfi,2773031,BTH_Le_Moulon_2001_SetB2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+69,2,2772902,BTH_Le_Moulon_2001_SetB2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+70,1,2772901,BTH_Le_Moulon_2001_SetB2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+71,1,2772899,BTH_Le_Moulon_2001_SetB2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+72,2,2772962,BTH_Le_Moulon_2001_SetB2,48669,gnpis_pui:holding-921_taxon-4898_accession-48669,LM01001,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+73,1,2772961,BTH_Le_Moulon_2001_SetB2,48669,gnpis_pui:holding-921_taxon-4898_accession-48669,LM01001,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+74,2,2772960,BTH_Le_Moulon_2001_SetB2,48669,gnpis_pui:holding-921_taxon-4898_accession-48669,LM01001,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+75,1,2772959,BTH_Le_Moulon_2001_SetB2,48669,gnpis_pui:holding-921_taxon-4898_accession-48669,LM01001,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+76,LM01001itkt,2773062,BTH_Le_Moulon_2001_SetB2,48669,gnpis_pui:holding-921_taxon-4898_accession-48669,LM01001,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+77,LM01001itkfi,2773061,BTH_Le_Moulon_2001_SetB2,48669,gnpis_pui:holding-921_taxon-4898_accession-48669,LM01001,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+78,RE00201itkfi,2772997,BTH_Le_Moulon_2001_SetB2,49260,gnpis_pui:holding-921_taxon-4898_accession-49260,RE00201,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+79,1,2772833,BTH_Le_Moulon_2001_SetB2,49260,gnpis_pui:holding-921_taxon-4898_accession-49260,RE00201,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+80,2,2772834,BTH_Le_Moulon_2001_SetB2,49260,gnpis_pui:holding-921_taxon-4898_accession-49260,RE00201,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+81,1,2772831,BTH_Le_Moulon_2001_SetB2,49260,gnpis_pui:holding-921_taxon-4898_accession-49260,RE00201,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+82,RE00201itkt,2772998,BTH_Le_Moulon_2001_SetB2,49260,gnpis_pui:holding-921_taxon-4898_accession-49260,RE00201,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+83,2,2772832,BTH_Le_Moulon_2001_SetB2,49260,gnpis_pui:holding-921_taxon-4898_accession-49260,RE00201,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+84,RE00165itkt,2773016,BTH_Le_Moulon_2001_SetB2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+85,RE00165itkfi,2773015,BTH_Le_Moulon_2001_SetB2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+86,2,2772870,BTH_Le_Moulon_2001_SetB2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+87,2,2772868,BTH_Le_Moulon_2001_SetB2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+88,1,2772869,BTH_Le_Moulon_2001_SetB2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+89,1,2772867,BTH_Le_Moulon_2001_SetB2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+90,RE00153itkfi,2773075,BTH_Le_Moulon_2001_SetB2,49355,gnpis_pui:holding-921_taxon-4898_accession-49355,RE00153,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+91,1,2772989,BTH_Le_Moulon_2001_SetB2,49355,gnpis_pui:holding-921_taxon-4898_accession-49355,RE00153,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+92,RE00153itkt,2773076,BTH_Le_Moulon_2001_SetB2,49355,gnpis_pui:holding-921_taxon-4898_accession-49355,RE00153,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+93,1,2772987,BTH_Le_Moulon_2001_SetB2,49355,gnpis_pui:holding-921_taxon-4898_accession-49355,RE00153,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+94,2,2772990,BTH_Le_Moulon_2001_SetB2,49355,gnpis_pui:holding-921_taxon-4898_accession-49355,RE00153,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+95,2,2772988,BTH_Le_Moulon_2001_SetB2,49355,gnpis_pui:holding-921_taxon-4898_accession-49355,RE00153,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+96,RE01003itkt,2773068,BTH_Le_Moulon_2001_SetB2,49335,gnpis_pui:holding-921_taxon-4898_accession-49335,RE01003,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+97,2,2772974,BTH_Le_Moulon_2001_SetB2,49335,gnpis_pui:holding-921_taxon-4898_accession-49335,RE01003,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+98,1,2772973,BTH_Le_Moulon_2001_SetB2,49335,gnpis_pui:holding-921_taxon-4898_accession-49335,RE01003,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+99,2,2772972,BTH_Le_Moulon_2001_SetB2,49335,gnpis_pui:holding-921_taxon-4898_accession-49335,RE01003,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+100,1,2772971,BTH_Le_Moulon_2001_SetB2,49335,gnpis_pui:holding-921_taxon-4898_accession-49335,RE01003,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+101,RE01003itkfi,2773067,BTH_Le_Moulon_2001_SetB2,49335,gnpis_pui:holding-921_taxon-4898_accession-49335,RE01003,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+102,2,2772986,BTH_Le_Moulon_2001_SetB2,48513,gnpis_pui:holding-921_taxon-4898_accession-48513,RE00152,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+103,2,2772984,BTH_Le_Moulon_2001_SetB2,48513,gnpis_pui:holding-921_taxon-4898_accession-48513,RE00152,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+104,1,2772985,BTH_Le_Moulon_2001_SetB2,48513,gnpis_pui:holding-921_taxon-4898_accession-48513,RE00152,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+105,RE00152itkt,2773074,BTH_Le_Moulon_2001_SetB2,48513,gnpis_pui:holding-921_taxon-4898_accession-48513,RE00152,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+106,1,2772983,BTH_Le_Moulon_2001_SetB2,48513,gnpis_pui:holding-921_taxon-4898_accession-48513,RE00152,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+107,RE00152itkfi,2773073,BTH_Le_Moulon_2001_SetB2,48513,gnpis_pui:holding-921_taxon-4898_accession-48513,RE00152,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+108,1,2772945,BTH_Le_Moulon_2001_SetB2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+109,EM00264itkfi,2773053,BTH_Le_Moulon_2001_SetB2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+110,2,2772944,BTH_Le_Moulon_2001_SetB2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+111,EM00264itkt,2773054,BTH_Le_Moulon_2001_SetB2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+112,1,2772943,BTH_Le_Moulon_2001_SetB2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+113,2,2772946,BTH_Le_Moulon_2001_SetB2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+114,1,2772977,BTH_Le_Moulon_2001_SetB2,49170,gnpis_pui:holding-921_taxon-4898_accession-49170,EM00188,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+115,EM00188itkt,2773070,BTH_Le_Moulon_2001_SetB2,49170,gnpis_pui:holding-921_taxon-4898_accession-49170,EM00188,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+116,EM00188itkfi,2773069,BTH_Le_Moulon_2001_SetB2,49170,gnpis_pui:holding-921_taxon-4898_accession-49170,EM00188,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+117,2,2772978,BTH_Le_Moulon_2001_SetB2,49170,gnpis_pui:holding-921_taxon-4898_accession-49170,EM00188,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+118,2,2772976,BTH_Le_Moulon_2001_SetB2,49170,gnpis_pui:holding-921_taxon-4898_accession-49170,EM00188,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+119,1,2772975,BTH_Le_Moulon_2001_SetB2,49170,gnpis_pui:holding-921_taxon-4898_accession-49170,EM00188,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+120,RE00130itkt,2773078,BTH_Le_Moulon_2001_SetB2,49459,gnpis_pui:holding-921_taxon-4898_accession-49459,RE00130,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+121,RE00130itkfi,2773077,BTH_Le_Moulon_2001_SetB2,49459,gnpis_pui:holding-921_taxon-4898_accession-49459,RE00130,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+122,2,2772992,BTH_Le_Moulon_2001_SetB2,49459,gnpis_pui:holding-921_taxon-4898_accession-49459,RE00130,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+123,1,2772991,BTH_Le_Moulon_2001_SetB2,49459,gnpis_pui:holding-921_taxon-4898_accession-49459,RE00130,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+124,2,2772994,BTH_Le_Moulon_2001_SetB2,49459,gnpis_pui:holding-921_taxon-4898_accession-49459,RE00130,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+125,1,2772993,BTH_Le_Moulon_2001_SetB2,49459,gnpis_pui:holding-921_taxon-4898_accession-49459,RE00130,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+126,2,2772930,BTH_Le_Moulon_2001_SetB2,49617,gnpis_pui:holding-921_taxon-4898_accession-49617,EM00261,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+127,2,2772928,BTH_Le_Moulon_2001_SetB2,49617,gnpis_pui:holding-921_taxon-4898_accession-49617,EM00261,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+128,EM00261itkt,2773046,BTH_Le_Moulon_2001_SetB2,49617,gnpis_pui:holding-921_taxon-4898_accession-49617,EM00261,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+129,EM00261itkfi,2773045,BTH_Le_Moulon_2001_SetB2,49617,gnpis_pui:holding-921_taxon-4898_accession-49617,EM00261,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+130,1,2772927,BTH_Le_Moulon_2001_SetB2,49617,gnpis_pui:holding-921_taxon-4898_accession-49617,EM00261,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+131,1,2772929,BTH_Le_Moulon_2001_SetB2,49617,gnpis_pui:holding-921_taxon-4898_accession-49617,EM00261,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+132,RE01005itkt,2773052,BTH_Le_Moulon_2001_SetB2,49630,gnpis_pui:holding-921_taxon-4898_accession-49630,RE01005,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+133,RE01005itkfi,2773051,BTH_Le_Moulon_2001_SetB2,49630,gnpis_pui:holding-921_taxon-4898_accession-49630,RE01005,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+134,2,2772942,BTH_Le_Moulon_2001_SetB2,49630,gnpis_pui:holding-921_taxon-4898_accession-49630,RE01005,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+135,1,2772941,BTH_Le_Moulon_2001_SetB2,49630,gnpis_pui:holding-921_taxon-4898_accession-49630,RE01005,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+136,1,2772939,BTH_Le_Moulon_2001_SetB2,49630,gnpis_pui:holding-921_taxon-4898_accession-49630,RE01005,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+137,2,2772940,BTH_Le_Moulon_2001_SetB2,49630,gnpis_pui:holding-921_taxon-4898_accession-49630,RE01005,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+138,CF00156itkfi,2773047,BTH_Le_Moulon_2001_SetB2,48365,gnpis_pui:holding-921_taxon-4898_accession-48365,CF00156,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+139,CF00156itkt,2773048,BTH_Le_Moulon_2001_SetB2,48365,gnpis_pui:holding-921_taxon-4898_accession-48365,CF00156,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+140,2,2772934,BTH_Le_Moulon_2001_SetB2,48365,gnpis_pui:holding-921_taxon-4898_accession-48365,CF00156,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+141,1,2772933,BTH_Le_Moulon_2001_SetB2,48365,gnpis_pui:holding-921_taxon-4898_accession-48365,CF00156,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+142,2,2772932,BTH_Le_Moulon_2001_SetB2,48365,gnpis_pui:holding-921_taxon-4898_accession-48365,CF00156,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+143,1,2772931,BTH_Le_Moulon_2001_SetB2,48365,gnpis_pui:holding-921_taxon-4898_accession-48365,CF00156,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+144,RE00163itkfi,2773023,BTH_Le_Moulon_2001_SetB2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+145,1,2772885,BTH_Le_Moulon_2001_SetB2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+146,RE00163itkt,2773024,BTH_Le_Moulon_2001_SetB2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+147,2,2772884,BTH_Le_Moulon_2001_SetB2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+148,2,2772886,BTH_Le_Moulon_2001_SetB2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+149,1,2772883,BTH_Le_Moulon_2001_SetB2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+150,Chargeritkt,2773042,BTH_Le_Moulon_2001_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+151,2,2772920,BTH_Le_Moulon_2001_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+152,1,2772921,BTH_Le_Moulon_2001_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+153,1,2772919,BTH_Le_Moulon_2001_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+154,Chargeritkfi,2773041,BTH_Le_Moulon_2001_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+155,2,2772922,BTH_Le_Moulon_2001_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+156,1,2772837,BTH_Le_Moulon_2001_SetB2,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+157,1,2772835,BTH_Le_Moulon_2001_SetB2,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+158,Tremieitkt,2773000,BTH_Le_Moulon_2001_SetB2,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+159,2,2772838,BTH_Le_Moulon_2001_SetB2,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+160,2,2772836,BTH_Le_Moulon_2001_SetB2,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+161,Tremieitkfi,2772999,BTH_Le_Moulon_2001_SetB2,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+162,2,2772926,BTH_Le_Moulon_2001_SetB2,48868,gnpis_pui:holding-921_taxon-4898_accession-48868,CF01004,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+163,2,2772924,BTH_Le_Moulon_2001_SetB2,48868,gnpis_pui:holding-921_taxon-4898_accession-48868,CF01004,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+164,CF01004itkt,2773044,BTH_Le_Moulon_2001_SetB2,48868,gnpis_pui:holding-921_taxon-4898_accession-48868,CF01004,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+165,1,2772925,BTH_Le_Moulon_2001_SetB2,48868,gnpis_pui:holding-921_taxon-4898_accession-48868,CF01004,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+166,1,2772923,BTH_Le_Moulon_2001_SetB2,48868,gnpis_pui:holding-921_taxon-4898_accession-48868,CF01004,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+167,CF01004itkfi,2773043,BTH_Le_Moulon_2001_SetB2,48868,gnpis_pui:holding-921_taxon-4898_accession-48868,CF01004,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+168,2,2772916,BTH_Le_Moulon_2001_SetB2,49517,gnpis_pui:holding-921_taxon-4898_accession-49517,EM00133,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+169,1,2772915,BTH_Le_Moulon_2001_SetB2,49517,gnpis_pui:holding-921_taxon-4898_accession-49517,EM00133,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+170,1,2772917,BTH_Le_Moulon_2001_SetB2,49517,gnpis_pui:holding-921_taxon-4898_accession-49517,EM00133,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+171,EM00133itkt,2773040,BTH_Le_Moulon_2001_SetB2,49517,gnpis_pui:holding-921_taxon-4898_accession-49517,EM00133,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+172,EM00133itkfi,2773039,BTH_Le_Moulon_2001_SetB2,49517,gnpis_pui:holding-921_taxon-4898_accession-49517,EM00133,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+173,2,2772918,BTH_Le_Moulon_2001_SetB2,49517,gnpis_pui:holding-921_taxon-4898_accession-49517,EM00133,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+174,RE01002itkt,2773050,BTH_Le_Moulon_2001_SetB2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+175,1,2772935,BTH_Le_Moulon_2001_SetB2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+176,RE01002itkfi,2773049,BTH_Le_Moulon_2001_SetB2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+177,2,2772938,BTH_Le_Moulon_2001_SetB2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+178,2,2772936,BTH_Le_Moulon_2001_SetB2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+179,1,2772937,BTH_Le_Moulon_2001_SetB2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+180,2,2772830,BTH_Le_Moulon_2001_SetB2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+181,1,2772829,BTH_Le_Moulon_2001_SetB2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+182,1,2772827,BTH_Le_Moulon_2001_SetB2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+183,CF00108itkt,2772996,BTH_Le_Moulon_2001_SetB2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+184,CF00108itkfi,2772995,BTH_Le_Moulon_2001_SetB2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+185,2,2772828,BTH_Le_Moulon_2001_SetB2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+186,2,2772874,BTH_Le_Moulon_2001_SetB2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+187,2,2772872,BTH_Le_Moulon_2001_SetB2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+188,1,2772871,BTH_Le_Moulon_2001_SetB2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+189,RE00164itkt,2773018,BTH_Le_Moulon_2001_SetB2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+190,1,2772873,BTH_Le_Moulon_2001_SetB2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+191,RE00164itkfi,2773017,BTH_Le_Moulon_2001_SetB2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+192,1,2772967,BTH_Le_Moulon_2001_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+193,2,2772968,BTH_Le_Moulon_2001_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+194,1,2772969,BTH_Le_Moulon_2001_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+195,Soissonsitkfi,2773065,BTH_Le_Moulon_2001_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+196,2,2772970,BTH_Le_Moulon_2001_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+197,Soissonsitkt,2773066,BTH_Le_Moulon_2001_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+198,Isengrainitkt,2773064,BTH_Le_Moulon_2001_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+199,1,2772965,BTH_Le_Moulon_2001_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+200,Isengrainitkfi,2773063,BTH_Le_Moulon_2001_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+201,2,2772966,BTH_Le_Moulon_2001_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+202,1,2772963,BTH_Le_Moulon_2001_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+203,2,2772964,BTH_Le_Moulon_2001_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+204,RE00160itkt,2773022,BTH_Le_Moulon_2001_SetB2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+205,1,2772881,BTH_Le_Moulon_2001_SetB2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+206,2,2772880,BTH_Le_Moulon_2001_SetB2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+207,1,2772879,BTH_Le_Moulon_2001_SetB2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+208,RE00160itkfi,2773021,BTH_Le_Moulon_2001_SetB2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+209,2,2772882,BTH_Le_Moulon_2001_SetB2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+210,EM00105itkt,2773010,BTH_Le_Moulon_2001_SetB2,49073,gnpis_pui:holding-921_taxon-4898_accession-49073,EM00105,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+211,2,2772856,BTH_Le_Moulon_2001_SetB2,49073,gnpis_pui:holding-921_taxon-4898_accession-49073,EM00105,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+212,1,2772855,BTH_Le_Moulon_2001_SetB2,49073,gnpis_pui:holding-921_taxon-4898_accession-49073,EM00105,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+213,EM00105itkfi,2773009,BTH_Le_Moulon_2001_SetB2,49073,gnpis_pui:holding-921_taxon-4898_accession-49073,EM00105,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+214,2,2772858,BTH_Le_Moulon_2001_SetB2,49073,gnpis_pui:holding-921_taxon-4898_accession-49073,EM00105,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+215,1,2772857,BTH_Le_Moulon_2001_SetB2,49073,gnpis_pui:holding-921_taxon-4898_accession-49073,EM00105,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+216,2,2772954,BTH_Le_Moulon_2001_SetB2,49217,gnpis_pui:holding-921_taxon-4898_accession-49217,RE01006,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+217,RE01006itkfi,2773057,BTH_Le_Moulon_2001_SetB2,49217,gnpis_pui:holding-921_taxon-4898_accession-49217,RE01006,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+218,1,2772953,BTH_Le_Moulon_2001_SetB2,49217,gnpis_pui:holding-921_taxon-4898_accession-49217,RE01006,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+219,1,2772951,BTH_Le_Moulon_2001_SetB2,49217,gnpis_pui:holding-921_taxon-4898_accession-49217,RE01006,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+220,RE01006itkt,2773058,BTH_Le_Moulon_2001_SetB2,49217,gnpis_pui:holding-921_taxon-4898_accession-49217,RE01006,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+221,2,2772952,BTH_Le_Moulon_2001_SetB2,49217,gnpis_pui:holding-921_taxon-4898_accession-49217,RE01006,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+222,EM00107itkfi,2773013,BTH_Le_Moulon_2001_SetB2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+223,2,2772864,BTH_Le_Moulon_2001_SetB2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+224,EM00107itkt,2773014,BTH_Le_Moulon_2001_SetB2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+225,2,2772866,BTH_Le_Moulon_2001_SetB2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+226,1,2772863,BTH_Le_Moulon_2001_SetB2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+227,1,2772865,BTH_Le_Moulon_2001_SetB2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+228,RE00145itkfi,2773035,BTH_Le_Moulon_2001_SetB2,49380,gnpis_pui:holding-921_taxon-4898_accession-49380,RE00145,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+229,1,2772907,BTH_Le_Moulon_2001_SetB2,49380,gnpis_pui:holding-921_taxon-4898_accession-49380,RE00145,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+230,2,2772910,BTH_Le_Moulon_2001_SetB2,49380,gnpis_pui:holding-921_taxon-4898_accession-49380,RE00145,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+231,1,2772909,BTH_Le_Moulon_2001_SetB2,49380,gnpis_pui:holding-921_taxon-4898_accession-49380,RE00145,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+232,2,2772908,BTH_Le_Moulon_2001_SetB2,49380,gnpis_pui:holding-921_taxon-4898_accession-49380,RE00145,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+233,RE00145itkt,2773036,BTH_Le_Moulon_2001_SetB2,49380,gnpis_pui:holding-921_taxon-4898_accession-49380,RE00145,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+234,1,2772851,BTH_Le_Moulon_2001_SetB2,49383,gnpis_pui:holding-921_taxon-4898_accession-49383,EM00103,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+235,EM00103itkfi,2773007,BTH_Le_Moulon_2001_SetB2,49383,gnpis_pui:holding-921_taxon-4898_accession-49383,EM00103,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+236,1,2772853,BTH_Le_Moulon_2001_SetB2,49383,gnpis_pui:holding-921_taxon-4898_accession-49383,EM00103,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+237,EM00103itkt,2773008,BTH_Le_Moulon_2001_SetB2,49383,gnpis_pui:holding-921_taxon-4898_accession-49383,EM00103,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+238,2,2772854,BTH_Le_Moulon_2001_SetB2,49383,gnpis_pui:holding-921_taxon-4898_accession-49383,EM00103,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+239,2,2772852,BTH_Le_Moulon_2001_SetB2,49383,gnpis_pui:holding-921_taxon-4898_accession-49383,EM00103,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+240,1,2772861,BTH_Le_Moulon_2001_SetB2,49681,gnpis_pui:holding-921_taxon-4898_accession-49681,EM00252,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+241,EM00252itkt,2773012,BTH_Le_Moulon_2001_SetB2,49681,gnpis_pui:holding-921_taxon-4898_accession-49681,EM00252,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+242,EM00252itkfi,2773011,BTH_Le_Moulon_2001_SetB2,49681,gnpis_pui:holding-921_taxon-4898_accession-49681,EM00252,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs
+243,2,2772862,BTH_Le_Moulon_2001_SetB2,49681,gnpis_pui:holding-921_taxon-4898_accession-49681,EM00252,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+244,1,2772859,BTH_Le_Moulon_2001_SetB2,49681,gnpis_pui:holding-921_taxon-4898_accession-49681,EM00252,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+245,2,2772860,BTH_Le_Moulon_2001_SetB2,49681,gnpis_pui:holding-921_taxon-4898_accession-49681,EM00252,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+246,1,2772979,BTH_Le_Moulon_2001_SetB2,49686,gnpis_pui:holding-921_taxon-4898_accession-49686,RE00137,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+247,1,2772981,BTH_Le_Moulon_2001_SetB2,49686,gnpis_pui:holding-921_taxon-4898_accession-49686,RE00137,BTH_Le_Moulon_2001_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+248,RE00137itkt,2773072,BTH_Le_Moulon_2001_SetB2,49686,gnpis_pui:holding-921_taxon-4898_accession-49686,RE00137,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+249,2,2772980,BTH_Le_Moulon_2001_SetB2,49686,gnpis_pui:holding-921_taxon-4898_accession-49686,RE00137,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+250,2,2772982,BTH_Le_Moulon_2001_SetB2,49686,gnpis_pui:holding-921_taxon-4898_accession-49686,RE00137,BTH_Le_Moulon_2001_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+251,RE00137itkfi,2773071,BTH_Le_Moulon_2001_SetB2,49686,gnpis_pui:holding-921_taxon-4898_accession-49686,RE00137,BTH_Le_Moulon_2001_SetB2,VIRTUAL_TRIAL,,,,,,,,low inputs

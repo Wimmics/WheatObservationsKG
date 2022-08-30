@@ -1,0 +1,281 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,1,2862269,BTH_Clermont-Ferrand_2012_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+1,2,2862270,BTH_Clermont-Ferrand_2012_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+2,2,2862272,BTH_Clermont-Ferrand_2012_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+3,DI08019-2itkfi,2862420,BTH_Clermont-Ferrand_2012_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+4,DI08019-2itknt,2862421,BTH_Clermont-Ferrand_2012_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+5,1,2862271,BTH_Clermont-Ferrand_2012_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+6,DI08019-2itkt,2862422,BTH_Clermont-Ferrand_2012_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+7,1,2862377,BTH_Clermont-Ferrand_2012_SetA1,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+8,2,2862378,BTH_Clermont-Ferrand_2012_SetA1,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+9,RE09055itkfi,2862501,BTH_Clermont-Ferrand_2012_SetA1,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+10,RE09055itknt,2862502,BTH_Clermont-Ferrand_2012_SetA1,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+11,1,2862379,BTH_Clermont-Ferrand_2012_SetA1,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+12,2,2862380,BTH_Clermont-Ferrand_2012_SetA1,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+13,RE09055itkt,2862503,BTH_Clermont-Ferrand_2012_SetA1,61677,https://doi.org/10.15454/RWYMIR,RE09055,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+14,Koreliitkt,2862440,BTH_Clermont-Ferrand_2012_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+15,Koreliitkfi,2862438,BTH_Clermont-Ferrand_2012_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+16,2,2862294,BTH_Clermont-Ferrand_2012_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+17,Koreliitknt,2862439,BTH_Clermont-Ferrand_2012_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+18,1,2862295,BTH_Clermont-Ferrand_2012_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+19,1,2862293,BTH_Clermont-Ferrand_2012_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+20,2,2862296,BTH_Clermont-Ferrand_2012_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+21,1,2862371,BTH_Clermont-Ferrand_2012_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+22,2,2862370,BTH_Clermont-Ferrand_2012_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+23,1,2862369,BTH_Clermont-Ferrand_2012_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+24,CF09117itkfi,2862495,BTH_Clermont-Ferrand_2012_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+25,2,2862372,BTH_Clermont-Ferrand_2012_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+26,CF09117itkt,2862497,BTH_Clermont-Ferrand_2012_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+27,CF09117itknt,2862496,BTH_Clermont-Ferrand_2012_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+28,2,2862388,BTH_Clermont-Ferrand_2012_SetA1,48700,https://doi.org/10.15454/C60S9I,CF09227,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+29,CF09227itkt,2862509,BTH_Clermont-Ferrand_2012_SetA1,48700,https://doi.org/10.15454/C60S9I,CF09227,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+30,CF09227itknt,2862508,BTH_Clermont-Ferrand_2012_SetA1,48700,https://doi.org/10.15454/C60S9I,CF09227,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+31,CF09227itkfi,2862507,BTH_Clermont-Ferrand_2012_SetA1,48700,https://doi.org/10.15454/C60S9I,CF09227,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+32,1,2862387,BTH_Clermont-Ferrand_2012_SetA1,48700,https://doi.org/10.15454/C60S9I,CF09227,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+33,2,2862386,BTH_Clermont-Ferrand_2012_SetA1,48700,https://doi.org/10.15454/C60S9I,CF09227,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+34,1,2862385,BTH_Clermont-Ferrand_2012_SetA1,48700,https://doi.org/10.15454/C60S9I,CF09227,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+35,1,2862347,BTH_Clermont-Ferrand_2012_SetA1,49158,https://doi.org/10.15454/UFYMWM,EM08231,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+36,EM08231itkt,2862479,BTH_Clermont-Ferrand_2012_SetA1,49158,https://doi.org/10.15454/UFYMWM,EM08231,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+37,EM08231itkfi,2862477,BTH_Clermont-Ferrand_2012_SetA1,49158,https://doi.org/10.15454/UFYMWM,EM08231,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+38,2,2862346,BTH_Clermont-Ferrand_2012_SetA1,49158,https://doi.org/10.15454/UFYMWM,EM08231,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+39,2,2862348,BTH_Clermont-Ferrand_2012_SetA1,49158,https://doi.org/10.15454/UFYMWM,EM08231,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+40,1,2862345,BTH_Clermont-Ferrand_2012_SetA1,49158,https://doi.org/10.15454/UFYMWM,EM08231,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+41,EM08231itknt,2862478,BTH_Clermont-Ferrand_2012_SetA1,49158,https://doi.org/10.15454/UFYMWM,EM08231,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+42,1,2862265,BTH_Clermont-Ferrand_2012_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+43,1,2862267,BTH_Clermont-Ferrand_2012_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+44,2,2862266,BTH_Clermont-Ferrand_2012_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+45,Folkloritkt,2862419,BTH_Clermont-Ferrand_2012_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+46,Folkloritknt,2862418,BTH_Clermont-Ferrand_2012_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+47,Folkloritkfi,2862417,BTH_Clermont-Ferrand_2012_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+48,2,2862268,BTH_Clermont-Ferrand_2012_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+49,2,2862260,BTH_Clermont-Ferrand_2012_SetA1,49670,https://doi.org/10.15454/FDCSIL,RE09055-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+50,1,2862259,BTH_Clermont-Ferrand_2012_SetA1,49670,https://doi.org/10.15454/FDCSIL,RE09055-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+51,2,2862258,BTH_Clermont-Ferrand_2012_SetA1,49670,https://doi.org/10.15454/FDCSIL,RE09055-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+52,1,2862257,BTH_Clermont-Ferrand_2012_SetA1,49670,https://doi.org/10.15454/FDCSIL,RE09055-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+53,RE09055-2itkfi,2862411,BTH_Clermont-Ferrand_2012_SetA1,49670,https://doi.org/10.15454/FDCSIL,RE09055-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+54,RE09055-2itkt,2862413,BTH_Clermont-Ferrand_2012_SetA1,49670,https://doi.org/10.15454/FDCSIL,RE09055-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+55,RE09055-2itknt,2862412,BTH_Clermont-Ferrand_2012_SetA1,49670,https://doi.org/10.15454/FDCSIL,RE09055-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+56,RE09063itkt,2862458,BTH_Clermont-Ferrand_2012_SetA1,48542,https://doi.org/10.15454/XWSV3O,RE09063,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+57,RE09063itkfi,2862456,BTH_Clermont-Ferrand_2012_SetA1,48542,https://doi.org/10.15454/XWSV3O,RE09063,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+58,1,2862319,BTH_Clermont-Ferrand_2012_SetA1,48542,https://doi.org/10.15454/XWSV3O,RE09063,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+59,2,2862320,BTH_Clermont-Ferrand_2012_SetA1,48542,https://doi.org/10.15454/XWSV3O,RE09063,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+60,1,2862317,BTH_Clermont-Ferrand_2012_SetA1,48542,https://doi.org/10.15454/XWSV3O,RE09063,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+61,RE09063itknt,2862457,BTH_Clermont-Ferrand_2012_SetA1,48542,https://doi.org/10.15454/XWSV3O,RE09063,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+62,2,2862318,BTH_Clermont-Ferrand_2012_SetA1,48542,https://doi.org/10.15454/XWSV3O,RE09063,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+63,1,2862233,BTH_Clermont-Ferrand_2012_SetA1,49050,https://doi.org/10.15454/6F6EN3,RE09079,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+64,RE09079itknt,2862394,BTH_Clermont-Ferrand_2012_SetA1,49050,https://doi.org/10.15454/6F6EN3,RE09079,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+65,RE09079itkfi,2862393,BTH_Clermont-Ferrand_2012_SetA1,49050,https://doi.org/10.15454/6F6EN3,RE09079,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+66,2,2862236,BTH_Clermont-Ferrand_2012_SetA1,49050,https://doi.org/10.15454/6F6EN3,RE09079,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+67,2,2862234,BTH_Clermont-Ferrand_2012_SetA1,49050,https://doi.org/10.15454/6F6EN3,RE09079,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+68,RE09079itkt,2862395,BTH_Clermont-Ferrand_2012_SetA1,49050,https://doi.org/10.15454/6F6EN3,RE09079,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+69,1,2862235,BTH_Clermont-Ferrand_2012_SetA1,49050,https://doi.org/10.15454/6F6EN3,RE09079,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+70,Premioitknt,2862397,BTH_Clermont-Ferrand_2012_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+71,1,2862237,BTH_Clermont-Ferrand_2012_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+72,Premioitkt,2862398,BTH_Clermont-Ferrand_2012_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+73,Premioitkfi,2862396,BTH_Clermont-Ferrand_2012_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+74,2,2862240,BTH_Clermont-Ferrand_2012_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+75,1,2862239,BTH_Clermont-Ferrand_2012_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+76,2,2862238,BTH_Clermont-Ferrand_2012_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+77,EM09003itkt,2862416,BTH_Clermont-Ferrand_2012_SetA1,49087,https://doi.org/10.15454/53EBXZ,EM09003,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+78,EM09003itkfi,2862414,BTH_Clermont-Ferrand_2012_SetA1,49087,https://doi.org/10.15454/53EBXZ,EM09003,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+79,2,2862262,BTH_Clermont-Ferrand_2012_SetA1,49087,https://doi.org/10.15454/53EBXZ,EM09003,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+80,EM09003itknt,2862415,BTH_Clermont-Ferrand_2012_SetA1,49087,https://doi.org/10.15454/53EBXZ,EM09003,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+81,1,2862263,BTH_Clermont-Ferrand_2012_SetA1,49087,https://doi.org/10.15454/53EBXZ,EM09003,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+82,2,2862264,BTH_Clermont-Ferrand_2012_SetA1,49087,https://doi.org/10.15454/53EBXZ,EM09003,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+83,1,2862261,BTH_Clermont-Ferrand_2012_SetA1,49087,https://doi.org/10.15454/53EBXZ,EM09003,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+84,DI10001itkt,2862473,BTH_Clermont-Ferrand_2012_SetA1,48633,gnpis_pui:holding-921_taxon-4898_accession-48633,DI10001,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+85,DI10001itknt,2862472,BTH_Clermont-Ferrand_2012_SetA1,48633,gnpis_pui:holding-921_taxon-4898_accession-48633,DI10001,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+86,DI10001itkfi,2862471,BTH_Clermont-Ferrand_2012_SetA1,48633,gnpis_pui:holding-921_taxon-4898_accession-48633,DI10001,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+87,2,2862340,BTH_Clermont-Ferrand_2012_SetA1,48633,gnpis_pui:holding-921_taxon-4898_accession-48633,DI10001,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+88,1,2862337,BTH_Clermont-Ferrand_2012_SetA1,48633,gnpis_pui:holding-921_taxon-4898_accession-48633,DI10001,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+89,1,2862339,BTH_Clermont-Ferrand_2012_SetA1,48633,gnpis_pui:holding-921_taxon-4898_accession-48633,DI10001,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+90,2,2862338,BTH_Clermont-Ferrand_2012_SetA1,48633,gnpis_pui:holding-921_taxon-4898_accession-48633,DI10001,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+91,Apacheitknt,2862445,BTH_Clermont-Ferrand_2012_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+92,2,2862304,BTH_Clermont-Ferrand_2012_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+93,2,2862302,BTH_Clermont-Ferrand_2012_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+94,Apacheitkt,2862446,BTH_Clermont-Ferrand_2012_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+95,Apacheitkfi,2862444,BTH_Clermont-Ferrand_2012_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+96,1,2862303,BTH_Clermont-Ferrand_2012_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+97,1,2862301,BTH_Clermont-Ferrand_2012_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+98,Lyrikitknt,2862505,BTH_Clermont-Ferrand_2012_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+99,Lyrikitkfi,2862504,BTH_Clermont-Ferrand_2012_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+100,2,2862384,BTH_Clermont-Ferrand_2012_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+101,1,2862383,BTH_Clermont-Ferrand_2012_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+102,1,2862381,BTH_Clermont-Ferrand_2012_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+103,2,2862382,BTH_Clermont-Ferrand_2012_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+104,Lyrikitkt,2862506,BTH_Clermont-Ferrand_2012_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+105,Ghaytaitkt,2862488,BTH_Clermont-Ferrand_2012_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+106,Ghaytaitkfi,2862486,BTH_Clermont-Ferrand_2012_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+107,1,2862359,BTH_Clermont-Ferrand_2012_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+108,2,2862358,BTH_Clermont-Ferrand_2012_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+109,Ghaytaitknt,2862487,BTH_Clermont-Ferrand_2012_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+110,1,2862357,BTH_Clermont-Ferrand_2012_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+111,2,2862360,BTH_Clermont-Ferrand_2012_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+112,Grapeliitkfi,2862429,BTH_Clermont-Ferrand_2012_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+113,1,2862283,BTH_Clermont-Ferrand_2012_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+114,Grapeliitkt,2862431,BTH_Clermont-Ferrand_2012_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+115,Grapeliitknt,2862430,BTH_Clermont-Ferrand_2012_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+116,2,2862282,BTH_Clermont-Ferrand_2012_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+117,1,2862281,BTH_Clermont-Ferrand_2012_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+118,2,2862284,BTH_Clermont-Ferrand_2012_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+119,CF08027itknt,2862511,BTH_Clermont-Ferrand_2012_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+120,1,2862391,BTH_Clermont-Ferrand_2012_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+121,1,2862389,BTH_Clermont-Ferrand_2012_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+122,CF08027itkt,2862512,BTH_Clermont-Ferrand_2012_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+123,CF08027itkfi,2862510,BTH_Clermont-Ferrand_2012_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+124,2,2862392,BTH_Clermont-Ferrand_2012_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+125,2,2862390,BTH_Clermont-Ferrand_2012_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+126,Granamaxitkt,2862452,BTH_Clermont-Ferrand_2012_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+127,1,2862311,BTH_Clermont-Ferrand_2012_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+128,Granamaxitknt,2862451,BTH_Clermont-Ferrand_2012_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+129,2,2862310,BTH_Clermont-Ferrand_2012_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+130,2,2862312,BTH_Clermont-Ferrand_2012_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+131,Granamaxitkfi,2862450,BTH_Clermont-Ferrand_2012_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+132,1,2862309,BTH_Clermont-Ferrand_2012_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+133,AO11011itknt,2862454,BTH_Clermont-Ferrand_2012_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+134,1,2862315,BTH_Clermont-Ferrand_2012_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+135,2,2862314,BTH_Clermont-Ferrand_2012_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+136,AO11011itkfi,2862453,BTH_Clermont-Ferrand_2012_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+137,2,2862316,BTH_Clermont-Ferrand_2012_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+138,AO11011itkt,2862455,BTH_Clermont-Ferrand_2012_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+139,1,2862313,BTH_Clermont-Ferrand_2012_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+140,Gotikitkt,2862476,BTH_Clermont-Ferrand_2012_SetA1,49404,https://doi.org/10.15454/DILEEP,GOTIK,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+141,Gotikitknt,2862475,BTH_Clermont-Ferrand_2012_SetA1,49404,https://doi.org/10.15454/DILEEP,GOTIK,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+142,Gotikitkfi,2862474,BTH_Clermont-Ferrand_2012_SetA1,49404,https://doi.org/10.15454/DILEEP,GOTIK,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+143,2,2862342,BTH_Clermont-Ferrand_2012_SetA1,49404,https://doi.org/10.15454/DILEEP,GOTIK,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+144,1,2862341,BTH_Clermont-Ferrand_2012_SetA1,49404,https://doi.org/10.15454/DILEEP,GOTIK,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+145,2,2862344,BTH_Clermont-Ferrand_2012_SetA1,49404,https://doi.org/10.15454/DILEEP,GOTIK,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+146,1,2862343,BTH_Clermont-Ferrand_2012_SetA1,49404,https://doi.org/10.15454/DILEEP,GOTIK,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+147,Gallixeitkfi,2862492,BTH_Clermont-Ferrand_2012_SetA1,60702,https://doi.org/10.15454/BKJEDG,GALLIXE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+148,2,2862368,BTH_Clermont-Ferrand_2012_SetA1,60702,https://doi.org/10.15454/BKJEDG,GALLIXE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+149,2,2862366,BTH_Clermont-Ferrand_2012_SetA1,60702,https://doi.org/10.15454/BKJEDG,GALLIXE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+150,1,2862365,BTH_Clermont-Ferrand_2012_SetA1,60702,https://doi.org/10.15454/BKJEDG,GALLIXE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+151,Gallixeitkt,2862494,BTH_Clermont-Ferrand_2012_SetA1,60702,https://doi.org/10.15454/BKJEDG,GALLIXE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+152,Gallixeitknt,2862493,BTH_Clermont-Ferrand_2012_SetA1,60702,https://doi.org/10.15454/BKJEDG,GALLIXE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+153,1,2862367,BTH_Clermont-Ferrand_2012_SetA1,60702,https://doi.org/10.15454/BKJEDG,GALLIXE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+154,2,2862288,BTH_Clermont-Ferrand_2012_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+155,1,2862287,BTH_Clermont-Ferrand_2012_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+156,1,2862285,BTH_Clermont-Ferrand_2012_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+157,2,2862286,BTH_Clermont-Ferrand_2012_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+158,AO10013itkt,2862434,BTH_Clermont-Ferrand_2012_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+159,AO10013itknt,2862433,BTH_Clermont-Ferrand_2012_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+160,AO10013itkfi,2862432,BTH_Clermont-Ferrand_2012_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+161,AO11012itknt,2862403,BTH_Clermont-Ferrand_2012_SetA1,48904,https://doi.org/10.15454/QDMSRL,AO11012,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+162,2,2862248,BTH_Clermont-Ferrand_2012_SetA1,48904,https://doi.org/10.15454/QDMSRL,AO11012,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+163,2,2862246,BTH_Clermont-Ferrand_2012_SetA1,48904,https://doi.org/10.15454/QDMSRL,AO11012,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+164,AO11012itkfi,2862402,BTH_Clermont-Ferrand_2012_SetA1,48904,https://doi.org/10.15454/QDMSRL,AO11012,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+165,1,2862247,BTH_Clermont-Ferrand_2012_SetA1,48904,https://doi.org/10.15454/QDMSRL,AO11012,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+166,1,2862245,BTH_Clermont-Ferrand_2012_SetA1,48904,https://doi.org/10.15454/QDMSRL,AO11012,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+167,AO11012itkt,2862404,BTH_Clermont-Ferrand_2012_SetA1,48904,https://doi.org/10.15454/QDMSRL,AO11012,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+168,AO11013itknt,2862406,BTH_Clermont-Ferrand_2012_SetA1,49347,https://doi.org/10.15454/K3JAUB,AO11013,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+169,2,2862250,BTH_Clermont-Ferrand_2012_SetA1,49347,https://doi.org/10.15454/K3JAUB,AO11013,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+170,1,2862249,BTH_Clermont-Ferrand_2012_SetA1,49347,https://doi.org/10.15454/K3JAUB,AO11013,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+171,AO11013itkt,2862407,BTH_Clermont-Ferrand_2012_SetA1,49347,https://doi.org/10.15454/K3JAUB,AO11013,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+172,AO11013itkfi,2862405,BTH_Clermont-Ferrand_2012_SetA1,49347,https://doi.org/10.15454/K3JAUB,AO11013,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+173,2,2862252,BTH_Clermont-Ferrand_2012_SetA1,49347,https://doi.org/10.15454/K3JAUB,AO11013,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+174,1,2862251,BTH_Clermont-Ferrand_2012_SetA1,49347,https://doi.org/10.15454/K3JAUB,AO11013,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+175,1,2862333,BTH_Clermont-Ferrand_2012_SetA1,48888,https://doi.org/10.15454/2YKLGU,AO11014,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+176,AO11014itknt,2862469,BTH_Clermont-Ferrand_2012_SetA1,48888,https://doi.org/10.15454/2YKLGU,AO11014,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+177,AO11014itkfi,2862468,BTH_Clermont-Ferrand_2012_SetA1,48888,https://doi.org/10.15454/2YKLGU,AO11014,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+178,2,2862336,BTH_Clermont-Ferrand_2012_SetA1,48888,https://doi.org/10.15454/2YKLGU,AO11014,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+179,1,2862335,BTH_Clermont-Ferrand_2012_SetA1,48888,https://doi.org/10.15454/2YKLGU,AO11014,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+180,AO11014itkt,2862470,BTH_Clermont-Ferrand_2012_SetA1,48888,https://doi.org/10.15454/2YKLGU,AO11014,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+181,2,2862334,BTH_Clermont-Ferrand_2012_SetA1,48888,https://doi.org/10.15454/2YKLGU,AO11014,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+182,DI10001-2itkfi,2862489,BTH_Clermont-Ferrand_2012_SetA1,48666,https://doi.org/10.15454/MBT1YT,DI10001-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+183,1,2862363,BTH_Clermont-Ferrand_2012_SetA1,48666,https://doi.org/10.15454/MBT1YT,DI10001-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+184,2,2862362,BTH_Clermont-Ferrand_2012_SetA1,48666,https://doi.org/10.15454/MBT1YT,DI10001-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+185,DI10001-2itkt,2862491,BTH_Clermont-Ferrand_2012_SetA1,48666,https://doi.org/10.15454/MBT1YT,DI10001-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+186,DI10001-2itknt,2862490,BTH_Clermont-Ferrand_2012_SetA1,48666,https://doi.org/10.15454/MBT1YT,DI10001-2,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+187,2,2862364,BTH_Clermont-Ferrand_2012_SetA1,48666,https://doi.org/10.15454/MBT1YT,DI10001-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+188,1,2862361,BTH_Clermont-Ferrand_2012_SetA1,48666,https://doi.org/10.15454/MBT1YT,DI10001-2,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+189,EM09320itknt,2862409,BTH_Clermont-Ferrand_2012_SetA1,48354,https://doi.org/10.15454/V82MUD,EM09320,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+190,2,2862254,BTH_Clermont-Ferrand_2012_SetA1,48354,https://doi.org/10.15454/V82MUD,EM09320,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+191,1,2862255,BTH_Clermont-Ferrand_2012_SetA1,48354,https://doi.org/10.15454/V82MUD,EM09320,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+192,EM09320itkt,2862410,BTH_Clermont-Ferrand_2012_SetA1,48354,https://doi.org/10.15454/V82MUD,EM09320,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+193,1,2862253,BTH_Clermont-Ferrand_2012_SetA1,48354,https://doi.org/10.15454/V82MUD,EM09320,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+194,EM09320itkfi,2862408,BTH_Clermont-Ferrand_2012_SetA1,48354,https://doi.org/10.15454/V82MUD,EM09320,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+195,2,2862256,BTH_Clermont-Ferrand_2012_SetA1,48354,https://doi.org/10.15454/V82MUD,EM09320,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+196,EM07117itkt,2862428,BTH_Clermont-Ferrand_2012_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+197,2,2862280,BTH_Clermont-Ferrand_2012_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+198,2,2862278,BTH_Clermont-Ferrand_2012_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+199,1,2862279,BTH_Clermont-Ferrand_2012_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+200,1,2862277,BTH_Clermont-Ferrand_2012_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+201,EM07117itknt,2862427,BTH_Clermont-Ferrand_2012_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+202,EM07117itkfi,2862426,BTH_Clermont-Ferrand_2012_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+203,CF09169itkfi,2862435,BTH_Clermont-Ferrand_2012_SetA1,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+204,1,2862291,BTH_Clermont-Ferrand_2012_SetA1,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+205,2,2862290,BTH_Clermont-Ferrand_2012_SetA1,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+206,CF09169itkt,2862437,BTH_Clermont-Ferrand_2012_SetA1,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+207,CF09169itknt,2862436,BTH_Clermont-Ferrand_2012_SetA1,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+208,1,2862289,BTH_Clermont-Ferrand_2012_SetA1,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+209,2,2862292,BTH_Clermont-Ferrand_2012_SetA1,48637,https://doi.org/10.15454/PVGZIK,CF09169,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+210,DI10011itkfi,2862399,BTH_Clermont-Ferrand_2012_SetA1,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+211,2,2862242,BTH_Clermont-Ferrand_2012_SetA1,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+212,DI10011itkt,2862401,BTH_Clermont-Ferrand_2012_SetA1,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+213,DI10011itknt,2862400,BTH_Clermont-Ferrand_2012_SetA1,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+214,2,2862244,BTH_Clermont-Ferrand_2012_SetA1,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+215,1,2862243,BTH_Clermont-Ferrand_2012_SetA1,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+216,1,2862241,BTH_Clermont-Ferrand_2012_SetA1,49216,https://doi.org/10.15454/HTBFFE,DI10011,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+217,EM09318itknt,2862448,BTH_Clermont-Ferrand_2012_SetA1,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+218,1,2862307,BTH_Clermont-Ferrand_2012_SetA1,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+219,EM09318itkt,2862449,BTH_Clermont-Ferrand_2012_SetA1,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+220,2,2862308,BTH_Clermont-Ferrand_2012_SetA1,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+221,1,2862305,BTH_Clermont-Ferrand_2012_SetA1,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+222,EM09318itkfi,2862447,BTH_Clermont-Ferrand_2012_SetA1,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+223,2,2862306,BTH_Clermont-Ferrand_2012_SetA1,48847,https://doi.org/10.15454/BPR93C,EM09318,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+224,1,2862375,BTH_Clermont-Ferrand_2012_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+225,Soissonsitkfi,2862498,BTH_Clermont-Ferrand_2012_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+226,1,2862373,BTH_Clermont-Ferrand_2012_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+227,2,2862374,BTH_Clermont-Ferrand_2012_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+228,Soissonsitkt,2862500,BTH_Clermont-Ferrand_2012_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+229,2,2862376,BTH_Clermont-Ferrand_2012_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+230,Soissonsitknt,2862499,BTH_Clermont-Ferrand_2012_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+231,Altigoitkt,2862461,BTH_Clermont-Ferrand_2012_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+232,2,2862324,BTH_Clermont-Ferrand_2012_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+233,2,2862322,BTH_Clermont-Ferrand_2012_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+234,Altigoitknt,2862460,BTH_Clermont-Ferrand_2012_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+235,Altigoitkfi,2862459,BTH_Clermont-Ferrand_2012_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+236,1,2862323,BTH_Clermont-Ferrand_2012_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+237,1,2862321,BTH_Clermont-Ferrand_2012_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+238,Bermudeitknt,2862424,BTH_Clermont-Ferrand_2012_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+239,Bermudeitkt,2862425,BTH_Clermont-Ferrand_2012_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+240,Bermudeitkfi,2862423,BTH_Clermont-Ferrand_2012_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+241,2,2862276,BTH_Clermont-Ferrand_2012_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+242,2,2862274,BTH_Clermont-Ferrand_2012_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+243,1,2862273,BTH_Clermont-Ferrand_2012_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+244,1,2862275,BTH_Clermont-Ferrand_2012_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+245,2,2862326,BTH_Clermont-Ferrand_2012_SetA1,48474,https://doi.org/10.15454/72RLFQ,AO11001,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+246,AO11001itkt,2862464,BTH_Clermont-Ferrand_2012_SetA1,48474,https://doi.org/10.15454/72RLFQ,AO11001,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+247,1,2862327,BTH_Clermont-Ferrand_2012_SetA1,48474,https://doi.org/10.15454/72RLFQ,AO11001,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+248,1,2862325,BTH_Clermont-Ferrand_2012_SetA1,48474,https://doi.org/10.15454/72RLFQ,AO11001,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+249,AO11001itknt,2862463,BTH_Clermont-Ferrand_2012_SetA1,48474,https://doi.org/10.15454/72RLFQ,AO11001,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+250,AO11001itkfi,2862462,BTH_Clermont-Ferrand_2012_SetA1,48474,https://doi.org/10.15454/72RLFQ,AO11001,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+251,2,2862328,BTH_Clermont-Ferrand_2012_SetA1,48474,https://doi.org/10.15454/72RLFQ,AO11001,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+252,2,2862332,BTH_Clermont-Ferrand_2012_SetA1,48844,https://doi.org/10.15454/IYISPL,AO11002,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+253,1,2862331,BTH_Clermont-Ferrand_2012_SetA1,48844,https://doi.org/10.15454/IYISPL,AO11002,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+254,2,2862330,BTH_Clermont-Ferrand_2012_SetA1,48844,https://doi.org/10.15454/IYISPL,AO11002,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+255,1,2862329,BTH_Clermont-Ferrand_2012_SetA1,48844,https://doi.org/10.15454/IYISPL,AO11002,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+256,AO11002itkt,2862467,BTH_Clermont-Ferrand_2012_SetA1,48844,https://doi.org/10.15454/IYISPL,AO11002,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+257,AO11002itknt,2862466,BTH_Clermont-Ferrand_2012_SetA1,48844,https://doi.org/10.15454/IYISPL,AO11002,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+258,AO11002itkfi,2862465,BTH_Clermont-Ferrand_2012_SetA1,48844,https://doi.org/10.15454/IYISPL,AO11002,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+259,AO11005itknt,2862442,BTH_Clermont-Ferrand_2012_SetA1,49011,https://doi.org/10.15454/08Z5FH,AO11005,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+260,AO11005itkfi,2862441,BTH_Clermont-Ferrand_2012_SetA1,49011,https://doi.org/10.15454/08Z5FH,AO11005,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+261,2,2862300,BTH_Clermont-Ferrand_2012_SetA1,49011,https://doi.org/10.15454/08Z5FH,AO11005,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+262,1,2862299,BTH_Clermont-Ferrand_2012_SetA1,49011,https://doi.org/10.15454/08Z5FH,AO11005,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+263,1,2862297,BTH_Clermont-Ferrand_2012_SetA1,49011,https://doi.org/10.15454/08Z5FH,AO11005,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+264,AO11005itkt,2862443,BTH_Clermont-Ferrand_2012_SetA1,49011,https://doi.org/10.15454/08Z5FH,AO11005,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+265,2,2862298,BTH_Clermont-Ferrand_2012_SetA1,49011,https://doi.org/10.15454/08Z5FH,AO11005,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+266,EM09221itkt,2862485,BTH_Clermont-Ferrand_2012_SetA1,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+267,2,2862354,BTH_Clermont-Ferrand_2012_SetA1,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+268,EM09221itkfi,2862483,BTH_Clermont-Ferrand_2012_SetA1,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+269,2,2862356,BTH_Clermont-Ferrand_2012_SetA1,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+270,EM09221itknt,2862484,BTH_Clermont-Ferrand_2012_SetA1,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+271,1,2862355,BTH_Clermont-Ferrand_2012_SetA1,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+272,1,2862353,BTH_Clermont-Ferrand_2012_SetA1,49495,https://doi.org/10.15454/CZHVWO,EM09221,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+273,EM09222itkt,2862482,BTH_Clermont-Ferrand_2012_SetA1,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+274,EM09222itknt,2862481,BTH_Clermont-Ferrand_2012_SetA1,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+275,1,2862349,BTH_Clermont-Ferrand_2012_SetA1,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+276,EM09222itkfi,2862480,BTH_Clermont-Ferrand_2012_SetA1,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Clermont-Ferrand_2012_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+277,2,2862352,BTH_Clermont-Ferrand_2012_SetA1,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+278,2,2862350,BTH_Clermont-Ferrand_2012_SetA1,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+279,1,2862351,BTH_Clermont-Ferrand_2012_SetA1,48955,https://doi.org/10.15454/A78B2Q,EM09222,BTH_Clermont-Ferrand_2012_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated

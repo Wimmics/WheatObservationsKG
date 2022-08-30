@@ -1,0 +1,265 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,EM02054itkt,2790740,BTH_Orgeval_2003_SetB2,26805,https://doi.org/10.15454/A80GXX,EM02054,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+1,EM02054itknt,2790739,BTH_Orgeval_2003_SetB2,26805,https://doi.org/10.15454/A80GXX,EM02054,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+2,1,2790609,BTH_Orgeval_2003_SetB2,26805,https://doi.org/10.15454/A80GXX,EM02054,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+3,2,2790610,BTH_Orgeval_2003_SetB2,26805,https://doi.org/10.15454/A80GXX,EM02054,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+4,2,2790612,BTH_Orgeval_2003_SetB2,26805,https://doi.org/10.15454/A80GXX,EM02054,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+5,1,2790611,BTH_Orgeval_2003_SetB2,26805,https://doi.org/10.15454/A80GXX,EM02054,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+6,1,2790585,BTH_Orgeval_2003_SetB2,48634,gnpis_pui:holding-921_taxon-4898_accession-48634,EM02069,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+7,EM02069itkt,2790728,BTH_Orgeval_2003_SetB2,48634,gnpis_pui:holding-921_taxon-4898_accession-48634,EM02069,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+8,2,2790588,BTH_Orgeval_2003_SetB2,48634,gnpis_pui:holding-921_taxon-4898_accession-48634,EM02069,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+9,1,2790587,BTH_Orgeval_2003_SetB2,48634,gnpis_pui:holding-921_taxon-4898_accession-48634,EM02069,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+10,EM02069itknt,2790727,BTH_Orgeval_2003_SetB2,48634,gnpis_pui:holding-921_taxon-4898_accession-48634,EM02069,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+11,2,2790586,BTH_Orgeval_2003_SetB2,48634,gnpis_pui:holding-921_taxon-4898_accession-48634,EM02069,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+12,DI03018itknt,2790695,BTH_Orgeval_2003_SetB2,48463,gnpis_pui:holding-921_taxon-4898_accession-48463,DI03018,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+13,2,2790524,BTH_Orgeval_2003_SetB2,48463,gnpis_pui:holding-921_taxon-4898_accession-48463,DI03018,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+14,2,2790522,BTH_Orgeval_2003_SetB2,48463,gnpis_pui:holding-921_taxon-4898_accession-48463,DI03018,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+15,DI03018itkt,2790696,BTH_Orgeval_2003_SetB2,48463,gnpis_pui:holding-921_taxon-4898_accession-48463,DI03018,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+16,1,2790523,BTH_Orgeval_2003_SetB2,48463,gnpis_pui:holding-921_taxon-4898_accession-48463,DI03018,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+17,1,2790521,BTH_Orgeval_2003_SetB2,48463,gnpis_pui:holding-921_taxon-4898_accession-48463,DI03018,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+18,CF02045itkt,2790702,BTH_Orgeval_2003_SetB2,49486,gnpis_pui:holding-921_taxon-4898_accession-49486,CF02045,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+19,CF02045itknt,2790701,BTH_Orgeval_2003_SetB2,49486,gnpis_pui:holding-921_taxon-4898_accession-49486,CF02045,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+20,1,2790535,BTH_Orgeval_2003_SetB2,49486,gnpis_pui:holding-921_taxon-4898_accession-49486,CF02045,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+21,2,2790536,BTH_Orgeval_2003_SetB2,49486,gnpis_pui:holding-921_taxon-4898_accession-49486,CF02045,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+22,2,2790534,BTH_Orgeval_2003_SetB2,49486,gnpis_pui:holding-921_taxon-4898_accession-49486,CF02045,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+23,1,2790533,BTH_Orgeval_2003_SetB2,49486,gnpis_pui:holding-921_taxon-4898_accession-49486,CF02045,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+24,2,2790644,BTH_Orgeval_2003_SetB2,49504,gnpis_pui:holding-921_taxon-4898_accession-49504,CF02097,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+25,1,2790641,BTH_Orgeval_2003_SetB2,49504,gnpis_pui:holding-921_taxon-4898_accession-49504,CF02097,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+26,CF02097itknt,2790755,BTH_Orgeval_2003_SetB2,49504,gnpis_pui:holding-921_taxon-4898_accession-49504,CF02097,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+27,CF02097itkt,2790756,BTH_Orgeval_2003_SetB2,49504,gnpis_pui:holding-921_taxon-4898_accession-49504,CF02097,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+28,1,2790643,BTH_Orgeval_2003_SetB2,49504,gnpis_pui:holding-921_taxon-4898_accession-49504,CF02097,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+29,2,2790642,BTH_Orgeval_2003_SetB2,49504,gnpis_pui:holding-921_taxon-4898_accession-49504,CF02097,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+30,DI03009itkt,2790742,BTH_Orgeval_2003_SetB2,48976,gnpis_pui:holding-921_taxon-4898_accession-48976,DI03009,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+31,2,2790616,BTH_Orgeval_2003_SetB2,48976,gnpis_pui:holding-921_taxon-4898_accession-48976,DI03009,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+32,1,2790613,BTH_Orgeval_2003_SetB2,48976,gnpis_pui:holding-921_taxon-4898_accession-48976,DI03009,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+33,DI03009itknt,2790741,BTH_Orgeval_2003_SetB2,48976,gnpis_pui:holding-921_taxon-4898_accession-48976,DI03009,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+34,1,2790615,BTH_Orgeval_2003_SetB2,48976,gnpis_pui:holding-921_taxon-4898_accession-48976,DI03009,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+35,2,2790614,BTH_Orgeval_2003_SetB2,48976,gnpis_pui:holding-921_taxon-4898_accession-48976,DI03009,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+36,DI03017itknt,2790709,BTH_Orgeval_2003_SetB2,49292,gnpis_pui:holding-921_taxon-4898_accession-49292,DI03017,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+37,2,2790552,BTH_Orgeval_2003_SetB2,49292,gnpis_pui:holding-921_taxon-4898_accession-49292,DI03017,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+38,1,2790551,BTH_Orgeval_2003_SetB2,49292,gnpis_pui:holding-921_taxon-4898_accession-49292,DI03017,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+39,DI03017itkt,2790710,BTH_Orgeval_2003_SetB2,49292,gnpis_pui:holding-921_taxon-4898_accession-49292,DI03017,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+40,2,2790550,BTH_Orgeval_2003_SetB2,49292,gnpis_pui:holding-921_taxon-4898_accession-49292,DI03017,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+41,1,2790549,BTH_Orgeval_2003_SetB2,49292,gnpis_pui:holding-921_taxon-4898_accession-49292,DI03017,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+42,DI03014itknt,2790711,BTH_Orgeval_2003_SetB2,49293,gnpis_pui:holding-921_taxon-4898_accession-49293,DI03014,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+43,2,2790556,BTH_Orgeval_2003_SetB2,49293,gnpis_pui:holding-921_taxon-4898_accession-49293,DI03014,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+44,1,2790553,BTH_Orgeval_2003_SetB2,49293,gnpis_pui:holding-921_taxon-4898_accession-49293,DI03014,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+45,DI03014itkt,2790712,BTH_Orgeval_2003_SetB2,49293,gnpis_pui:holding-921_taxon-4898_accession-49293,DI03014,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+46,1,2790555,BTH_Orgeval_2003_SetB2,49293,gnpis_pui:holding-921_taxon-4898_accession-49293,DI03014,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+47,2,2790554,BTH_Orgeval_2003_SetB2,49293,gnpis_pui:holding-921_taxon-4898_accession-49293,DI03014,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+48,2,2790620,BTH_Orgeval_2003_SetB2,49244,gnpis_pui:holding-921_taxon-4898_accession-49244,CF02139,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+49,1,2790619,BTH_Orgeval_2003_SetB2,49244,gnpis_pui:holding-921_taxon-4898_accession-49244,CF02139,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+50,1,2790617,BTH_Orgeval_2003_SetB2,49244,gnpis_pui:holding-921_taxon-4898_accession-49244,CF02139,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+51,CF02139itknt,2790743,BTH_Orgeval_2003_SetB2,49244,gnpis_pui:holding-921_taxon-4898_accession-49244,CF02139,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+52,2,2790618,BTH_Orgeval_2003_SetB2,49244,gnpis_pui:holding-921_taxon-4898_accession-49244,CF02139,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+53,CF02139itkt,2790744,BTH_Orgeval_2003_SetB2,49244,gnpis_pui:holding-921_taxon-4898_accession-49244,CF02139,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+54,2,2790648,BTH_Orgeval_2003_SetB2,49287,gnpis_pui:holding-921_taxon-4898_accession-49287,CF02096,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+55,1,2790647,BTH_Orgeval_2003_SetB2,49287,gnpis_pui:holding-921_taxon-4898_accession-49287,CF02096,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+56,2,2790646,BTH_Orgeval_2003_SetB2,49287,gnpis_pui:holding-921_taxon-4898_accession-49287,CF02096,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+57,CF02096itkt,2790758,BTH_Orgeval_2003_SetB2,49287,gnpis_pui:holding-921_taxon-4898_accession-49287,CF02096,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+58,1,2790645,BTH_Orgeval_2003_SetB2,49287,gnpis_pui:holding-921_taxon-4898_accession-49287,CF02096,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+59,CF02096itknt,2790757,BTH_Orgeval_2003_SetB2,49287,gnpis_pui:holding-921_taxon-4898_accession-49287,CF02096,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+60,DI03010itkt,2790704,BTH_Orgeval_2003_SetB2,49346,gnpis_pui:holding-921_taxon-4898_accession-49346,DI03010,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+61,2,2790538,BTH_Orgeval_2003_SetB2,49346,gnpis_pui:holding-921_taxon-4898_accession-49346,DI03010,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+62,2,2790540,BTH_Orgeval_2003_SetB2,49346,gnpis_pui:holding-921_taxon-4898_accession-49346,DI03010,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+63,1,2790539,BTH_Orgeval_2003_SetB2,49346,gnpis_pui:holding-921_taxon-4898_accession-49346,DI03010,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+64,DI03010itknt,2790703,BTH_Orgeval_2003_SetB2,49346,gnpis_pui:holding-921_taxon-4898_accession-49346,DI03010,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+65,1,2790537,BTH_Orgeval_2003_SetB2,49346,gnpis_pui:holding-921_taxon-4898_accession-49346,DI03010,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+66,2,2790630,BTH_Orgeval_2003_SetB2,48547,gnpis_pui:holding-921_taxon-4898_accession-48547,CF02098,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+67,1,2790629,BTH_Orgeval_2003_SetB2,48547,gnpis_pui:holding-921_taxon-4898_accession-48547,CF02098,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+68,CF02098itknt,2790749,BTH_Orgeval_2003_SetB2,48547,gnpis_pui:holding-921_taxon-4898_accession-48547,CF02098,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+69,1,2790631,BTH_Orgeval_2003_SetB2,48547,gnpis_pui:holding-921_taxon-4898_accession-48547,CF02098,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+70,CF02098itkt,2790750,BTH_Orgeval_2003_SetB2,48547,gnpis_pui:holding-921_taxon-4898_accession-48547,CF02098,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+71,2,2790632,BTH_Orgeval_2003_SetB2,48547,gnpis_pui:holding-921_taxon-4898_accession-48547,CF02098,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+72,CF02033itknt,2790735,BTH_Orgeval_2003_SetB2,48585,gnpis_pui:holding-921_taxon-4898_accession-48585,CF02033,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+73,1,2790603,BTH_Orgeval_2003_SetB2,48585,gnpis_pui:holding-921_taxon-4898_accession-48585,CF02033,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+74,1,2790601,BTH_Orgeval_2003_SetB2,48585,gnpis_pui:holding-921_taxon-4898_accession-48585,CF02033,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+75,2,2790602,BTH_Orgeval_2003_SetB2,48585,gnpis_pui:holding-921_taxon-4898_accession-48585,CF02033,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+76,CF02033itkt,2790736,BTH_Orgeval_2003_SetB2,48585,gnpis_pui:holding-921_taxon-4898_accession-48585,CF02033,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+77,2,2790604,BTH_Orgeval_2003_SetB2,48585,gnpis_pui:holding-921_taxon-4898_accession-48585,CF02033,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+78,Apacheitkt,2790734,BTH_Orgeval_2003_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+79,Apacheitknt,2790733,BTH_Orgeval_2003_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+80,2,2790598,BTH_Orgeval_2003_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+81,1,2790599,BTH_Orgeval_2003_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+82,1,2790597,BTH_Orgeval_2003_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+83,2,2790600,BTH_Orgeval_2003_SetB2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+84,1,2790607,BTH_Orgeval_2003_SetB2,48658,gnpis_pui:holding-921_taxon-4898_accession-48658,EM02120,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+85,1,2790605,BTH_Orgeval_2003_SetB2,48658,gnpis_pui:holding-921_taxon-4898_accession-48658,EM02120,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+86,EM02120itkt,2790738,BTH_Orgeval_2003_SetB2,48658,gnpis_pui:holding-921_taxon-4898_accession-48658,EM02120,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+87,2,2790608,BTH_Orgeval_2003_SetB2,48658,gnpis_pui:holding-921_taxon-4898_accession-48658,EM02120,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+88,EM02120itknt,2790737,BTH_Orgeval_2003_SetB2,48658,gnpis_pui:holding-921_taxon-4898_accession-48658,EM02120,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+89,2,2790606,BTH_Orgeval_2003_SetB2,48658,gnpis_pui:holding-921_taxon-4898_accession-48658,EM02120,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+90,2,2790592,BTH_Orgeval_2003_SetB2,48897,gnpis_pui:holding-921_taxon-4898_accession-48897,EM02018,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+91,2,2790590,BTH_Orgeval_2003_SetB2,48897,gnpis_pui:holding-921_taxon-4898_accession-48897,EM02018,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+92,1,2790589,BTH_Orgeval_2003_SetB2,48897,gnpis_pui:holding-921_taxon-4898_accession-48897,EM02018,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+93,EM02018itkt,2790730,BTH_Orgeval_2003_SetB2,48897,gnpis_pui:holding-921_taxon-4898_accession-48897,EM02018,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+94,EM02018itknt,2790729,BTH_Orgeval_2003_SetB2,48897,gnpis_pui:holding-921_taxon-4898_accession-48897,EM02018,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+95,1,2790591,BTH_Orgeval_2003_SetB2,48897,gnpis_pui:holding-921_taxon-4898_accession-48897,EM02018,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+96,EM02024itkt,2790760,BTH_Orgeval_2003_SetB2,26410,https://doi.org/10.15454/XJYZVF,EM02024,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+97,EM02024itknt,2790759,BTH_Orgeval_2003_SetB2,26410,https://doi.org/10.15454/XJYZVF,EM02024,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+98,2,2790652,BTH_Orgeval_2003_SetB2,26410,https://doi.org/10.15454/XJYZVF,EM02024,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+99,2,2790650,BTH_Orgeval_2003_SetB2,26410,https://doi.org/10.15454/XJYZVF,EM02024,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+100,1,2790649,BTH_Orgeval_2003_SetB2,26410,https://doi.org/10.15454/XJYZVF,EM02024,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+101,1,2790651,BTH_Orgeval_2003_SetB2,26410,https://doi.org/10.15454/XJYZVF,EM02024,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+102,EM02096itknt,2790717,BTH_Orgeval_2003_SetB2,26413,https://doi.org/10.15454/T6MNTV,EM02096,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+103,1,2790567,BTH_Orgeval_2003_SetB2,26413,https://doi.org/10.15454/T6MNTV,EM02096,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+104,2,2790566,BTH_Orgeval_2003_SetB2,26413,https://doi.org/10.15454/T6MNTV,EM02096,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+105,1,2790565,BTH_Orgeval_2003_SetB2,26413,https://doi.org/10.15454/T6MNTV,EM02096,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+106,EM02096itkt,2790718,BTH_Orgeval_2003_SetB2,26413,https://doi.org/10.15454/T6MNTV,EM02096,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+107,2,2790568,BTH_Orgeval_2003_SetB2,26413,https://doi.org/10.15454/T6MNTV,EM02096,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+108,Chargeritkt,2790746,BTH_Orgeval_2003_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+109,2,2790624,BTH_Orgeval_2003_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+110,2,2790622,BTH_Orgeval_2003_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+111,1,2790623,BTH_Orgeval_2003_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+112,1,2790621,BTH_Orgeval_2003_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+113,Chargeritknt,2790745,BTH_Orgeval_2003_SetB2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+114,CF02326itkt,2790698,BTH_Orgeval_2003_SetB2,49731,gnpis_pui:holding-921_taxon-4898_accession-49731,CF02326,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+115,1,2790527,BTH_Orgeval_2003_SetB2,49731,gnpis_pui:holding-921_taxon-4898_accession-49731,CF02326,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+116,CF02326itknt,2790697,BTH_Orgeval_2003_SetB2,49731,gnpis_pui:holding-921_taxon-4898_accession-49731,CF02326,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+117,1,2790525,BTH_Orgeval_2003_SetB2,49731,gnpis_pui:holding-921_taxon-4898_accession-49731,CF02326,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+118,2,2790528,BTH_Orgeval_2003_SetB2,49731,gnpis_pui:holding-921_taxon-4898_accession-49731,CF02326,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+119,2,2790526,BTH_Orgeval_2003_SetB2,49731,gnpis_pui:holding-921_taxon-4898_accession-49731,CF02326,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+120,DI03011itknt,2790705,BTH_Orgeval_2003_SetB2,26428,https://doi.org/10.15454/QSCEEU,DI03011,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+121,2,2790542,BTH_Orgeval_2003_SetB2,26428,https://doi.org/10.15454/QSCEEU,DI03011,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+122,DI03011itkt,2790706,BTH_Orgeval_2003_SetB2,26428,https://doi.org/10.15454/QSCEEU,DI03011,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+123,2,2790544,BTH_Orgeval_2003_SetB2,26428,https://doi.org/10.15454/QSCEEU,DI03011,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+124,1,2790543,BTH_Orgeval_2003_SetB2,26428,https://doi.org/10.15454/QSCEEU,DI03011,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+125,1,2790541,BTH_Orgeval_2003_SetB2,26428,https://doi.org/10.15454/QSCEEU,DI03011,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+126,EM02065itkt,2790748,BTH_Orgeval_2003_SetB2,26412,https://doi.org/10.15454/8UNSOD,EM02065,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+127,EM02065itknt,2790747,BTH_Orgeval_2003_SetB2,26412,https://doi.org/10.15454/8UNSOD,EM02065,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+128,2,2790628,BTH_Orgeval_2003_SetB2,26412,https://doi.org/10.15454/8UNSOD,EM02065,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+129,1,2790625,BTH_Orgeval_2003_SetB2,26412,https://doi.org/10.15454/8UNSOD,EM02065,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+130,1,2790627,BTH_Orgeval_2003_SetB2,26412,https://doi.org/10.15454/8UNSOD,EM02065,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+131,2,2790626,BTH_Orgeval_2003_SetB2,26412,https://doi.org/10.15454/8UNSOD,EM02065,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+132,1,2790687,BTH_Orgeval_2003_SetB2,26411,https://doi.org/10.15454/CYWIQW,EM02026,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+133,1,2790685,BTH_Orgeval_2003_SetB2,26411,https://doi.org/10.15454/CYWIQW,EM02026,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+134,EM02026itkt,2790778,BTH_Orgeval_2003_SetB2,26411,https://doi.org/10.15454/CYWIQW,EM02026,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+135,2,2790688,BTH_Orgeval_2003_SetB2,26411,https://doi.org/10.15454/CYWIQW,EM02026,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+136,2,2790686,BTH_Orgeval_2003_SetB2,26411,https://doi.org/10.15454/CYWIQW,EM02026,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+137,EM02026itknt,2790777,BTH_Orgeval_2003_SetB2,26411,https://doi.org/10.15454/CYWIQW,EM02026,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+138,DI03012itknt,2790699,BTH_Orgeval_2003_SetB2,26429,https://doi.org/10.15454/FOQIZY,DI03012,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+139,2,2790532,BTH_Orgeval_2003_SetB2,26429,https://doi.org/10.15454/FOQIZY,DI03012,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+140,2,2790530,BTH_Orgeval_2003_SetB2,26429,https://doi.org/10.15454/FOQIZY,DI03012,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+141,1,2790531,BTH_Orgeval_2003_SetB2,26429,https://doi.org/10.15454/FOQIZY,DI03012,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+142,1,2790529,BTH_Orgeval_2003_SetB2,26429,https://doi.org/10.15454/FOQIZY,DI03012,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+143,DI03012itkt,2790700,BTH_Orgeval_2003_SetB2,26429,https://doi.org/10.15454/FOQIZY,DI03012,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+144,2,2790674,BTH_Orgeval_2003_SetB2,26793,https://doi.org/10.15454/0WBMV0,CF01046,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+145,1,2790675,BTH_Orgeval_2003_SetB2,26793,https://doi.org/10.15454/0WBMV0,CF01046,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+146,CF01046itkt,2790772,BTH_Orgeval_2003_SetB2,26793,https://doi.org/10.15454/0WBMV0,CF01046,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+147,2,2790676,BTH_Orgeval_2003_SetB2,26793,https://doi.org/10.15454/0WBMV0,CF01046,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+148,1,2790673,BTH_Orgeval_2003_SetB2,26793,https://doi.org/10.15454/0WBMV0,CF01046,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+149,CF01046itknt,2790771,BTH_Orgeval_2003_SetB2,26793,https://doi.org/10.15454/0WBMV0,CF01046,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+150,CF01014itkt,2790716,BTH_Orgeval_2003_SetB2,26418,https://doi.org/10.15454/QCJETR,CF01014,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+151,CF01014itknt,2790715,BTH_Orgeval_2003_SetB2,26418,https://doi.org/10.15454/QCJETR,CF01014,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+152,1,2790563,BTH_Orgeval_2003_SetB2,26418,https://doi.org/10.15454/QCJETR,CF01014,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+153,2,2790562,BTH_Orgeval_2003_SetB2,26418,https://doi.org/10.15454/QCJETR,CF01014,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+154,1,2790561,BTH_Orgeval_2003_SetB2,26418,https://doi.org/10.15454/QCJETR,CF01014,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+155,2,2790564,BTH_Orgeval_2003_SetB2,26418,https://doi.org/10.15454/QCJETR,CF01014,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+156,2,2790638,BTH_Orgeval_2003_SetB2,26419,https://doi.org/10.15454/KRA5IT,CF02092,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+157,1,2790637,BTH_Orgeval_2003_SetB2,26419,https://doi.org/10.15454/KRA5IT,CF02092,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+158,CF02092itknt,2790753,BTH_Orgeval_2003_SetB2,26419,https://doi.org/10.15454/KRA5IT,CF02092,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+159,1,2790639,BTH_Orgeval_2003_SetB2,26419,https://doi.org/10.15454/KRA5IT,CF02092,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+160,2,2790640,BTH_Orgeval_2003_SetB2,26419,https://doi.org/10.15454/KRA5IT,CF02092,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+161,CF02092itkt,2790754,BTH_Orgeval_2003_SetB2,26419,https://doi.org/10.15454/KRA5IT,CF02092,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+162,1,2790577,BTH_Orgeval_2003_SetB2,48411,gnpis_pui:holding-921_taxon-4898_accession-48411,RE02005,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+163,RE02005itknt,2790723,BTH_Orgeval_2003_SetB2,48411,gnpis_pui:holding-921_taxon-4898_accession-48411,RE02005,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+164,2,2790580,BTH_Orgeval_2003_SetB2,48411,gnpis_pui:holding-921_taxon-4898_accession-48411,RE02005,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+165,1,2790579,BTH_Orgeval_2003_SetB2,48411,gnpis_pui:holding-921_taxon-4898_accession-48411,RE02005,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+166,RE02005itkt,2790724,BTH_Orgeval_2003_SetB2,48411,gnpis_pui:holding-921_taxon-4898_accession-48411,RE02005,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+167,2,2790578,BTH_Orgeval_2003_SetB2,48411,gnpis_pui:holding-921_taxon-4898_accession-48411,RE02005,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+168,1,2790583,BTH_Orgeval_2003_SetB2,49283,gnpis_pui:holding-921_taxon-4898_accession-49283,EM02013,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+169,EM02013itkt,2790726,BTH_Orgeval_2003_SetB2,49283,gnpis_pui:holding-921_taxon-4898_accession-49283,EM02013,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+170,2,2790584,BTH_Orgeval_2003_SetB2,49283,gnpis_pui:holding-921_taxon-4898_accession-49283,EM02013,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+171,2,2790582,BTH_Orgeval_2003_SetB2,49283,gnpis_pui:holding-921_taxon-4898_accession-49283,EM02013,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+172,EM02013itknt,2790725,BTH_Orgeval_2003_SetB2,49283,gnpis_pui:holding-921_taxon-4898_accession-49283,EM02013,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+173,1,2790581,BTH_Orgeval_2003_SetB2,49283,gnpis_pui:holding-921_taxon-4898_accession-49283,EM02013,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+174,EM02121itkt,2790722,BTH_Orgeval_2003_SetB2,49449,gnpis_pui:holding-921_taxon-4898_accession-49449,EM02121,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+175,2,2790576,BTH_Orgeval_2003_SetB2,49449,gnpis_pui:holding-921_taxon-4898_accession-49449,EM02121,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+176,2,2790574,BTH_Orgeval_2003_SetB2,49449,gnpis_pui:holding-921_taxon-4898_accession-49449,EM02121,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+177,1,2790575,BTH_Orgeval_2003_SetB2,49449,gnpis_pui:holding-921_taxon-4898_accession-49449,EM02121,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+178,EM02121itknt,2790721,BTH_Orgeval_2003_SetB2,49449,gnpis_pui:holding-921_taxon-4898_accession-49449,EM02121,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+179,1,2790573,BTH_Orgeval_2003_SetB2,49449,gnpis_pui:holding-921_taxon-4898_accession-49449,EM02121,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+180,2,2790684,BTH_Orgeval_2003_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+181,Soissonsitkt,2790776,BTH_Orgeval_2003_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+182,Soissonsitknt,2790775,BTH_Orgeval_2003_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+183,1,2790681,BTH_Orgeval_2003_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+184,1,2790683,BTH_Orgeval_2003_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+185,2,2790682,BTH_Orgeval_2003_SetB2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+186,Isengrainitkt,2790768,BTH_Orgeval_2003_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+187,2,2790668,BTH_Orgeval_2003_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+188,Isengrainitknt,2790767,BTH_Orgeval_2003_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+189,1,2790667,BTH_Orgeval_2003_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+190,2,2790666,BTH_Orgeval_2003_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+191,1,2790665,BTH_Orgeval_2003_SetB2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+192,EM02022itkt,2790780,BTH_Orgeval_2003_SetB2,48400,gnpis_pui:holding-921_taxon-4898_accession-48400,EM02022,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+193,2,2790692,BTH_Orgeval_2003_SetB2,48400,gnpis_pui:holding-921_taxon-4898_accession-48400,EM02022,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+194,2,2790690,BTH_Orgeval_2003_SetB2,48400,gnpis_pui:holding-921_taxon-4898_accession-48400,EM02022,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+195,1,2790689,BTH_Orgeval_2003_SetB2,48400,gnpis_pui:holding-921_taxon-4898_accession-48400,EM02022,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+196,EM02022itknt,2790779,BTH_Orgeval_2003_SetB2,48400,gnpis_pui:holding-921_taxon-4898_accession-48400,EM02022,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+197,1,2790691,BTH_Orgeval_2003_SetB2,48400,gnpis_pui:holding-921_taxon-4898_accession-48400,EM02022,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+198,2,2790672,BTH_Orgeval_2003_SetB2,49008,gnpis_pui:holding-921_taxon-4898_accession-49008,RE02165,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+199,1,2790669,BTH_Orgeval_2003_SetB2,49008,gnpis_pui:holding-921_taxon-4898_accession-49008,RE02165,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+200,RE02165itkt,2790770,BTH_Orgeval_2003_SetB2,49008,gnpis_pui:holding-921_taxon-4898_accession-49008,RE02165,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+201,1,2790671,BTH_Orgeval_2003_SetB2,49008,gnpis_pui:holding-921_taxon-4898_accession-49008,RE02165,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+202,RE02165itknt,2790769,BTH_Orgeval_2003_SetB2,49008,gnpis_pui:holding-921_taxon-4898_accession-49008,RE02165,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+203,2,2790670,BTH_Orgeval_2003_SetB2,49008,gnpis_pui:holding-921_taxon-4898_accession-49008,RE02165,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+204,2,2790572,BTH_Orgeval_2003_SetB2,49229,gnpis_pui:holding-921_taxon-4898_accession-49229,CF03427,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+205,2,2790570,BTH_Orgeval_2003_SetB2,49229,gnpis_pui:holding-921_taxon-4898_accession-49229,CF03427,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+206,1,2790569,BTH_Orgeval_2003_SetB2,49229,gnpis_pui:holding-921_taxon-4898_accession-49229,CF03427,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+207,CF03427itkt,2790720,BTH_Orgeval_2003_SetB2,49229,gnpis_pui:holding-921_taxon-4898_accession-49229,CF03427,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+208,CF03427itknt,2790719,BTH_Orgeval_2003_SetB2,49229,gnpis_pui:holding-921_taxon-4898_accession-49229,CF03427,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+209,1,2790571,BTH_Orgeval_2003_SetB2,49229,gnpis_pui:holding-921_taxon-4898_accession-49229,CF03427,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+210,RE02180itkt,2790766,BTH_Orgeval_2003_SetB2,48750,gnpis_pui:holding-921_taxon-4898_accession-48750,RE02180,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+211,2,2790662,BTH_Orgeval_2003_SetB2,48750,gnpis_pui:holding-921_taxon-4898_accession-48750,RE02180,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+212,RE02180itknt,2790765,BTH_Orgeval_2003_SetB2,48750,gnpis_pui:holding-921_taxon-4898_accession-48750,RE02180,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+213,1,2790661,BTH_Orgeval_2003_SetB2,48750,gnpis_pui:holding-921_taxon-4898_accession-48750,RE02180,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+214,2,2790664,BTH_Orgeval_2003_SetB2,48750,gnpis_pui:holding-921_taxon-4898_accession-48750,RE02180,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+215,1,2790663,BTH_Orgeval_2003_SetB2,48750,gnpis_pui:holding-921_taxon-4898_accession-48750,RE02180,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+216,2,2790634,BTH_Orgeval_2003_SetB2,48792,gnpis_pui:holding-921_taxon-4898_accession-48792,RE02073,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+217,RE02073itknt,2790751,BTH_Orgeval_2003_SetB2,48792,gnpis_pui:holding-921_taxon-4898_accession-48792,RE02073,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+218,2,2790636,BTH_Orgeval_2003_SetB2,48792,gnpis_pui:holding-921_taxon-4898_accession-48792,RE02073,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+219,RE02073itkt,2790752,BTH_Orgeval_2003_SetB2,48792,gnpis_pui:holding-921_taxon-4898_accession-48792,RE02073,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+220,1,2790635,BTH_Orgeval_2003_SetB2,48792,gnpis_pui:holding-921_taxon-4898_accession-48792,RE02073,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+221,1,2790633,BTH_Orgeval_2003_SetB2,48792,gnpis_pui:holding-921_taxon-4898_accession-48792,RE02073,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+222,2,2790660,BTH_Orgeval_2003_SetB2,48995,gnpis_pui:holding-921_taxon-4898_accession-48995,RE02013,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+223,1,2790659,BTH_Orgeval_2003_SetB2,48995,gnpis_pui:holding-921_taxon-4898_accession-48995,RE02013,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+224,RE02013itknt,2790763,BTH_Orgeval_2003_SetB2,48995,gnpis_pui:holding-921_taxon-4898_accession-48995,RE02013,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+225,1,2790657,BTH_Orgeval_2003_SetB2,48995,gnpis_pui:holding-921_taxon-4898_accession-48995,RE02013,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+226,RE02013itkt,2790764,BTH_Orgeval_2003_SetB2,48995,gnpis_pui:holding-921_taxon-4898_accession-48995,RE02013,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+227,2,2790658,BTH_Orgeval_2003_SetB2,48995,gnpis_pui:holding-921_taxon-4898_accession-48995,RE02013,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+228,1,2790653,BTH_Orgeval_2003_SetB2,49363,gnpis_pui:holding-921_taxon-4898_accession-49363,RE02186,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+229,RE02186itkt,2790762,BTH_Orgeval_2003_SetB2,49363,gnpis_pui:holding-921_taxon-4898_accession-49363,RE02186,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+230,RE02186itknt,2790761,BTH_Orgeval_2003_SetB2,49363,gnpis_pui:holding-921_taxon-4898_accession-49363,RE02186,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+231,2,2790656,BTH_Orgeval_2003_SetB2,49363,gnpis_pui:holding-921_taxon-4898_accession-49363,RE02186,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+232,2,2790654,BTH_Orgeval_2003_SetB2,49363,gnpis_pui:holding-921_taxon-4898_accession-49363,RE02186,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+233,1,2790655,BTH_Orgeval_2003_SetB2,49363,gnpis_pui:holding-921_taxon-4898_accession-49363,RE02186,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+234,2,2790558,BTH_Orgeval_2003_SetB2,49403,gnpis_pui:holding-921_taxon-4898_accession-49403,DI03015,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+235,1,2790557,BTH_Orgeval_2003_SetB2,49403,gnpis_pui:holding-921_taxon-4898_accession-49403,DI03015,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+236,2,2790560,BTH_Orgeval_2003_SetB2,49403,gnpis_pui:holding-921_taxon-4898_accession-49403,DI03015,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+237,DI03015itkt,2790714,BTH_Orgeval_2003_SetB2,49403,gnpis_pui:holding-921_taxon-4898_accession-49403,DI03015,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+238,DI03015itknt,2790713,BTH_Orgeval_2003_SetB2,49403,gnpis_pui:holding-921_taxon-4898_accession-49403,DI03015,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+239,1,2790559,BTH_Orgeval_2003_SetB2,49403,gnpis_pui:holding-921_taxon-4898_accession-49403,DI03015,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+240,1,2790595,BTH_Orgeval_2003_SetB2,49692,gnpis_pui:holding-921_taxon-4898_accession-49692,DI03013,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+241,1,2790593,BTH_Orgeval_2003_SetB2,49692,gnpis_pui:holding-921_taxon-4898_accession-49692,DI03013,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+242,DI03013itkt,2790732,BTH_Orgeval_2003_SetB2,49692,gnpis_pui:holding-921_taxon-4898_accession-49692,DI03013,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+243,DI03013itknt,2790731,BTH_Orgeval_2003_SetB2,49692,gnpis_pui:holding-921_taxon-4898_accession-49692,DI03013,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+244,2,2790596,BTH_Orgeval_2003_SetB2,49692,gnpis_pui:holding-921_taxon-4898_accession-49692,DI03013,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+245,2,2790594,BTH_Orgeval_2003_SetB2,49692,gnpis_pui:holding-921_taxon-4898_accession-49692,DI03013,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+246,1,2790545,BTH_Orgeval_2003_SetB2,49668,gnpis_pui:holding-921_taxon-4898_accession-49668,DI03016,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+247,2,2790548,BTH_Orgeval_2003_SetB2,49668,gnpis_pui:holding-921_taxon-4898_accession-49668,DI03016,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+248,1,2790547,BTH_Orgeval_2003_SetB2,49668,gnpis_pui:holding-921_taxon-4898_accession-49668,DI03016,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+249,2,2790546,BTH_Orgeval_2003_SetB2,49668,gnpis_pui:holding-921_taxon-4898_accession-49668,DI03016,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+250,DI03016itkt,2790708,BTH_Orgeval_2003_SetB2,49668,gnpis_pui:holding-921_taxon-4898_accession-49668,DI03016,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+251,DI03016itknt,2790707,BTH_Orgeval_2003_SetB2,49668,gnpis_pui:holding-921_taxon-4898_accession-49668,DI03016,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+252,2,2790680,BTH_Orgeval_2003_SetB2,26101,https://doi.org/10.15454/FFIEB9,RE02162,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+253,1,2790679,BTH_Orgeval_2003_SetB2,26101,https://doi.org/10.15454/FFIEB9,RE02162,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+254,RE02162itkt,2790774,BTH_Orgeval_2003_SetB2,26101,https://doi.org/10.15454/FFIEB9,RE02162,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+255,RE02162itknt,2790773,BTH_Orgeval_2003_SetB2,26101,https://doi.org/10.15454/FFIEB9,RE02162,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+256,1,2790677,BTH_Orgeval_2003_SetB2,26101,https://doi.org/10.15454/FFIEB9,RE02162,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+257,2,2790678,BTH_Orgeval_2003_SetB2,26101,https://doi.org/10.15454/FFIEB9,RE02162,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+258,CF02202itknt,2790693,BTH_Orgeval_2003_SetB2,49710,gnpis_pui:holding-921_taxon-4898_accession-49710,CF02202,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+259,2,2790520,BTH_Orgeval_2003_SetB2,49710,gnpis_pui:holding-921_taxon-4898_accession-49710,CF02202,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+260,2,2790518,BTH_Orgeval_2003_SetB2,49710,gnpis_pui:holding-921_taxon-4898_accession-49710,CF02202,BTH_Orgeval_2003_SetB2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+261,CF02202itkt,2790694,BTH_Orgeval_2003_SetB2,49710,gnpis_pui:holding-921_taxon-4898_accession-49710,CF02202,BTH_Orgeval_2003_SetB2,VIRTUAL_TRIAL,,,,,,,,treated
+262,1,2790517,BTH_Orgeval_2003_SetB2,49710,gnpis_pui:holding-921_taxon-4898_accession-49710,CF02202,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+263,1,2790519,BTH_Orgeval_2003_SetB2,49710,gnpis_pui:holding-921_taxon-4898_accession-49710,CF02202,BTH_Orgeval_2003_SetB2,REPLICATION,1.0,,,,,,REPLICATION:1,treated

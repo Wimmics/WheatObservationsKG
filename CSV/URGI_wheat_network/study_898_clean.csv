@@ -1,0 +1,361 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,AO13026itkt,2969336,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+1,AO13026itknt,2969335,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+2,AO13026itkfi,2969334,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+3,2,2969111,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+4,1,2969110,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+5,1,2969108,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+6,2,2969107,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+7,1,2969106,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+8,2,2969109,BTH_Estrées-Mons_2015_SetA1,61020,https://doi.org/10.15454/NT4S5Q,AO13026,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+9,AO13029itkt,2969342,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+10,AO13029itknt,2969341,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+11,1,2969120,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+12,1,2969118,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+13,AO13029itkfi,2969340,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+14,2,2969123,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+15,1,2969122,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+16,2,2969121,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+17,2,2969119,BTH_Estrées-Mons_2015_SetA1,61078,https://doi.org/10.15454/7M8X2M,AO13029,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+18,AO13031itkt,2969420,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+19,AO13031itknt,2969419,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+20,AO13031itkfi,2969418,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+21,1,2969276,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+22,2,2969275,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+23,2,2969279,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+24,1,2969278,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+25,2,2969277,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+26,1,2969274,BTH_Estrées-Mons_2015_SetA1,61106,https://doi.org/10.15454/3H61CU,AO13031,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+27,DI14001itkt,2969399,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+28,1,2969234,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+29,1,2969232,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+30,DI14001itknt,2969398,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+31,DI14001itkfi,2969397,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+32,2,2969237,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+33,1,2969236,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+34,2,2969235,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+35,2,2969233,BTH_Estrées-Mons_2015_SetA1,61257,https://doi.org/10.15454/VZKVRG,DI14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+36,AO13042itkt,2969378,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+37,1,2969194,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+38,2,2969191,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+39,1,2969190,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+40,AO13042itknt,2969377,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+41,AO13042itkfi,2969376,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+42,2,2969195,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+43,2,2969193,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+44,1,2969192,BTH_Estrées-Mons_2015_SetA1,61269,https://doi.org/10.15454/CHX9GO,AO13042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+45,DI14004itknt,2969329,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+46,DI14004itkfi,2969328,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+47,2,2969099,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+48,1,2969098,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+49,2,2969097,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+50,DI14004itkt,2969330,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+51,1,2969096,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+52,2,2969095,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+53,1,2969094,BTH_Estrées-Mons_2015_SetA1,61305,https://doi.org/10.15454/QTCIDC,DI14004,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+54,RE12080itknt,2969359,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+55,2,2969159,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+56,1,2969158,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+57,2,2969155,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+58,RE12080itkt,2969360,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+59,RE12080itkfi,2969358,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+60,2,2969157,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+61,1,2969156,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+62,1,2969154,BTH_Estrées-Mons_2015_SetA1,61587,https://doi.org/10.15454/TNFH4O,RE12080,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+63,AO14001itkt,2969438,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+64,2,2969315,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+65,2,2969313,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+66,1,2969312,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+67,1,2969310,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+68,AO14001itknt,2969437,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+69,AO14001itkfi,2969436,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+70,1,2969314,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+71,2,2969311,BTH_Estrées-Mons_2015_SetA1,61803,https://doi.org/10.15454/LCA9U1,AO14001,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+72,EM11537itkfi,2969325,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+73,1,2969092,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+74,2,2969089,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+75,EM11537itkt,2969327,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+76,EM11537itknt,2969326,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+77,2,2969093,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+78,2,2969091,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+79,1,2969090,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+80,1,2969088,BTH_Estrées-Mons_2015_SetA1,49307,https://doi.org/10.15454/S10U8Z,EM11537,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+81,AO12021-1itknt,2969401,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+82,AO12021-1itkt,2969402,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+83,AO12021-1itkfi,2969400,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+84,2,2969243,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+85,1,2969242,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+86,2,2969241,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+87,1,2969240,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+88,2,2969239,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+89,1,2969238,BTH_Estrées-Mons_2015_SetA1,61776,https://doi.org/10.15454/DB6YVG,AO12021-1,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+90,AO14005itkt,2969423,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+91,AO14005itkfi,2969421,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+92,2,2969285,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+93,1,2969284,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+94,2,2969283,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+95,1,2969282,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+96,2,2969281,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+97,1,2969280,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+98,AO14005itknt,2969422,BTH_Estrées-Mons_2015_SetA1,61865,https://doi.org/10.15454/AJY3JA,AO14005,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+99,1,2969266,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+100,2,2969265,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+101,1,2969264,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+102,AO13015itkt,2969414,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+103,AO13015itknt,2969413,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+104,AO13015itkfi,2969412,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+105,2,2969267,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+106,2,2969263,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+107,1,2969262,BTH_Estrées-Mons_2015_SetA1,60834,https://doi.org/10.15454/KQGENR,AO13015,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+108,AO13045itknt,2969374,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+109,AO13045itkfi,2969373,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+110,2,2969189,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+111,1,2969188,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+112,1,2969186,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+113,AO13045itkt,2969375,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+114,2,2969187,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+115,2,2969185,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+116,1,2969184,BTH_Estrées-Mons_2015_SetA1,61318,https://doi.org/10.15454/WK73B3,AO13045,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+117,CF09117itkt,2969429,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+118,CF09117itkfi,2969427,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+119,1,2969294,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+120,2,2969293,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+121,1,2969292,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+122,CF09117itknt,2969428,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+123,2,2969297,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+124,1,2969296,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+125,2,2969295,BTH_Estrées-Mons_2015_SetA1,48349,https://doi.org/10.15454/DXR4XS,CF09117,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+126,APACHEitkt,2969387,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+127,1,2969212,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+128,2,2969211,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+129,2,2969209,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+130,APACHEitknt,2969386,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+131,APACHEitkfi,2969385,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+132,2,2969213,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+133,1,2969210,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+134,1,2969208,BTH_Estrées-Mons_2015_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+135,Bermudeitknt,2969344,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+136,Bermudeitkfi,2969343,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+137,2,2969129,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+138,2,2969127,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+139,2,2969125,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+140,Bermudeitkt,2969345,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+141,1,2969128,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+142,1,2969126,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+143,1,2969124,BTH_Estrées-Mons_2015_SetA1,75270,https://doi.org/10.15454/AIOH4U,Bermude,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+144,1,2969140,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+145,1,2969138,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+146,1,2969136,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+147,2,2969139,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+148,2,2969137,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+149,AO13100itknt,2969350,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+150,AO13100itkt,2969351,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+151,AO13100itkfi,2969349,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+152,2,2969141,BTH_Estrées-Mons_2015_SetA1,76092,https://doi.org/10.15454/MBEFL6,AO13100,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+153,1,2969302,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+154,2,2969301,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+155,1,2969300,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+156,2,2969299,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+157,1,2969298,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+158,DI11010itkt,2969432,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+159,DI11010itknt,2969431,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+160,DI11010itkfi,2969430,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+161,2,2969303,BTH_Estrées-Mons_2015_SetA1,60932,https://doi.org/10.15454/FGQ2LJ,DI11010,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+162,2,2969229,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+163,1,2969228,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+164,CELLULEitkt,2969396,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+165,CELLULEitknt,2969395,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+166,CELLULEitkfi,2969394,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+167,2,2969231,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+168,1,2969230,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+169,2,2969227,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+170,1,2969226,BTH_Estrées-Mons_2015_SetA1,27736,https://doi.org/10.15454/5V5PUX,CELLULE,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+171,AO11011itkt,2969333,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+172,AO11011itkfi,2969331,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+173,1,2969102,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+174,AO11011itknt,2969332,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+175,2,2969105,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+176,1,2969104,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+177,2,2969103,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+178,2,2969101,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+179,1,2969100,BTH_Estrées-Mons_2015_SetA1,48486,https://doi.org/10.15454/PE1NKZ,AO11011,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+180,RE10042itkt,2969405,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+181,RE10042itknt,2969404,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+182,2,2969247,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+183,2,2969245,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+184,1,2969244,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+185,RE10042itkfi,2969403,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+186,2,2969249,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+187,1,2969248,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+188,1,2969246,BTH_Estrées-Mons_2015_SetA1,48716,https://doi.org/10.15454/5APOHC,RE10042,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+189,RE11058itkt,2969408,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+190,RE11058itkfi,2969406,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+191,1,2969252,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+192,1,2969250,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+193,RE11058itknt,2969407,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+194,2,2969255,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+195,1,2969254,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+196,2,2969253,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+197,2,2969251,BTH_Estrées-Mons_2015_SetA1,48469,https://doi.org/10.15454/ENAZXW,RE11058,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+198,CROUSTYitkt,2969411,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+199,CROUSTYitknt,2969410,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+200,2,2969261,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+201,1,2969260,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+202,2,2969257,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+203,1,2969256,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+204,CROUSTYitkfi,2969409,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+205,2,2969259,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+206,1,2969258,BTH_Estrées-Mons_2015_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+207,Galibieritkt,2969363,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+208,Galibieritknt,2969362,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+209,2,2969165,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+210,1,2969164,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+211,2,2969163,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+212,1,2969162,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+213,2,2969161,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+214,Galibieritkfi,2969361,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+215,1,2969160,BTH_Estrées-Mons_2015_SetA1,59302,https://doi.org/10.15454/Y60IB3,GALIBIER,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+216,RUBISKOitknt,2969434,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+217,RUBISKOitkfi,2969433,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+218,2,2969309,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+219,1,2969306,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+220,RUBISKOitkt,2969435,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+221,1,2969308,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+222,2,2969307,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+223,2,2969305,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+224,1,2969304,BTH_Estrées-Mons_2015_SetA1,27744,https://doi.org/10.15454/XSC5N7,RUBISKO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+225,ARKEOSitkt,2969426,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+226,ARKEOSitknt,2969425,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+227,1,2969290,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+228,2,2969289,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+229,1,2969288,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+230,2,2969287,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+231,ARKEOSitkfi,2969424,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+232,2,2969291,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+233,1,2969286,BTH_Estrées-Mons_2015_SetA1,27751,https://doi.org/10.15454/OYNH7Y,ARKEOS,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+234,EM12096itknt,2969323,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+235,EM12096itkfi,2969322,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+236,2,2969087,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+237,1,2969086,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+238,1,2969084,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+239,2,2969083,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+240,1,2969082,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+241,EM12096itkt,2969324,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+242,2,2969085,BTH_Estrées-Mons_2015_SetA1,48739,https://doi.org/10.15454/CEPFO5,EM12096,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+243,EM12231itkt,2969384,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+244,EM12231itknt,2969383,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+245,2,2969205,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+246,1,2969202,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+247,EM12231itkfi,2969382,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+248,2,2969207,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+249,1,2969206,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+250,1,2969204,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+251,2,2969203,BTH_Estrées-Mons_2015_SetA1,48934,https://doi.org/10.15454/YCKTDL,EM12231,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+252,EM12234itkt,2969381,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+253,1,2969196,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+254,EM12234itknt,2969380,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+255,EM12234itkfi,2969379,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+256,2,2969201,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+257,1,2969200,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+258,2,2969199,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+259,1,2969198,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+260,2,2969197,BTH_Estrées-Mons_2015_SetA1,49090,https://doi.org/10.15454/1VGYYS,EM12234,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+261,RE12002itkfi,2969352,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+262,2,2969147,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+263,2,2969145,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+264,1,2969144,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+265,RE12002itkt,2969354,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+266,RE12002itknt,2969353,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+267,1,2969146,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+268,2,2969143,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+269,1,2969142,BTH_Estrées-Mons_2015_SetA1,48869,https://doi.org/10.15454/TN9KFO,RE12002,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+270,RE12020itkt,2969357,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+271,1,2969152,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+272,2,2969151,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+273,1,2969150,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+274,2,2969149,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+275,RE12020itknt,2969356,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+276,RE12020itkfi,2969355,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+277,2,2969153,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+278,1,2969148,BTH_Estrées-Mons_2015_SetA1,49575,https://doi.org/10.15454/DGI5VN,RE12020,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+279,AO14039itkfi,2969391,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+280,1,2969224,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+281,2,2969223,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+282,1,2969222,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+283,2,2969221,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+284,1,2969220,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+285,AO14039itkt,2969393,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+286,AO14039itknt,2969392,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+287,2,2969225,BTH_Estrées-Mons_2015_SetA1,60867,https://doi.org/10.15454/WFL1YX,AO14039,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+288,AO13022itkt,2969390,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+289,1,2969218,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+290,2,2969217,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+291,1,2969216,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+292,AO13022itknt,2969389,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+293,AO13022itkfi,2969388,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+294,2,2969219,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+295,2,2969215,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+296,1,2969214,BTH_Estrées-Mons_2015_SetA1,60962,https://doi.org/10.15454/57FECX,AO13022,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+297,AREZZOitkfi,2969439,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+298,1,2969320,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+299,2,2969317,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+300,1,2969316,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+301,2,2969321,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+302,2,2969319,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+303,1,2969318,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+304,AREZZOitkt,2969441,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+305,AREZZOitknt,2969440,BTH_Estrées-Mons_2015_SetA1,27030,https://doi.org/10.15454/SFNXCW,AREZZO,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+306,AO13030itkt,2969417,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+307,AO13030itknt,2969416,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+308,2,2969273,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+309,2,2969269,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+310,1,2969268,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+311,AO13030itkfi,2969415,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+312,1,2969272,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+313,2,2969271,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+314,1,2969270,BTH_Estrées-Mons_2015_SetA1,48837,https://doi.org/10.15454/AFDIUY,AO13030,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+315,AO13047itkt,2969372,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+316,AO13047itknt,2969371,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+317,AO13047itkfi,2969370,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+318,2,2969183,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+319,2,2969181,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+320,2,2969179,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+321,1,2969182,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+322,1,2969180,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+323,1,2969178,BTH_Estrées-Mons_2015_SetA1,49371,https://doi.org/10.15454/QBXBWF,AO13047,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+324,CF12202itkt,2969366,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+325,CF12202itkfi,2969364,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+326,2,2969171,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+327,1,2969170,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+328,2,2969169,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+329,1,2969168,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+330,2,2969167,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+331,CF12202itknt,2969365,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+332,1,2969166,BTH_Estrées-Mons_2015_SetA1,49079,https://doi.org/10.15454/EYUOPH,CF12202,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+333,DI13002-2itkt,2969339,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+334,DI13002-2itknt,2969338,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+335,2,2969117,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+336,1,2969114,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+337,1,2969112,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+338,DI13002-2itkfi,2969337,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+339,1,2969116,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+340,2,2969115,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+341,2,2969113,BTH_Estrées-Mons_2015_SetA1,49462,https://doi.org/10.15454/9WA3DH,DI13002-2,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+342,DI13003itkt,2969369,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+343,DI13003itknt,2969368,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+344,DI13003itkfi,2969367,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+345,2,2969177,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+346,1,2969174,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+347,1,2969172,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant
+348,1,2969176,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+349,2,2969175,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+350,2,2969173,BTH_Estrées-Mons_2015_SetA1,49052,https://doi.org/10.15454/6DHCDH,DI13003,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+351,DI13005itknt,2969347,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,non traite fongicides
+352,1,2969134,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,traite
+353,2,2969133,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,non traite fongicides
+354,1,2969132,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,non traite fongicides
+355,2,2969131,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,faible intrant
+356,DI13005itkt,2969348,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,traite
+357,DI13005itkfi,2969346,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,VIRTUAL_TRIAL,,,,,,,,faible intrant
+358,2,2969135,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,traite
+359,1,2969130,BTH_Estrées-Mons_2015_SetA1,49746,https://doi.org/10.15454/C5YYJZ,DI13005,BTH_Estrées-Mons_2015_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,faible intrant

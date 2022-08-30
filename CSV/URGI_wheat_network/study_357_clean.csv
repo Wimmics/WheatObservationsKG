@@ -1,0 +1,289 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,Barokitkfi,2811303,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+1,2,2811114,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+2,Barokitkt,2811305,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+3,1,2811115,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+4,1,2811113,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+5,2,2811112,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+6,Barokitknt,2811304,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+7,2,2811116,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+8,1,2811111,BTH_Estrées-Mons_2006_SetA1,26978,https://doi.org/10.15454/Z3MNYF,BAROK,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+9,CF03201itkt,2811341,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+10,CF03201itkfi,2811339,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+11,2,2811188,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+12,1,2811183,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+13,CF03201itknt,2811340,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+14,2,2811186,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+15,1,2811187,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+16,1,2811185,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+17,2,2811184,BTH_Estrées-Mons_2006_SetA1,26975,https://doi.org/10.15454/0TTU1F,CF03201,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+18,AO06313itkt,2811308,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+19,AO06313itkfi,2811306,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+20,2,2811122,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+21,2,2811120,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+22,1,2811117,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+23,AO06313itknt,2811307,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+24,1,2811121,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+25,1,2811119,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+26,2,2811118,BTH_Estrées-Mons_2006_SetA1,26967,https://doi.org/10.15454/GRNHCW,AO06313,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+27,2,2811128,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+28,CF04052itkt,2811311,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+29,CF04052itkfi,2811309,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+30,2,2811126,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+31,2,2811124,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+32,1,2811125,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+33,CF04052itknt,2811310,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+34,1,2811127,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+35,1,2811123,BTH_Estrées-Mons_2006_SetA1,26897,https://doi.org/10.15454/Q627QP,CF04052,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+36,Apacheitkfi,2811345,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+37,1,2811197,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+38,1,2811199,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+39,1,2811195,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+40,Apacheitknt,2811346,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+41,2,2811200,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+42,2,2811198,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+43,Apacheitkt,2811347,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+44,2,2811196,BTH_Estrées-Mons_2006_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+45,AO05004itknt,2811349,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+46,1,2811201,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+47,AO05004itkt,2811350,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+48,AO05004itkfi,2811348,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+49,2,2811202,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+50,2,2811206,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+51,2,2811204,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+52,1,2811205,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+53,1,2811203,BTH_Estrées-Mons_2006_SetA1,48941,https://doi.org/10.15454/YPYOQJ,AO05004,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+54,Chargeritknt,2811364,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+55,Chargeritkfi,2811363,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+56,2,2811236,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+57,1,2811233,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+58,Chargeritkt,2811365,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+59,2,2811232,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+60,1,2811231,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+61,1,2811235,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+62,2,2811234,BTH_Estrées-Mons_2006_SetA1,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+63,2,2811254,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+64,1,2811253,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+65,2,2811252,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+66,1,2811249,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+67,2,2811250,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+68,Croustyitkt,2811374,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+69,Croustyitkfi,2811372,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+70,1,2811251,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+71,Croustyitknt,2811373,BTH_Estrées-Mons_2006_SetA1,25599,https://doi.org/10.15454/OGNUYF,CROUSTY,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+72,Tamaroitknt,2811397,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+73,Tamaroitkfi,2811396,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+74,Tamaroitkt,2811398,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+75,1,2811301,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+76,2,2811300,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+77,1,2811299,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+78,2,2811298,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+79,2,2811302,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+80,1,2811297,BTH_Estrées-Mons_2006_SetA1,25902,https://doi.org/10.15454/KRPWXN,TAMARO,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+81,Tremieitknt,2811379,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+82,Tremieitkfi,2811378,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+83,1,2811265,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+84,1,2811261,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+85,Tremieitkt,2811380,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+86,2,2811266,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+87,2,2811264,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+88,2,2811262,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+89,1,2811263,BTH_Estrées-Mons_2006_SetA1,24505,https://doi.org/10.15454/9YBOHR,TREMIE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+90,Caphornitkfi,2811354,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+91,2,2811218,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+92,2,2811216,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+93,1,2811215,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+94,Caphornitknt,2811355,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+95,1,2811213,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+96,1,2811217,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+97,Caphornitkt,2811356,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+98,2,2811214,BTH_Estrées-Mons_2006_SetA1,25913,https://doi.org/10.15454/IH4I8R,CAPHORN,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+99,DI04018itkfi,2811336,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+100,2,2811182,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+101,2,2811180,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+102,2,2811178,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+103,1,2811177,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+104,DI04018itkt,2811338,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+105,1,2811179,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+106,DI04018itknt,2811337,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+107,1,2811181,BTH_Estrées-Mons_2006_SetA1,49604,https://doi.org/10.15454/WZ0QO7,DI04018,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+108,DI05030itknt,2811313,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+109,2,2811130,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+110,DI05030itkt,2811314,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+111,2,2811134,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+112,1,2811133,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+113,1,2811129,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+114,DI05030itkfi,2811312,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+115,2,2811132,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+116,1,2811131,BTH_Estrées-Mons_2006_SetA1,48477,https://doi.org/10.15454/NU9M2G,DI05030,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+117,CF03287itknt,2811376,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+118,2,2811260,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+119,1,2811259,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+120,2,2811256,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+121,1,2811255,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+122,CF03287itkt,2811377,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+123,CF03287itkfi,2811375,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+124,2,2811258,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+125,1,2811257,BTH_Estrées-Mons_2006_SetA1,49533,https://doi.org/10.15454/QOR8WX,CF03287,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+126,RE04101itkt,2811320,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+127,2,2811144,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+128,1,2811143,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+129,1,2811141,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+130,1,2811145,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+131,RE04101itknt,2811319,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+132,2,2811146,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+133,RE04101itkfi,2811318,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+134,2,2811142,BTH_Estrées-Mons_2006_SetA1,26834,https://doi.org/10.15454/NMELF4,RE04101,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+135,2,2811226,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+136,CF01085itkt,2811362,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+137,1,2811225,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+138,CF01085itknt,2811361,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+139,CF01085itkfi,2811360,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+140,2,2811230,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+141,1,2811229,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+142,2,2811228,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+143,1,2811227,BTH_Estrées-Mons_2006_SetA1,48643,https://doi.org/10.15454/2AB2GR,CF01085,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+144,RE03111itknt,2811388,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+145,RE03111itkt,2811389,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+146,2,2811284,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+147,2,2811282,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+148,1,2811281,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+149,RE03111itkfi,2811387,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+150,1,2811279,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+151,1,2811283,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+152,2,2811280,BTH_Estrées-Mons_2006_SetA1,26399,https://doi.org/10.15454/XCMLGZ,RE03111,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+153,DI02001itkt,2811353,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+154,1,2811207,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+155,DI02001itknt,2811352,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+156,DI02001itkfi,2811351,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+157,1,2811211,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+158,2,2811210,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+159,1,2811209,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+160,2,2811212,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+161,2,2811208,BTH_Estrées-Mons_2006_SetA1,26984,https://doi.org/10.15454/GR0LP3,DI02001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+162,2,2811294,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+163,1,2811295,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+164,1,2811291,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+165,2,2811292,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+166,1,2811293,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+167,2,2811296,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+168,Soissonsitkfi,2811393,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+169,Soissonsitknt,2811394,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+170,Soissonsitkt,2811395,BTH_Estrées-Mons_2006_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+171,1,2811277,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+172,1,2811275,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+173,1,2811273,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+174,Orvantisitkfi,2811384,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+175,2,2811278,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+176,Orvantisitkt,2811386,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+177,Orvantisitknt,2811385,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+178,2,2811276,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+179,2,2811274,BTH_Estrées-Mons_2006_SetA1,25737,https://doi.org/10.15454/CYMFDY,ORVANTIS,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+180,LM03015itknt,2811382,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+181,2,2811270,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+182,1,2811267,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+183,LM03015itkfi,2811381,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+184,1,2811271,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+185,1,2811269,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+186,2,2811268,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+187,LM03015itkt,2811383,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+188,2,2811272,BTH_Estrées-Mons_2006_SetA1,49288,https://doi.org/10.15454/BU8ZPF,LM03015,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+189,EM02207itkfi,2811369,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+190,2,2811246,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+191,1,2811245,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+192,1,2811243,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+193,EM02207itknt,2811370,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+194,EM02207itkt,2811371,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+195,2,2811248,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+196,1,2811247,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+197,2,2811244,BTH_Estrées-Mons_2006_SetA1,26893,https://doi.org/10.15454/WDQKPV,EM02207,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+198,EM03149itkt,2811332,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+199,EM03149itkfi,2811330,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+200,2,2811170,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+201,1,2811165,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+202,1,2811169,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+203,2,2811168,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+204,1,2811167,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+205,2,2811166,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+206,EM03149itknt,2811331,BTH_Estrées-Mons_2006_SetA1,26894,https://doi.org/10.15454/HOEWQF,EM03149,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+207,CF03342itkt,2811368,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+208,1,2811241,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+209,CF03342itkfi,2811366,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+210,2,2811240,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+211,1,2811237,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+212,CF03342itknt,2811367,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+213,2,2811242,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+214,1,2811239,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+215,2,2811238,BTH_Estrées-Mons_2006_SetA1,49674,https://doi.org/10.15454/WDI3KM,CF03342,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+216,CF04114itknt,2811316,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+217,2,2811136,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+218,1,2811135,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+219,2,2811140,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+220,1,2811139,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+221,1,2811137,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+222,CF04114itkt,2811317,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+223,CF04114itkfi,2811315,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+224,2,2811138,BTH_Estrées-Mons_2006_SetA1,48527,https://doi.org/10.15454/5LEWVH,CF04114,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+225,2,2811152,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+226,1,2811151,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+227,1,2811149,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+228,DI04017itknt,2811322,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+229,DI04017itkfi,2811321,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+230,2,2811150,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+231,1,2811147,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+232,DI04017itkt,2811323,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+233,2,2811148,BTH_Estrées-Mons_2006_SetA1,27036,https://doi.org/10.15454/PULIUX,DI04017,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+234,DI04024itknt,2811391,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+235,DI04024itkfi,2811390,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+236,1,2811287,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+237,2,2811290,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+238,1,2811285,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+239,DI04024itkt,2811392,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+240,2,2811288,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+241,1,2811289,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+242,2,2811286,BTH_Estrées-Mons_2006_SetA1,27037,https://doi.org/10.15454/TWWI1V,DI04024,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+243,EM03193itkfi,2811342,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+244,EM03193itkt,2811344,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+245,EM03193itknt,2811343,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+246,2,2811194,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+247,1,2811193,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+248,2,2811192,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+249,1,2811191,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+250,2,2811190,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+251,1,2811189,BTH_Estrées-Mons_2006_SetA1,27038,https://doi.org/10.15454/DPT3VI,EM03193,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+252,AO05001itkt,2811329,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+253,2,2811164,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+254,1,2811161,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+255,2,2811160,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+256,1,2811159,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+257,1,2811163,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+258,AO05001itkfi,2811327,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+259,AO05001itknt,2811328,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+260,2,2811162,BTH_Estrées-Mons_2006_SetA1,48798,https://doi.org/10.15454/YUL8X7,AO05001,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+261,2,2811172,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+262,1,2811171,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+263,DI04019itkt,2811335,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+264,2,2811176,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+265,1,2811173,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+266,2,2811174,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+267,DI04019itknt,2811334,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+268,DI04019itkfi,2811333,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+269,1,2811175,BTH_Estrées-Mons_2006_SetA1,48415,gnpis_pui:holding-921_taxon-4898_accession-48415,DI04019,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+270,2,2811224,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+271,1,2811221,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+272,2,2811220,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+273,1,2811219,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs
+274,2,2811222,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+275,Farandoleitkt,2811359,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+276,Farandoleitknt,2811358,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+277,Farandoleitkfi,2811357,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+278,1,2811223,BTH_Estrées-Mons_2006_SetA1,25827,https://doi.org/10.15454/FYPHOO,FARANDOLE,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+279,AO05006itknt,2811325,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+280,AO05006itkfi,2811324,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,low inputs
+281,1,2811155,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+282,AO05006itkt,2811326,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+283,2,2811158,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+284,1,2811157,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+285,2,2811156,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+286,2,2811154,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,low inputs
+287,1,2811153,BTH_Estrées-Mons_2006_SetA1,49156,gnpis_pui:holding-921_taxon-4898_accession-49156,AO05006,BTH_Estrées-Mons_2006_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,low inputs

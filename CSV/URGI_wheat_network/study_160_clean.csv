@@ -1,0 +1,205 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,Koreliitknt,2778825,BTH_Lusignan_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+1,1,2778711,BTH_Lusignan_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+2,Koreliitkt,2778826,BTH_Lusignan_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+3,2,2778714,BTH_Lusignan_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+4,2,2778712,BTH_Lusignan_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+5,1,2778713,BTH_Lusignan_2002_SetA2,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+6,RE01004itkt,2778828,BTH_Lusignan_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+7,2,2778718,BTH_Lusignan_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+8,1,2778717,BTH_Lusignan_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+9,RE01004itknt,2778827,BTH_Lusignan_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+10,2,2778716,BTH_Lusignan_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+11,1,2778715,BTH_Lusignan_2002_SetA2,26094,https://doi.org/10.15454/KQXNER,RE01004,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+12,RE00108itknt,2778837,BTH_Lusignan_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+13,1,2778737,BTH_Lusignan_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+14,2,2778736,BTH_Lusignan_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+15,RE00108itkt,2778838,BTH_Lusignan_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+16,2,2778738,BTH_Lusignan_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+17,1,2778735,BTH_Lusignan_2002_SetA2,26004,https://doi.org/10.15454/6Q72BN,RE00108,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+18,2,2778722,BTH_Lusignan_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+19,RE00149itknt,2778829,BTH_Lusignan_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+20,1,2778721,BTH_Lusignan_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+21,2,2778720,BTH_Lusignan_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+22,1,2778719,BTH_Lusignan_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+23,RE00149itkt,2778830,BTH_Lusignan_2002_SetA2,48470,gnpis_pui:holding-921_taxon-4898_accession-48470,RE00149,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+24,1,2778799,BTH_Lusignan_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+25,2,2778802,BTH_Lusignan_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+26,1,2778801,BTH_Lusignan_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+27,RE00144itknt,2778869,BTH_Lusignan_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+28,RE00144itkt,2778870,BTH_Lusignan_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+29,2,2778800,BTH_Lusignan_2002_SetA2,48402,gnpis_pui:holding-921_taxon-4898_accession-48402,RE00144,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+30,RE00143itknt,2778847,BTH_Lusignan_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+31,2,2778756,BTH_Lusignan_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+32,RE00143itkt,2778848,BTH_Lusignan_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+33,2,2778758,BTH_Lusignan_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+34,1,2778757,BTH_Lusignan_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+35,1,2778755,BTH_Lusignan_2002_SetA2,49057,gnpis_pui:holding-921_taxon-4898_accession-49057,RE00143,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+36,1,2778731,BTH_Lusignan_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+37,1,2778733,BTH_Lusignan_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+38,DI01022itkt,2778836,BTH_Lusignan_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+39,DI01022itknt,2778835,BTH_Lusignan_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+40,2,2778734,BTH_Lusignan_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+41,2,2778732,BTH_Lusignan_2002_SetA2,49284,gnpis_pui:holding-921_taxon-4898_accession-49284,DI01022,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+42,RE00165itknt,2778817,BTH_Lusignan_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+43,1,2778695,BTH_Lusignan_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+44,RE00165itkt,2778818,BTH_Lusignan_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+45,2,2778698,BTH_Lusignan_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+46,2,2778696,BTH_Lusignan_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+47,1,2778697,BTH_Lusignan_2002_SetA2,49290,gnpis_pui:holding-921_taxon-4898_accession-49290,RE00165,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+48,2,2778782,BTH_Lusignan_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+49,EM00264itkt,2778860,BTH_Lusignan_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+50,1,2778779,BTH_Lusignan_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+51,EM00264itknt,2778859,BTH_Lusignan_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+52,1,2778781,BTH_Lusignan_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+53,2,2778780,BTH_Lusignan_2002_SetA2,48806,gnpis_pui:holding-921_taxon-4898_accession-48806,EM00264,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+54,DI01007itkt,2778808,BTH_Lusignan_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+55,1,2778677,BTH_Lusignan_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+56,DI01007itknt,2778807,BTH_Lusignan_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+57,2,2778676,BTH_Lusignan_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+58,1,2778675,BTH_Lusignan_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+59,2,2778678,BTH_Lusignan_2002_SetA2,48550,gnpis_pui:holding-921_taxon-4898_accession-48550,DI01007,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+60,Apacheitknt,2778833,BTH_Lusignan_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+61,2,2778728,BTH_Lusignan_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+62,1,2778727,BTH_Lusignan_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+63,Apacheitkt,2778834,BTH_Lusignan_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+64,2,2778730,BTH_Lusignan_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+65,1,2778729,BTH_Lusignan_2002_SetA2,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+66,RE00163itknt,2778823,BTH_Lusignan_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+67,2,2778710,BTH_Lusignan_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+68,1,2778709,BTH_Lusignan_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+69,2,2778708,BTH_Lusignan_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+70,RE00163itkt,2778824,BTH_Lusignan_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+71,1,2778707,BTH_Lusignan_2002_SetA2,48918,gnpis_pui:holding-921_taxon-4898_accession-48918,RE00163,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+72,1,2778789,BTH_Lusignan_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+73,Skerzzoitknt,2778863,BTH_Lusignan_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+74,1,2778787,BTH_Lusignan_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+75,2,2778788,BTH_Lusignan_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+76,Skerzzoitkt,2778864,BTH_Lusignan_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+77,2,2778790,BTH_Lusignan_2002_SetA2,59735,https://doi.org/10.15454/SGAN4B,SKERZZO,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+78,2,2778680,BTH_Lusignan_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+79,CF99077itknt,2778809,BTH_Lusignan_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+80,1,2778681,BTH_Lusignan_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+81,1,2778679,BTH_Lusignan_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+82,CF99077itkt,2778810,BTH_Lusignan_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+83,2,2778682,BTH_Lusignan_2002_SetA2,26047,https://doi.org/10.15454/XORVCY,CF99077,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+84,2,2778754,BTH_Lusignan_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+85,Chargeritknt,2778845,BTH_Lusignan_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+86,2,2778752,BTH_Lusignan_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+87,Chargeritkt,2778846,BTH_Lusignan_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+88,1,2778751,BTH_Lusignan_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+89,1,2778753,BTH_Lusignan_2002_SetA2,25584,https://doi.org/10.15454/0ALDQA,CHARGER,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+90,2,2778726,BTH_Lusignan_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+91,1,2778725,BTH_Lusignan_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+92,2,2778724,BTH_Lusignan_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+93,1,2778723,BTH_Lusignan_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+94,CF99351itkt,2778832,BTH_Lusignan_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+95,CF99351itknt,2778831,BTH_Lusignan_2002_SetA2,25899,https://doi.org/10.15454/QG5OJU,CF99351,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+96,1,2778683,BTH_Lusignan_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+97,1,2778685,BTH_Lusignan_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+98,CF00064itkt,2778812,BTH_Lusignan_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+99,CF00064itknt,2778811,BTH_Lusignan_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+100,2,2778686,BTH_Lusignan_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+101,2,2778684,BTH_Lusignan_2002_SetA2,25898,https://doi.org/10.15454/CH5SFE,CF00064,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+102,CF00116itkt,2778842,BTH_Lusignan_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+103,1,2778745,BTH_Lusignan_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+104,CF00116itknt,2778841,BTH_Lusignan_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+105,2,2778744,BTH_Lusignan_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+106,1,2778743,BTH_Lusignan_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+107,2,2778746,BTH_Lusignan_2002_SetA2,26105,https://doi.org/10.15454/XCQCZQ,CF00116,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+108,2,2778770,BTH_Lusignan_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+109,EM00072itkt,2778854,BTH_Lusignan_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+110,1,2778769,BTH_Lusignan_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+111,2,2778768,BTH_Lusignan_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+112,EM00072itknt,2778853,BTH_Lusignan_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+113,1,2778767,BTH_Lusignan_2002_SetA2,26102,https://doi.org/10.15454/WNKZ9X,EM00072,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+114,CF00110itknt,2778839,BTH_Lusignan_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+115,2,2778740,BTH_Lusignan_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+116,1,2778739,BTH_Lusignan_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+117,CF00110itkt,2778840,BTH_Lusignan_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+118,2,2778742,BTH_Lusignan_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+119,1,2778741,BTH_Lusignan_2002_SetA2,26048,https://doi.org/10.15454/7WIU47,CF00110,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+120,CF00117itkt,2778844,BTH_Lusignan_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+121,2,2778750,BTH_Lusignan_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+122,2,2778748,BTH_Lusignan_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+123,CF00117itknt,2778843,BTH_Lusignan_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+124,1,2778749,BTH_Lusignan_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+125,1,2778747,BTH_Lusignan_2002_SetA2,26049,https://doi.org/10.15454/NGVK7J,CF00117,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+126,CF00020itkt,2778804,BTH_Lusignan_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+127,CF00020itknt,2778803,BTH_Lusignan_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+128,2,2778668,BTH_Lusignan_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+129,2,2778670,BTH_Lusignan_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+130,1,2778669,BTH_Lusignan_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+131,1,2778667,BTH_Lusignan_2002_SetA2,49725,https://doi.org/10.15454/PNW0L6,CF00020,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+132,1,2778773,BTH_Lusignan_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+133,1,2778771,BTH_Lusignan_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+134,RE01002itkt,2778856,BTH_Lusignan_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+135,RE01002itknt,2778855,BTH_Lusignan_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+136,2,2778774,BTH_Lusignan_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+137,2,2778772,BTH_Lusignan_2002_SetA2,26110,https://doi.org/10.15454/PY1VVU,RE01002,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+138,CF00108itknt,2778805,BTH_Lusignan_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+139,2,2778672,BTH_Lusignan_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+140,1,2778671,BTH_Lusignan_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+141,2,2778674,BTH_Lusignan_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+142,1,2778673,BTH_Lusignan_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+143,CF00108itkt,2778806,BTH_Lusignan_2002_SetA2,26103,https://doi.org/10.15454/VUCZZU,CF00108,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+144,DI01019itkt,2778852,BTH_Lusignan_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+145,DI01019itknt,2778851,BTH_Lusignan_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+146,2,2778766,BTH_Lusignan_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+147,2,2778764,BTH_Lusignan_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+148,1,2778763,BTH_Lusignan_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+149,1,2778765,BTH_Lusignan_2002_SetA2,48621,gnpis_pui:holding-921_taxon-4898_accession-48621,DI01019,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+150,RE00164itknt,2778819,BTH_Lusignan_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+151,1,2778699,BTH_Lusignan_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+152,2,2778702,BTH_Lusignan_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+153,1,2778701,BTH_Lusignan_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+154,RE00164itkt,2778820,BTH_Lusignan_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+155,2,2778700,BTH_Lusignan_2002_SetA2,48472,gnpis_pui:holding-921_taxon-4898_accession-48472,RE00164,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+156,Soissonsitknt,2778865,BTH_Lusignan_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+157,1,2778793,BTH_Lusignan_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+158,2,2778794,BTH_Lusignan_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+159,1,2778791,BTH_Lusignan_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+160,2,2778792,BTH_Lusignan_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+161,Soissonsitkt,2778866,BTH_Lusignan_2002_SetA2,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+162,Isengrainitknt,2778861,BTH_Lusignan_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+163,1,2778783,BTH_Lusignan_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+164,Isengrainitkt,2778862,BTH_Lusignan_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+165,2,2778786,BTH_Lusignan_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+166,1,2778785,BTH_Lusignan_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+167,2,2778784,BTH_Lusignan_2002_SetA2,25585,https://doi.org/10.15454/YZZGYB,ISENGRAIN,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+168,2,2778706,BTH_Lusignan_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+169,2,2778704,BTH_Lusignan_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+170,1,2778703,BTH_Lusignan_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+171,RE00160itkt,2778822,BTH_Lusignan_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+172,RE00160itknt,2778821,BTH_Lusignan_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+173,1,2778705,BTH_Lusignan_2002_SetA2,26871,https://doi.org/10.15454/5JJD7K,RE00160,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+174,1,2778687,BTH_Lusignan_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+175,DI01021itkt,2778814,BTH_Lusignan_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+176,1,2778689,BTH_Lusignan_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+177,DI01021itknt,2778813,BTH_Lusignan_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+178,2,2778690,BTH_Lusignan_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+179,2,2778688,BTH_Lusignan_2002_SetA2,49218,gnpis_pui:holding-921_taxon-4898_accession-49218,DI01021,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+180,1,2778761,BTH_Lusignan_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+181,DI01032itknt,2778849,BTH_Lusignan_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+182,2,2778762,BTH_Lusignan_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+183,1,2778759,BTH_Lusignan_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+184,DI01032itkt,2778850,BTH_Lusignan_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+185,2,2778760,BTH_Lusignan_2002_SetA2,49224,gnpis_pui:holding-921_taxon-4898_accession-49224,DI01032,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+186,1,2778777,BTH_Lusignan_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+187,EM00074itkt,2778858,BTH_Lusignan_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+188,EM00074itknt,2778857,BTH_Lusignan_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+189,2,2778778,BTH_Lusignan_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+190,1,2778775,BTH_Lusignan_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+191,2,2778776,BTH_Lusignan_2002_SetA2,48639,gnpis_pui:holding-921_taxon-4898_accession-48639,EM00074,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+192,2,2778694,BTH_Lusignan_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+193,1,2778691,BTH_Lusignan_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+194,1,2778693,BTH_Lusignan_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+195,EM00107itkt,2778816,BTH_Lusignan_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+196,EM00107itknt,2778815,BTH_Lusignan_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+197,2,2778692,BTH_Lusignan_2002_SetA2,49059,gnpis_pui:holding-921_taxon-4898_accession-49059,EM00107,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+198,RE00113itkt,2778868,BTH_Lusignan_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,treated
+199,1,2778797,BTH_Lusignan_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+200,1,2778795,BTH_Lusignan_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Lusignan_2002_SetA2,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+201,RE00113itknt,2778867,BTH_Lusignan_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Lusignan_2002_SetA2,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+202,2,2778798,BTH_Lusignan_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+203,2,2778796,BTH_Lusignan_2002_SetA2,49700,gnpis_pui:holding-921_taxon-4898_accession-49700,RE00113,BTH_Lusignan_2002_SetA2,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"

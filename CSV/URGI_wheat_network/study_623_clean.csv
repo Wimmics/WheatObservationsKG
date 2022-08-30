@@ -1,0 +1,241 @@
+,observationunitname,observationunitdbid,studydbid,germplasmdbid,germplasmpui,germplasmname,studyname,observationlevel,replicate,replicate.1,plot,plant,x,y,observationlevels,itk
+0,1,2853952,BTH_Epi-centre_2011_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+1,2,2853953,BTH_Epi-centre_2011_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+2,2,2853951,BTH_Epi-centre_2011_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+3,1,2853950,BTH_Epi-centre_2011_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+4,DI08019-2itknt,2854104,BTH_Epi-centre_2011_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+5,DI08019-2itkt,2854105,BTH_Epi-centre_2011_SetA1,61702,https://doi.org/10.15454/ZL8W4U,DI08019-2,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+6,1,2853968,BTH_Epi-centre_2011_SetA1,60806,https://doi.org/10.15454/MBOJSS,HadmF11383,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+7,2,2853967,BTH_Epi-centre_2011_SetA1,60806,https://doi.org/10.15454/MBOJSS,HadmF11383,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+8,HadmF11383itknt,2854112,BTH_Epi-centre_2011_SetA1,60806,https://doi.org/10.15454/MBOJSS,HadmF11383,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+9,2,2853969,BTH_Epi-centre_2011_SetA1,60806,https://doi.org/10.15454/MBOJSS,HadmF11383,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+10,HadmF11383itkt,2854113,BTH_Epi-centre_2011_SetA1,60806,https://doi.org/10.15454/MBOJSS,HadmF11383,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+11,1,2853966,BTH_Epi-centre_2011_SetA1,60806,https://doi.org/10.15454/MBOJSS,HadmF11383,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+12,2,2854075,BTH_Epi-centre_2011_SetA1,60753,https://doi.org/10.15454/SQDBPR,Hadm01221-04,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+13,1,2854076,BTH_Epi-centre_2011_SetA1,60753,https://doi.org/10.15454/SQDBPR,Hadm01221-04,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+14,Hadm01221-04itknt,2854166,BTH_Epi-centre_2011_SetA1,60753,https://doi.org/10.15454/SQDBPR,Hadm01221-04,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+15,Hadm01221-04itkt,2854167,BTH_Epi-centre_2011_SetA1,60753,https://doi.org/10.15454/SQDBPR,Hadm01221-04,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+16,2,2854077,BTH_Epi-centre_2011_SetA1,60753,https://doi.org/10.15454/SQDBPR,Hadm01221-04,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+17,1,2854074,BTH_Epi-centre_2011_SetA1,60753,https://doi.org/10.15454/SQDBPR,Hadm01221-04,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+18,HadmF276itkt,2854161,BTH_Epi-centre_2011_SetA1,60837,https://doi.org/10.15454/9DIH2Q,HadmF276,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+19,2,2854063,BTH_Epi-centre_2011_SetA1,60837,https://doi.org/10.15454/9DIH2Q,HadmF276,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+20,2,2854065,BTH_Epi-centre_2011_SetA1,60837,https://doi.org/10.15454/9DIH2Q,HadmF276,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+21,HadmF276itknt,2854160,BTH_Epi-centre_2011_SetA1,60837,https://doi.org/10.15454/9DIH2Q,HadmF276,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+22,1,2854062,BTH_Epi-centre_2011_SetA1,60837,https://doi.org/10.15454/9DIH2Q,HadmF276,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+23,1,2854064,BTH_Epi-centre_2011_SetA1,60837,https://doi.org/10.15454/9DIH2Q,HadmF276,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+24,Koreliitkt,2854129,BTH_Epi-centre_2011_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+25,2,2854001,BTH_Epi-centre_2011_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+26,1,2854000,BTH_Epi-centre_2011_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+27,2,2853999,BTH_Epi-centre_2011_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+28,1,2853998,BTH_Epi-centre_2011_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+29,Koreliitknt,2854128,BTH_Epi-centre_2011_SetA1,26891,https://doi.org/10.15454/6PDHWM,KORELI,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+30,DI09006itkt,2854137,BTH_Epi-centre_2011_SetA1,27810,https://doi.org/10.15454/ADDONA,DI09006,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+31,2,2854015,BTH_Epi-centre_2011_SetA1,27810,https://doi.org/10.15454/ADDONA,DI09006,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+32,1,2854016,BTH_Epi-centre_2011_SetA1,27810,https://doi.org/10.15454/ADDONA,DI09006,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+33,DI09006itknt,2854136,BTH_Epi-centre_2011_SetA1,27810,https://doi.org/10.15454/ADDONA,DI09006,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+34,1,2854014,BTH_Epi-centre_2011_SetA1,27810,https://doi.org/10.15454/ADDONA,DI09006,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+35,2,2854017,BTH_Epi-centre_2011_SetA1,27810,https://doi.org/10.15454/ADDONA,DI09006,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+36,RE07019itkt,2854109,BTH_Epi-centre_2011_SetA1,27305,https://doi.org/10.15454/OPZZGX,RE07019,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+37,2,2853961,BTH_Epi-centre_2011_SetA1,27305,https://doi.org/10.15454/OPZZGX,RE07019,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+38,RE07019itknt,2854108,BTH_Epi-centre_2011_SetA1,27305,https://doi.org/10.15454/OPZZGX,RE07019,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+39,1,2853960,BTH_Epi-centre_2011_SetA1,27305,https://doi.org/10.15454/OPZZGX,RE07019,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+40,2,2853959,BTH_Epi-centre_2011_SetA1,27305,https://doi.org/10.15454/OPZZGX,RE07019,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+41,1,2853958,BTH_Epi-centre_2011_SetA1,27305,https://doi.org/10.15454/OPZZGX,RE07019,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+42,2,2853949,BTH_Epi-centre_2011_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+43,1,2853946,BTH_Epi-centre_2011_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+44,1,2853948,BTH_Epi-centre_2011_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+45,Folkloritknt,2854102,BTH_Epi-centre_2011_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+46,2,2853947,BTH_Epi-centre_2011_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+47,Folkloritkt,2854103,BTH_Epi-centre_2011_SetA1,27263,https://doi.org/10.15454/PGQV8C,FOLKLOR,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+48,2,2853943,BTH_Epi-centre_2011_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+49,2,2853945,BTH_Epi-centre_2011_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+50,1,2853942,BTH_Epi-centre_2011_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+51,Premioitkt,2854101,BTH_Epi-centre_2011_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+52,Premioitknt,2854100,BTH_Epi-centre_2011_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+53,1,2853944,BTH_Epi-centre_2011_SetA1,26914,https://doi.org/10.15454/5YB44K,PREMIO,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+54,2,2854055,BTH_Epi-centre_2011_SetA1,49300,https://doi.org/10.15454/TFJQEJ,EM08019,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+55,1,2854054,BTH_Epi-centre_2011_SetA1,49300,https://doi.org/10.15454/TFJQEJ,EM08019,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+56,EM08019itkt,2854157,BTH_Epi-centre_2011_SetA1,49300,https://doi.org/10.15454/TFJQEJ,EM08019,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+57,1,2854056,BTH_Epi-centre_2011_SetA1,49300,https://doi.org/10.15454/TFJQEJ,EM08019,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+58,EM08019itknt,2854156,BTH_Epi-centre_2011_SetA1,49300,https://doi.org/10.15454/TFJQEJ,EM08019,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+59,2,2854057,BTH_Epi-centre_2011_SetA1,49300,https://doi.org/10.15454/TFJQEJ,EM08019,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+60,2,2854007,BTH_Epi-centre_2011_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+61,2,2854009,BTH_Epi-centre_2011_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+62,1,2854008,BTH_Epi-centre_2011_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+63,Apacheitkt,2854133,BTH_Epi-centre_2011_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+64,Apacheitknt,2854132,BTH_Epi-centre_2011_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+65,1,2854006,BTH_Epi-centre_2011_SetA1,25612,https://doi.org/10.15454/V8WRHY,APACHE,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+66,Lyrikitkt,2854175,BTH_Epi-centre_2011_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+67,1,2854090,BTH_Epi-centre_2011_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+68,Lyrikitknt,2854174,BTH_Epi-centre_2011_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+69,2,2854093,BTH_Epi-centre_2011_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+70,1,2854092,BTH_Epi-centre_2011_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+71,2,2854091,BTH_Epi-centre_2011_SetA1,27737,https://doi.org/10.15454/7VD1UN,LYRIK,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+72,Ghaytaitkt,2854163,BTH_Epi-centre_2011_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+73,2,2854069,BTH_Epi-centre_2011_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+74,2,2854067,BTH_Epi-centre_2011_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+75,Ghaytaitknt,2854162,BTH_Epi-centre_2011_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+76,1,2854068,BTH_Epi-centre_2011_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+77,1,2854066,BTH_Epi-centre_2011_SetA1,27784,https://doi.org/10.15454/BYBWWN,GHAYTA,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+78,1,2853970,BTH_Epi-centre_2011_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+79,Grapeliitknt,2854114,BTH_Epi-centre_2011_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+80,Grapeliitkt,2854115,BTH_Epi-centre_2011_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+81,2,2853973,BTH_Epi-centre_2011_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+82,1,2853972,BTH_Epi-centre_2011_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+83,2,2853971,BTH_Epi-centre_2011_SetA1,27821,https://doi.org/10.15454/4TFKM0,GRAPELI,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+84,2,2854097,BTH_Epi-centre_2011_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+85,CF08027itknt,2854176,BTH_Epi-centre_2011_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+86,1,2854096,BTH_Epi-centre_2011_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+87,2,2854095,BTH_Epi-centre_2011_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+88,CF08027itkt,2854177,BTH_Epi-centre_2011_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+89,1,2854094,BTH_Epi-centre_2011_SetA1,27795,https://doi.org/10.15454/8X7KGE,CF08027,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+90,2,2854011,BTH_Epi-centre_2011_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+91,Granamaxitkt,2854135,BTH_Epi-centre_2011_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+92,1,2854010,BTH_Epi-centre_2011_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+93,1,2854012,BTH_Epi-centre_2011_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+94,2,2854013,BTH_Epi-centre_2011_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+95,Granamaxitknt,2854134,BTH_Epi-centre_2011_SetA1,59657,https://doi.org/10.15454/R2A6FC,GRANAMAX,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+96,JDBF80itkt,2854165,BTH_Epi-centre_2011_SetA1,49395,https://doi.org/10.15454/C10CEB,JDBF80,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+97,1,2854070,BTH_Epi-centre_2011_SetA1,49395,https://doi.org/10.15454/C10CEB,JDBF80,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+98,1,2854072,BTH_Epi-centre_2011_SetA1,49395,https://doi.org/10.15454/C10CEB,JDBF80,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+99,JDBF80itknt,2854164,BTH_Epi-centre_2011_SetA1,49395,https://doi.org/10.15454/C10CEB,JDBF80,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+100,2,2854071,BTH_Epi-centre_2011_SetA1,49395,https://doi.org/10.15454/C10CEB,JDBF80,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+101,2,2854073,BTH_Epi-centre_2011_SetA1,49395,https://doi.org/10.15454/C10CEB,JDBF80,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+102,1,2853980,BTH_Epi-centre_2011_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+103,1,2853978,BTH_Epi-centre_2011_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+104,AO10013itkt,2854119,BTH_Epi-centre_2011_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+105,2,2853981,BTH_Epi-centre_2011_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+106,2,2853979,BTH_Epi-centre_2011_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+107,AO10013itknt,2854118,BTH_Epi-centre_2011_SetA1,48839,https://doi.org/10.15454/PBJK68,AO10013,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+108,EM08024itkt,2854127,BTH_Epi-centre_2011_SetA1,27822,https://doi.org/10.15454/KNNDVP,EM08024,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+109,2,2853995,BTH_Epi-centre_2011_SetA1,27822,https://doi.org/10.15454/KNNDVP,EM08024,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+110,1,2853994,BTH_Epi-centre_2011_SetA1,27822,https://doi.org/10.15454/KNNDVP,EM08024,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+111,EM08024itknt,2854126,BTH_Epi-centre_2011_SetA1,27822,https://doi.org/10.15454/KNNDVP,EM08024,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+112,2,2853997,BTH_Epi-centre_2011_SetA1,27822,https://doi.org/10.15454/KNNDVP,EM08024,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+113,1,2853996,BTH_Epi-centre_2011_SetA1,27822,https://doi.org/10.15454/KNNDVP,EM08024,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+114,Hadm01601-07itknt,2854124,BTH_Epi-centre_2011_SetA1,60770,https://doi.org/10.15454/PT31GV,Hadm01601-07,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+115,1,2853990,BTH_Epi-centre_2011_SetA1,60770,https://doi.org/10.15454/PT31GV,Hadm01601-07,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+116,2,2853993,BTH_Epi-centre_2011_SetA1,60770,https://doi.org/10.15454/PT31GV,Hadm01601-07,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+117,Hadm01601-07itkt,2854125,BTH_Epi-centre_2011_SetA1,60770,https://doi.org/10.15454/PT31GV,Hadm01601-07,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+118,1,2853992,BTH_Epi-centre_2011_SetA1,60770,https://doi.org/10.15454/PT31GV,Hadm01601-07,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+119,2,2853991,BTH_Epi-centre_2011_SetA1,60770,https://doi.org/10.15454/PT31GV,Hadm01601-07,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+120,1,2854046,BTH_Epi-centre_2011_SetA1,60821,https://doi.org/10.15454/WZ4MOV,HadmF11671,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+121,2,2854047,BTH_Epi-centre_2011_SetA1,60821,https://doi.org/10.15454/WZ4MOV,HadmF11671,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+122,1,2854048,BTH_Epi-centre_2011_SetA1,60821,https://doi.org/10.15454/WZ4MOV,HadmF11671,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+123,HadmF11671itknt,2854152,BTH_Epi-centre_2011_SetA1,60821,https://doi.org/10.15454/WZ4MOV,HadmF11671,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+124,2,2854049,BTH_Epi-centre_2011_SetA1,60821,https://doi.org/10.15454/WZ4MOV,HadmF11671,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+125,HadmF11671itkt,2854153,BTH_Epi-centre_2011_SetA1,60821,https://doi.org/10.15454/WZ4MOV,HadmF11671,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+126,1,2854018,BTH_Epi-centre_2011_SetA1,60787,https://doi.org/10.15454/LLIFSS,HadmF11326,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+127,2,2854019,BTH_Epi-centre_2011_SetA1,60787,https://doi.org/10.15454/LLIFSS,HadmF11326,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+128,HadmF11326itknt,2854138,BTH_Epi-centre_2011_SetA1,60787,https://doi.org/10.15454/LLIFSS,HadmF11326,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+129,2,2854021,BTH_Epi-centre_2011_SetA1,60787,https://doi.org/10.15454/LLIFSS,HadmF11326,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+130,HadmF11326itkt,2854139,BTH_Epi-centre_2011_SetA1,60787,https://doi.org/10.15454/LLIFSS,HadmF11326,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+131,1,2854020,BTH_Epi-centre_2011_SetA1,60787,https://doi.org/10.15454/LLIFSS,HadmF11326,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+132,2,2854043,BTH_Epi-centre_2011_SetA1,61007,https://doi.org/10.15454/UDW3YM,Strub061859-1,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+133,1,2854044,BTH_Epi-centre_2011_SetA1,61007,https://doi.org/10.15454/UDW3YM,Strub061859-1,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+134,1,2854042,BTH_Epi-centre_2011_SetA1,61007,https://doi.org/10.15454/UDW3YM,Strub061859-1,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+135,2,2854045,BTH_Epi-centre_2011_SetA1,61007,https://doi.org/10.15454/UDW3YM,Strub061859-1,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+136,Strub061859-1itknt,2854150,BTH_Epi-centre_2011_SetA1,61007,https://doi.org/10.15454/UDW3YM,Strub061859-1,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+137,Strub061859-1itkt,2854151,BTH_Epi-centre_2011_SetA1,61007,https://doi.org/10.15454/UDW3YM,Strub061859-1,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+138,CF07143itkt,2854159,BTH_Epi-centre_2011_SetA1,27792,https://doi.org/10.15454/NZODZY,CF07143,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+139,2,2854061,BTH_Epi-centre_2011_SetA1,27792,https://doi.org/10.15454/NZODZY,CF07143,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+140,1,2854060,BTH_Epi-centre_2011_SetA1,27792,https://doi.org/10.15454/NZODZY,CF07143,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+141,1,2854058,BTH_Epi-centre_2011_SetA1,27792,https://doi.org/10.15454/NZODZY,CF07143,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+142,CF07143itknt,2854158,BTH_Epi-centre_2011_SetA1,27792,https://doi.org/10.15454/NZODZY,CF07143,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+143,2,2854059,BTH_Epi-centre_2011_SetA1,27792,https://doi.org/10.15454/NZODZY,CF07143,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+144,1,2853984,BTH_Epi-centre_2011_SetA1,27314,https://doi.org/10.15454/NY4WWG,EM08223,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+145,1,2853982,BTH_Epi-centre_2011_SetA1,27314,https://doi.org/10.15454/NY4WWG,EM08223,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+146,EM08223itkt,2854121,BTH_Epi-centre_2011_SetA1,27314,https://doi.org/10.15454/NY4WWG,EM08223,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+147,EM08223itknt,2854120,BTH_Epi-centre_2011_SetA1,27314,https://doi.org/10.15454/NY4WWG,EM08223,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+148,2,2853985,BTH_Epi-centre_2011_SetA1,27314,https://doi.org/10.15454/NY4WWG,EM08223,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+149,2,2853983,BTH_Epi-centre_2011_SetA1,27314,https://doi.org/10.15454/NY4WWG,EM08223,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+150,CF08049itknt,2854172,BTH_Epi-centre_2011_SetA1,27797,https://doi.org/10.15454/II6X3N,CF08049,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+151,2,2854087,BTH_Epi-centre_2011_SetA1,27797,https://doi.org/10.15454/II6X3N,CF08049,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+152,1,2854086,BTH_Epi-centre_2011_SetA1,27797,https://doi.org/10.15454/II6X3N,CF08049,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+153,2,2854089,BTH_Epi-centre_2011_SetA1,27797,https://doi.org/10.15454/II6X3N,CF08049,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+154,CF08049itkt,2854173,BTH_Epi-centre_2011_SetA1,27797,https://doi.org/10.15454/II6X3N,CF08049,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+155,1,2854088,BTH_Epi-centre_2011_SetA1,27797,https://doi.org/10.15454/II6X3N,CF08049,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+156,CF08084itkt,2854155,BTH_Epi-centre_2011_SetA1,27798,https://doi.org/10.15454/XZ94CU,CF08084,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+157,1,2854052,BTH_Epi-centre_2011_SetA1,27798,https://doi.org/10.15454/XZ94CU,CF08084,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+158,CF08084itknt,2854154,BTH_Epi-centre_2011_SetA1,27798,https://doi.org/10.15454/XZ94CU,CF08084,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+159,1,2854050,BTH_Epi-centre_2011_SetA1,27798,https://doi.org/10.15454/XZ94CU,CF08084,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+160,2,2854053,BTH_Epi-centre_2011_SetA1,27798,https://doi.org/10.15454/XZ94CU,CF08084,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+161,2,2854051,BTH_Epi-centre_2011_SetA1,27798,https://doi.org/10.15454/XZ94CU,CF08084,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+162,EM07117itknt,2854110,BTH_Epi-centre_2011_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+163,1,2853964,BTH_Epi-centre_2011_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+164,2,2853963,BTH_Epi-centre_2011_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+165,EM07117itkt,2854111,BTH_Epi-centre_2011_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+166,2,2853965,BTH_Epi-centre_2011_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+167,1,2853962,BTH_Epi-centre_2011_SetA1,27820,https://doi.org/10.15454/3AQJN1,EM07117,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+168,Fr759/08itknt,2854146,BTH_Epi-centre_2011_SetA1,48456,gnpis_pui:holding-921_taxon-4898_accession-48456,Fr759/08,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+169,1,2854036,BTH_Epi-centre_2011_SetA1,48456,gnpis_pui:holding-921_taxon-4898_accession-48456,Fr759/08,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+170,2,2854035,BTH_Epi-centre_2011_SetA1,48456,gnpis_pui:holding-921_taxon-4898_accession-48456,Fr759/08,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+171,Fr759/08itkt,2854147,BTH_Epi-centre_2011_SetA1,48456,gnpis_pui:holding-921_taxon-4898_accession-48456,Fr759/08,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+172,1,2854034,BTH_Epi-centre_2011_SetA1,48456,gnpis_pui:holding-921_taxon-4898_accession-48456,Fr759/08,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+173,2,2854037,BTH_Epi-centre_2011_SetA1,48456,gnpis_pui:holding-921_taxon-4898_accession-48456,Fr759/08,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+174,1,2854082,BTH_Epi-centre_2011_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+175,Soissonsitknt,2854170,BTH_Epi-centre_2011_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+176,Soissonsitkt,2854171,BTH_Epi-centre_2011_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+177,2,2854083,BTH_Epi-centre_2011_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+178,1,2854084,BTH_Epi-centre_2011_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+179,2,2854085,BTH_Epi-centre_2011_SetA1,24328,https://doi.org/10.15454/ZRMNO2,SOISSONS,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+180,Altigoitkt,2854143,BTH_Epi-centre_2011_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+181,2,2854029,BTH_Epi-centre_2011_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+182,2,2854027,BTH_Epi-centre_2011_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+183,1,2854026,BTH_Epi-centre_2011_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+184,Altigoitknt,2854142,BTH_Epi-centre_2011_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+185,1,2854028,BTH_Epi-centre_2011_SetA1,26906,https://doi.org/10.15454/6CYBGM,ALTIGO,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+186,1,2853956,BTH_Epi-centre_2011_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+187,2,2853955,BTH_Epi-centre_2011_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+188,1,2853954,BTH_Epi-centre_2011_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+189,Bermudeitkt,2854107,BTH_Epi-centre_2011_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+190,2,2853957,BTH_Epi-centre_2011_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+191,Bermudeitknt,2854106,BTH_Epi-centre_2011_SetA1,26912,https://doi.org/10.15454/W1NSZX,BERMUDE,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+192,1,2854080,BTH_Epi-centre_2011_SetA1,27813,https://doi.org/10.15454/G5QB1J,DI09018,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+193,DI09018itkt,2854169,BTH_Epi-centre_2011_SetA1,27813,https://doi.org/10.15454/G5QB1J,DI09018,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+194,2,2854081,BTH_Epi-centre_2011_SetA1,27813,https://doi.org/10.15454/G5QB1J,DI09018,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+195,2,2854079,BTH_Epi-centre_2011_SetA1,27813,https://doi.org/10.15454/G5QB1J,DI09018,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+196,DI09018itknt,2854168,BTH_Epi-centre_2011_SetA1,27813,https://doi.org/10.15454/G5QB1J,DI09018,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+197,1,2854078,BTH_Epi-centre_2011_SetA1,27813,https://doi.org/10.15454/G5QB1J,DI09018,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+198,1,2853976,BTH_Epi-centre_2011_SetA1,27823,https://doi.org/10.15454/PMYYDQ,EM08221,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+199,2,2853975,BTH_Epi-centre_2011_SetA1,27823,https://doi.org/10.15454/PMYYDQ,EM08221,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+200,1,2853974,BTH_Epi-centre_2011_SetA1,27823,https://doi.org/10.15454/PMYYDQ,EM08221,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+201,EM08221itkt,2854117,BTH_Epi-centre_2011_SetA1,27823,https://doi.org/10.15454/PMYYDQ,EM08221,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+202,EM08221itknt,2854116,BTH_Epi-centre_2011_SetA1,27823,https://doi.org/10.15454/PMYYDQ,EM08221,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+203,2,2853977,BTH_Epi-centre_2011_SetA1,27823,https://doi.org/10.15454/PMYYDQ,EM08221,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+204,AO10003itkt,2854141,BTH_Epi-centre_2011_SetA1,48956,https://doi.org/10.15454/IJIMQX,AO10003,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+205,1,2854024,BTH_Epi-centre_2011_SetA1,48956,https://doi.org/10.15454/IJIMQX,AO10003,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+206,AO10003itknt,2854140,BTH_Epi-centre_2011_SetA1,48956,https://doi.org/10.15454/IJIMQX,AO10003,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+207,1,2854022,BTH_Epi-centre_2011_SetA1,48956,https://doi.org/10.15454/IJIMQX,AO10003,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+208,2,2854025,BTH_Epi-centre_2011_SetA1,48956,https://doi.org/10.15454/IJIMQX,AO10003,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+209,2,2854023,BTH_Epi-centre_2011_SetA1,48956,https://doi.org/10.15454/IJIMQX,AO10003,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+210,AO10015itknt,2854098,BTH_Epi-centre_2011_SetA1,48383,https://doi.org/10.15454/IDYNPA,AO10015,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+211,2,2853941,BTH_Epi-centre_2011_SetA1,48383,https://doi.org/10.15454/IDYNPA,AO10015,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+212,2,2853939,BTH_Epi-centre_2011_SetA1,48383,https://doi.org/10.15454/IDYNPA,AO10015,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+213,AO10015itkt,2854099,BTH_Epi-centre_2011_SetA1,48383,https://doi.org/10.15454/IDYNPA,AO10015,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+214,1,2853938,BTH_Epi-centre_2011_SetA1,48383,https://doi.org/10.15454/IDYNPA,AO10015,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+215,1,2853940,BTH_Epi-centre_2011_SetA1,48383,https://doi.org/10.15454/IDYNPA,AO10015,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+216,AO10026itkt,2854131,BTH_Epi-centre_2011_SetA1,49315,https://doi.org/10.15454/WVJ13N,AO10026,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+217,2,2854003,BTH_Epi-centre_2011_SetA1,49315,https://doi.org/10.15454/WVJ13N,AO10026,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+218,1,2854002,BTH_Epi-centre_2011_SetA1,49315,https://doi.org/10.15454/WVJ13N,AO10026,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+219,AO10026itknt,2854130,BTH_Epi-centre_2011_SetA1,49315,https://doi.org/10.15454/WVJ13N,AO10026,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+220,2,2854005,BTH_Epi-centre_2011_SetA1,49315,https://doi.org/10.15454/WVJ13N,AO10026,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+221,1,2854004,BTH_Epi-centre_2011_SetA1,49315,https://doi.org/10.15454/WVJ13N,AO10026,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+222,2,2854033,BTH_Epi-centre_2011_SetA1,48794,https://doi.org/10.15454/1IPVTN,AO10028,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+223,1,2854032,BTH_Epi-centre_2011_SetA1,48794,https://doi.org/10.15454/1IPVTN,AO10028,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+224,1,2854030,BTH_Epi-centre_2011_SetA1,48794,https://doi.org/10.15454/1IPVTN,AO10028,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+225,AO10028itkt,2854145,BTH_Epi-centre_2011_SetA1,48794,https://doi.org/10.15454/1IPVTN,AO10028,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+226,AO10028itknt,2854144,BTH_Epi-centre_2011_SetA1,48794,https://doi.org/10.15454/1IPVTN,AO10028,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+227,2,2854031,BTH_Epi-centre_2011_SetA1,48794,https://doi.org/10.15454/1IPVTN,AO10028,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+228,JDBE42itkt,2854123,BTH_Epi-centre_2011_SetA1,48905,https://doi.org/10.15454/XS84TO,JDBE42,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+229,2,2853989,BTH_Epi-centre_2011_SetA1,48905,https://doi.org/10.15454/XS84TO,JDBE42,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+230,1,2853988,BTH_Epi-centre_2011_SetA1,48905,https://doi.org/10.15454/XS84TO,JDBE42,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+231,JDBE42itknt,2854122,BTH_Epi-centre_2011_SetA1,48905,https://doi.org/10.15454/XS84TO,JDBE42,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+232,2,2853987,BTH_Epi-centre_2011_SetA1,48905,https://doi.org/10.15454/XS84TO,JDBE42,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+233,1,2853986,BTH_Epi-centre_2011_SetA1,48905,https://doi.org/10.15454/XS84TO,JDBE42,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"
+234,JDBH22itkt,2854149,BTH_Epi-centre_2011_SetA1,48908,https://doi.org/10.15454/JJNR8O,JDBH22,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,treated
+235,2,2854039,BTH_Epi-centre_2011_SetA1,48908,https://doi.org/10.15454/JJNR8O,JDBH22,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,"untreated, no fungicide"
+236,JDBH22itknt,2854148,BTH_Epi-centre_2011_SetA1,48908,https://doi.org/10.15454/JJNR8O,JDBH22,BTH_Epi-centre_2011_SetA1,VIRTUAL_TRIAL,,,,,,,,"untreated, no fungicide"
+237,1,2854040,BTH_Epi-centre_2011_SetA1,48908,https://doi.org/10.15454/JJNR8O,JDBH22,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,treated
+238,2,2854041,BTH_Epi-centre_2011_SetA1,48908,https://doi.org/10.15454/JJNR8O,JDBH22,BTH_Epi-centre_2011_SetA1,REPLICATION,2.0,,,,,,REPLICATION:2,treated
+239,1,2854038,BTH_Epi-centre_2011_SetA1,48908,https://doi.org/10.15454/JJNR8O,JDBH22,BTH_Epi-centre_2011_SetA1,REPLICATION,1.0,,,,,,REPLICATION:1,"untreated, no fungicide"

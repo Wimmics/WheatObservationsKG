@@ -1,0 +1,33 @@
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+prefix schema:  <http://schema.org/> .
+prefix owl:     <http://www.w3.org/2002/07/owl#> .
+prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+prefix oa:      <http://www.w3.org/ns/oa#> .
+prefix ncbi:    <http://identifiers.org/taxonomy/> .
+prefix dct:     <http://purl.org/dc/terms/> .
+prefix frbr:    <http://purl.org/vocab/frbr/core#> .
+prefix fabio:   <http://purl.org/spar/fabio/> .
+prefix obo:     <http://purl.obolibrary.org/obo/> .
+prefix bibo: <http://purl.org/ontology/bibo/> .
+prefix d2kab:   <http://ns.inria.fr/d2kab/> .
+
+select distinct ?label  ?docu where {
+  ?x1 a oa:Annotation; 
+   oa:hasTarget ?y1;
+   oa:hasBody ?e1 .
+  ?y1 oa:hasSource ?d1 .
+  ?e1 skos:prefLabel ?a ;
+      a d2kab:Phenotype.
+  ?x2 a oa:Annotation ;
+         oa:hasTarget ?y2 ;
+         oa:hasBody ?e2 .
+  ?y2 oa:hasSource ?d2 .
+  ?e2 a d2kab:Gene ;
+         skos:prefLabel ?label.
+  ?d1 frbr:partOf+ ?docu .
+  ?d2 frbr:partOf+ ?docu .
+  ?docu  a fabio:ResearchPaper .
+  filter (?a =   "crop yield") .
+}

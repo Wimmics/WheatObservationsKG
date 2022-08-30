@@ -1,0 +1,147 @@
+@prefix xrr: <http://i3s.unice.fr/xr2rml#> .
+@prefix rr:  <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#>.
+
+@prefix CO_321: <http://www.cropontology.org/rdf/CO_321#> .
+
+<#wto_exact> a rr:TripleMap;
+    xrr:logicalSource [
+		xrr:query """db.Trait.find({match : '1'})""";
+	];
+
+    rr:subjectMap [
+		rr:template "http://opendata.inrae.fr/wto/v3.0/thesaurus/{$.wto}";
+	];
+
+    rr:predicateObjectMap [
+		rr:predicate skos:exactMatch;
+		rr:objectMap [
+			rr:template "http://www.cropontology.org/rdf/CO_321/{$.co}";
+		];
+	].
+
+
+
+<#co_exact> a rr:TripleMap;
+    xrr:logicalSource [
+		xrr:query """db.Trait.find({match : '1'})""";
+	];
+
+    rr:subjectMap [
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.co}";
+	];
+
+    rr:predicateObjectMap [
+		rr:predicate skos:exactMatch;
+		rr:objectMap [
+			rr:template "http://opendata.inrae.fr/wto/v3.0/thesaurus/{$.wto}";
+		];
+	].
+
+<#wto_broader> a rr:TripleMap;
+    xrr:logicalSource [
+		xrr:query """db.Trait.find({match : '7'})""";
+	];
+
+    rr:subjectMap [
+		rr:template "http://opendata.inrae.fr/wto/v3.0/thesaurus/{$.wto}";
+	];
+
+    rr:predicateObjectMap [
+		rr:predicate skos:narrowMatch;
+		rr:objectMap [
+			rr:template "http://www.cropontology.org/rdf/CO_321/{$.co}";
+		];
+	].
+
+
+
+<#co_broader> a rr:TripleMap;
+    xrr:logicalSource [
+		xrr:query """db.Trait.find({match : '7'})""";
+	];
+
+    rr:subjectMap [
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.co}";
+	];
+
+    rr:predicateObjectMap [
+		rr:predicate skos:broadMatch;
+		rr:objectMap [
+			rr:template "http://opendata.inrae.fr/wto/v3.0/thesaurus/{$.wto}";
+		];
+	].
+
+<#wto_narrow> a rr:TripleMap;
+    xrr:logicalSource [
+		xrr:query """db.Trait.find({match : '8'})""";
+	];
+
+    rr:subjectMap [
+		rr:template "http://opendata.inrae.fr/wto/v3.0/thesaurus/{$.wto}";
+	];
+
+    rr:predicateObjectMap [
+		rr:predicate skos:broadMatch;
+		rr:objectMap [
+			rr:template "http://www.cropontology.org/rdf/CO_321/{$.co}";
+		];
+	].
+
+
+
+<#co_narrow> a rr:TripleMap;
+    xrr:logicalSource [
+		xrr:query """db.Trait.find({match : '8'})""";
+	];
+
+    rr:subjectMap [
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.co}";
+	];
+
+    rr:predicateObjectMap [
+		rr:predicate skos:narrowMatch;
+		rr:objectMap [
+			rr:template "http://opendata.inrae.fr/wto/v3.0/thesaurus/{$.wto}";
+		];
+	].
+
+
+<#wto_close> a rr:TripleMap;
+    xrr:logicalSource [
+		xrr:query """db.Trait.find({match : {$nin: ['1','7','8']}})""";
+	];
+
+    rr:subjectMap [
+		rr:template "http://opendata.inrae.fr/wto/v3.0/thesaurus/{$.wto}";
+	];
+
+    rr:predicateObjectMap [
+		rr:predicate skos:closeMatch;
+		rr:objectMap [
+			rr:template "http://www.cropontology.org/rdf/CO_321/{$.co}";
+		];
+	].
+
+
+
+<#co_close> a rr:TripleMap;
+    xrr:logicalSource [
+		xrr:query """db.Trait.find({match : {$nin: ['1','7','8']}})""";
+	];
+
+    rr:subjectMap [
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.co}";
+	];
+
+    rr:predicateObjectMap [
+		rr:predicate skos:closeMatch;
+		rr:objectMap [
+			rr:template "http://opendata.inrae.fr/wto/v3.0/thesaurus/{$.wto}";
+		];
+	].

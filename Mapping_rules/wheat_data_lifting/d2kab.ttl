@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix d2kab: <http://ns.inria.fr/d2kab/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix oa:     <http://www.w3.org/ns/oa#>.
+
+d2kab:Taxon a rdfs:Class.
+
+d2kab:Relation a rdfs:Class.
+
+d2kab:Phenotype a rdfs:Class.
+
+d2kab:Gene a rdfs:Class.
+
+d2kab:Maker a rdfs:Class.
+
+d2kab:Relation a rdfs:Class.
+d2kab:hasPhenotype a rdf:Property;
+	rdfs:domain d2kab:Relation;
+	rdfs:range oa:Annotation.
+	
+d2kab:hasVarierty a rdf:Property;
+	rdfs:domain d2kab:Relation;
+	rdfs:Range oa:Annotation.

@@ -7,7 +7,7 @@
 @prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
 @prefix skos:	<http://www.w3.org/2004/02/skos/core#>.
 
-@prefix CO_321: <https://cropontology.org/rdf/CO_321#> .
+@prefix CO_321: <http://www.cropontology.org/rdf/CO_321#> .
 
 <#Variable> a rr:TripleMap;
     xrr:logicalSource [
@@ -15,28 +15,28 @@
 	];
 
     rr:subjectMap [
-		rr:template "https://cropontology.org/rdf/CO_321/{$.id}";
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}";
 		rr:class CO_321:Variable, skos:Concept;
 	];
 
     rr:predicateObjectMap [
 		rr:predicate CO_321:hasTrait;
 		rr:objectMap [
-			rr:template "https://cropontology.org/rdf/CO_321/{$.trait}";
+			rr:template "http://www.cropontology.org/rdf/CO_321/{$.trait}";
 		];
 	];
 
     rr:predicateObjectMap [
 		rr:predicate CO_321:hasMethod;
 		rr:objectMap [
-			rr:template "https://cropontology.org/rdf/CO_321/{$.method}";
+			rr:template "http://www.cropontology.org/rdf/CO_321/{$.method}";
 		];
 	];
 
     rr:predicateObjectMap [
 		rr:predicate CO_321:hasScale;
 		rr:objectMap [
-			rr:template "https://cropontology.org/rdf/CO_321/{$.scale}";
+			rr:template "http://www.cropontology.org/rdf/CO_321/{$.scale}";
 		];
 	];
 
@@ -86,7 +86,7 @@
 	];
 
     rr:subjectMap [
-		rr:template "https://cropontology.org/rdf/CO_321/{$.id}";
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}";
 		rr:class CO_321:Variable, skos:Concept;
 	];
 
@@ -104,14 +104,14 @@
 	];
 
     rr:subjectMap [
-		rr:template "https://cropontology.org/rdf/CO_321/{$.id}";
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}";
         rr:class skos:Concept;
 	];
 
     rr:predicateObjectMap [
 		rr:predicate rdf:type;
 		rr:objectMap [
-			rr:template "https://cropontology.org/rdf/CO_321#{$.class}";
+			rr:template "http://www.cropontology.org/rdf/CO_321#{$.class}";
 		];
 	];
 
@@ -153,7 +153,7 @@
 	];
 
     rr:subjectMap [
-		rr:template "https://cropontology.org/rdf/CO_321/{$.id}";
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}";
         rr:class skos:Concept;
 	];
 
@@ -170,14 +170,14 @@
 	];
 
     rr:subjectMap [
-		rr:template "https://cropontology.org/rdf/CO_321/{$.id}";
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}";
         rr:class skos:Concept;
 	];
 
 	rr:predicateObjectMap [
 		rr:predicate rdf:type;
 		rr:objectMap [
-			rr:template "https://cropontology.org/rdf/CO_321#{$.class}";
+			rr:template "http://www.cropontology.org/rdf/CO_321#{$.class}";
 		];
 	];
 
@@ -215,13 +215,13 @@
 	];
 
     rr:subjectMap [
-		rr:template "https://cropontology.org/rdf/CO_321/{$.id}";
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}";
 	];
 
     rr:predicateObjectMap [
 		rr:predicate rdf:type;
 		rr:objectMap [
-			rr:template "https://cropontology.org/rdf/CO_321#{$.class}";
+			rr:template "http://www.cropontology.org/rdf/CO_321#{$.class}";
 		];
 	];
 
@@ -260,14 +260,14 @@ a rr:TripleMap;
 	];
 
     rr:subjectMap [
-		rr:template "https://cropontology.org/rdf/CO_321/{$.id}";
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}";
 		rr:class skos:Collection;
 	];
 
 	rr:predicateObjectMap [
 		rr:predicate skos:member;
 		rr:objectMap [
-			rr:template "https://cropontology.org/rdf/CO_321/{$.id}/{$.value}";
+			rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}/{$.value}";
 		];
 	].
 
@@ -277,7 +277,7 @@ a rr:TripleMap;
 	];
 
     rr:subjectMap [
-		rr:template "https://cropontology.org/rdf/CO_321/{$.id}/{$.value}";
+		rr:template "http://www.cropontology.org/rdf/CO_321/{$.id}/{$.value}";
 		rr:class skos:Concept;
 	];
 

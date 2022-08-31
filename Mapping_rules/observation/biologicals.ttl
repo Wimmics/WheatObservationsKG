@@ -15,14 +15,14 @@
 	];
 	
 	rr:subjectMap [
-		rr:template "http://www.urgi.versailles.inrae.fr/biological_material/{$.biological_id}";
+		rr:template "http://www.urgi.versailles.inrae.fr/biological_material/{$.accession_name}";
 		rr:class ppeo:biological_material;
 	];
 	
 	rr:predicateObjectMap [
 		rr:predicate ppeo:hasMaterialSource;
 		rr:objectMap [
-			rr:template "http://www.urgi.versailles.inrae.fr/material_source/sha1({$.genus}_{$.species}_{$.biological_id})";
+			rr:template "http://www.urgi.versailles.inrae.fr/material_source/sha1({$.genus}_{$.species}_{$.accession_name})";
 		];
 	];
 	
@@ -57,7 +57,7 @@
 	];
 	
 	rr:subjectMap [
-		rr:template "http://www.urgi.versailles.inrae.fr/material_source/sha1({$.genus}_{$.species}_{$.biological_id})";
+		rr:template "http://www.urgi.versailles.inrae.fr/material_source/sha1({$.genus}_{$.species}_{$.accession_name})";
 		rr:class ppeo:material_source;
 	];
 	

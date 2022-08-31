@@ -161,6 +161,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/20cddb73f1b6859dd9a90133d4e885ac97f56f06>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/S7WZIM" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/RE07075>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -215,15 +222,12 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Barok>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "BAROK" ;
-      ppeo:hasAccessionNumber
-              "32101" ;
-      ppeo:hasLotName "Barok" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/cdac05365fe4104b9b6a60c80ee6f24d47517783> .
+<http://www.urgi.versailles.inrae.fr/material_source/9556de316d5dd2a6af6e3d213e3b1f11bcd41068>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/WDD3QQ" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/1c6f20f6fb3989b68604e1552812815f3bcaa14c>
       a       ppeo:material_source ;
@@ -566,6 +570,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/ed6b57ad338eda0ee09a123d88f433262ed014d3>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/5YB44K" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/RE10023>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -768,6 +779,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/c054e816786ca86227d6e5e1ab6c24e98e0273e4>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/J5APM1" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/material_source/e8c3d19de7fc8cf9f7bac1763796dd65f49962ac>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/0TTU1F" ;
@@ -857,6 +875,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/d9de614ad85c0267583c9e017cdac42738af8e1c> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/RECITAL>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "RECITAL" ;
+      ppeo:hasAccessionNumber
+              "6027" ;
+      ppeo:hasLotName "Recital" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/828eabd41ef44f5bfae59a3ac3e21c3da9181158> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/AO09003>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -945,13 +973,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/6abc438c1373706d13b7544727ea85fdee6a4cca>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/R5VJW6" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/DI03013>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -961,6 +982,13 @@
       ppeo:hasLotName "DI03013" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/4b8d377461a1f7fb72ec7ad1f6e29e880d818107> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/4efac31b8c722de1be973f0bccc4553fe79b65fd>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/PGQV8C" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE13006>
       a       ppeo:biological_material ;
@@ -1350,16 +1378,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Flamenko>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "FLAMENKO" ;
-      ppeo:hasAccessionNumber
-              "32087" ;
-      ppeo:hasLotName "Flamenko" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/6f52b6ceacf9c852e2957442f5a2a7ff88c78935> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/RE04098>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -1579,13 +1597,6 @@
       ppeo:hasLotName "EM10241" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/b65cc22f3ba7aa203bae39be9ecf67f9e86360f8> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/dc644cd25993d2ae95037ba1e49e9c85f76a171f>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/J5APM1" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE99123>
       a       ppeo:biological_material ;
@@ -1817,6 +1828,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/MENDEL>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "MENDEL" ;
+      ppeo:hasAccessionNumber
+              "23874" ;
+      ppeo:hasLotName "Mendel" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/b9f16eef6fb4201f304726abeab3ea0bdf9e7c91> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/AO14001>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -1931,13 +1952,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/52a17ea954646a0c1ae2dc30d86b5fd8ede86047>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/UW0CIP" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/97b0ca91e3dd7920cd4e4ddcea87620bf3570e43>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/Y60IB3" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -2082,13 +2096,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/c6d4c8868ae667a048370c5636ab238e3debfe53>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/ZA6HMJ" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/RE03073>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -2115,6 +2122,16 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/SOLEHIO>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "SOLEHIO" ;
+      ppeo:hasAccessionNumber
+              "33851" ;
+      ppeo:hasLotName "Solehio" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/3865320e809435d9fb5c5b2d12e22d94f5acbf03> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/e33c2f73c109fa2fb2dc244054e4a9bc55a963e0>
       a       ppeo:material_source ;
@@ -2168,16 +2185,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Tamaro>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "TAMARO" ;
-      ppeo:hasAccessionNumber
-              "20371" ;
-      ppeo:hasLotName "Tamaro" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/0c69dc9cfe9b7753626ea0d3ccebadf491578d93> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/317dc6ab7d7efe2cb285f9c2330b8a36044dfe83>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/S5ERQF" ;
@@ -2229,9 +2236,9 @@
 <http://www.urgi.versailles.inrae.fr/biological_material/Bermude>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
-              "BERMUDE" , "Bermude" ;
+              "Bermude" ;
       ppeo:hasAccessionNumber
-              "TX9" , "29852" ;
+              "TX9" ;
       ppeo:hasLotName "Bermude" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/4eb38a4ded6ead0bff8c271e904f57f0a6f6ff18> .
@@ -2430,13 +2437,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/a501ac4d70523f194582f63b211651b2c6b318d0>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/TOLYT8" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/32e2910f421c157a0391cc2654ce1264ac9027b1>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/E8FP9Y" ;
@@ -2542,13 +2542,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/a0516b53c2d2cff6b477b9d521f720673407c3eb>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/IH4I8R" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/4858fcf8d1dd31a21b06a75404f047eeb818a161>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/0GA5PF" ;
@@ -2562,16 +2555,6 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Oratorio>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "ORATORIO" ;
-      ppeo:hasAccessionNumber
-              "13232" ;
-      ppeo:hasLotName "Oratorio" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/dc644cd25993d2ae95037ba1e49e9c85f76a171f> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/AO09012>
       a       ppeo:biological_material ;
@@ -2616,7 +2599,7 @@
 
 <http://www.urgi.versailles.inrae.fr/material_source/4eb38a4ded6ead0bff8c271e904f57f0a6f6ff18>
       a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/AIOH4U" , "https://doi.org/10.15454/W1NSZX" ;
+      ppeo:hasDOI "https://doi.org/10.15454/AIOH4U" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -2699,13 +2682,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/a9433a638a0b14c4240fd8157d9af71b52e945ba>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/FHFPK2" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/0c69dc9cfe9b7753626ea0d3ccebadf491578d93>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/KRPWXN" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -3708,6 +3684,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/12ce77a586a1b0a1bca592797cc5af3592a7e786> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/FLAMENKO>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "FLAMENKO" ;
+      ppeo:hasAccessionNumber
+              "32087" ;
+      ppeo:hasLotName "Flamenko" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/9556de316d5dd2a6af6e3d213e3b1f11bcd41068> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI07018>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -3850,13 +3836,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/7a88d04570c2e1d353611a4719057f6d63994f9f> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/b4d3847c2d1e9861cf4d4f86dec008c115e88877>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/HZTT8F" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/EM01100>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -3866,16 +3845,6 @@
       ppeo:hasLotName "EM01100" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/1c1ad44d74f0ccc195f381645454ebd938f8d064> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Toisondor>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "TOISONDOR" ;
-      ppeo:hasAccessionNumber
-              "23880" ;
-      ppeo:hasLotName "Toisondor" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/5336bb36a77cb68c7372dffafb4f69a6abbf8864> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI07017>
       a       ppeo:biological_material ;
@@ -4004,6 +3973,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/RYTMIC>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "RYTMIC" ;
+      ppeo:hasAccessionNumber
+              "29815" ;
+      ppeo:hasLotName "Rytmic" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/d8667cedbc8f470242879def3efd47a005d2ba63> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/CF10039>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -4017,6 +3996,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/55968f578e94975c2e0356c433b900a162f14725>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/9VMAGV" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/a6f6dcfeec41164fe56abce75c0a9a4d577f3dcc>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/IH4I8R" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -4144,13 +4130,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/7cdd51897cc7b9995c0fccaf078c192273888562>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/6PDHWM" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/e2bea12c35c00bbce7b69ffe3a4d4cd33e53fb7a>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/I4EDVN" ;
@@ -4213,13 +4192,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/59b212a8bb4adc88bb81137fa504981f12c5cf34>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/PGQV8C" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/50330270e1a2d98db3aeec73bac14e7c51d3b43b>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49116" ;
@@ -4236,16 +4208,6 @@
       ppeo:hasLotName "AO14010" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/0f14f9a5320218239153633a31d525b3896ef69d> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Pakito>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "PAKITO" ;
-      ppeo:hasAccessionNumber
-              "36681" ;
-      ppeo:hasLotName "Pakito" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/6eacd1e8cf31bbfa89ac55f3317c143844f32030> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/90ddbb09603e9401a4b5980c4cdb7a0ebe69bd5a>
       a       ppeo:material_source ;
@@ -4353,6 +4315,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/AUTAN>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "AUTAN" ;
+      ppeo:hasAccessionNumber
+              "20188" ;
+      ppeo:hasLotName "Autan" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/cdad8d7a872117eca20bd8e08c6da93092ab338a> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/RE03101>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -4455,13 +4427,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/b9108ef9357dfd4ea75c29782f43fd8a75dddbad>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/J28WOV" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/b706db03eb9596122002bbc0b141f70dc99db4f9>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/CYMFDY" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -4629,6 +4594,16 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/SKERZZO>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "SKERZZO" ;
+      ppeo:hasAccessionNumber
+              "20366" ;
+      ppeo:hasLotName "Skerzzo" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/5c289b7d75beb13bf50840c8889c031bb524bde3> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/ee4a0be8965294d9cbf79746eb438e7d8af12bc5>
       a       ppeo:material_source ;
@@ -4854,6 +4829,13 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/83cdaede919772c1e72d20c96ade2e094ae6bbd8> .
 
+<http://www.urgi.versailles.inrae.fr/material_source/f6e7c649582e7b6624db9fca365ac96dd0283f18>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/7VD1UN" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI12009>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -4954,16 +4936,6 @@
       ppeo:hasLotName "RE04082" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/93241813df6b1a94726ae2474ece5e68474d7d26> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Ghayta>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "GHAYTA" ;
-      ppeo:hasAccessionNumber
-              "36762" ;
-      ppeo:hasLotName "Ghayta" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/560890ba3caa52faa61ddbd19c0e3ba79fe01e17> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/CF05031>
       a       ppeo:biological_material ;
@@ -5114,6 +5086,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/fa703d499cc20961096c809a462295bb508e04d8>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/EJSRJK" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/f011fa4579ebf7d1976a13bc363466e7cc4a00a1>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/C1H1E0" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -5292,6 +5271,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/3070739f66797a0dbd9610cb63f58006fa2af404>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/4TFKM0" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/AO09013>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -5301,16 +5287,6 @@
       ppeo:hasLotName "AO09013" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/08f83b6b06c5316a4bcea90430873025dc1f1b41> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Solehio>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "SOLEHIO" ;
-      ppeo:hasAccessionNumber
-              "33851" ;
-      ppeo:hasLotName "Solehio" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/08db89584ac5f379c98cb8af5193448457ffb0bd> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/EM12340>
       a       ppeo:biological_material ;
@@ -5413,6 +5389,16 @@
       ppeo:hasLotName "CF09169" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/bf85e52eb1fd979576796a914eeed773dd530915> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/KORELI>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "KORELI" ;
+      ppeo:hasAccessionNumber
+              "29814" ;
+      ppeo:hasLotName "Koreli" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/052565ce45b80e8fc9f8b5afdf70ac4afb2a59e9> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/AO14017>
       a       ppeo:biological_material ;
@@ -5816,6 +5802,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/BERMUDE>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "BERMUDE" ;
+      ppeo:hasAccessionNumber
+              "29852" ;
+      ppeo:hasLotName "Bermude" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/7a6d89c0479435da18f8ca907a950569e05886f2> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/RE01091>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -5825,6 +5821,13 @@
       ppeo:hasLotName "RE01091" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/5db85194ad445eefcacc66f3ba80f1ed8187866c> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/5c289b7d75beb13bf50840c8889c031bb524bde3>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/SGAN4B" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE07115>
       a       ppeo:biological_material ;
@@ -5893,13 +5896,6 @@
       ppeo:hasLotName "DI02003" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/0664a4c057fdb0d1295def7ae5eaa2d650bee23f> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/34176fccd066f6ec16b4510851c2242c59671705>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/SGAN4B" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/Hadm01601-07>
       a       ppeo:biological_material ;
@@ -6026,6 +6022,16 @@
       ppeo:hasLotName "RE08009" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/50f040db06107cc7047c789713825767313d3ea7> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/ORNICAR>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "ORNICAR" ;
+      ppeo:hasAccessionNumber
+              "13471" ;
+      ppeo:hasLotName "Ornicar" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/70f0e38ea5bd53242e2cd8186cbfe7c09e10eacf> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/CF9804>
       a       ppeo:biological_material ;
@@ -6462,16 +6468,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/298d2c6144c1635daa77803bce52f7570ef43ceb> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Caphorn>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "CAPHORN" ;
-      ppeo:hasAccessionNumber
-              "20443" ;
-      ppeo:hasLotName "Caphorn" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/a0516b53c2d2cff6b477b9d521f720673407c3eb> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/723ede2f0816c5195302a3379ab6c6a8398169f7>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49117" ;
@@ -6515,16 +6511,6 @@
       ppeo:hasLotName "CF12372" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/9a3cff82ddc922ee214cbfd75e577e7782116437> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Recital>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "RECITAL" ;
-      ppeo:hasAccessionNumber
-              "6027" ;
-      ppeo:hasLotName "Recital" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/5b3abb4b092ddb48ae6419e3d5f6d8f68858474b> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/50a0495b14c618cc43863220e1ad4db8d6bb139f>
       a       ppeo:material_source ;
@@ -6889,16 +6875,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/3561ee7fad7a766daa10fac291a347b0e4090f80> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Lyrik>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "LYRIK" ;
-      ppeo:hasAccessionNumber
-              "36666" ;
-      ppeo:hasLotName "Lyrik" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/718395ef003fb26e36f0f7bbf5860d6ebac50fd4> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/EM11589>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -7209,6 +7185,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/1c0a1e3a0b0d81de3dfae63b07902d594c939626>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/UMYYUP" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/342716d9ab7add93cb963b2e8a912b913b97fc81>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/Y60IB3" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -7847,23 +7830,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/e7897c2808eed7e2f7d4ee5a9826f7257b298d72> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/0b15ed79f2fcb283fa9a8938183a87b4f263763d>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/SFNXCW" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Altigo>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "ALTIGO" ;
-      ppeo:hasAccessionNumber
-              "29843" ;
-      ppeo:hasLotName "Altigo" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/a60f7ac7a5c6b0cb955255cbbea0dc6eb6e3a98a> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/51ad36aa4017211ec588f4547595c5de4582a59e>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-48625" ;
@@ -7901,7 +7867,7 @@
               "RUBISKO" ;
       ppeo:hasAccessionNumber
               "36680" ;
-      ppeo:hasLotName "RUBISKO" ;
+      ppeo:hasLotName "Rubisko" , "RUBISKO" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/dcbf9397a6b5c38a728e1601a359425bc17772a1> .
 
@@ -8072,13 +8038,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/25dd76f332fcda3b9f1baab8d79246485eeb5072> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/5336bb36a77cb68c7372dffafb4f69a6abbf8864>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/S7WZIM" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/5ebe1cfcf98a21560e6fd496828cd5751520e884>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49500" ;
@@ -8157,13 +8116,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/e61a4396804bbfa589ed25b3181ab72015ae2998>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/6DHCDH" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/9b95b0335f86a2404f84ca92c1edf462baf0040c>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/ISHUU1" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -8429,16 +8381,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/a3f4607a4cb8a06d0897942e77788bc5e906e0bc> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Granamax>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "GRANAMAX" ;
-      ppeo:hasAccessionNumber
-              "37231" ;
-      ppeo:hasLotName "Granamax" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/724b78f6a10f68e5a4ae9cdabffd0e28a84f6cba> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/CF11216>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -8557,13 +8499,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/00d95bf3790a7980e4bc8744c2be0f3b3732b506>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/SROBAE" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/b7735fec2b0c4ac4bb8935af3dd3ca7baa659404>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/PYUIEM" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -8819,6 +8754,13 @@
       ppeo:hasLotName "DI11017" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/b7cac33ab3befaf66a136d027462fb471bb758fb> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/a48a13829572c648e63732875e9128fc8b3eb75c>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/CYMFDY" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/EM12044>
       a       ppeo:biological_material ;
@@ -9246,6 +9188,13 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/924befb46a40a0745fd1633f087c656f91a39169> .
 
+<http://www.urgi.versailles.inrae.fr/material_source/7c0a2eabd7e1f34ae2e39bc08d2962b164678224>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/Z3MNYF" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/material_source/1f18b0805c37192266d04cad218655af5289c364>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-48384" ;
@@ -9377,16 +9326,6 @@
       ppeo:hasLotName "AO15006" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/8e1a7a7e1c680a2468a46477da60fbfd29b2f944> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Valoris>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "VALORIS" ;
-      ppeo:hasAccessionNumber
-              "13871" ;
-      ppeo:hasLotName "Valoris" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/af8b0428c0133cc8c35615333612b6bf805592ef> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/e5514e79ed2c30ffc4e6d3ff92f652cbefe2e8af>
       a       ppeo:material_source ;
@@ -9592,16 +9531,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/0e4e1be3e4381d07a4767701e878254abedca983> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Koreli>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "KORELI" ;
-      ppeo:hasAccessionNumber
-              "29814" ;
-      ppeo:hasLotName "Koreli" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/7cdd51897cc7b9995c0fccaf078c192273888562> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/AO13047>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -9645,16 +9574,6 @@
       ppeo:hasLotName "CF09028" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/c7025baaea2c2f77033fbfa4ac61868079b746e0> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Karillon>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "KARILLON" ;
-      ppeo:hasAccessionNumber
-              "36669" ;
-      ppeo:hasLotName "Karillon" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/5d478825cf301ebc76ea5dd0cd4aa5712e86fc9e> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/EM02196>
       a       ppeo:biological_material ;
@@ -9879,7 +9798,7 @@
               "APACHE" ;
       ppeo:hasAccessionNumber
               "13481" ;
-      ppeo:hasLotName "APACHE" ;
+      ppeo:hasLotName "Apache" , "APACHE" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/493edaaf4533dbb8c2498781d28eb0eef3f7deb2> .
 
@@ -9902,6 +9821,16 @@
       ppeo:hasLotName "AO12016" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/8c9ff3c68a5c2fe0a991f21b5aaaf24b5dec765c> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/ALBERIC>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "ALBERIC" ;
+      ppeo:hasAccessionNumber
+              "13712" ;
+      ppeo:hasLotName "Alberic" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/79d0ca8226a0136dc2305a57f284fc56ee48371a> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/EM02231>
       a       ppeo:biological_material ;
@@ -9969,6 +9898,16 @@
       ppeo:hasLotName "DI06018" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/82a41343280ee83790574ab01ca7fcfbd2478e88> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/KARILLON>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "KARILLON" ;
+      ppeo:hasAccessionNumber
+              "36669" ;
+      ppeo:hasLotName "Karillon" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/eb81dd2bd91abc0f8589b48e0488ccc6f64e7655> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/72ba7ed3a2bcd346dbb9d29686b80f9698680ace>
       a       ppeo:material_source ;
@@ -10195,16 +10134,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/6285bf6df63da6ccd50f82e4ea2bec67c4205cbb> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Crousty>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "CROUSTY" ;
-      ppeo:hasAccessionNumber
-              "13450" ;
-      ppeo:hasLotName "Crousty" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/36be11b90de57d64afeb6ad1becf0cf3788e6466> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/RE14004>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -10295,6 +10224,13 @@
       ppeo:hasLotName "CF02040" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/6916d29c16e5ea7d38715ca363fecf5c2e2665f5> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/3d518dcfde95ba215d3c256ff012da1c61aa2c0c>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/P0AD4Y" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/AO12013>
       a       ppeo:biological_material ;
@@ -10473,9 +10409,9 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/92f983c319e1af04ddb682277e2aa6886c1cc033>
+<http://www.urgi.versailles.inrae.fr/material_source/0e4a271240771f4046647d3246f305ce44f55f81>
       a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/TNI3IW" ;
+      ppeo:hasDOI "https://doi.org/10.15454/AYEEVH" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -10567,6 +10503,16 @@
       ppeo:hasLotName "RE12040" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/896a60138482dfec02c3854f03b0dcbcac7b565e> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/TREMIE>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "TREMIE" ;
+      ppeo:hasAccessionNumber
+              "7043" ;
+      ppeo:hasLotName "Tremie" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/db832a8579e1a3147a796a820b14e04c6c2b20cf> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/CF09164>
       a       ppeo:biological_material ;
@@ -10929,13 +10875,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/8fbfde2136821aea316bec2e21247b449aef3bf6>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/ZUZBM9" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/94caa932f7f268e6a320aa7d818f83d40f8527f2>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/CH5SFE" ;
@@ -11265,16 +11204,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/3be4d1bec60e8d1f65c9236a367c7971f8bce455> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Alberic>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "ALBERIC" ;
-      ppeo:hasAccessionNumber
-              "13712" ;
-      ppeo:hasLotName "Alberic" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/b4d3847c2d1e9861cf4d4f86dec008c115e88877> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/EM01214>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -11314,16 +11243,6 @@
       ppeo:hasLotName "CF99306" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/79cc9e854b20b93d6c8cc8235540287c782b726d> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Gallixe>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "GALLIXE" ;
-      ppeo:hasAccessionNumber
-              "37286" ;
-      ppeo:hasLotName "Gallixe" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/756b4612367c18f0fcb36a89506c8a914f6be98d> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/f84f234d41494e5bb4b2279f3e92e2e6a5dd55ec>
       a       ppeo:material_source ;
@@ -11429,6 +11348,16 @@
       ppeo:hasLotName "DI14004" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/beeeb40dc0573a4d1020be4ec26ba352b070d4f9> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/GRAPELI>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "GRAPELI" ;
+      ppeo:hasAccessionNumber
+              "36801" ;
+      ppeo:hasLotName "Grapeli" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/3070739f66797a0dbd9610cb63f58006fa2af404> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/0a7461ae4c68c32ddd80b49a61199a6a90affc8a>
       a       ppeo:material_source ;
@@ -11702,16 +11631,19 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/10bf74c7d4809d5936f609aef2d14b4c04cc6a2b> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/ORATORIO>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "ORATORIO" ;
+      ppeo:hasAccessionNumber
+              "13232" ;
+      ppeo:hasLotName "Oratorio" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/c054e816786ca86227d6e5e1ab6c24e98e0273e4> .
+
 <http://www.urgi.versailles.inrae.fr/material_source/3ad76b8a1d5fbfd2b74f4b0174607c16f5af2e90>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/IYISPL" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/6eacd1e8cf31bbfa89ac55f3317c143844f32030>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/YJMDM5" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -12403,13 +12335,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/ee4dff8ccb3380bff130f42d94d17e8282f398d6> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/2a654a96116947342189ff80acce7c79f6ac95f6>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/4BHB0N" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/EM01105.1>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -12694,6 +12619,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/BRANDO>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "BRANDO" ;
+      ppeo:hasAccessionNumber
+              "14078" ;
+      ppeo:hasLotName "Brando" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/3d518dcfde95ba215d3c256ff012da1c61aa2c0c> .
+
 <http://www.urgi.versailles.inrae.fr/material_source/d578a73ea3924f7a1c9209ca9d8476865ccdcff4>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/KBHSGY" ;
@@ -12880,6 +12815,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/dba4b89b17abf8e1e2bb4f56d7bb9614fc96b33d> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/GALIBIER>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "GALIBIER" ;
+      ppeo:hasAccessionNumber
+              "3250" ;
+      ppeo:hasLotName "Galibier" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/342716d9ab7add93cb963b2e8a912b913b97fc81> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/AO08107>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -13030,6 +12975,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/711c5ee41311efd7e00d8887e0f8fbfbab278007>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/PYUIEM" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI09015>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -13151,16 +13103,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/86801cda4987acdc988b31386c02054dc93eadb4> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Galibier>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "GALIBIER" ;
-      ppeo:hasAccessionNumber
-              "3250" ;
-      ppeo:hasLotName "Galibier" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/97b0ca91e3dd7920cd4e4ddcea87620bf3570e43> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/RE09009>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -13171,16 +13113,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/c5c120e5d622d7e98a80d54be7c6b13c5663be43> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Gotik>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "GOTIK" ;
-      ppeo:hasAccessionNumber
-              "37251" ;
-      ppeo:hasLotName "Gotik" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/31dd50bb4c155ea4b59f33a043d1a684cf3aff04> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/C32>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -13190,13 +13122,6 @@
       ppeo:hasLotName "C32" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/fe607f812715d20bba133fb13e1e50ee3a5690e3> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/f82fd7761d92f9fea14c59bbe35fda14030ef72e>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/FS69PT" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/CF09276>
       a       ppeo:biological_material ;
@@ -13485,13 +13410,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/2adc0bc38c9cefbfa2ac71687661a3b6c3cef429> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/713e0384518125a6ecbbf556e71ffd11b81a307d>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/9YBOHR" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/DI05008>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -13511,6 +13429,16 @@
       ppeo:hasLotName "CF04076" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/9b35ff57e77e6ae9f2200a956cd869f93bd2abc0> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/HENDRIX>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "HENDRIX" ;
+      ppeo:hasAccessionNumber
+              "28978" ;
+      ppeo:hasLotName "Hendrix" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/711c5ee41311efd7e00d8887e0f8fbfbab278007> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/ba762900c12f7cf71b4eb36d51070637c576d23f>
       a       ppeo:material_source ;
@@ -13764,13 +13692,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/d24e21a76feac209ccbdfbdd34a9cac7a16967e3>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/CTNPK9" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/e27b3435fc60cacf9d620ddbe9e764ec521d62ee>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/0ALDQA" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -14313,13 +14234,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/6098311f2b79e7a83f32b3ae79d9bb30a9df8a84>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/T6ZEFN" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/05666e65aeaa6d8b9ebb1e100cfa7db8e493d7c8>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/V8WRHY" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -14870,6 +14784,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/GHAYTA>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "GHAYTA" ;
+      ppeo:hasAccessionNumber
+              "36762" ;
+      ppeo:hasLotName "Ghayta" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/72a85c362436cae0bdc1978b5024171e37278f62> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/EM08147>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -14941,6 +14865,16 @@
       ppeo:hasLotName "CF06210" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/74861b1522037165a67af13c0764f93f90ed2583> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/GRANAMAX>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "GRANAMAX" ;
+      ppeo:hasAccessionNumber
+              "37231" ;
+      ppeo:hasLotName "Granamax" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/9cafb8e02b448abc42323991eb799f3641e3a6cb> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE13054>
       a       ppeo:biological_material ;
@@ -15099,6 +15033,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/828eabd41ef44f5bfae59a3ac3e21c3da9181158>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/WL6NIE" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/material_source/08b74ceb65eab47a51f1e78e51a6b0295aad63ed>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-48634" ;
@@ -15191,6 +15132,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/cdad8d7a872117eca20bd8e08c6da93092ab338a>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/ZA6HMJ" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/CF01092>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -15200,6 +15148,13 @@
       ppeo:hasLotName "CF01092" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/314c303d17e1ad6adf3ebc5480666b0230c48c8e> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/d9fb30c43c2ca5271d456cdb8f64c447f1967d9e>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/FS69PT" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/7472816035b9f6d4a268336eebbc47010640ffbd>
       a       ppeo:material_source ;
@@ -15254,16 +15209,6 @@
       ppeo:hasLotName "EM00001" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/50330270e1a2d98db3aeec73bac14e7c51d3b43b> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Premio>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "PREMIO" ;
-      ppeo:hasAccessionNumber
-              "29855" ;
-      ppeo:hasLotName "Premio" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/265133bd6a89f45b4e6e131cbe10ce6d5fe35804> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE04100>
       a       ppeo:biological_material ;
@@ -15435,16 +15380,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/28d3794287c7e325523b0c4a1f6cede440391468> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Tremie>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "TREMIE" ;
-      ppeo:hasAccessionNumber
-              "7043" ;
-      ppeo:hasLotName "Tremie" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/713e0384518125a6ecbbf556e71ffd11b81a307d> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/DI11014>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -15591,13 +15526,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/a60f7ac7a5c6b0cb955255cbbea0dc6eb6e3a98a>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/6CYBGM" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/09206f4959b5265f615d41ac991041810c18a558>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-48529" ;
@@ -15686,6 +15614,16 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/MUSIK>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "MUSIK" ;
+      ppeo:hasAccessionNumber
+              "36668" ;
+      ppeo:hasLotName "Musik" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/22f3882c97cc2b07fdc28f6dfb7aed2070503025> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/95a0ea0b54ed87d3d216f396ab0d3e054503882b>
       a       ppeo:material_source ;
@@ -16027,16 +15965,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Farandole>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "FARANDOLE" ;
-      ppeo:hasAccessionNumber
-              "20225" ;
-      ppeo:hasLotName "Farandole" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/4b07aa4c91cb4adb1d206ced92153aa7bfa1a76c> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/77ce78edfa9d9ec896d5eb478da7f9d35088e7dd>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/BNMVC6" ;
@@ -16152,7 +16080,7 @@
               "SOISSONS" ;
       ppeo:hasAccessionNumber
               "6607" ;
-      ppeo:hasLotName "SOISSONS" ;
+      ppeo:hasLotName "SOISSONS" , "Soissons" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/a81b5b095572e6fccabdf3bed4c2bc69f9868207> .
 
@@ -16284,16 +16212,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/72c5c24aec3ee19d9e3d6141dfd5b00abfb90e20> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Sankara>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "SANKARA" ;
-      ppeo:hasAccessionNumber
-              "23878" ;
-      ppeo:hasLotName "Sankara" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/6abc438c1373706d13b7544727ea85fdee6a4cca> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/59222bef751552d4fe5848021c5c2579a86f19c2>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49391" ;
@@ -16341,6 +16259,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/61a5f03a6ac6fdfc29614d1be484b493a4188451>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/RV2BAB" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/db832a8579e1a3147a796a820b14e04c6c2b20cf>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/9YBOHR" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -16444,16 +16369,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/25134070cff44a8eb11e28f758afcd16914a7609> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Rytmic>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "RYTMIC" ;
-      ppeo:hasAccessionNumber
-              "29815" ;
-      ppeo:hasLotName "Rytmic" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/22e2b1b04d350571a104ee4b1611cecbd7fca052> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/RE02133>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -16463,6 +16378,13 @@
       ppeo:hasLotName "RE02133" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/dfd33e6b12072e888b9ed57b0ccd92be754f1693> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/72a85c362436cae0bdc1978b5024171e37278f62>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/BYBWWN" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI01014>
       a       ppeo:biological_material ;
@@ -16545,16 +16467,6 @@
       ppeo:hasLotName "DI10017" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/38777543ad542df4008a8f2a610db586a686c5d9> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Balthazar>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "BALTHAZAR" ;
-      ppeo:hasAccessionNumber
-              "13217" ;
-      ppeo:hasLotName "Balthazar" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/9b95b0335f86a2404f84ca92c1edf462baf0040c> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE06097>
       a       ppeo:biological_material ;
@@ -16699,6 +16611,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/e562ab6bf54f967028757e97dbd2c0cae61561c1> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/PAKITO>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "PAKITO" ;
+      ppeo:hasAccessionNumber
+              "36681" ;
+      ppeo:hasLotName "Pakito" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/65f5eb7874a575321649dc0d6dd5cac8695c816c> .
+
 <http://www.urgi.versailles.inrae.fr/material_source/01270d0f60e5469f4b5ec059eeefcad682ae3f50>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49003" ;
@@ -16788,13 +16710,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/724b78f6a10f68e5a4ae9cdabffd0e28a84f6cba>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/R2A6FC" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/13bb0787077509c52d8aa66e8ae9051cd99397a9>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-48852" ;
@@ -16846,6 +16761,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/61b4907d6da399cfbd8cbf81ab9d9fd70dc3744b>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/HZ6TJM" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/33748d6432e125b22986a5b8f426c41027d87344>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/KRPWXN" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -16940,6 +16862,13 @@
       ppeo:hasLotName "AO07311" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/6669e36f883f4453ebc757a6682d4e1e0bae93c3> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/dba27713c4ae877e1359dcb86f9c80a70eb7df7d>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/TOLYT8" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/CF01120>
       a       ppeo:biological_material ;
@@ -17104,16 +17033,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Brando>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "BRANDO" ;
-      ppeo:hasAccessionNumber
-              "14078" ;
-      ppeo:hasLotName "Brando" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/4f7fb2ed0d775f236d7e976ea5c12ab829ffe0cb> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/AO14041>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -17164,6 +17083,16 @@
       ppeo:hasLotName "DI01019" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/30033a809ac04aefb4cbf4d7893875f08aa9bc78> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/SANKARA>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "SANKARA" ;
+      ppeo:hasAccessionNumber
+              "23878" ;
+      ppeo:hasLotName "Sankara" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/cfecc11b09b6f82db63211e96b97d83535b57848> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE03022>
       a       ppeo:biological_material ;
@@ -17382,13 +17311,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/a21664a900b21d8e6f015b29e730da013d1134ab> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/6f52b6ceacf9c852e2957442f5a2a7ff88c78935>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/WDD3QQ" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/286b403561c283bb237b1b1d61d0a82992ccd3f3>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/MX3ENS" ;
@@ -17437,16 +17359,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Musik>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "MUSIK" ;
-      ppeo:hasAccessionNumber
-              "36668" ;
-      ppeo:hasLotName "Musik" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/a115ed51b271ffbe9b8db09997a4ab03eb5c7c93> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/CF06154>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -17483,6 +17395,13 @@
       ppeo:hasLotName "DI09022" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/65280b4f4d0cb9d815fd08d4db886ff9811d1855> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/9907ee552478a097a1d8251168292f0ef726d6f0>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/BKJEDG" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE02088>
       a       ppeo:biological_material ;
@@ -17530,16 +17449,6 @@
       ppeo:hasLotName "EM12375" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/9a21f5d2d62b97bb8b51dcfebe86cf4636d043fd> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Folklor>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "FOLKLOR" ;
-      ppeo:hasAccessionNumber
-              "35310" ;
-      ppeo:hasLotName "Folklor" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/59b212a8bb4adc88bb81137fa504981f12c5cf34> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/d6af984ffdc8bbaf548951bc63261179a1a0c5b8>
       a       ppeo:material_source ;
@@ -17849,16 +17758,6 @@
       ppeo:hasLotName "CF06153" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/c2949ac60c90b95b7f664b38d42f7c8364a4ad70> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Arezzo>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "AREZZO" ;
-      ppeo:hasAccessionNumber
-              "32759" ;
-      ppeo:hasLotName "Arezzo" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/0b15ed79f2fcb283fa9a8938183a87b4f263763d> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/2c8dee9b6565a5203552f1586fc21eb40f05fce1>
       a       ppeo:material_source ;
@@ -18194,6 +18093,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/FOLKLOR>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "FOLKLOR" ;
+      ppeo:hasAccessionNumber
+              "35310" ;
+      ppeo:hasLotName "Folklor" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/4efac31b8c722de1be973f0bccc4553fe79b65fd> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/RE14111>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -18277,13 +18186,6 @@
       ppeo:hasLotName "CF14128" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/7c2300f10b74d1a3fff3ca87e9c28981521bbfa8> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/19189bf8b84ab4e291c83a34e4a99b0792ac472d>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/4TFKM0" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI05015>
       a       ppeo:biological_material ;
@@ -18846,13 +18748,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/d64acba02a0a4d29c5718507da67918592ca74cb> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/08db89584ac5f379c98cb8af5193448457ffb0bd>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/E4TDMS" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/EM03234>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -18879,6 +18774,13 @@
       ppeo:hasLotName "DI05016" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/748bda8adea0a3dbc3af7ea8f9e7a587f79b9cf9> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/052565ce45b80e8fc9f8b5afdf70ac4afb2a59e9>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/6PDHWM" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/561af9822a4b962ba554ec25bbc525425a328697>
       a       ppeo:material_source ;
@@ -19232,6 +19134,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/65f5eb7874a575321649dc0d6dd5cac8695c816c>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/YJMDM5" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/material_source/55bba04860745217e5b0f196c8e9c6073a8989db>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49013" ;
@@ -19256,13 +19165,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/300f72ccda89924be0ffdacd611a677a8bb9705f> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/56df2f84d1e4a7b13642d5a7f34e34d58e1e64e0>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/YZZGYB" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/7fb22cb8f08f4afb1f68f23e4d3be10909a0780c>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49518" ;
@@ -19283,6 +19185,16 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/PREMIO>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "PREMIO" ;
+      ppeo:hasAccessionNumber
+              "29855" ;
+      ppeo:hasLotName "Premio" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/ed6b57ad338eda0ee09a123d88f433262ed014d3> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/CF01085>
       a       ppeo:biological_material ;
@@ -19314,15 +19226,15 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/2ff2f39b38dc4d3a10406d787d1673e8e29874f9> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Autan>
+<http://www.urgi.versailles.inrae.fr/biological_material/ALTIGO>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
-              "AUTAN" ;
+              "ALTIGO" ;
       ppeo:hasAccessionNumber
-              "20188" ;
-      ppeo:hasLotName "Autan" ;
+              "29843" ;
+      ppeo:hasLotName "Altigo" ;
       ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/c6d4c8868ae667a048370c5636ab238e3debfe53> .
+              <http://www.urgi.versailles.inrae.fr/material_source/4c24be47b158c23df29b2442c1ef73cc879cf833> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI05010>
       a       ppeo:biological_material ;
@@ -19598,13 +19510,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/6a188ad24e2be16bb94aa2b58e20986add4b13ab> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/5d478825cf301ebc76ea5dd0cd4aa5712e86fc9e>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/LFFVPX" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/9074416a1f65f56d9975f5122dcea243cda036f8>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49537" ;
@@ -19632,16 +19537,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/128406bf0cfbc395450bb007ceaa445b7ca9bb99> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/ce0f8b62e9c5d80d5135cf948643e1a2896a16f7>
+<http://www.urgi.versailles.inrae.fr/material_source/22b797314304d8fb141f2a681635c5a74ecf84c1>
       a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/SINHNW" ;
+      ppeo:hasDOI "https://doi.org/10.15454/0ALDQA" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/cdac05365fe4104b9b6a60c80ee6f24d47517783>
+<http://www.urgi.versailles.inrae.fr/material_source/ce0f8b62e9c5d80d5135cf948643e1a2896a16f7>
       a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/Z3MNYF" ;
+      ppeo:hasDOI "https://doi.org/10.15454/SINHNW" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -19782,13 +19687,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/84fd74ba20c022d7b8ac7016974d4d49d4a560ef>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49248" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/4597e57bf0c5b152c0361867934450b8c64cdb8c>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/AYEEVH" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -20021,16 +19919,6 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Mendel>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "MENDEL" ;
-      ppeo:hasAccessionNumber
-              "23874" ;
-      ppeo:hasLotName "Mendel" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/92f983c319e1af04ddb682277e2aa6886c1cc033> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE00160>
       a       ppeo:biological_material ;
@@ -20430,16 +20318,6 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Rumba>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "RUMBA" ;
-      ppeo:hasAccessionNumber
-              "14090" ;
-      ppeo:hasLotName "Rumba" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/4597e57bf0c5b152c0361867934450b8c64cdb8c> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/493edaaf4533dbb8c2498781d28eb0eef3f7deb2>
       a       ppeo:material_source ;
@@ -21028,6 +20906,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/9cafb8e02b448abc42323991eb799f3641e3a6cb>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/R2A6FC" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/CF04052>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -21037,6 +20922,13 @@
       ppeo:hasLotName "CF04052" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/8c99de55743afb959c02dc0b429b87fad4533d4d> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/eb81dd2bd91abc0f8589b48e0488ccc6f64e7655>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/LFFVPX" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/63d5c386d335911f3fbef5ef6e35e81140ab1a21>
       a       ppeo:material_source ;
@@ -21567,6 +21459,13 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/263e58d4b9a3fe72fa63c0b5ff7ab166a9a7f242> .
 
+<http://www.urgi.versailles.inrae.fr/material_source/05ff45fd4cd4fe5a37d38c435508de85611aa404>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/EMUZ8X" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI05020-2>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -21665,6 +21564,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/6b1ffd78ce3e84665b543681516c67e357e60be5>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49102" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/7a6d89c0479435da18f8ca907a950569e05886f2>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/W1NSZX" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -21800,13 +21706,6 @@
       ppeo:hasLotName "CF02097" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/cc24536d420f90515775c1d18504605f8c4955ae> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/560890ba3caa52faa61ddbd19c0e3ba79fe01e17>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/BYBWWN" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/5f33ceb61513376ac3bae4a8f92ceaf2fcc6661d>
       a       ppeo:material_source ;
@@ -21963,6 +21862,26 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/f604cf150ee4827ba9210ed7b373ff62ab69576f> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/TAMARO>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "TAMARO" ;
+      ppeo:hasAccessionNumber
+              "20371" ;
+      ppeo:hasLotName "Tamaro" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/33748d6432e125b22986a5b8f426c41027d87344> .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/VIRTUOSE>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "VIRTUOSE" ;
+      ppeo:hasAccessionNumber
+              "13710" ;
+      ppeo:hasLotName "Virtuose" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/dba27713c4ae877e1359dcb86f9c80a70eb7df7d> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI05024>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -21983,26 +21902,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/b9017ea418cbc0d946bfcede0c1855134bb52c2a> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/4dd9ad445ee9b2c2de548daeb9d4ee6698323c89>
+<http://www.urgi.versailles.inrae.fr/material_source/e2afd6b7a0aad0c1c05e4b05d3987bb3691b30ca>
       a       ppeo:material_source ;
-      ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49259" ;
+      ppeo:hasDOI "https://doi.org/10.15454/FYPHOO" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Isengrain>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "ISENGRAIN" ;
-      ppeo:hasAccessionNumber
-              "13433" ;
-      ppeo:hasLotName "Isengrain" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/56df2f84d1e4a7b13642d5a7f34e34d58e1e64e0> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/85171c27190c25d8927965cc5a0fe41e9e848c14>
+<http://www.urgi.versailles.inrae.fr/material_source/4dd9ad445ee9b2c2de548daeb9d4ee6698323c89>
       a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/C1H1E0" ;
+      ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49259" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -22173,12 +22082,15 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/1f4286272eb962c9f4d30002264e7c4dac1613c9>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/XSC5N7" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
+<http://www.urgi.versailles.inrae.fr/biological_material/BAROK>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "BAROK" ;
+      ppeo:hasAccessionNumber
+              "32101" ;
+      ppeo:hasLotName "Barok" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/7c0a2eabd7e1f34ae2e39bc08d2962b164678224> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI04003>
       a       ppeo:biological_material ;
@@ -22348,13 +22260,6 @@
       ppeo:hasLotName "EM02024" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/b7ed4dc69e334a3b3c2787a7ea9c52d39d6dd4ae> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/a115ed51b271ffbe9b8db09997a4ab03eb5c7c93>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/JP9LCI" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/dcb77cd12277af7d8082c25ff321ea6244d838bc>
       a       ppeo:material_source ;
@@ -22538,16 +22443,6 @@
       ppeo:hasLotName "DI05029" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/38ce95a7bf2da5dbfb3d1774823b1ff900d6d6da> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Charger>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "CHARGER" ;
-      ppeo:hasAccessionNumber
-              "13431" ;
-      ppeo:hasLotName "Charger" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/e27b3435fc60cacf9d620ddbe9e764ec521d62ee> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI08008>
       a       ppeo:biological_material ;
@@ -22739,13 +22634,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/b153b04ec47cd0b127569ed259efeccb30e3f5db> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/4f7fb2ed0d775f236d7e976ea5c12ab829ffe0cb>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/P0AD4Y" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/material_source/f6ee9324f86fbed8091aa3c636c9f8e9de0fe269>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/RWJVRH" ;
@@ -22784,13 +22672,23 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/GOTIK>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "GOTIK" ;
+      ppeo:hasAccessionNumber
+              "37251" ;
+      ppeo:hasLotName "Gotik" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/4483cc4980dde31e8a41a0f13f8f93a61abfc7a1> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/ATTLASS>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
               "ATTLASS" ;
       ppeo:hasAccessionNumber
               "28926" ;
-      ppeo:hasLotName "ATTLASS" ;
+      ppeo:hasLotName "ATTLASS" , "Attlass" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/b6ea8809faa45f5ca90bf1d8cf64a53f87b52d5a> .
 
@@ -22810,16 +22708,6 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Virtuose>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "VIRTUOSE" ;
-      ppeo:hasAccessionNumber
-              "13710" ;
-      ppeo:hasLotName "Virtuose" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/a501ac4d70523f194582f63b211651b2c6b318d0> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/EM02207>
       a       ppeo:biological_material ;
@@ -23267,13 +23155,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/6e5fcec1e38538006e0dd5ab8a105153d3bb9593> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/5b3abb4b092ddb48ae6419e3d5f6d8f68858474b>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/WL6NIE" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/DI08006>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -23294,6 +23175,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/51a0a765299b3831cabea7972fa7703142d3db66>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/3PVIBR" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/22f3882c97cc2b07fdc28f6dfb7aed2070503025>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/JP9LCI" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -23605,6 +23493,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/ORVANTIS>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "ORVANTIS" ;
+      ppeo:hasAccessionNumber
+              "14088" ;
+      ppeo:hasLotName "Orvantis" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/a48a13829572c648e63732875e9128fc8b3eb75c> .
+
 <http://www.urgi.versailles.inrae.fr/material_source/15242c0bdddeea86ee0bc3c76de5970e17c12cf0>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/LXXI3T" ;
@@ -23765,6 +23663,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/72ebe59fda49287d0e0a7e46b1dde8468a54c7f6> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/VOLTIGE>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "VOLTIGE" ;
+      ppeo:hasAccessionNumber
+              "22897" ;
+      ppeo:hasLotName "Voltige" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/d9fb30c43c2ca5271d456cdb8f64c447f1967d9e> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI00011>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -23774,6 +23682,13 @@
       ppeo:hasLotName "DI00011" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/7fe86c2ce62a1ad59f6718b1d02e109cea96eace> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/5405687773e8cb6b1e3fb369cbc736a7909793e4>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/ISHUU1" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE06073>
       a       ppeo:biological_material ;
@@ -23929,6 +23844,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/CAPHORN>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "CAPHORN" ;
+      ppeo:hasAccessionNumber
+              "20443" ;
+      ppeo:hasLotName "Caphorn" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/a6f6dcfeec41164fe56abce75c0a9a4d577f3dcc> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/EM01058.3>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -23938,13 +23863,6 @@
       ppeo:hasLotName "EM01058.3" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/ec36847a77429b9c9fe88141cadf974f51882cc2> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/718395ef003fb26e36f0f7bbf5860d6ebac50fd4>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/7VD1UN" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI08021>
       a       ppeo:biological_material ;
@@ -24017,13 +23935,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/eb16b4e2f9772625a4b27b5afd95663a128a6379>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/BSBAJR" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/f3dcd5108c9561673968e53479ceec88a4586b98>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/ZRMNO2" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -24106,16 +24017,6 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Grapeli>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "GRAPELI" ;
-      ppeo:hasAccessionNumber
-              "36801" ;
-      ppeo:hasLotName "Grapeli" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/19189bf8b84ab4e291c83a34e4a99b0792ac472d> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/2bf38acc4bae11ed7e761cebf668f2a9b1ccc64d>
       a       ppeo:material_source ;
@@ -24405,6 +24306,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/TOISONDOR>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "TOISONDOR" ;
+      ppeo:hasAccessionNumber
+              "23880" ;
+      ppeo:hasLotName "Toisondor" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/20cddb73f1b6859dd9a90133d4e885ac97f56f06> .
+
 <http://www.urgi.versailles.inrae.fr/material_source/14faf52b59912ac8ec82193a6025ef4a26d8d868>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/OHTVUX" ;
@@ -24502,16 +24413,6 @@
       ppeo:hasLotName "RE07011" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/2e91fb779522e6a1e8e1a78c72a0000bbdcf0458> .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Voltige>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "VOLTIGE" ;
-      ppeo:hasAccessionNumber
-              "22897" ;
-      ppeo:hasLotName "Voltige" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/f82fd7761d92f9fea14c59bbe35fda14030ef72e> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/EM00191>
       a       ppeo:biological_material ;
@@ -24683,6 +24584,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/GALLIXE>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "GALLIXE" ;
+      ppeo:hasAccessionNumber
+              "37286" ;
+      ppeo:hasLotName "Gallixe" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/9907ee552478a097a1d8251168292f0ef726d6f0> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/RE07013>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -24737,6 +24648,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/01abef08246a62c1e73c5f11ff87b89fbd3b9ab3> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/FARANDOLE>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "FARANDOLE" ;
+      ppeo:hasAccessionNumber
+              "20225" ;
+      ppeo:hasLotName "Farandole" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/e2afd6b7a0aad0c1c05e4b05d3987bb3691b30ca> .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI01033>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -24771,16 +24692,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/763ff82281b9ff4869d5f25c41e1a000ba77e29d> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Orvantis>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "ORVANTIS" ;
-      ppeo:hasAccessionNumber
-              "14088" ;
-      ppeo:hasLotName "Orvantis" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/b706db03eb9596122002bbc0b141f70dc99db4f9> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/919a56194ab68fb274abd9f6603b46620bc40a66>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/DWZO1B" ;
@@ -24791,13 +24702,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/597e962f8430173a87f61e7022d5a1ce64d05074>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49335" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/4b07aa4c91cb4adb1d206ced92153aa7bfa1a76c>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/FYPHOO" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -25157,16 +25061,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/0b57c0be5b9cf7161da8f4e5e1d3d631b5beb2f9> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Apache>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "APACHE" ;
-      ppeo:hasAccessionNumber
-              "13481" ;
-      ppeo:hasLotName "Apache" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/05666e65aeaa6d8b9ebb1e100cfa7db8e493d7c8> .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/RE12001>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -25518,6 +25412,13 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/433d80e90640e9172d6dc1bfd376684a273e0e36> .
 
+<http://www.urgi.versailles.inrae.fr/material_source/cfecc11b09b6f82db63211e96b97d83535b57848>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/R5VJW6" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/material_source/905b763219a69a471bfc5df156242505823114bf>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/HIUKXE" ;
@@ -25779,15 +25680,15 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Hendrix>
+<http://www.urgi.versailles.inrae.fr/biological_material/BALTHAZAR>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
-              "HENDRIX" ;
+              "BALTHAZAR" ;
       ppeo:hasAccessionNumber
-              "28978" ;
-      ppeo:hasLotName "Hendrix" ;
+              "13217" ;
+      ppeo:hasLotName "Balthazar" ;
       ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/b7735fec2b0c4ac4bb8935af3dd3ca7baa659404> .
+              <http://www.urgi.versailles.inrae.fr/material_source/5405687773e8cb6b1e3fb369cbc736a7909793e4> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/CF06003>
       a       ppeo:biological_material ;
@@ -26224,13 +26125,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/3af0faeccd4b9a116909b7618ef9003404bb1fd2>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/KB5WU7" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/36be11b90de57d64afeb6ad1becf0cf3788e6466>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/OGNUYF" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -26877,7 +26771,7 @@
               "CROUSTY" ;
       ppeo:hasAccessionNumber
               "13450" ;
-      ppeo:hasLotName "CROUSTY" ;
+      ppeo:hasLotName "Crousty" , "CROUSTY" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/c2a32c4f4949ade90a93f74bc60afc886e896f0c> .
 
@@ -27187,6 +27081,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/a3dd904e6a13f1992fbb01d5d8e6a2935639a846> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/PULSAR>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "PULSAR" ;
+      ppeo:hasAccessionNumber
+              "13716" ;
+      ppeo:hasLotName "Pulsar" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/f011fa4579ebf7d1976a13bc363466e7cc4a00a1> .
+
 <http://www.urgi.versailles.inrae.fr/material_source/6916d29c16e5ea7d38715ca363fecf5c2e2665f5>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49157" ;
@@ -27272,13 +27176,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/cd6d853686e6981b955b595d0efee7edf6545493> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/31dd50bb4c155ea4b59f33a043d1a684cf3aff04>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/DILEEP" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/LM04003>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -27344,6 +27241,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/d8667cedbc8f470242879def3efd47a005d2ba63>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/AVKVIW" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI03009>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -27394,16 +27298,6 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Ornicar>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "ORNICAR" ;
-      ppeo:hasAccessionNumber
-              "13471" ;
-      ppeo:hasLotName "Ornicar" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/8fbfde2136821aea316bec2e21247b449aef3bf6> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI00021>
       a       ppeo:biological_material ;
@@ -27588,13 +27482,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/c9b13bceb067715346c524ebc61ecb473303cf34> .
 
-<http://www.urgi.versailles.inrae.fr/material_source/22e2b1b04d350571a104ee4b1611cecbd7fca052>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/AVKVIW" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/AO00001>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -27652,6 +27539,13 @@
       ppeo:hasLotName "RE01032" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/a958a72c42e7ab21487c670ce8aa20f82198467a> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/79d0ca8226a0136dc2305a57f284fc56ee48371a>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/HZTT8F" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/EM11604>
       a       ppeo:biological_material ;
@@ -27777,13 +27671,6 @@
       ppeo:hasLotName "DI07011" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/f987eeb73ffb32636c4ca2e35cd421cf77c01732> .
-
-<http://www.urgi.versailles.inrae.fr/material_source/756b4612367c18f0fcb36a89506c8a914f6be98d>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/BKJEDG" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/92917cef6f01511d612e0d0afff891136b2ebcd3>
       a       ppeo:material_source ;
@@ -28167,6 +28054,13 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/material_source/70f0e38ea5bd53242e2cd8186cbfe7c09e10eacf>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/ZUZBM9" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/material_source/2ef9ab9f442f9413cf54fd99676bc9a9c81587d7>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/2XDPMU" ;
@@ -28201,6 +28095,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/7f9660dcbdb2d4f360def4445488b2b4b95bc706>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/YY8ALS" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/3865320e809435d9fb5c5b2d12e22d94f5acbf03>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/E4TDMS" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -28477,13 +28378,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/material_source/265133bd6a89f45b4e6e131cbe10ce6d5fe35804>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/5YB44K" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
 <http://www.urgi.versailles.inrae.fr/biological_material/EM08237>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -28562,6 +28456,13 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/529cc8cef97c891148aec1736b528d1b87fe941d> .
 
+<http://www.urgi.versailles.inrae.fr/material_source/4c24be47b158c23df29b2442c1ef73cc879cf833>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/6CYBGM" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
 <http://www.urgi.versailles.inrae.fr/biological_material/DI03003>
       a       ppeo:biological_material ;
       ppeo:hasAccessionName
@@ -28598,6 +28499,16 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/RUMBA>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "RUMBA" ;
+      ppeo:hasAccessionNumber
+              "14090" ;
+      ppeo:hasLotName "Rumba" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/0e4a271240771f4046647d3246f305ce44f55f81> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/RE05042>
       a       ppeo:biological_material ;
@@ -28865,6 +28776,16 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/CHARGER>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "CHARGER" ;
+      ppeo:hasAccessionNumber
+              "13431" ;
+      ppeo:hasLotName "Charger" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/22b797314304d8fb141f2a681635c5a74ecf84c1> .
+
 <http://www.urgi.versailles.inrae.fr/material_source/38a50f6ac2d949bc28b8c7bb5772900ceccf732e>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/FXNO6G" ;
@@ -29095,7 +29016,7 @@
               "AREZZO" ;
       ppeo:hasAccessionNumber
               "32759" ;
-      ppeo:hasLotName "AREZZO" ;
+      ppeo:hasLotName "Arezzo" , "AREZZO" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/7fdd806063328dfc42237ffef67192ace78ff7fc> .
 
@@ -29108,6 +29029,13 @@
       ppeo:hasLotName "DI03007" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/6240e2fb981bcab65a5036af9c3c17e8701afaa5> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/bc3702519120c504d18f130e4730fa1bd5b868f2>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/YZZGYB" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/375c3796756cde77c43d0d5a128b74ff2b833176>
       a       ppeo:material_source ;
@@ -29475,16 +29403,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Rubisko>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "RUBISKO" ;
-      ppeo:hasAccessionNumber
-              "36680" ;
-      ppeo:hasLotName "Rubisko" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/1f4286272eb962c9f4d30002264e7c4dac1613c9> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/b5547a18f30c5b4061877817ffdec7cf43e58ee1>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-48755" ;
@@ -29515,13 +29433,6 @@
 <http://www.urgi.versailles.inrae.fr/material_source/b8bc8920c388b97fa0f1667985d09dbcd8111a8b>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49682" ;
-      ppeo:hasGenus "Triticum" ;
-      ppeo:hasSpecies "aestivum" ;
-      ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/material_source/af8b0428c0133cc8c35615333612b6bf805592ef>
-      a       ppeo:material_source ;
-      ppeo:hasDOI "https://doi.org/10.15454/EMUZ8X" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -29607,16 +29518,6 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
-
-<http://www.urgi.versailles.inrae.fr/biological_material/Skerzzo>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "SKERZZO" ;
-      ppeo:hasAccessionNumber
-              "20366" ;
-      ppeo:hasLotName "Skerzzo" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/34176fccd066f6ec16b4510851c2242c59671705> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/EM06094>
       a       ppeo:biological_material ;
@@ -29737,6 +29638,13 @@
 <http://www.urgi.versailles.inrae.fr/material_source/6270f4ad6a5bdffa119113db646d16d731dab8a7>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/IO8K98" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/material_source/b9f16eef6fb4201f304726abeab3ea0bdf9e7c91>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/TNI3IW" ;
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
@@ -29878,16 +29786,6 @@
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Attlass>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "ATTLASS" ;
-      ppeo:hasAccessionNumber
-              "28926" ;
-      ppeo:hasLotName "Attlass" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/2a654a96116947342189ff80acce7c79f6ac95f6> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/65ebecb14f2a61411fa7eb192dfd9ae8bb90f37c>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/YFSHA8" ;
@@ -29922,16 +29820,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/d4f2bc183b17fd8f64aaf21e7619da53975d0846> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Soissons>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "SOISSONS" ;
-      ppeo:hasAccessionNumber
-              "6607" ;
-      ppeo:hasLotName "Soissons" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/f3dcd5108c9561673968e53479ceec88a4586b98> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/79b8add8c00b7899a66628979f65ff4fe742dcc5>
       a       ppeo:material_source ;
       ppeo:hasDOI "https://doi.org/10.15454/BQTYVO" ;
@@ -29952,6 +29840,16 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/VALORIS>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "VALORIS" ;
+      ppeo:hasAccessionNumber
+              "13871" ;
+      ppeo:hasLotName "Valoris" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/05ff45fd4cd4fe5a37d38c435508de85611aa404> .
 
 <http://www.urgi.versailles.inrae.fr/material_source/f14ed3997c69b7d08eb2e891039532cfa73c560d>
       a       ppeo:material_source ;
@@ -30356,6 +30254,16 @@
       ppeo:hasGenus "Triticum" ;
       ppeo:hasSpecies "aestivum" ;
       ppeo:hasSubtaxon "aestivum" .
+
+<http://www.urgi.versailles.inrae.fr/biological_material/LYRIK>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "LYRIK" ;
+      ppeo:hasAccessionNumber
+              "36666" ;
+      ppeo:hasLotName "Lyrik" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/f6e7c649582e7b6624db9fca365ac96dd0283f18> .
 
 <http://www.urgi.versailles.inrae.fr/biological_material/DI00017>
       a       ppeo:biological_material ;
@@ -30849,6 +30757,16 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/f39b9e192cc4c3f14bfd03ea2d4f67d5a9162ec6> .
 
+<http://www.urgi.versailles.inrae.fr/biological_material/ISENGRAIN>
+      a       ppeo:biological_material ;
+      ppeo:hasAccessionName
+              "ISENGRAIN" ;
+      ppeo:hasAccessionNumber
+              "13433" ;
+      ppeo:hasLotName "Isengrain" ;
+      ppeo:hasMaterialSource
+              <http://www.urgi.versailles.inrae.fr/material_source/bc3702519120c504d18f130e4730fa1bd5b868f2> .
+
 <http://www.urgi.versailles.inrae.fr/material_source/2b609aeef0c41a38e766232eb649f64f1578de94>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49617" ;
@@ -30961,16 +30879,6 @@
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/6082e244402709ad461a5215f713c0289d436e81> .
 
-<http://www.urgi.versailles.inrae.fr/biological_material/Pulsar>
-      a       ppeo:biological_material ;
-      ppeo:hasAccessionName
-              "PULSAR" ;
-      ppeo:hasAccessionNumber
-              "13716" ;
-      ppeo:hasLotName "Pulsar" ;
-      ppeo:hasMaterialSource
-              <http://www.urgi.versailles.inrae.fr/material_source/85171c27190c25d8927965cc5a0fe41e9e848c14> .
-
 <http://www.urgi.versailles.inrae.fr/material_source/0ca056dc5479631dfc0be6677826558585c2aad1>
       a       ppeo:material_source ;
       ppeo:hasDOI "gnpis_pui:holding-921_taxon-4898_accession-49585" ;
@@ -30987,6 +30895,13 @@
       ppeo:hasLotName "CF10049" ;
       ppeo:hasMaterialSource
               <http://www.urgi.versailles.inrae.fr/material_source/216991974df8f5abb90caa73ecafde92ed27682c> .
+
+<http://www.urgi.versailles.inrae.fr/material_source/4483cc4980dde31e8a41a0f13f8f93a61abfc7a1>
+      a       ppeo:material_source ;
+      ppeo:hasDOI "https://doi.org/10.15454/DILEEP" ;
+      ppeo:hasGenus "Triticum" ;
+      ppeo:hasSpecies "aestivum" ;
+      ppeo:hasSubtaxon "aestivum" .
 
 <http://www.urgi.versailles.inrae.fr/material_source/8e1a7a7e1c680a2468a46477da60fbfd29b2f944>
       a       ppeo:material_source ;

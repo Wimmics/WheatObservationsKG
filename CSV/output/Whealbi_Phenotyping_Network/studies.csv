@@ -1,0 +1,13 @@
+,study_unique_id,study_title,study_description,description_of_the_experimental_design,start_date_of_study,end_date_of_study,contact_institution,geographic_location_country,experimental_site_name,geographic_location_lattitude,geographic_location_longitude,geographic_location_altitude,observatin_unit_description,description_of_growth_facilty
+0,BS2,Barley_Spring_JHI,,p-rep design CRA-WUR,,,NA,,The James Hutton Institute,56.48,-3.11,,NA,field
+1,BS3,Barley_Spring_MTA,,p-rep design CRA-WUR,,,NA,Hungary,Magyar Tudomanyos Akademia Agrartudomanyi Kutatokozpont,47.05,18.133333,,NA,field
+2,BS4&BS5,Barley_Spring_TUR-rainfed-and-irrigated,,p-rep design CRA-WUR,,,NA,Turkey,Çukurova University,37.854027,32.574489,1031.0,NA,field
+3,BW1,Barley_Winter_CRA,,p-rep design CRA-WUR,,,NA,Italy,Consiglio per la ricerca e sperimentazione in agricoltura,44.92,9.89,80.0,NA,field
+4,BW2,Barley_Winter_JHI,,p-rep design CRA-WUR,,,NA,,The James Hutton Institute,56.48,-3.11,,NA,field
+5,BW3,Barley_Winter_MTA,,p-rep design CRA-WUR,,,NA,Hungary,Magyar Tudomanyos Akademia Agrartudomanyi Kutatokozpont,47.05,18.133333,,NA,field
+6,BW4&BW5,Barley_Winter_TUR-rainfed-and-irrigated,,p-rep design CRA-WUR,,,NA,Turkey,Çukurova University,37.854027,32.574489,1031.0,NA,field
+7,WS2,Wheat_Spring_MTA,,p-rep design CRA-WUR,,,NA,Hungary,Magyar Tudomanyos Akademia Agrartudomanyi Kutatokozpont,47.05,18.133333,,NA,field
+8,WW1,Wheat_Winter_INRA,,p-rep design CRA-WUR,,,NA,,INRA Clermont-Ferrand,45.775596,3.144028,343.0,NA,field
+9,WW2,Wheat_Winter_KWS,,p-rep design CRA-WUR,,,NA,United Kingdom of Great Britain and Northern Ireland,KWS UK,52.120612,0.085243,20.0,NA,field
+10,WW3,Wheat_Winter_MTA,,p-rep design CRA-WUR,,,NA,Hungary,Magyar Tudomanyos Akademia Agrartudomanyi Kutatokozpont,47.05,18.133333,,NA,field
+11,WW5,Wheat_Winter_TUR,,p-rep design CRA-WUR,,,NA,Turkey,Çukurova University,37.854027,32.574489,1031.0,NA,field

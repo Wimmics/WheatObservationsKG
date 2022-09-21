@@ -2,8 +2,6 @@
 
 # Exemple de requête SPARQL
 
-[TOC]
-
 ```turtle
 select distinct ?docu where {
 ?x a oa:Annotation;
@@ -580,9 +578,3 @@ Comme **[4]** mais en prenant en compte les sous-concepts de *{phenotype}*.
   ```turtl
   
   ```
-
-
-
-
-<u>Demande: Nom variable plus explicite!!!</u>
-

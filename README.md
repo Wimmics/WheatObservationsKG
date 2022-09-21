@@ -1,5 +1,5 @@
 ﻿# d2kab-wheat-kg
-
+The **Wheat-KG** dataset is a RDF knowledge graph that provides access to 
 ## Requierment
 - Python 3.7 or above
 - Java 11 or above

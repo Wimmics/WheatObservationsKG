@@ -1,5 +1,4 @@
 ﻿# d2kab-wheat-kg
-The **Wheat-KG** dataset is a RDF knowledge graph that provides access to 
 
 Le **Wheat-KG** est un graphe de connaissance RDF rassemblant des connaissances de phénotype de blé provenant d'annotation textuelle d'article scientifique et des mesures d'observations provenant de campagne d'observation sur des champs de blé.
 

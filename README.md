@@ -10,3 +10,5 @@ The **Wheat-KG** dataset is a RDF knowledge graph that provides access to
 
 All script were made and run on Windows 10.
 
+## Slides
+https://docs.google.com/presentation/d/1CII8FKoeMRkKVLosbp-4WT80LjZU27LpmUHgbTCVpao/edit#slide=id.g15a5dc37934_0_76

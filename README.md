@@ -1,5 +1,8 @@
 ﻿# d2kab-wheat-kg
 The **Wheat-KG** dataset is a RDF knowledge graph that provides access to 
+
+Le **Wheat-KG** est un graphe de connaissance RDF rassemblant des connaissances de phénotype de blé provenant d'annotation textuelle d'article scientifique et des mesures d'observations provenant de campagne d'observation sur des champs de blé.
+
 ## Requierment
 - Python 3.7 or above
 - Java 11 or above
@@ -8,7 +11,21 @@ The **Wheat-KG** dataset is a RDF knowledge graph that provides access to
 - MongoDB and MongoCompass 1.32.5
 - Morph-xR2RML mongoDB mapping
 
-All script were made and run on Windows 10.
+Tous les scripts ont été développé sur Windows 10.
+
+
+
+## Téléchargement et requêtes SPARQL
+
+Le Wheat-KG contient 3 sous-ensembles de dataset
+
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+
 
 ## Slides
 https://docs.google.com/presentation/d/1CII8FKoeMRkKVLosbp-4WT80LjZU27LpmUHgbTCVpao/edit#slide=id.g15a5dc37934_0_76

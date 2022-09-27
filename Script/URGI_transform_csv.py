@@ -21,7 +21,7 @@ URI = {
 variable_not_found = set()
 
 
-studies_label = ["study_id", "study_name", "start_date", "end_date", "description"]
+studies_label = ["study_id", "study_name", "start_date", "end_date", "description", "investigation"]
 biological_label = ["biological_id", "genus", "species", "subspecies", "accession_number", "accession_name", "material_source_id", "material_source_doi"]
 observation_unit_label = ["id", "study", "biological", "observation_level", "observation_level_number", "factor_mode", "factor_value"]
 observation_label = ["observation_unit", "observation_id", "variable", "trait","method", "scale", "value"]
@@ -101,6 +101,7 @@ def study_maker(dataframe):
         data.append(dataframe["start_date_of_study"][row_elt])
         data.append(dataframe["end_date_of_study"][row_elt])
         data.append(dataframe["description_of_growth_facilty"][row_elt])
+        data.append("INRA Small Grain Cereals Network".replace(" ","_"))
 
         list_data.append(data)
 
@@ -203,9 +204,9 @@ def observation_maker(dataframe):
     list_data = list()
 
     for row_elt in dataframe.index:
-            observations = extract_observation(dataframe["observations"][row_elt])
+            obs_var_extract = dataframe.loc[:]
 
-            for obs in observations:
+            for obs in dataframe.colums:
                 data = list()
 
                 obs_variable = obs["observationVariableDbId"]
@@ -216,6 +217,7 @@ def observation_maker(dataframe):
                 data.append(co_321_uri_maker(co_321_method[obs_variable]))
                 data.append(co_321_uri_maker(co_321_scale[obs_variable]))
                 data.append(obs["value"])
+
                 list_data.append(data)
 
     return list_data
@@ -239,6 +241,23 @@ def gps_maker(dataframe):
             data.append(0.0)
         else:
             data.append(dataframe["geographic_location_altitude"][row_elt])
+        list_data.append(data)
+
+    return list_data
+
+def make_investigation(dataframe):
+    """
+    ["id", "name", "doi"]
+    :param dataframe:
+    :return:
+    """
+    list_data = list()
+
+    for row in dataframe.index:
+        data = list()
+        data.append(dataframe["trial_set_name"][row].replace(" ","_"))
+        data.append(dataframe["trial_set_name"][row])
+        data.append(dataframe["pui"][row])
         list_data.append(data)
 
     return list_data
@@ -271,18 +290,20 @@ if __name__ == '__main__':
     co_321_df = pd.read_csv("CO_321-Wheat Crop Ontology.csv", sep=";")
     co_321_variable, co_321_trait, co_321_method, co_321_scale = extract_variable_dict(co_321_df)
 
-    print(current_directory + "\\wheat_complete")
-    os.chdir(f"{current_directory}\\wheat_complete")
+    print(current_directory + "\\URGI_wheat_network")
+    os.chdir(f"{current_directory}\\URGI_wheat_network")
     file_csv = [x for x in glob.glob("study_*") if "_clean" not in x]
     print(file_csv)
 
     studies_df = pd.read_csv("studies.csv").iloc[:, 1:]
     investigation_df = pd.read_csv("investigation.csv").iloc[:, 1:]
     biological_df = pd.read_csv("biological_material.csv").iloc[:, 1:]
+    investigation_df = pd.read_csv("investigation.csv").iloc[:, 1:]
 
     gps_out = pd.DataFrame(gps_maker(studies_df), columns=gps_label)
     studies_out = pd.DataFrame(study_maker(studies_df), columns=studies_label)
     biological_out = pd.DataFrame(biological_maker(biological_df), columns=biological_label)
+    investigation_out = pd.DataFrame(make_investigation(investigation_df), columns=["id", "name", "pui"])
 
     observation_unit_data = list()
     observation_data = list()
@@ -303,6 +324,7 @@ gps_out.to_csv("gps.csv", index=False, encoding="utf-8")
 biological_out.to_csv("biological.csv", index=False, encoding="utf-8")
 observation_unit_df.to_csv("observation_unit.csv", index=False, encoding="utf-8")
 observation_df.to_csv("observations.csv", index=False, encoding="utf-8")
+investigation_out.to_csv("investigation.csv", index=False, encoding="utf-8")
 
 beta = time.time()
 print(beta - alpha)

@@ -18,60 +18,108 @@ URI = {
     "factor": f"{NAMESPACE}factor/"
 }
 
+FACTOR = {
+    "treated" : "t",
+    "untreated, no fungicide" : "nt",
+    "low inputs" : "fi"
+}
+
+
+# Variable of failed process
 variable_not_found = set()
+itk_fail_list = list()
 
-
+# Label of the column
 studies_label = ["study_id", "study_name", "start_date", "end_date", "description", "investigation"]
 biological_label = ["biological_id", "genus", "species", "subspecies", "accession_number", "accession_name", "material_source_id", "material_source_doi"]
 observation_unit_label = ["id", "study", "biological", "observation_level", "observation_level_number", "factor_mode", "factor_value"]
 observation_label = ["observation_unit", "observation_id", "variable", "trait","method", "scale", "value"]
-
 factor_label = ["uri_factor", "uri_factor_value", "factor", "factor_value", "factor_name", "description"]
 person_label = ["type", "name", "email", "institution"]
 gps_label = ["study", "site", "latitude", "longitude", "altitude"]
 
 
-def extract_variable_dict(dataframe):
+def extract_variable_dict(dataframe1, dataframe2):
+    # todo: Generalize to every ontology that follows this pattern
     variable_co = dict()
     trait_co = dict()
     method_co = dict()
     scale_co = dict()
-    dataframe.fillna("", inplace=True)
+    dataframe1.fillna("", inplace=True)
+    dataframe2.fillna("", inplace=True)
 
-    for row in dataframe.index:
-        name = dataframe["Variable name"][row]
-        variable_co[name] = dataframe["Variable ID"][row]
-        trait_co[dataframe["Variable ID"][row]] = dataframe["Trait ID"][row]
-        method_co[dataframe["Variable ID"][row]] = dataframe["Method ID"][row]
-        scale_co[dataframe["Variable ID"][row]] = dataframe["Scale ID"][row]
-        synonyms = dataframe["Variable synonyms"][row]
+    # CO 321 CSV extraction
+    for row in dataframe1.index:
+        name = dataframe1["Variable name"][row]
+        variable_co[name] = dataframe1["Variable ID"][row]
+        trait_co[dataframe1["Variable ID"][row]] = dataframe1["Trait ID"][row]
+        method_co[dataframe1["Variable ID"][row]] = dataframe1["Method ID"][row]
+        scale_co[dataframe1["Variable ID"][row]] = dataframe1["Scale ID"][row]
+        synonyms = dataframe1["Variable synonyms"][row]
         if synonyms == "":
             continue
-        for elt in dataframe["Variable synonyms"][row].split(","):
-            variable_co[elt.strip()] = dataframe["Variable ID"][row].strip()
+        for elt in dataframe1["Variable synonyms"][row].split(","):
+            variable_co[elt.strip()] = dataframe1["Variable ID"][row].strip()
 
-    print(variable_co)
+    # WIPO CSV extraction
+    for row in dataframe2.index:
+        name = dataframe2["Variable name"][row]
+        variable_co[name] = dataframe2["Variable ID"][row]
+        trait_co[dataframe2["Variable ID"][row]] = dataframe2["Trait ID"][row]
+        method_co[dataframe2["Variable ID"][row]] = dataframe2["Method ID"][row]
+        scale_co[dataframe2["Variable ID"][row]] = dataframe2["Scale ID"][row]
+        synonyms = dataframe2["Variable synonyms"][row]
+        if synonyms == "":
+            continue
+        for elt in dataframe1["Variable synonyms"][row].split(","):
+            variable_co[elt.strip()] = dataframe2["Variable ID"][row].strip()
 
     return variable_co, trait_co, method_co, scale_co
 
 def extract_factor(json_array):
+    """
+    Extract factor from a json_array
+    Old CSV from URGI
+    :param json_array:
+    :return:
+    """
     dict_value = eval(json_array)[0]
     return dict_value["factor"], dict_value["modality"]
 
 def extract_observation(json_array):
+    """
+    Extract Observations from a JSON_array
+    Old CSV from URGI
+    :param json_array:
+    :return:
+    """
     dict_value = eval(json_array)
     return dict_value
 
 def co_321_uri_maker(uri):
+    """
+    Retranscript URI for Crop Ontology 321 and UO
+    :param uri:
+    :return:
+    """
+    # todo: Add WIPO support
+    if 'UO' in uri:
+        return f"http://purl.obolibrary.org/obo/{uri.replace(':','_')}"
     return f"http://www.cropontology.org/rdf/CO_321/{uri.split(':')[1]}"
 
 
 def encoding_resolve(string):
+    """
+    Replace miss-translated char from CSV
+    :param string:
+    :return:
+    """
     return string.replace("Ã©", "é")
 
 def uri_hash_maker(to_hash):
     """
     Create an URI with the namespace and the associated id as hash
+    SHA1 is used for hash the string
     :param to_hash:string
     :param ns:string
     :return string:
@@ -85,9 +133,8 @@ def uri_hash_maker(to_hash):
 
 def study_maker(dataframe):
     """
-    NOTE: THIS IS THE STUDY!!
     Create data for trial CSV
-    The columns label are ["study_id", "study_name", "start_date", "end_date", "description"]
+    The columns label are ["study_id", "study_name", "start_date", "end_date", "description", "investigation"]
     :param dataframe:DataFrame
     :return: data:List
     """
@@ -142,7 +189,8 @@ def observation_unit_maker(dataframe):
     :return:
     """
     list_data = list()
-    
+
+    # CO_321 CSV extraction
     for row_elt in dataframe.index:
         data = list()
 
@@ -155,14 +203,15 @@ def observation_unit_maker(dataframe):
             data.append(0)
         else:
             data.append(dataframe["replicate"][row_elt])
-
-        if dataframe["experimental_factors"][row_elt] == "[]":
+        try:
+            factor_value = FACTOR[dataframe["itk"][row_elt]]
             data.append("itk")
-            data.append("non traité")
-        else:
-            factor_mode, factor_value = extract_factor(dataframe["experimental_factors"][row_elt])
-            data.append(factor_mode)
             data.append(factor_value)
+        except KeyError:
+            itk_fail_list.append(file)
+            data.append("itk")
+            data.append("nt")
+            return list()
 
         list_data.append(data)
 
@@ -171,7 +220,8 @@ def observation_unit_maker(dataframe):
 
 def factor_maker(dataframe):
     """
-
+    Create factor Data
+    The column labels are ["uri_factor", "uri_factor_value", "factor", "factor_value", "factor_name", "description"]
     :param dataframe:
     :return:
     """
@@ -179,53 +229,49 @@ def factor_maker(dataframe):
     
     for row_elt in dataframe.index:
         data = list()
-
-        data.append(uri_hash_maker(dataframe["Factor"][row_elt], URI["factor"]))
-        data.append(uri_hash_maker(dataframe["ModeCode"][row_elt], URI["factor_value"]))
-        data.append(dataframe["Factor"][row_elt])
-        data.append(dataframe["ModeCode"][row_elt])
-        data.append(dataframe["ModeName"][row_elt])
-        data.append(dataframe["ModeDescription"][row_elt])
-
+        
         list_data.append(data)
 
     return list_data
         
 
-def observation_maker(dataframe):
+def observation_maker(dataframe, file):
     """
     Create data for observation CSV
     The column labels are
     One row per (variable, value)
-    The column labels are ["observation_unit", "observation_id", "variable", "trait","method", "scale", "value"]
+    The column labels are ["observation_unit", "observation_id", "variable", "trait", "method", "scale", "value"]
     :param dataframe:
     :return:
     """
     list_data = list()
+    obs_var_extract = [x for x in list(dataframe.columns) if ("(" in x) and (".date" not in x)]
 
     for row_elt in dataframe.index:
-            obs_var_extract = dataframe.loc[:]
 
-            for obs in dataframe.colums:
-                data = list()
+        for obs in obs_var_extract:
+            if pd.isnull(dataframe[obs][row_elt]):
+                continue
+            data = list()
+            obs_variable = obs[obs.index("(")+1:obs.index(")")]
 
-                obs_variable = obs["observationVariableDbId"]
-                data.append(dataframe["observationunitdbid"][row_elt])
-                data.append(obs["observationDbId"])
-                data.append(co_321_uri_maker(obs_variable))
-                data.append(co_321_uri_maker(co_321_trait[obs_variable]))
-                data.append(co_321_uri_maker(co_321_method[obs_variable]))
-                data.append(co_321_uri_maker(co_321_scale[obs_variable]))
-                data.append(obs["value"])
+            data.append(dataframe["observationunitdbid"][row_elt])
+            data.append(uri_hash_maker(f'{dataframe["observationunitdbid"][row_elt]}_{obs_variable}'))
+            data.append(co_321_uri_maker(obs_variable))
+            data.append(co_321_uri_maker(dict_trait[obs_variable]))
+            data.append(co_321_uri_maker(dict_method[obs_variable]))
+            data.append(co_321_uri_maker(dict_scale[obs_variable]))
+            data.append(dataframe[obs][row_elt])
 
-                list_data.append(data)
+            list_data.append(data)
 
     return list_data
 
 
 def gps_maker(dataframe):
     """
-    ["study", "site", "latitude", "longitude", "altitude"]
+    Create GPS location
+    The column labels are ["study", "site", "latitude", "longitude", "altitude"]
     :param dataframe:
     :return:
     """
@@ -245,9 +291,11 @@ def gps_maker(dataframe):
 
     return list_data
 
-def make_investigation(dataframe):
+
+def investigation_maker(dataframe):
     """
-    ["id", "name", "doi"]
+    Create investigation data
+    The column labels are ["id", "name", "doi"]
     :param dataframe:
     :return:
     """
@@ -255,9 +303,9 @@ def make_investigation(dataframe):
 
     for row in dataframe.index:
         data = list()
-        data.append(dataframe["trial_set_name"][row].replace(" ","_"))
-        data.append(dataframe["trial_set_name"][row])
-        data.append(dataframe["pui"][row])
+        data.append(dataframe["investigation_title"][row].replace(" ","_"))
+        data.append(dataframe["investigation_title"][row])
+        data.append(dataframe["investigation_unique_id"][row])
         list_data.append(data)
 
     return list_data
@@ -265,7 +313,8 @@ def make_investigation(dataframe):
 
 def person_maker(dataframe):
     """
-
+    Create person data
+    The column labels are
     :param dataframe:
     :return:
     """
@@ -285,15 +334,22 @@ def person_maker(dataframe):
 
 
 if __name__ == '__main__':
+    # Set timer to benchmark the generation
     alpha = time.time()
+    # Find the current repository
     current_directory = os.getcwd()
-    co_321_df = pd.read_csv("CO_321-Wheat Crop Ontology.csv", sep=";")
-    co_321_variable, co_321_trait, co_321_method, co_321_scale = extract_variable_dict(co_321_df)
 
-    print(current_directory + "\\URGI_wheat_network")
-    os.chdir(f"{current_directory}\\URGI_wheat_network")
-    file_csv = [x for x in glob.glob("study_*") if "_clean" not in x]
-    print(file_csv)
+    # Retrieve Crops ontology dataframe
+    co_321_df = pd.read_csv("CO_321-Wheat Crop Ontology.csv", sep=";")
+    wipo_df = pd.read_csv("WIPO-Wheat Inra Phenotype Ontology.csv", sep=";")
+    dict_variable, dict_trait, dict_method, dict_scale = extract_variable_dict(co_321_df, wipo_df)
+
+    print(current_directory + "\\output\\INRA_Small_Grain_Cereals_Network")
+    folder = input()
+    #os.chdir(f"{current_directory}\\output\\INRA_Small_Grain_Cereals_Network")
+    os.chdir(folder)
+    # Retrieve each individual study file
+    file_csv = [x for x in glob.glob("study_*")]
 
     studies_df = pd.read_csv("studies.csv").iloc[:, 1:]
     investigation_df = pd.read_csv("investigation.csv").iloc[:, 1:]
@@ -303,7 +359,7 @@ if __name__ == '__main__':
     gps_out = pd.DataFrame(gps_maker(studies_df), columns=gps_label)
     studies_out = pd.DataFrame(study_maker(studies_df), columns=studies_label)
     biological_out = pd.DataFrame(biological_maker(biological_df), columns=biological_label)
-    investigation_out = pd.DataFrame(make_investigation(investigation_df), columns=["id", "name", "pui"])
+    investigation_out = pd.DataFrame(investigation_maker(investigation_df), columns=["id", "name", "pui"])
 
     observation_unit_data = list()
     observation_data = list()
@@ -311,22 +367,24 @@ if __name__ == '__main__':
     person_data = list()
 
     for file in file_csv:
-        df = pd.read_csv(file).iloc[:, 1:]
+        df = pd.read_csv(file)
         observation_unit_data.extend(observation_unit_maker(df))
-        observation_data.extend(observation_maker(df))
+        observation_data.extend(observation_maker(df, file))
 
     os.chdir(f"{current_directory}")
-observation_unit_df = pd.DataFrame(observation_unit_data, columns=observation_unit_label)
-observation_df = pd.DataFrame(observation_data, columns=observation_label)
+    observation_unit_df = pd.DataFrame(observation_unit_data, columns=observation_unit_label)
+    observation_df = pd.DataFrame(observation_data, columns=observation_label)
 
-studies_out.to_csv("studies.csv", index=False, encoding="utf-8")
-gps_out.to_csv("gps.csv", index=False, encoding="utf-8")
-biological_out.to_csv("biological.csv", index=False, encoding="utf-8")
-observation_unit_df.to_csv("observation_unit.csv", index=False, encoding="utf-8")
-observation_df.to_csv("observations.csv", index=False, encoding="utf-8")
-investigation_out.to_csv("investigation.csv", index=False, encoding="utf-8")
+    # Generate CSV file for mongoDB collection
+    studies_out.to_csv("studies.csv", index=False, encoding="utf-8")
+    gps_out.to_csv("gps.csv", index=False, encoding="utf-8")
+    biological_out.to_csv("biological.csv", index=False, encoding="utf-8")
+    observation_unit_df.to_csv("observation_unit.csv", index=False, encoding="utf-8")
+    observation_df.to_csv("observations.csv", index=False, encoding="utf-8")
+    investigation_out.to_csv("investigation.csv", index=False, encoding="utf-8")
 
-beta = time.time()
-print(beta - alpha)
+    beta = time.time()
+    print(itk_fail_list)
+    print(beta - alpha)
 
 

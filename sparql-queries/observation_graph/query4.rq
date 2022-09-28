@@ -1,0 +1,11 @@
+SELECT ?accession WHERE {
+  ?study1 a ppeo:study; ppeo:partOf ?investigation1.
+  ?investigation1 a ppeo:investigation; ppeo:hasName ?network1.
+  ?investigation2 a ppeo:investigation; ppeo:hasName ?network2.
+  ?study2 a ppeo:study; ppeo:partOf ?investigation2.
+  ?obsUnit1 a ppeo:observation_unit; ppeo:hasBiologicalMaterial ?bioMat; ppeo:partOf ?study1.
+  ?obsUnit2 a ppeo:observation_unit; ppeo:hasBiologicalMaterial ?bioMat; ppeo:partOf ?study2.
+  ?bioMat a ppeo:biological_material; ppeo:hasAccessionName ?accession.
+  filter(?network1 = "INRA Small Grain Cereals Network")
+  filter(?network2 = "INRA Wheat Network not BRC accession (B and C series)")
+}

@@ -1,0 +1,15 @@
+SELECT DISTINCT ?study ?date ?trait ?name ?label WHERE {
+	?study a ppeo:study; ppeo:hasEndDateTime ?date.
+	?obs a sosa:Observation; 
+             ppeo:hasObservedSubject ?observationUnit;
+            sosa:hasFeatureOfInterest ?trait; 
+             sosa:observedProperty ?variable.
+        ?trait a CO_321:BioticStressTrait; skos:prefLabel ?name.
+	?variable a CO_321:Variable; skos:prefLabel ?label.
+	?observationUnit a ppeo:observation_unit; 
+                         ppeo:hasBiologicalMaterial ?biologicalMaterial; 
+                         ppeo:partOf ?study.
+        ?biologicalMaterial a ppeo:biological_material; 
+                            ppeo:hasAccessionName ?accession.
+FILTER(?accession in ("CHARGER", "APACHE", "TREMIE")). 
+}

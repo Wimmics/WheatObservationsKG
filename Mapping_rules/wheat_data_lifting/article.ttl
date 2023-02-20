@@ -41,7 +41,7 @@
 	rr:predicateObjectMap [
         rr:predicate dct:title;
         rr:objectMap [ 
-			rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#title";
+			rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#articletitle";
 		];
     ];
 	
@@ -59,7 +59,7 @@
 	];
 	
 	rr:subjectMap [ 
-		rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#title" ;
+		rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#articletitle" ;
 	];
 	
 	rr:predicateObjectMap [

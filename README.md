@@ -2,7 +2,7 @@
 
 Le **Wheat-KG** est un graphe de connaissance RDF rassemblant des connaissances de phénotype de blé provenant d'annotation textuelle d'article scientifique et des mesures d'observations provenant de campagne d'observation sur des champs de blé.
 
-## Requierment
+## Requirement
 - Python 3.7 or above
 - Java 11 or above
 - Pandas 1.4.3

@@ -1,6 +1,6 @@
 ﻿# d2kab-wheat-kg
 
-Le **Wheat-KG** est un graphe de connaissance RDF rassemblant des connaissances de phénotype de blé provenant d'annotation textuelle d'article scientifique et des mesures d'observations provenant de campagne d'observation sur des champs de blé.
+**Wheat-KG** is an RDF graph gathering semantic annotations of a corpus of PubMed scientific papers on wheat phenotyping and observation measures on wheat cultures.
 
 ## Requirement
 - Python 3.7 or above
@@ -16,7 +16,7 @@ Tous les scripts ont été développé sur Windows 10.
 
 ## Téléchargement et requêtes SPARQL
 
-Le Wheat-KG contient 3 sous-ensembles de dataset
+Wheat-KG contains 3 sub-graphs.
 
 |      |      |      |
 | ---- | ---- | ---- |

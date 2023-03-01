@@ -28,3 +28,7 @@ Wheat-KG contains 3 sub-graphs.
 
 ## Slides
 https://docs.google.com/presentation/d/1CII8FKoeMRkKVLosbp-4WT80LjZU27LpmUHgbTCVpao/edit#slide=id.g15a5dc37934_0_76
+
+## Link to observation dataset
+The observation dataset is to big to be stored with github. Here is the access to download the dataset.
+https://drive.google.com/drive/folders/1oS-N9BqunTIgrsZwMQGKhvOCodB1Ve45?usp=sharing

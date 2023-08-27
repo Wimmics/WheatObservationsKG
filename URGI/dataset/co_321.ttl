@@ -1,0 +1,113 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix CO_321: <http://www.cropontology.org/rdf/co_321#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+CO_321:Variable a owl:Class;
+    rdfs:subClassOf [
+        a owl:Restriction;
+        owl:onProperty CO_321:hasXReference; 
+        owl:maxCardinality 1
+    ],
+    [
+        a owl:Restriction;
+        owl:onProperty CO_321:created; 
+        owl:maxCardinality 1
+    ],
+    [
+        a owl:Restriction;
+        owl:onProperty CO_321:hasTrait;
+        owl:cardinality 1
+    ],
+    [
+        a owl:Restriction;
+        owl:onProperty CO_321:hasMethod;
+        owl:cardinality 1
+    ],
+    [
+        a owl:Restriction;
+        owl:onProperty CO_321:hasScale;
+        owl:cardinality 1
+    ].
+
+CO_321:hasXReference a owl:DatatypeProperty.
+
+CO_321:created a owl:DatatypeProperty;
+    rdfs:domain CO_321:Variable.
+
+CO_321:hasTrait a owl:ObjectProperty;
+    rdfs:domain CO_321:Variable;
+    rdfs:range CO_321:Trait.
+
+CO_321:hasMethod a owl:ObjectProperty;
+    rdfs:domain CO_321:Variable;
+    rdfs:range CO_321:Method.
+
+CO_321:hasScale a owl:ObjectProperty;
+    rdfs:domain CO_321:Variable;
+    rdfs:range CO_321:Scale.
+
+CO_321:Trait a owl:Class.
+
+CO_321:AbioticStressTrait a owl:Class;
+    rdfs:subClassOf CO_321:Trait.
+
+CO_321:BioticStressTrait a owl:Class;
+    rdfs:subClassOf CO_321:Trait.
+
+CO_321:AgronomicalTrait a owl:Class;
+    rdfs:subClassOf CO_321:Trait.
+
+CO_321:EnvironmentalTrait a owl:Class;
+    rdfs:subClassOf CO_321:Trait.
+
+CO_321:MorphologicalTrait a owl:Class;
+    rdfs:subClassOf CO_321:Trait.
+
+CO_321:OtherTrait a owl:Class;
+    rdfs:subClassOf CO_321:Trait.
+
+CO_321:PhenologicalTrait a owl:Class;
+    rdfs:subClassOf CO_321:Trait.
+
+CO_321:QualityTrait a owl:Class;
+    rdfs:subClassOf CO_321:Trait.
+
+CO_321:hasEntity a owl:DatatypeProperty;
+    rdfs:domain CO_321:Trait.
+
+CO_321:Method a owl:Class.
+
+CO_321:ComputationMethod a owl:Class;
+    rdfs:subClassOf CO_321:Method.
+
+CO_321:CountingMethod a owl:Class;
+    rdfs:subClassOf CO_321:Method.
+
+CO_321:EstimationMethod a owl:Class;
+    rdfs:subClassOf CO_321:Method.
+
+CO_321:MeasurementMethod a owl:Class;
+    rdfs:subClassOf CO_321:Method.
+
+CO_321:Scale a owl:Class.
+
+CO_321:DateScale a owl:Class;
+    rdfs:subClassOf CO_321:Scale.
+
+CO_321:DurationScale a owl:Class;
+    rdfs:subClassOf CO_321:Scale.
+
+CO_321:NominalScale a owl:Class;
+    rdfs:subClassOf CO_321:Scale.
+
+CO_321:NumericalScale a owl:Class;
+    rdfs:subClassOf CO_321:Scale.
+
+CO_321:OrdinalScale a owl:Class;
+    rdfs:subClassOf CO_321:Scale.
+
+CO_321:TextScale a owl:Class;
+    rdfs:subClassOf CO_321:Scale.

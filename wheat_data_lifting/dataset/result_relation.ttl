@@ -1,0 +1,827 @@
+@prefix rr:      <http://www.w3.org/ns/r2rml#> .
+@prefix schema:  <http://schema.org/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix d2kab:   <http://ns.inria.fr/d2kab/> .
+@prefix dce:     <http://purl.org/dc/elements/1.1/> .
+@prefix fabio:   <http://purl.org/spar/fabio/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix frbr:    <http://purl.org/vocab/frbr/core#> .
+@prefix ncbi:    <http://identifiers.org/taxonomy/> .
+@prefix rml:     <http://semweb.mmlab.be/ns/rml#> .
+@prefix oa:      <http://www.w3.org/ns/oa#> .
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix xrr:     <http://i3s.unice.fr/xr2rml#> .
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix prov:    <http://www.w3.org/ns/prov#> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+
+<http://ns.inria.fr/d2kab/relation/ABB3952A8F2FE90A5C021982B2726C0F9BD0E2FE>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/86E3D57960CD523E154C3A9DF0DCD888FAD1F64A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/ABE1E9A218E88A99FA06B6092315967695D2E3E9> .
+
+<http://ns.inria.fr/d2kab/relation/1323FCB9703E3C2A32437A0B9FFA809211ACB5A8>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/09C9663CEB99C87AB08BA53CD754FEA322310539> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/87CB448F6F99C60EE39BD423D8B1B181910EA2ED> .
+
+<http://ns.inria.fr/d2kab/relation/E399F14B968AA6488EB9AFA187C847D31610A3DE>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B8130D5B798CF611D8FCA33CF4C32679A0B6156F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/0672FBC6173B1B8E059E754321241A74EC683608> .
+
+<http://ns.inria.fr/d2kab/relation/324CCE1C535226C1CE60DB4861F946A3D5C4B8CF>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/EA95DD731B4B85EE6AA0447F098EC6FE93815DD6> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/B9DE6E00432AC6FF6087E56134E5323ED1D66655> .
+
+<http://ns.inria.fr/d2kab/relation/72EC5FFB4D26124DA8E370BDC2FC90F0F845271B>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/99E3081445FB4CD2100FDA965FA8C93B486120FD> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/611B37D546EA1002C1703CD532BB2EE5A78846A3> .
+
+<http://ns.inria.fr/d2kab/relation/F710A12B511D67E15FCF379F31AA9E2FC525932D>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5230171EA49B4900992EB20B4729E5908300E387> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/0672FBC6173B1B8E059E754321241A74EC683608> .
+
+<http://ns.inria.fr/d2kab/relation/26353A1A88F7662548EAC1515718271439C6CA19>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/0F303720533205F7D5CDB7BBAEB5F301057F0978> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8F6BF0E2D44423311F6946694A696C3AE7BAE02D> .
+
+<http://ns.inria.fr/d2kab/relation/3D820AC0CC1A79E23119EA1C8A980E767387FDCC>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/020D5AADC18548D5C2B636273F4F07BEC727B3C9> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/2692BAC4D4DEA2E8A64BC4EECBD81A1EF3DFBFEB> .
+
+<http://ns.inria.fr/d2kab/relation/D1F21D669D7C8A7DBD50D860CEE31D8EBA7E4FA2>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/86E3D57960CD523E154C3A9DF0DCD888FAD1F64A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/2692BAC4D4DEA2E8A64BC4EECBD81A1EF3DFBFEB> .
+
+<http://ns.inria.fr/d2kab/relation/4629DBE0B09C40ECD40DA228CD97FA8830100407>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/51C67B497441663359D2B52E21D9CEF71BE88160> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/F259C96CA808DA7B802FEB24BB736EA235FDB50A> .
+
+<http://ns.inria.fr/d2kab/relation/329AB2FA2D4FAC78D4246E33DBCD063793D52208>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/54220F8E937F83D2F72FDB9480F43103FA7EA334> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/4E4B3DF56F35B3B91A43A41BB159AA0A0B61596C> .
+
+<http://ns.inria.fr/d2kab/relation/47DE1F5BA0F10BB925A58364C42E42D5D32C1C7B>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/CD8AF9DE6C4A10C40DFDF138DB859AE6F1262968> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/0A3BD266503711ECE56B4A33FAD58497B8952057> .
+
+<http://ns.inria.fr/d2kab/relation/42A7F5249B5BD9E3583E5A3867A1CE925461FFF6>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B8AAB430F58A4B3931AE70228EE588E3F6193550> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/356FF34F00C02345B1881446467E356B4DE61175> .
+
+<http://ns.inria.fr/d2kab/relation/38AE9D400F99687261A5EB53DAEE14C73CF5AD84>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/FB5CE4E47E1E2FA20D6342C3344BAE46CF4A26FB> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/958533AD704F230094701E496848FD9931B46458> .
+
+<http://ns.inria.fr/d2kab/relation/3575C377C9778FC2D05122A601CD156A6407E938>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/BB7EE9D63516092BFA5C0B331C9FA8AE5A642D04> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/D61B0F9FB29E34359E348A931BFAE4FEC216194C> .
+
+<http://ns.inria.fr/d2kab/relation/BA39119B748C8E454CE13CEB4E0E4F06651B202D>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D45AE50CA2C0348C791639D1F9223D8084619A40> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/958533AD704F230094701E496848FD9931B46458> .
+
+<http://ns.inria.fr/d2kab/relation/D4321C80C2C80F6EFEE915C0B86571A592ED4386>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/809C23B331074707EC96D7DF81CA3FB5148727B7> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/938CCC17E6AF5A8C666C030A87526F535569D79E> .
+
+<http://ns.inria.fr/d2kab/relation/8B87AA4E9B3C95C66240BF049030F3FCA8A4F465>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/871AE162087AE9BEE8082F172CC082191CB13BC1> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/B194DB9D5B903AB72ED90DDDA4A3B2081AD014BA> .
+
+<http://ns.inria.fr/d2kab/relation/0CAA1D71AFFA4E4F035AB80B69BDE4B6B3256F75>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/61CF7D4CBA53E9986F9B7FCA57CC318D59B4FE27> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/43EAFA194394A957F59D7021F477549B131D6A3E> .
+
+<http://ns.inria.fr/d2kab/relation/BBE256D5E02E06436F5A6F67A3E1847631606654>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/FB5CE4E47E1E2FA20D6342C3344BAE46CF4A26FB> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/D61B0F9FB29E34359E348A931BFAE4FEC216194C> .
+
+<http://ns.inria.fr/d2kab/relation/7546389E111EA33E7B5E47AAB92ECAF839FC3740>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/A3A62B9EFF86F236774C124C689065E228D772F0> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/042E46FDE2EB7C569F20682D26C8598EF62BFBB4> .
+
+<http://ns.inria.fr/d2kab/relation/171CCAC9BC8EABFDA629D4F32B5BF024ADA5E3F8>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/63156E5E8242910400EF0219F62A59FF419B1F1D> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/1BDD8442B001502967577A5CAADB335C80B6FF66> .
+
+<http://ns.inria.fr/d2kab/relation/FFD106B40415AEA9C88B408DFABC0C3A6A99B3FA>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/1A6F1A4FC1FC5866DCD8F5A6E97FE9F6B327E059> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/B40A3E7240C3538D4208222FC5822382EA1EDD28> .
+
+<http://ns.inria.fr/d2kab/relation/ACCCC90E79365887E8FA745B8120C035254723E7>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5784084DEF333804D12D2486378BBF373D639693> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/3FB08584A47AB741886710CB46035739C0916135> .
+
+<http://ns.inria.fr/d2kab/relation/5FE7A0A4C1DD8787C7FA8F03B0847B7BC7CCC053>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5230171EA49B4900992EB20B4729E5908300E387> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/E33ED8684B8E1FA426889D463AE7814B4939B7BE> .
+
+<http://ns.inria.fr/d2kab/relation/3A76CE4DFBB4A25E7FF8C69671845483D5893ACA>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/545EA70406AB696170A1D726C633EF9F1F9DD545> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7FA34D368005F3E1B257A848D7968A9E0ABB6EF2> .
+
+<http://ns.inria.fr/d2kab/relation/F86A7635CCE311BA62A8006BE3DA93D759458365>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/A4613F15A5E638DE3981F814D62EE7C85ED7220E> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/B9DE6E00432AC6FF6087E56134E5323ED1D66655> .
+
+<http://ns.inria.fr/d2kab/relation/D9AA374CC8DDC9F90467761A672EBC52483E3F26>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/57986B5DC89846B0B1D300350A64C31907191FE5> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7FA34D368005F3E1B257A848D7968A9E0ABB6EF2> .
+
+<http://ns.inria.fr/d2kab/relation/A2A00AC759EFE4E29AAFB553A2A9C565873A8C2A>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/49102DC6B912D8C06E2B230494356B40796ED85B> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/48D2B1B43AD9610E10BB3B3BB8CD3F61090909CE> .
+
+<http://ns.inria.fr/d2kab/relation/5197FECD03D296734F448B8A83A86F797644CE37>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5C5CE5F19467A10BFF2BE3B6FB66FF7064BABA6B> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/0672FBC6173B1B8E059E754321241A74EC683608> .
+
+<http://ns.inria.fr/d2kab/relation/043BCED7E09D63F471E81D2D88FA08B1813FB8A0>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/35FFAC532B27221A0783E79CFAF5971CBDFAE845> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/AFCB371DEAC4178C0455631B90D235930AAEB74A> .
+
+<http://ns.inria.fr/d2kab/relation/BE4F46C296B1D76383B48A9C98C8C575172D937C>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/4F53578B8E30548581BDA58172E8B5E007DA99A0> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/938CCC17E6AF5A8C666C030A87526F535569D79E> .
+
+<http://ns.inria.fr/d2kab/relation/52AB5CE0D0046D9DD16D3527FF66BE824A301DB9>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/6346A5E080BEDB0FDCEA09D137DB88F0EE982320> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/AAC0B8E19C53AB3238971212BFFC99702EA98AD7> .
+
+<http://ns.inria.fr/d2kab/relation/D832163CED1B8240A6886CFAEE29CDB9C172BA32>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/E3C9425347C1ADEC91D185AD6EB31DFD55AEE8AC> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/AFCB371DEAC4178C0455631B90D235930AAEB74A> .
+
+<http://ns.inria.fr/d2kab/relation/A4FEA29B53F3E50AD43DCB37EEC83A16D6A8E312>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/6DF6CDB9744F2169685B1E21DF363CA0BD9F4044> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/AFCB371DEAC4178C0455631B90D235930AAEB74A> .
+
+<http://ns.inria.fr/d2kab/relation/4D4541B99761EE5E79AF7D64F869C46775CAB57C>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/0F303720533205F7D5CDB7BBAEB5F301057F0978> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/0CA425F82EE15A32FD6003C9C252E6FABB08EE1F> .
+
+<http://ns.inria.fr/d2kab/relation/E988967E0CB1DBB85AD4A16E878B019F5206B721>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/E53F92A3E0EE08F608E710F4A130BB4B34C8888A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/97F02B4BB7D3D48C3B9AFF85F159D69BC154CE31> .
+
+<http://ns.inria.fr/d2kab/relation/9BAC1B598A0DDF5A82E73A31098D7359B6AB8C74>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/E53F92A3E0EE08F608E710F4A130BB4B34C8888A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/841D3E4CB792015B090C18A891C34B63B4AE40E7> .
+
+<http://ns.inria.fr/d2kab/relation/41BBC623CF77EED2E2126F8BE417975B1E9A948E>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5C5CE5F19467A10BFF2BE3B6FB66FF7064BABA6B> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/BBE5C3A59AB8D7D258C33B384C5A2767DB310E5C> .
+
+<http://ns.inria.fr/d2kab/relation/7636A574E06FD6FB4D68EF3F4AC5614B07BC967F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/71EAB3CB21BFAF50AF34142494ECDA898144952A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/F9F4C5ACBCA321DAC1C1CE687479FB4728E62B93> .
+
+<http://ns.inria.fr/d2kab/relation/61959F3F17CA404A3739AE5833BB0557EA2D1AF1>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/CD8AF9DE6C4A10C40DFDF138DB859AE6F1262968> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/611B37D546EA1002C1703CD532BB2EE5A78846A3> .
+
+<http://ns.inria.fr/d2kab/relation/3F66B5D41253E33DD15974FA4085374A8AE11E7D>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/8EF0E0EF162C2419FCC9891D43019DDA874943F5> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/D87F765E9B1A2EF49724CB3199E2727D224B2F0A> .
+
+<http://ns.inria.fr/d2kab/relation/EB8E20B319201E6CC48A5219EEF305571F9AB131>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/527A96453C555E244040CFD53FA2FD39D16A1158> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/A6A7CE90926664952138EA543CD172A7151EDDD5> .
+
+<http://ns.inria.fr/d2kab/relation/745D683D709C6223084141C921556F977C2B105F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/99E3081445FB4CD2100FDA965FA8C93B486120FD> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/0A3BD266503711ECE56B4A33FAD58497B8952057> .
+
+<http://ns.inria.fr/d2kab/relation/BF1826220AA168738A64B439DAFC40CF336EC856>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/1A6F1A4FC1FC5866DCD8F5A6E97FE9F6B327E059> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8F6BF0E2D44423311F6946694A696C3AE7BAE02D> .
+
+<http://ns.inria.fr/d2kab/relation/939B3018A21226991493E3881F688014C6D1BDDA>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/1A6F1A4FC1FC5866DCD8F5A6E97FE9F6B327E059> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/3BFA3ABE19FE8D66DE698FB5A7338D682E217561> .
+
+<http://ns.inria.fr/d2kab/relation/8FE9DD53E26156CEE070E0D80CF335278D65EA84>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/DCD3D6ABB9899FEACD07C36C0F45D31C455F07CB> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/356FF34F00C02345B1881446467E356B4DE61175> .
+
+<http://ns.inria.fr/d2kab/relation/A7EB349ED8CA8ACE4AC687584BD3EED8F10AD632>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/99E3081445FB4CD2100FDA965FA8C93B486120FD> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/171201B5110ADDCE6411BD6203240201312DEAFD> .
+
+<http://ns.inria.fr/d2kab/relation/191C453F6DF8E5C68C81F54A7826A2A4F44E6E0F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/09BF7666C4C48FA23F841198225982BC2E9D67CB> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/A6B73E55D4AA913E4C78068F337119C6E81AA419> .
+
+<http://ns.inria.fr/d2kab/relation/AEFFD2151BF5CF7E6FA76CE57E62AE74E7699668>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/50BF4213AEC1DB54A0BD4B9A3BAC24004066EA88> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/B61C48E2F5B4976AD790C840D7054233F1713DB1> .
+
+<http://ns.inria.fr/d2kab/relation/3D1E5C3659826A063CCDC11380C98A8C06790CD5>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/350637EA38F55B4842685F7C111B5DD890783F7B> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/BDC278D6931A037D2E5F78F8E30886692E55EE02> .
+
+<http://ns.inria.fr/d2kab/relation/198A6AB37A001623E95DDFD40A9F08BB339C5F82>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/110F228596BA4E736B75F98D2AE9903701A00FF1> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/27AD4E8792848F2ECFE76E87720A421D550853A4> .
+
+<http://ns.inria.fr/d2kab/relation/4ECB0E81159C6042F33549D3209E5BCF1EED0F6D>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D91B13AC91808EDEF82DA26CEDFEF2100BFD72C8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/AFCB371DEAC4178C0455631B90D235930AAEB74A> .
+
+<http://ns.inria.fr/d2kab/relation/E9A8433F7D88F0B8687DE0F3ED5420B13D10ABF9>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/8A67B671A414A93155ADD8BB70EDD1794667D08D> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8440F98E303543551CA90F28ACC39C5D241F9169> .
+
+<http://ns.inria.fr/d2kab/relation/9614ACC920D208E345BE83E42ED60D9639793D69>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/CBDA00BE2A04FF0AAD1B60566B47B3A81BD834EA> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/27427F0CB422024FD03B46879C2700CC9A3E131E> .
+
+<http://ns.inria.fr/d2kab/relation/8E35ACDA41EC90A3AD21C1785C0899570D8CE454>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/055EDA4C1B2BD09157A3E5F77814F44FD068B806> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/FECBEFE2EDA891AEC26E7DC0EBFA0355CA0E9823> .
+
+<http://ns.inria.fr/d2kab/relation/1E9373A6D600F1361B2805D2ECEB760ECBDC708E>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/779F79B46C9F90DBB36CC763E1DE3800F404834D> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/64533EEBBA046F71B8366BFF9AA77C36D346DE1B> .
+
+<http://ns.inria.fr/d2kab/relation/7E437D2796BF8424F2C255950E4B43414D418D0A>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D45AE50CA2C0348C791639D1F9223D8084619A40> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/D61B0F9FB29E34359E348A931BFAE4FEC216194C> .
+
+<http://ns.inria.fr/d2kab/relation/9D63A909D4590495B1BF7F807721B903413D7948>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/DCD3D6ABB9899FEACD07C36C0F45D31C455F07CB> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/EC723CC98B0AA38374EADDC71B0D7DD179D290B0> .
+
+<http://ns.inria.fr/d2kab/relation/70953724DCF999A0311E7E7CBB97A9D5E0A78C39>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D4FAFD8451CE184C396347DE0FABE42E58AA9E1F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/D7732175D6C0D43662EB249A3E9C99C711D8798E> .
+
+<http://ns.inria.fr/d2kab/relation/D7CFBE61271625D48EB8F4062764E036A6C249E2>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5784084DEF333804D12D2486378BBF373D639693> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7EED186CD76A80CC57EB8B4496C6B6B895CF3EFA> .
+
+<http://ns.inria.fr/d2kab/relation/D97AD8FA7ED3F60FFB2BC180045EFFDA268372B3>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/9C7D8923CC4012CEC059D0C661796BB64A609B1A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/06AEEDC9CE72DA46931BB5A49C06BB2E6FED50A3> .
+
+<http://ns.inria.fr/d2kab/relation/B3FC632F56E7945130752973DBC9723719BD4AFF>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/C613F17A77E639BCCA25A6BA09318155A6AA4739> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/A6A7CE90926664952138EA543CD172A7151EDDD5> .
+
+<http://ns.inria.fr/d2kab/relation/2603013C56F3BAF10DB77ED661F4A1AB17484EFA>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/99E3081445FB4CD2100FDA965FA8C93B486120FD> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/35DC3C5D24040B0AC048D0FC2121027B461B533E> .
+
+<http://ns.inria.fr/d2kab/relation/CDA721A2A9EE97416AF3C81364919522620295D4>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B8130D5B798CF611D8FCA33CF4C32679A0B6156F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/BBE5C3A59AB8D7D258C33B384C5A2767DB310E5C> .
+
+<http://ns.inria.fr/d2kab/relation/3AFDA7E940CABBE124F8CA6982ABF98D3798DC27>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/CD8AF9DE6C4A10C40DFDF138DB859AE6F1262968> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/35DC3C5D24040B0AC048D0FC2121027B461B533E> .
+
+<http://ns.inria.fr/d2kab/relation/8D9BA9C1E362272645CAC357A7A8DD1357DF8CE8>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/122E176AEDDAB1F1ECA7F5D7F5054A7FB2D8247F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/AFCB371DEAC4178C0455631B90D235930AAEB74A> .
+
+<http://ns.inria.fr/d2kab/relation/7831484F686A1F8A4641C0CAFB842F6DB317BFF9>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5BF4E1DA6D089253FC1849CE66ED74EBCB835AD3> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8E313520337BEA82D321B7EB09480DF50F422F32> .
+
+<http://ns.inria.fr/d2kab/relation/8EA80FA5378CECCA54886180140F773DFF4FF7B8>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/2283C5323EA66D568E8793BC6CE1D26E59DF75B8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/E9381BDC5FD477B5EB7B551012AB6B2A29045B5C> .
+
+<http://ns.inria.fr/d2kab/relation/22FB1CA0B631BB94EAF5907500F1AB0FDBE64BF6>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/7E0FF0E2A7821D68BA0A53FFECF33197D69655FF> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/27AD4E8792848F2ECFE76E87720A421D550853A4> .
+
+<http://ns.inria.fr/d2kab/relation/3DF3FCE16D8ADCFACCF5C3D2FA67041A513EADA7>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/084E223B9ABF1004D75607DB2236980FCB0E99F7> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/A6B73E55D4AA913E4C78068F337119C6E81AA419> .
+
+<http://ns.inria.fr/d2kab/relation/86F9AD08AC000C7A674F21FCE3D58240249A5115>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D8649081F3220FD9EE653709C35144E4868814B3> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/5BA04DC0DC4376A3A0654710BDE5F924B0A79659> .
+
+<http://ns.inria.fr/d2kab/relation/E5C61626EF8B1551FE9D24B1F438C6790DB5589E>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/44C1F861D6C34762EEE600ED706ED1DFEA90A98E> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8440F98E303543551CA90F28ACC39C5D241F9169> .
+
+<http://ns.inria.fr/d2kab/relation/4A3DE12938E190BC859DC13FBA3298F1F5972E17>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/7CFBBDF3995FA10595F4BC04ED879F62278B0D92> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/C7337B561D2F0C32C7B399B30686E3695331EBC1> .
+
+<http://ns.inria.fr/d2kab/relation/C2A319A6FF822159C42551F49C49E12E4B4BB19F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/76AF20FEAAFBDCFB4108D17BCA03BBDA02AB9B24> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/75719896DA8FBE647A11BEB49BD67AD930DC4543> .
+
+<http://ns.inria.fr/d2kab/relation/CC2A7D3A0991DC183562DCA6F7F4B14755A9D0BB>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/FCA08BDA3B794970E88FE68115F18FDE76F2396B> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/BDC278D6931A037D2E5F78F8E30886692E55EE02> .
+
+<http://ns.inria.fr/d2kab/relation/4850E9B1E1D050424110720CA5FB787156C15423>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/6CBFDEBBC49D09FF1F8617A868BE891AF4D2ED3B> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/F259C96CA808DA7B802FEB24BB736EA235FDB50A> .
+
+<http://ns.inria.fr/d2kab/relation/FC09A2A02D65A645EE75CC0938F0276C397E04B3>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/C699DFAB133B4F11780FD7B5A711D61D46D30150> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/43EAFA194394A957F59D7021F477549B131D6A3E> .
+
+<http://ns.inria.fr/d2kab/relation/8B0384DFC2995C5C0155A79BAD32A13422FCC764>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/005EB027C8537632DB5EA69046EE20697CD649A8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/042E46FDE2EB7C569F20682D26C8598EF62BFBB4> .
+
+<http://ns.inria.fr/d2kab/relation/A342933DA23D71D451279B8709587FDECD3D3935>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/62A3D1ABDEA28CFDA9CAD2E92A01A3E43B9AE2C3> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/2CC74DED310D983EB79120242F41C7715C85665D> .
+
+<http://ns.inria.fr/d2kab/relation/98384CE18243F3F6EC69D616EFFFBDB345B6575E>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/EA95DD731B4B85EE6AA0447F098EC6FE93815DD6> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/A712EF1F5E0583BF3CA0421BFB806F5F8F87734B> .
+
+<http://ns.inria.fr/d2kab/relation/8F45583B3F1BA28C4F86DF1809D0D33E7CAA452A>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/0F303720533205F7D5CDB7BBAEB5F301057F0978> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/3BFA3ABE19FE8D66DE698FB5A7338D682E217561> .
+
+<http://ns.inria.fr/d2kab/relation/2561B2A0DFDD57BB72B0992530FCA912D9371699>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B8130D5B798CF611D8FCA33CF4C32679A0B6156F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/E33ED8684B8E1FA426889D463AE7814B4939B7BE> .
+
+<http://ns.inria.fr/d2kab/relation/FE970C3DCFFC594C8D6360D19779325CB702465B>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/166121C950ED35EB82DB3229C97DC42A75838171> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8440F98E303543551CA90F28ACC39C5D241F9169> .
+
+<http://ns.inria.fr/d2kab/relation/D9A44C279F724C74C247CE373282332B0050A833>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/7E540E055A6B5F519D4C68644A5EC37327BE1D0C> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/658041015D17C4C86143962FDDD3C3D1B12B0105> .
+
+<http://ns.inria.fr/d2kab/relation/5B402B8B65CCBFD1D1C025AF452CCCD4AAB62A13>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D8649081F3220FD9EE653709C35144E4868814B3> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/C57817D7570A517BAD80FA9752B8045F3B780E08> .
+
+<http://ns.inria.fr/d2kab/relation/CA5AB4BC95751CD7190FD99C51F5ED4C789EB9E9>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/852266CC4D493214447D79EECE08B042885F6941> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/200419397B4365DBAA0B89AE255EF235A19D2D18> .
+
+<http://ns.inria.fr/d2kab/relation/2EA0F0EE0A29BA1E6517E216B75AB42A83A0D3C5>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/32D8E929F437DF141A8C3CCC1EAEEBE891237C23> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/64643F9B4D81856D979B25FC2895282B65C1F01F> .
+
+<http://ns.inria.fr/d2kab/relation/98E955A67D33D5E4BB1D57930F9F0315B8587E34>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/89FB87AA979C8E38058108686F89151885692871> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/64533EEBBA046F71B8366BFF9AA77C36D346DE1B> .
+
+<http://ns.inria.fr/d2kab/relation/5AA0457040F9DDC0200ECBB86708182C9EA064A4>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/AEB8C6E841313CDF3602D11D4E2D5AAD9C4B2E3D> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/79570E8158EFFC5D9E6ADDAB416E6F3AE8D44469> .
+
+<http://ns.inria.fr/d2kab/relation/26A6641E0A45732992EF268CB054473344314CB6>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/7E710AE03765D9DBA6F2C70B3A7ABFE15E01EE40> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7F5C35EA6002F7285B8CC3FE117C89FF7FD3A7B5> .
+
+<http://ns.inria.fr/d2kab/relation/EDB967A007737BA9941E81C9615A508DCA4B735E>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/2EECB4A2A46CF9828F8A2DB01278627FB6FE23A8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/ABE1E9A218E88A99FA06B6092315967695D2E3E9> .
+
+<http://ns.inria.fr/d2kab/relation/75805FDC71A5D51BEDA5018D4004CACE0AE64B3A>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/71EAB3CB21BFAF50AF34142494ECDA898144952A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/5BA04DC0DC4376A3A0654710BDE5F924B0A79659> .
+
+<http://ns.inria.fr/d2kab/relation/4E00E32E30486D583217A6E7BC58A01D11D58AB4>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/39052F8FE9B98736B16410D11AE9655E7E9FAF02> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/48D2B1B43AD9610E10BB3B3BB8CD3F61090909CE> .
+
+<http://ns.inria.fr/d2kab/relation/1F1028CB21BC148A3425FC6E25878E901B2EA73F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/96D045557203BDD04F61953420E47DAB3505EFB4> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/D7732175D6C0D43662EB249A3E9C99C711D8798E> .
+
+<http://ns.inria.fr/d2kab/relation/E72EF537E6446CD928D6C614CDC40AF88BD5BB1E>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D8649081F3220FD9EE653709C35144E4868814B3> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/F9F4C5ACBCA321DAC1C1CE687479FB4728E62B93> .
+
+<http://ns.inria.fr/d2kab/relation/2B3A0FC8359B4A7811CEB5604C8C3BDCF5D52156>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/050C9E9DFCF8E927CAAF0D881E5EB88E582455B2> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/64533EEBBA046F71B8366BFF9AA77C36D346DE1B> .
+
+<http://ns.inria.fr/d2kab/relation/A945D0AC22846CC62FFAE9312E692CD2B376D5AE>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/0E4E1AC2DA00380C0AE082AFCC8D0CC11FFBDC97> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/938CCC17E6AF5A8C666C030A87526F535569D79E> .
+
+<http://ns.inria.fr/d2kab/relation/717BEEB0D55A6903F9EC05FE192085C0BBA1ACDC>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/13366136F538C8B9D03EBE9278E4EF070106B82F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/85C3957005512E43E865A14F6228FAE26A0A131F> .
+
+<http://ns.inria.fr/d2kab/relation/92B6D97C53D571287A3844E300194CC534C58498>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/852266CC4D493214447D79EECE08B042885F6941> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/FA2FBB5E4FE0F8A6AFD2BAFA6F7C39AF812BFA5B> .
+
+<http://ns.inria.fr/d2kab/relation/B554183B30955DC1B791E331C5C7CBE3CF530CB3>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5C5CE5F19467A10BFF2BE3B6FB66FF7064BABA6B> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/E33ED8684B8E1FA426889D463AE7814B4939B7BE> .
+
+<http://ns.inria.fr/d2kab/relation/6272802CD34F60FF66753025C6F0FB0DB6A82755>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/71EAB3CB21BFAF50AF34142494ECDA898144952A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/C57817D7570A517BAD80FA9752B8045F3B780E08> .
+
+<http://ns.inria.fr/d2kab/relation/244BE9B9E57000D5A76E1552204A840B56E20EF4>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/96D045557203BDD04F61953420E47DAB3505EFB4> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/85C3957005512E43E865A14F6228FAE26A0A131F> .
+
+<http://ns.inria.fr/d2kab/relation/D7B0BC5B505A2BAD0DDB965B65D8D4733BF09F82>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/93A051167041E58A64A63902532D1909FEC6C68F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/D7732175D6C0D43662EB249A3E9C99C711D8798E> .
+
+<http://ns.inria.fr/d2kab/relation/9F72574A4FF47BC89D2DEA64C68AD993B049E368>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/7C3DA7826D7C5C13444CA3D640202EF35F8E6BF7> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/F259C96CA808DA7B802FEB24BB736EA235FDB50A> .
+
+<http://ns.inria.fr/d2kab/relation/D2DB1FA065879339DF2B68F8B4094DE8633CD548>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/E0A4B15127D82BC63CF35207C5F2CCED2E326B3F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/64533EEBBA046F71B8366BFF9AA77C36D346DE1B> .
+
+<http://ns.inria.fr/d2kab/relation/0BD32E10E4005411D1A3BA0A88BC4E8D190086B5>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/4345B663316BC3688773EAF553898A9A70C2D14A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/BB092EA743E1F03B6366C5FC9DE8EF02ECD06F10> .
+
+<http://ns.inria.fr/d2kab/relation/225B8AAA1600A1B977D21DDF0FE48D17AA52316A>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/169EA7A765EFF58C5E671DDC9324D7058F0B0DE8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/AFCB371DEAC4178C0455631B90D235930AAEB74A> .
+
+<http://ns.inria.fr/d2kab/relation/4791A4263003486AC97AED46DB8546D1319277B7>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/2283C5323EA66D568E8793BC6CE1D26E59DF75B8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/E642B82B7BA3322EA0A1A7F0537AAEC30998734A> .
+
+<http://ns.inria.fr/d2kab/relation/1CF657081911A439BAC7AC61EF30A5B6CD874379>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B694F9BC2C01465D8932451D4DBD7CD4A8556E52> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/27AD4E8792848F2ECFE76E87720A421D550853A4> .
+
+<http://ns.inria.fr/d2kab/relation/ED3EEC7EB885665AC873F965FC7C5E18FF32937D>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/7ADDB7428A1680C1096F6C515351D4E9CBEA2D92> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/FDE5307B91D9F6B261691AC557A7BDF1B7E2C7EC> .
+
+<http://ns.inria.fr/d2kab/relation/C87FDBC627C99923909BA710E36715096F5D3FEE>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/3A9AE5D6BC0FD4056638448998C834898973BB64> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/FECBEFE2EDA891AEC26E7DC0EBFA0355CA0E9823> .
+
+<http://ns.inria.fr/d2kab/relation/5ECBDB9EBAF46C1648D021F0670AF7031AC572BC>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/79B4AFA1EE3568565EE33A4D8E5D206FE3B94BCA> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/042E46FDE2EB7C569F20682D26C8598EF62BFBB4> .
+
+<http://ns.inria.fr/d2kab/relation/A76DB644ECCBFEA5DCDED29091D1A4E8F117227C>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/084E223B9ABF1004D75607DB2236980FCB0E99F7> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/5715490F03811604CD8EF2BE8258B742E86D9A90> .
+
+<http://ns.inria.fr/d2kab/relation/EEB7C0A97BF599EA198E970F46D5E229673BF656>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/53AD413765896AF250258AB4A03FE62ECD9F9F07> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/AAC0B8E19C53AB3238971212BFFC99702EA98AD7> .
+
+<http://ns.inria.fr/d2kab/relation/A362CF099D577DD85BD164CE99866EEFA9205A87>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B11F2B6C03DB9A54899F94D80DD333C761D51751> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8E313520337BEA82D321B7EB09480DF50F422F32> .
+
+<http://ns.inria.fr/d2kab/relation/63E4CDE2CE1DE42A0AEEDFEB2BB2AC29B44145D4>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/A4613F15A5E638DE3981F814D62EE7C85ED7220E> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/A712EF1F5E0583BF3CA0421BFB806F5F8F87734B> .
+
+<http://ns.inria.fr/d2kab/relation/80FAFAA92F091806A99F49766D2300723EE1C954>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/24E4936CCEE2330B3EBAEC8A470006805DF47D24> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7F5C35EA6002F7285B8CC3FE117C89FF7FD3A7B5> .
+
+<http://ns.inria.fr/d2kab/relation/7479768925006293D48C3323E880752FEA9FAA1B>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/DD88780B777B22985579C99A9C2BE9867712C40A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/2692BAC4D4DEA2E8A64BC4EECBD81A1EF3DFBFEB> .
+
+<http://ns.inria.fr/d2kab/relation/4C4147581480E5ACB43F8CBD1D05683568B96674>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/0F303720533205F7D5CDB7BBAEB5F301057F0978> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/B40A3E7240C3538D4208222FC5822382EA1EDD28> .
+
+<http://ns.inria.fr/d2kab/relation/08BA4FA83F7131A73D3DE67F7E7F9222B571E71E>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/871AE162087AE9BEE8082F172CC082191CB13BC1> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/F5BD71EDDC2B36FC802916EF592F990D74330B65> .
+
+<http://ns.inria.fr/d2kab/relation/A40C8DC00B75886784FA329C8659AB654BFD8CD4>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/0C41F731038B9EFDB26E294CFB9F81669C7141B4> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/388CBD741FA71A490798787ABF8D7EA3BCC7AFE5> .
+
+<http://ns.inria.fr/d2kab/relation/3D4315FB11D393D91E03EF5924BEBE332F9A0631>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/13366136F538C8B9D03EBE9278E4EF070106B82F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/D7732175D6C0D43662EB249A3E9C99C711D8798E> .
+
+<http://ns.inria.fr/d2kab/relation/C4E0500F745EBBEB0E999CD6233481B0ED9DC6FC>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/E3D9A54CE387D7236CAE3E5619DB9BC6B461CD1F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/64533EEBBA046F71B8366BFF9AA77C36D346DE1B> .
+
+<http://ns.inria.fr/d2kab/relation/1AF62F9D29146A5D70329A6517F5E7C41EC55EB6>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/32B0166E0949C382030CA50DEC7A3050CFB8C9C1> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/27AD4E8792848F2ECFE76E87720A421D550853A4> .
+
+<http://ns.inria.fr/d2kab/relation/6B6FB0BD106DEA2C9AF99502B18E193C34024E9F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/F4A3E85C85DAE95B695D124FFA5400F8A59165FC> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/5715490F03811604CD8EF2BE8258B742E86D9A90> .
+
+<http://ns.inria.fr/d2kab/relation/6EE9D4CDDF0A9DF9E4BF394DC544AA70DB0CAA7F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/442E9F54BA3BA37178565BB6B795BC2578E8B249> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/FECBEFE2EDA891AEC26E7DC0EBFA0355CA0E9823> .
+
+<http://ns.inria.fr/d2kab/relation/D7F60389FA7AE1E19D21B06D63C84A9B29E1ABEE>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/CD8AF9DE6C4A10C40DFDF138DB859AE6F1262968> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/171201B5110ADDCE6411BD6203240201312DEAFD> .
+
+<http://ns.inria.fr/d2kab/relation/25293BAD14477CBF64A740C55D4D60EE821EF01A>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/F19BA9FB5F0B68F985E9D3380AA22C775359E526> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/64533EEBBA046F71B8366BFF9AA77C36D346DE1B> .
+
+<http://ns.inria.fr/d2kab/relation/20C52024678CBD2227415505DA28EAFA7853D921>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/852266CC4D493214447D79EECE08B042885F6941> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/A5BBB0A2B4123AF8B2CD91823A806C8BCC2A6138> .
+
+<http://ns.inria.fr/d2kab/relation/45B20F3F713136BD5E22BB722DDAB923AFBAD396>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/8A70F7AA77137C1E283593D16F0332AA47B38317> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/BB092EA743E1F03B6366C5FC9DE8EF02ECD06F10> .
+
+<http://ns.inria.fr/d2kab/relation/531EAFF0AC20E30F3F8332E6C3706E69708C06BB>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/77C7686E1FDF2EC9774259E4611BE1C2DDAC1B2E> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8E313520337BEA82D321B7EB09480DF50F422F32> .
+
+<http://ns.inria.fr/d2kab/relation/A08FB5B9133A04B025EB3A811B9DBDF0919F5986>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/54EBBE76DD65FD877C39865F9BE983B4D5D8999B> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7D1EA0ADD947ACE0AD4EFB2112B7C7C2B6D41E8D> .
+
+<http://ns.inria.fr/d2kab/relation/E79C86D98AFD994B688D358308195B3735F4E444>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/F4A3E85C85DAE95B695D124FFA5400F8A59165FC> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/A6B73E55D4AA913E4C78068F337119C6E81AA419> .
+
+<http://ns.inria.fr/d2kab/relation/A304FA6ABE6B1695DC16E237305188DEC1214031>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D8649081F3220FD9EE653709C35144E4868814B3> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/34412895CCCEEC770FE100200AE25D8DAEF034BC> .
+
+<http://ns.inria.fr/d2kab/relation/4F3E7A79A0144F7C0DF4A56F94D935C8334731A5>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/93A051167041E58A64A63902532D1909FEC6C68F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/85C3957005512E43E865A14F6228FAE26A0A131F> .
+
+<http://ns.inria.fr/d2kab/relation/52242625092D50F065A6F2866CA642349F620D23>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/BB7EE9D63516092BFA5C0B331C9FA8AE5A642D04> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/958533AD704F230094701E496848FD9931B46458> .
+
+<http://ns.inria.fr/d2kab/relation/E00699BCC79A51BB71318D5ECAF9FD84923F597A>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B13EAD46DE25DCCF760D89B72ED761BBA062ADD8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/2692BAC4D4DEA2E8A64BC4EECBD81A1EF3DFBFEB> .
+
+<http://ns.inria.fr/d2kab/relation/6F0586FADCA84916A0138D3BB86DE85A3641D70F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/53312B2C8B451F274C6B7107584F2B5BB8D825D5> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/BDC278D6931A037D2E5F78F8E30886692E55EE02> .
+
+<http://ns.inria.fr/d2kab/relation/017F8E24FD04D27E39AA10F375E198F10318DA36>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B8AAB430F58A4B3931AE70228EE588E3F6193550> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/EC723CC98B0AA38374EADDC71B0D7DD179D290B0> .
+
+<http://ns.inria.fr/d2kab/relation/08FCD4DFBD04208736EBA2F72E7CD137BDEC297B>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/D4FAFD8451CE184C396347DE0FABE42E58AA9E1F> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/85C3957005512E43E865A14F6228FAE26A0A131F> .
+
+<http://ns.inria.fr/d2kab/relation/10DF43CC8D79FB88D49D02EC7066662AB81EBC53>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/1BB7F6A5462D456A6B0CC997078BE5FF1108CDB8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/8EED08577723DC502CB5CDD49064C71E196F0567> .
+
+<http://ns.inria.fr/d2kab/relation/DDAE94ED565CB54E091302DAE8B73D07FA465B75>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/150A8E4063930ACFB172F4F51DAE1721A3EE979A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/658041015D17C4C86143962FDDD3C3D1B12B0105> .
+
+<http://ns.inria.fr/d2kab/relation/7D49D849B3E5C7F83489A54B46B82EBCA6B4C8B7>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/5230171EA49B4900992EB20B4729E5908300E387> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/BBE5C3A59AB8D7D258C33B384C5A2767DB310E5C> .
+
+<http://ns.inria.fr/d2kab/relation/9270074F366B1FDA521E8F9A95A355A3AA8E17EB>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/2EECB4A2A46CF9828F8A2DB01278627FB6FE23A8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/2692BAC4D4DEA2E8A64BC4EECBD81A1EF3DFBFEB> .
+
+<http://ns.inria.fr/d2kab/relation/4F418A0E866C3D360DE1137448C40DE01F1B5E1F>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/1E559BAF2C5C4F27A47338B90B3691A7CA941AF1> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/C065C2F998313E2A98644A071F0D5EB49F1268A9> .
+
+<http://ns.inria.fr/d2kab/relation/F325CF832CEB00A7E7B82F28CDE7C6C799E9A490>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/020D5AADC18548D5C2B636273F4F07BEC727B3C9> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/ABE1E9A218E88A99FA06B6092315967695D2E3E9> .
+
+<http://ns.inria.fr/d2kab/relation/94EC799317153EC028DD4E775BF2E8D305693DF8>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/DD88780B777B22985579C99A9C2BE9867712C40A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/ABE1E9A218E88A99FA06B6092315967695D2E3E9> .
+
+<http://ns.inria.fr/d2kab/relation/894EBF7F673F5575C71C2F3B7A975ABE36DF710E>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/E53F92A3E0EE08F608E710F4A130BB4B34C8888A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/01B59D6FFC82489C5F953480837B35C7EF4B5258> .
+
+<http://ns.inria.fr/d2kab/relation/912BC535E260274ADF6CEE5B9B2EBA23B98CD12C>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/2E2F126638CA369DB820ED8075869219556B75FF> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/3FB08584A47AB741886710CB46035739C0916135> .
+
+<http://ns.inria.fr/d2kab/relation/57B0CE28B4DFFB890F504D7C3151877312713F8C>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/E1EC235879CA77B5CEC57429262241C0911C5246> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/C7337B561D2F0C32C7B399B30686E3695331EBC1> .
+
+<http://ns.inria.fr/d2kab/relation/B4447F7AD214A8BCFF6CB768A50EFA3A7B96E4C9>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/8C7169538176650EF06199CA28A68D70A8BAF358> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/79570E8158EFFC5D9E6ADDAB416E6F3AE8D44469> .
+
+<http://ns.inria.fr/d2kab/relation/49A11864DC0E157136957D717FC12F20EC73C2A1>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/2E2F126638CA369DB820ED8075869219556B75FF> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7EED186CD76A80CC57EB8B4496C6B6B895CF3EFA> .
+
+<http://ns.inria.fr/d2kab/relation/3A0B421850D4DEE7DA4D74EB4904307F4E3AA507>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/412C0ABA88C058F14928C9AF0D4B4ED26ADFF05A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/0871A01594588D5B3BC3616F528F7CBFF9B9FBA2> .
+
+<http://ns.inria.fr/d2kab/relation/6EE6A3B4CBB8E099F96C83678C01ADD83E255FA0>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/B13EAD46DE25DCCF760D89B72ED761BBA062ADD8> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/ABE1E9A218E88A99FA06B6092315967695D2E3E9> .
+
+<http://ns.inria.fr/d2kab/relation/E675247F93664E67895F7D0C9B70ED6332F372F7>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/09BF7666C4C48FA23F841198225982BC2E9D67CB> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/5715490F03811604CD8EF2BE8258B742E86D9A90> .
+
+<http://ns.inria.fr/d2kab/relation/39CF033A6637343FEF8A4D97927FA7E7009FC3CC>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/276ADC6068BE01FEA3B8DEAF5EF7E6E6F2BB5C82> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7A2D1FC53F21B815B96A81648EA1673F9EE4DBBD> .
+
+<http://ns.inria.fr/d2kab/relation/7E87AB46B94E15EF6F375C5CC474F8162E73F714>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/871AE162087AE9BEE8082F172CC082191CB13BC1> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/ECD4BF9225C889648236529169AAC9930012DC03> .
+
+<http://ns.inria.fr/d2kab/relation/875853F3016228D190F3F658AA113FA34A920561>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/3DCFB821B6FB456D8D3EDDCD6E505BC624A95D58> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7F5C35EA6002F7285B8CC3FE117C89FF7FD3A7B5> .
+
+<http://ns.inria.fr/d2kab/relation/D1F52F764A551661DDD1E9FF8DE8EABF4FC3A0CE>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/1CD1F4618121236BF3FC13994E42872A91814E03> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/7A2D1FC53F21B815B96A81648EA1673F9EE4DBBD> .
+
+<http://ns.inria.fr/d2kab/relation/31588F9131423FABE96C9E6931CA94232629643D>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/1A6F1A4FC1FC5866DCD8F5A6E97FE9F6B327E059> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/0CA425F82EE15A32FD6003C9C252E6FABB08EE1F> .
+
+<http://ns.inria.fr/d2kab/relation/A8B1156BB2B40FE26EA5BD9800774417E85B63B8>
+      a       d2kab:Relation ;
+      d2kab:hasPhenotype <http://ns.inria.fr/d2kab/annotation/71EAB3CB21BFAF50AF34142494ECDA898144952A> ;
+      d2kab:hasVariety <http://ns.inria.fr/d2kab/annotation/34412895CCCEEC770FE100200AE25D8DAEF034BC> .

@@ -1,0 +1,1233 @@
+@prefix ns1: <http://taxref.mnhn.fr/lod/property/> .
+
+<http://ontology.inrae.fr/frenchcropusage/Abricotiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/116041>,
+        <http://taxref.mnhn.fr/lod/taxon/965160> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/116041> .
+
+<http://ontology.inrae.fr/frenchcropusage/Abricotiers_pays> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447085>,
+        <http://taxref.mnhn.fr/lod/taxon/630482> .
+
+<http://ontology.inrae.fr/frenchcropusage/Actinidias> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/80138>,
+        <http://taxref.mnhn.fr/lod/taxon/80140> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ails> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/81505>,
+        <http://taxref.mnhn.fr/lod/taxon/81544> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/81505> .
+
+<http://ontology.inrae.fr/frenchcropusage/Alpistes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112980>,
+        <http://taxref.mnhn.fr/lod/taxon/112988> .
+
+<http://ontology.inrae.fr/frenchcropusage/Amandiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/116068> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ananas> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447782> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447782> .
+
+<http://ontology.inrae.fr/frenchcropusage/Anemones> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/131396> .
+
+<http://ontology.inrae.fr/frenchcropusage/Aneths> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/82692> .
+
+<http://ontology.inrae.fr/frenchcropusage/Angeliques> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/733639> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/733639>,
+        <http://taxref.mnhn.fr/lod/taxon/82705> .
+
+<http://ontology.inrae.fr/frenchcropusage/Anis_vert> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113554> .
+
+<http://ontology.inrae.fr/frenchcropusage/Arachides> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/611649> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/611649> .
+
+<http://ontology.inrae.fr/frenchcropusage/Artichauts> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/93783> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93795> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/93783>,
+        <http://taxref.mnhn.fr/lod/taxon/93795> .
+
+<http://ontology.inrae.fr/frenchcropusage/Asperges> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/84265> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/103406>,
+        <http://taxref.mnhn.fr/lod/taxon/106026>,
+        <http://taxref.mnhn.fr/lod/taxon/84265> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/84279> .
+
+<http://ontology.inrae.fr/frenchcropusage/Attiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/446901> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446901> .
+
+<http://ontology.inrae.fr/frenchcropusage/Aubergines> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/124075> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/124075> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/124075> .
+
+<http://ontology.inrae.fr/frenchcropusage/Avocatiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447273> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447273> .
+
+<http://ontology.inrae.fr/frenchcropusage/Avoines> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/132016>,
+        <http://taxref.mnhn.fr/lod/taxon/85357> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/85357> .
+
+<http://ontology.inrae.fr/frenchcropusage/Avoines_hiver> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/85357> .
+
+<http://ontology.inrae.fr/frenchcropusage/Avoines_nues> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/85323> .
+
+<http://ontology.inrae.fr/frenchcropusage/Avoines_nues_hiver> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/85323> .
+
+<http://ontology.inrae.fr/frenchcropusage/Avoines_nues_printemps> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/85323> .
+
+<http://ontology.inrae.fr/frenchcropusage/Avoines_printemps> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/85357> .
+
+<http://ontology.inrae.fr/frenchcropusage/Avoines_rudes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128518>,
+        <http://taxref.mnhn.fr/lod/taxon/85378> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/85378> .
+
+<http://ontology.inrae.fr/frenchcropusage/Badianiers_de_Chine> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/629897> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/629897> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bananiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/423131>,
+        <http://taxref.mnhn.fr/lod/taxon/423133>,
+        <http://taxref.mnhn.fr/lod/taxon/447855> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447855> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bananiers_plantains> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447855> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bardanes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/83502> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/83499> .
+
+<http://ontology.inrae.fr/frenchcropusage/Basilics> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/109797> .
+
+<http://ontology.inrae.fr/frenchcropusage/Betteraves> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/85820> .
+
+<http://ontology.inrae.fr/frenchcropusage/Betteraves_fourrageres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/132121> .
+
+<http://ontology.inrae.fr/frenchcropusage/Betteraves_sucrieres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/132121> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bigaradiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/966887> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/966887>,
+        <http://taxref.mnhn.fr/lod/taxon/971672> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127692> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bles_durs> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/141978>,
+        <http://taxref.mnhn.fr/lod/taxon/629181> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/141978> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bles_tendres> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127692> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bles_tendres_hiver> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/127692> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bles_tendres_printemps> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/127692> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bleuets> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/132896>,
+        <http://taxref.mnhn.fr/lod/taxon/89579>,
+        <http://taxref.mnhn.fr/lod/taxon/89751>,
+        <http://taxref.mnhn.fr/lod/taxon/89753>,
+        <http://taxref.mnhn.fr/lod/taxon/89774>,
+        <http://taxref.mnhn.fr/lod/taxon/89798>,
+        <http://taxref.mnhn.fr/lod/taxon/89810> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128345>,
+        <http://taxref.mnhn.fr/lod/taxon/93673>,
+        <http://taxref.mnhn.fr/lod/taxon/93680> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bouleaux> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/85903> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bourraches> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/86156> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/86156> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bredes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/629011> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/629011> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bromes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/154742>,
+        <http://taxref.mnhn.fr/lod/taxon/82756>,
+        <http://taxref.mnhn.fr/lod/taxon/82758>,
+        <http://taxref.mnhn.fr/lod/taxon/86728> .
+
+<http://ontology.inrae.fr/frenchcropusage/Bugles_rampantes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/80990> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cacaoyers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447630> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447630> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cafeiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447477> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447477> .
+
+<http://ontology.inrae.fr/frenchcropusage/Calebasses> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/104807> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/104807>,
+        <http://taxref.mnhn.fr/lod/taxon/93555> .
+
+<http://ontology.inrae.fr/frenchcropusage/Camelines> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/87583> .
+
+<http://ontology.inrae.fr/frenchcropusage/Camomilles> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/90470> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/90470> .
+
+<http://ontology.inrae.fr/frenchcropusage/Canneberges> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128347> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cannes_sucres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/446334> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446334> .
+
+<http://ontology.inrae.fr/frenchcropusage/Caramboliers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447428> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447428>,
+        <http://taxref.mnhn.fr/lod/taxon/81313> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cardamomes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/629613> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/629613> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cardons> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93783> .
+
+<http://ontology.inrae.fr/frenchcropusage/Carottes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/133744>,
+        <http://taxref.mnhn.fr/lod/taxon/94503> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/94503> .
+
+<http://ontology.inrae.fr/frenchcropusage/Caroubiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447038> .
+
+<http://ontology.inrae.fr/frenchcropusage/Carvis> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/89250> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cassissiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/117766> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/117766> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cedratiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/91811> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/91811> .
+
+<http://ontology.inrae.fr/frenchcropusage/Celeris> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/83195> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/83195>,
+        <http://taxref.mnhn.fr/lod/taxon/91199> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/83195> .
+
+<http://ontology.inrae.fr/frenchcropusage/Celeris_a_cotes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/83195> .
+
+<http://ontology.inrae.fr/frenchcropusage/Celeris_couper> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/83195> .
+
+<http://ontology.inrae.fr/frenchcropusage/Celeris_raves> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/83195> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cerfeuils> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/82932> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/82932> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cerfeuils_anises> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/109161> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cerfeuils_communs> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/82932> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cerfeuils_tubereux> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/90330> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/90330> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cerisiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/116054>,
+        <http://taxref.mnhn.fr/lod/taxon/150261>,
+        <http://taxref.mnhn.fr/lod/taxon/447398>,
+        <http://taxref.mnhn.fr/lod/taxon/629696> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/116043>,
+        <http://taxref.mnhn.fr/lod/taxon/116054> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/116054> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cerisiers_de_Cayenne> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447398> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447398> .
+
+<http://ontology.inrae.fr/frenchcropusage/Champignons> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/37939> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/37939> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chanvres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/87788> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/132533>,
+        <http://taxref.mnhn.fr/lod/taxon/87788> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/87788> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chardons_Marie> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/123705> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chataigniers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/847828> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/89304> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/89304> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chenes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/116751>,
+        <http://taxref.mnhn.fr/lod/taxon/116814>,
+        <http://taxref.mnhn.fr/lod/taxon/116816> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/116759>,
+        <http://taxref.mnhn.fr/lod/taxon/521658> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chicorees> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/103205> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/91169> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chicorees_Bruxelles> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/91165> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/91165> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chicorees_frisees> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/716905> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/716905>,
+        <http://taxref.mnhn.fr/lod/taxon/91165> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chicorees_industrielles> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/613491> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/613491> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/91169> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chicorees_potageres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/103205>,
+        <http://taxref.mnhn.fr/lod/taxon/91165> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/91165>,
+        <http://taxref.mnhn.fr/lod/taxon/91169> .
+
+<http://ontology.inrae.fr/frenchcropusage/Chicorees_scaroles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/104775> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/132211>,
+        <http://taxref.mnhn.fr/lod/taxon/133401> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/86406> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_Bruxelles> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/446633> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446633> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_Milan> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/144392> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144392> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_brocolis> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/613661> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/613661> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_cabus_blancs> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/144384> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144384> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_cabus_rouges> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/144384> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_chinois> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/446630>,
+        <http://taxref.mnhn.fr/lod/taxon/447722>,
+        <http://taxref.mnhn.fr/lod/taxon/639341> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446630>,
+        <http://taxref.mnhn.fr/lod/taxon/639341> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_communs> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144394>,
+        <http://taxref.mnhn.fr/lod/taxon/932474> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_fleurs> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/446631>,
+        <http://taxref.mnhn.fr/lod/taxon/612322> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446631> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_fourragers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/144394>,
+        <http://taxref.mnhn.fr/lod/taxon/932466> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144394>,
+        <http://taxref.mnhn.fr/lod/taxon/932466>,
+        <http://taxref.mnhn.fr/lod/taxon/932474> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_frisés> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/144393> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144393>,
+        <http://taxref.mnhn.fr/lod/taxon/144394> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_navets> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/613662> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_navets_chair_jaune> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144382> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_pommes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/144384> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144384> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_potagers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/132211>,
+        <http://taxref.mnhn.fr/lod/taxon/133401>,
+        <http://taxref.mnhn.fr/lod/taxon/447772> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144384>,
+        <http://taxref.mnhn.fr/lod/taxon/447772>,
+        <http://taxref.mnhn.fr/lod/taxon/770975>,
+        <http://taxref.mnhn.fr/lod/taxon/86406> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_raves> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/613662> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/613662> .
+
+<http://ontology.inrae.fr/frenchcropusage/Choux_verts> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144394> .
+
+<http://ontology.inrae.fr/frenchcropusage/Christophines> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/636548> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/636548> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ciboules> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/81373> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ciboulettes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/81373> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/81508> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/81508> .
+
+<http://ontology.inrae.fr/frenchcropusage/Citronniers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/966788> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/966788> .
+
+<http://ontology.inrae.fr/frenchcropusage/Citrouilles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93550> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cocotiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447749> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cognassiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93734> .
+
+<http://ontology.inrae.fr/frenchcropusage/Colzas> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/132199>,
+        <http://taxref.mnhn.fr/lod/taxon/86399> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/86399> .
+
+<http://ontology.inrae.fr/frenchcropusage/Colzas_hiver> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/86399> .
+
+<http://ontology.inrae.fr/frenchcropusage/Colzas_oleagineux_hiver> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/86399> .
+
+<http://ontology.inrae.fr/frenchcropusage/Combavas> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/445970> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/445970> .
+
+<http://ontology.inrae.fr/frenchcropusage/Concombres> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93539> .
+
+<http://ontology.inrae.fr/frenchcropusage/Coniferes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/68782> .
+
+<http://ontology.inrae.fr/frenchcropusage/Coquerets_du_Perou> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/113329> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/109600>,
+        <http://taxref.mnhn.fr/lod/taxon/113329> .
+
+<http://ontology.inrae.fr/frenchcropusage/Coriandres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/92465> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/92465> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cornichons> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93539> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cornilles> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447217>,
+        <http://taxref.mnhn.fr/lod/taxon/670690> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447217>,
+        <http://taxref.mnhn.fr/lod/taxon/448658>,
+        <http://taxref.mnhn.fr/lod/taxon/670690> .
+
+<http://ontology.inrae.fr/frenchcropusage/Corossoliers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446899> .
+
+<http://ontology.inrae.fr/frenchcropusage/Courges> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/611694> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/611694>,
+        <http://taxref.mnhn.fr/lod/taxon/93555> .
+
+<http://ontology.inrae.fr/frenchcropusage/Courges_musquees> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/611694> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/611694> .
+
+<http://ontology.inrae.fr/frenchcropusage/Courgettes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/93555> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/93555> .
+
+<http://ontology.inrae.fr/frenchcropusage/Crocus_cultives> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93263> .
+
+<http://ontology.inrae.fr/frenchcropusage/Crosnes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/124736> .
+
+<http://ontology.inrae.fr/frenchcropusage/Cumins> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/93564> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/82692>,
+        <http://taxref.mnhn.fr/lod/taxon/93564> .
+
+<http://ontology.inrae.fr/frenchcropusage/Curcumas> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447931> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447849> .
+
+<http://ontology.inrae.fr/frenchcropusage/Dactyles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/94207> .
+
+<http://ontology.inrae.fr/frenchcropusage/Doliques_asperges> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/448658> .
+
+<http://ontology.inrae.fr/frenchcropusage/Echalotes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/446104> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/456844>,
+        <http://taxref.mnhn.fr/lod/taxon/81339>,
+        <http://taxref.mnhn.fr/lod/taxon/81460> .
+
+<http://ontology.inrae.fr/frenchcropusage/Eglantiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/118073> .
+
+<http://ontology.inrae.fr/frenchcropusage/Engrains> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127771> .
+
+<http://ontology.inrae.fr/frenchcropusage/Epeautres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/141957> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/141957> .
+
+<http://ontology.inrae.fr/frenchcropusage/Epinards> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/124617> .
+
+<http://ontology.inrae.fr/frenchcropusage/Erables_sycomores> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/79783> .
+
+<http://ontology.inrae.fr/frenchcropusage/Estragons> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/83965> .
+
+<http://ontology.inrae.fr/frenchcropusage/Fenouils> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/98756> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/98756> .
+
+<http://ontology.inrae.fr/frenchcropusage/Fenugrecs> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/107701> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127561> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/127561> .
+
+<http://ontology.inrae.fr/frenchcropusage/Fenugrecs_engrais_verts> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127561> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/127561> .
+
+<http://ontology.inrae.fr/frenchcropusage/Fetuques> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/121495>,
+        <http://taxref.mnhn.fr/lod/taxon/121496>,
+        <http://taxref.mnhn.fr/lod/taxon/121497>,
+        <http://taxref.mnhn.fr/lod/taxon/717201>,
+        <http://taxref.mnhn.fr/lod/taxon/718265>,
+        <http://taxref.mnhn.fr/lod/taxon/718266>,
+        <http://taxref.mnhn.fr/lod/taxon/98319>,
+        <http://taxref.mnhn.fr/lod/taxon/98349>,
+        <http://taxref.mnhn.fr/lod/taxon/98625> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106499>,
+        <http://taxref.mnhn.fr/lod/taxon/121479> .
+
+<http://ontology.inrae.fr/frenchcropusage/Feveroles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/152447> .
+
+<http://ontology.inrae.fr/frenchcropusage/Feveroles_fourrageres> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/152447> .
+
+<http://ontology.inrae.fr/frenchcropusage/Feveroles_hiver> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/129171> .
+
+<http://ontology.inrae.fr/frenchcropusage/Feveroles_printemps> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/129171> .
+
+<http://ontology.inrae.fr/frenchcropusage/Feves> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/129171> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/129171> .
+
+<http://ontology.inrae.fr/frenchcropusage/Feves_maraicheres> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/129171> .
+
+<http://ontology.inrae.fr/frenchcropusage/Figuiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/98653> .
+
+<http://ontology.inrae.fr/frenchcropusage/Fraisiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/98870> .
+
+<http://ontology.inrae.fr/frenchcropusage/Framboisiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/445921> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/119149> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/119149> .
+
+<http://ontology.inrae.fr/frenchcropusage/Gaillets> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/99373>,
+        <http://taxref.mnhn.fr/lod/taxon/99602>,
+        <http://taxref.mnhn.fr/lod/taxon/99604> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/99373> .
+
+<http://ontology.inrae.fr/frenchcropusage/Genets_des_teinturiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/99828> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/99828> .
+
+<http://ontology.inrae.fr/frenchcropusage/Gentianes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/99959> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/99903> .
+
+<http://ontology.inrae.fr/frenchcropusage/Geraniums> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/100160>,
+        <http://taxref.mnhn.fr/lod/taxon/639061> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/445701> .
+
+<http://ontology.inrae.fr/frenchcropusage/Gerberas> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/670687> .
+
+<http://ontology.inrae.fr/frenchcropusage/Gesses_fourrageres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/129147> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/105175>,
+        <http://taxref.mnhn.fr/lod/taxon/105256> .
+
+<http://ontology.inrae.fr/frenchcropusage/Gesses_odorantes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/105237> .
+
+<http://ontology.inrae.fr/frenchcropusage/Gesses_potageres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447207> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/105256>,
+        <http://taxref.mnhn.fr/lod/taxon/447207> .
+
+<http://ontology.inrae.fr/frenchcropusage/Gingembres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447936> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ginkgos_biloba> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/100258> .
+
+<http://ontology.inrae.fr/frenchcropusage/Gombos> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447298> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447298> .
+
+<http://ontology.inrae.fr/frenchcropusage/Goyaviers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447405> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447405> .
+
+<http://ontology.inrae.fr/frenchcropusage/Goyaviers_Chine> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/631072> .
+
+<http://ontology.inrae.fr/frenchcropusage/Grenadiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447462> .
+
+<http://ontology.inrae.fr/frenchcropusage/Grenadilles> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/631005> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/445877>,
+        <http://taxref.mnhn.fr/lod/taxon/631005> .
+
+<http://ontology.inrae.fr/frenchcropusage/Groseilliers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/117748>,
+        <http://taxref.mnhn.fr/lod/taxon/629855> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/117774> .
+
+<http://ontology.inrae.fr/frenchcropusage/Haricots> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/113075> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113075> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/113075> .
+
+<http://ontology.inrae.fr/frenchcropusage/Haricots_Espagne> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113062> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/113062> .
+
+<http://ontology.inrae.fr/frenchcropusage/Haricots_demi_sec> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113075> .
+
+<http://ontology.inrae.fr/frenchcropusage/Haricots_sabres> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447161> .
+
+<http://ontology.inrae.fr/frenchcropusage/Haricots_verts> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113075> .
+
+<http://ontology.inrae.fr/frenchcropusage/Helichryse_Italie> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/101068>,
+        <http://taxref.mnhn.fr/lod/taxon/130511>,
+        <http://taxref.mnhn.fr/lod/taxon/446891>,
+        <http://taxref.mnhn.fr/lod/taxon/629665>,
+        <http://taxref.mnhn.fr/lod/taxon/629669>,
+        <http://taxref.mnhn.fr/lod/taxon/639545>,
+        <http://taxref.mnhn.fr/lod/taxon/706328> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/101068> .
+
+<http://ontology.inrae.fr/frenchcropusage/Hellebores_noirs> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/101196>,
+        <http://taxref.mnhn.fr/lod/taxon/445632> .
+
+<http://ontology.inrae.fr/frenchcropusage/Hetres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/97947> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/97947> .
+
+<http://ontology.inrae.fr/frenchcropusage/Hibiscus> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/445759> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/101546> .
+
+<http://ontology.inrae.fr/frenchcropusage/Hibiscus_ornemental> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/101541> .
+
+<http://ontology.inrae.fr/frenchcropusage/Houblons> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/103031>,
+        <http://taxref.mnhn.fr/lod/taxon/706815> .
+
+<http://ontology.inrae.fr/frenchcropusage/Laitues> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/104771> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/104771> .
+
+<http://ontology.inrae.fr/frenchcropusage/Laitues_batavia> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/448641> .
+
+<http://ontology.inrae.fr/frenchcropusage/Laitues_couper> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/148028> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/148028> .
+
+<http://ontology.inrae.fr/frenchcropusage/Laitues_pommees> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/448641> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/448641> .
+
+<http://ontology.inrae.fr/frenchcropusage/Laitues_romaines> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/710403> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/710403> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lauriers_aromates> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/105295> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lauriers_ornementaux> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/116089>,
+        <http://taxref.mnhn.fr/lod/taxon/129092> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lavandins> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/105330> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lentilles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/129211> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/129211> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lentilles_fourrageres> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/129255> .
+
+<http://ontology.inrae.fr/frenchcropusage/Limettiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/161014> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/966886>,
+        <http://taxref.mnhn.fr/lod/taxon/971687> .
+
+<http://ontology.inrae.fr/frenchcropusage/Limoniums> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/106104> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lins> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/106349>,
+        <http://taxref.mnhn.fr/lod/taxon/612510>,
+        <http://taxref.mnhn.fr/lod/taxon/629717>,
+        <http://taxref.mnhn.fr/lod/taxon/629721> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106349> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/106349> .
+
+<http://ontology.inrae.fr/frenchcropusage/Litchis> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447593> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447593> .
+
+<http://ontology.inrae.fr/frenchcropusage/Liveches> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/105857> .
+
+<http://ontology.inrae.fr/frenchcropusage/Longaniers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447590> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lotiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/106656> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106653>,
+        <http://taxref.mnhn.fr/lod/taxon/106698> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/106653> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lupins> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106784> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lupins_engrais_verts> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/106766> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106765>,
+        <http://taxref.mnhn.fr/lod/taxon/106766>,
+        <http://taxref.mnhn.fr/lod/taxon/106780> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/106765> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lupins_fourragers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/106766> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106766> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/106766> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106766>,
+        <http://taxref.mnhn.fr/lod/taxon/106780> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux_blancs> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106765> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux_blancs_hiver> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/106765> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lupins_proteagineux_blancs_printemps> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/106765> .
+
+<http://ontology.inrae.fr/frenchcropusage/Lupulines> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/107649>,
+        <http://taxref.mnhn.fr/lod/taxon/148552> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107649>,
+        <http://taxref.mnhn.fr/lod/taxon/127294> .
+
+<http://ontology.inrae.fr/frenchcropusage/Luzernes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/107635>,
+        <http://taxref.mnhn.fr/lod/taxon/107711>,
+        <http://taxref.mnhn.fr/lod/taxon/137673> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107711> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/107711> .
+
+<http://ontology.inrae.fr/frenchcropusage/Maches> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/113381>,
+        <http://taxref.mnhn.fr/lod/taxon/128462> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/125259>,
+        <http://taxref.mnhn.fr/lod/taxon/128470>,
+        <http://taxref.mnhn.fr/lod/taxon/84230>,
+        <http://taxref.mnhn.fr/lod/taxon/87712>,
+        <http://taxref.mnhn.fr/lod/taxon/87849> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/128476> .
+
+<http://ontology.inrae.fr/frenchcropusage/Mais> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/130621> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/130621> .
+
+<http://ontology.inrae.fr/frenchcropusage/Mandariniers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/91812> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/91812> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/91812> .
+
+<http://ontology.inrae.fr/frenchcropusage/Mangoustaniers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447083> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447083> .
+
+<http://ontology.inrae.fr/frenchcropusage/Manguiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/446894> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446894> .
+
+<http://ontology.inrae.fr/frenchcropusage/Maniocs> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447153> .
+
+<http://ontology.inrae.fr/frenchcropusage/Marguerites> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/105817>,
+        <http://taxref.mnhn.fr/lod/taxon/148192>,
+        <http://taxref.mnhn.fr/lod/taxon/425690> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/105817>,
+        <http://taxref.mnhn.fr/lod/taxon/83719> .
+
+<http://ontology.inrae.fr/frenchcropusage/Marjolaines> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/111289> .
+
+<http://ontology.inrae.fr/frenchcropusage/Mauves> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/107337> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107318>,
+        <http://taxref.mnhn.fr/lod/taxon/628989> .
+
+<http://ontology.inrae.fr/frenchcropusage/Melilots> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107887>,
+        <http://taxref.mnhn.fr/lod/taxon/107942> .
+
+<http://ontology.inrae.fr/frenchcropusage/Melilots_fourragers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/107886>,
+        <http://taxref.mnhn.fr/lod/taxon/107942> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107886>,
+        <http://taxref.mnhn.fr/lod/taxon/107887>,
+        <http://taxref.mnhn.fr/lod/taxon/107942>,
+        <http://taxref.mnhn.fr/lod/taxon/113957>,
+        <http://taxref.mnhn.fr/lod/taxon/127294> .
+
+<http://ontology.inrae.fr/frenchcropusage/Melilots_jaunes_engrais_verts> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/107942> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107887>,
+        <http://taxref.mnhn.fr/lod/taxon/107942> .
+
+<http://ontology.inrae.fr/frenchcropusage/Melilots_officinales> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/107942> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107887>,
+        <http://taxref.mnhn.fr/lod/taxon/107942> .
+
+<http://ontology.inrae.fr/frenchcropusage/Melisses> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107992> .
+
+<http://ontology.inrae.fr/frenchcropusage/Melons> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/133550>,
+        <http://taxref.mnhn.fr/lod/taxon/93535> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93535> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/93535> .
+
+<http://ontology.inrae.fr/frenchcropusage/Menthes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/108295>,
+        <http://taxref.mnhn.fr/lod/taxon/108332>,
+        <http://taxref.mnhn.fr/lod/taxon/851842> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/108166>,
+        <http://taxref.mnhn.fr/lod/taxon/108295> .
+
+<http://ontology.inrae.fr/frenchcropusage/Millepertuis> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/103302>,
+        <http://taxref.mnhn.fr/lod/taxon/103316>,
+        <http://taxref.mnhn.fr/lod/taxon/103349> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/103316> .
+
+<http://ontology.inrae.fr/frenchcropusage/Millets> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/825607> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112130>,
+        <http://taxref.mnhn.fr/lod/taxon/112195>,
+        <http://taxref.mnhn.fr/lod/taxon/123122>,
+        <http://taxref.mnhn.fr/lod/taxon/124369>,
+        <http://taxref.mnhn.fr/lod/taxon/717119> .
+
+<http://ontology.inrae.fr/frenchcropusage/Miscanthus_industriels> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/717315> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446314>,
+        <http://taxref.mnhn.fr/lod/taxon/717315>,
+        <http://taxref.mnhn.fr/lod/taxon/780429> .
+
+<http://ontology.inrae.fr/frenchcropusage/Mohas_fourragers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112130>,
+        <http://taxref.mnhn.fr/lod/taxon/112195> .
+
+<http://ontology.inrae.fr/frenchcropusage/Moutardes_brunes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/86383> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/86383> .
+
+<http://ontology.inrae.fr/frenchcropusage/Moutardes_noires> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/86400> .
+
+<http://ontology.inrae.fr/frenchcropusage/Muriers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/108810>,
+        <http://taxref.mnhn.fr/lod/taxon/108822> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/108810>,
+        <http://taxref.mnhn.fr/lod/taxon/108822> .
+
+<http://ontology.inrae.fr/frenchcropusage/Myrtilles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128345> .
+
+<http://ontology.inrae.fr/frenchcropusage/Navets> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/86423> .
+
+<http://ontology.inrae.fr/frenchcropusage/Navets_fourragers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144382> .
+
+<http://ontology.inrae.fr/frenchcropusage/Navets_potagers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/132217> .
+
+<http://ontology.inrae.fr/frenchcropusage/Navettes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/144396> .
+
+<http://ontology.inrae.fr/frenchcropusage/Nefliers_du_Japon> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/96836> .
+
+<http://ontology.inrae.fr/frenchcropusage/Nigers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/100596> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/100596> .
+
+<http://ontology.inrae.fr/frenchcropusage/Nigers_engrais_verts> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/100596> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/100596> .
+
+<http://ontology.inrae.fr/frenchcropusage/Noisetiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/92606> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/92606> .
+
+<http://ontology.inrae.fr/frenchcropusage/Noyers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/104076> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/104076> .
+
+<http://ontology.inrae.fr/frenchcropusage/Oeillettes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112364> .
+
+<http://ontology.inrae.fr/frenchcropusage/Oignons> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/81339> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/81339> .
+
+<http://ontology.inrae.fr/frenchcropusage/Oliviers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/110002> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/110002> .
+
+<http://ontology.inrae.fr/frenchcropusage/Oliviers_fruits_noyaux> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/110002> .
+
+<http://ontology.inrae.fr/frenchcropusage/Orangers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/966887>,
+        <http://taxref.mnhn.fr/lod/taxon/971672> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/92501>,
+        <http://taxref.mnhn.fr/lod/taxon/966887>,
+        <http://taxref.mnhn.fr/lod/taxon/971672> .
+
+<http://ontology.inrae.fr/frenchcropusage/Orangers_du_Mexique> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/90939> .
+
+<http://ontology.inrae.fr/frenchcropusage/Orges_deux_rangs> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/718237> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/718237> .
+
+<http://ontology.inrae.fr/frenchcropusage/Orges_hiver> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/102999> .
+
+<http://ontology.inrae.fr/frenchcropusage/Orges_printemps> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/102999> .
+
+<http://ontology.inrae.fr/frenchcropusage/Orges_six_rangs> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/102999> .
+
+<http://ontology.inrae.fr/frenchcropusage/Origans> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/111289>,
+        <http://taxref.mnhn.fr/lod/taxon/111292>,
+        <http://taxref.mnhn.fr/lod/taxon/630043> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/111289> .
+
+<http://ontology.inrae.fr/frenchcropusage/Orties> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128268>,
+        <http://taxref.mnhn.fr/lod/taxon/128298>,
+        <http://taxref.mnhn.fr/lod/taxon/994112> .
+
+<http://ontology.inrae.fr/frenchcropusage/Oseilles> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/119615>,
+        <http://taxref.mnhn.fr/lod/taxon/119624>,
+        <http://taxref.mnhn.fr/lod/taxon/119629>,
+        <http://taxref.mnhn.fr/lod/taxon/119630>,
+        <http://taxref.mnhn.fr/lod/taxon/119633>,
+        <http://taxref.mnhn.fr/lod/taxon/119638>,
+        <http://taxref.mnhn.fr/lod/taxon/140362>,
+        <http://taxref.mnhn.fr/lod/taxon/151019> .
+
+<http://ontology.inrae.fr/frenchcropusage/Palmiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/629716> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pamplemoussiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/160289>,
+        <http://taxref.mnhn.fr/lod/taxon/971723> .
+
+<http://ontology.inrae.fr/frenchcropusage/Panais> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112550> .
+
+<http://ontology.inrae.fr/frenchcropusage/Papayers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447069> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447069> .
+
+<http://ontology.inrae.fr/frenchcropusage/Paquerettes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/85740> .
+
+<http://ontology.inrae.fr/frenchcropusage/Passiflores_ornementaux> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112536> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pasteques> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/91800> .
+
+<http://ontology.inrae.fr/frenchcropusage/Patates_douces> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/445573> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/445573> .
+
+<http://ontology.inrae.fr/frenchcropusage/Patissons> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/93540>,
+        <http://taxref.mnhn.fr/lod/taxon/93555> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93555>,
+        <http://taxref.mnhn.fr/lod/taxon/98970> .
+
+<http://ontology.inrae.fr/frenchcropusage/Paturins> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/114226>,
+        <http://taxref.mnhn.fr/lod/taxon/114444>,
+        <http://taxref.mnhn.fr/lod/taxon/114446> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pavots_officinales> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112364> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pechers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/116112> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/116112>,
+        <http://taxref.mnhn.fr/lod/taxon/80335> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/116112> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pensees> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/129492>,
+        <http://taxref.mnhn.fr/lod/taxon/129632>,
+        <http://taxref.mnhn.fr/lod/taxon/129639>,
+        <http://taxref.mnhn.fr/lod/taxon/129822>,
+        <http://taxref.mnhn.fr/lod/taxon/129828>,
+        <http://taxref.mnhn.fr/lod/taxon/129851>,
+        <http://taxref.mnhn.fr/lod/taxon/129868>,
+        <http://taxref.mnhn.fr/lod/taxon/142299>,
+        <http://taxref.mnhn.fr/lod/taxon/718296> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/129632> .
+
+<http://ontology.inrae.fr/frenchcropusage/Persils> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/112821>,
+        <http://taxref.mnhn.fr/lod/taxon/612611> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112821>,
+        <http://taxref.mnhn.fr/lod/taxon/612611> .
+
+<http://ontology.inrae.fr/frenchcropusage/Phacelies> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/112915> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112915> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/112915> .
+
+<http://ontology.inrae.fr/frenchcropusage/Piments> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/629265> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/87873> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pissenlits> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/125480>,
+        <http://taxref.mnhn.fr/lod/taxon/125485>,
+        <http://taxref.mnhn.fr/lod/taxon/125490>,
+        <http://taxref.mnhn.fr/lod/taxon/125492>,
+        <http://taxref.mnhn.fr/lod/taxon/125495>,
+        <http://taxref.mnhn.fr/lod/taxon/125500>,
+        <http://taxref.mnhn.fr/lod/taxon/125505>,
+        <http://taxref.mnhn.fr/lod/taxon/125510>,
+        <http://taxref.mnhn.fr/lod/taxon/125511>,
+        <http://taxref.mnhn.fr/lod/taxon/125512>,
+        <http://taxref.mnhn.fr/lod/taxon/125515>,
+        <http://taxref.mnhn.fr/lod/taxon/125517>,
+        <http://taxref.mnhn.fr/lod/taxon/125520>,
+        <http://taxref.mnhn.fr/lod/taxon/125521>,
+        <http://taxref.mnhn.fr/lod/taxon/125528>,
+        <http://taxref.mnhn.fr/lod/taxon/125532>,
+        <http://taxref.mnhn.fr/lod/taxon/125534>,
+        <http://taxref.mnhn.fr/lod/taxon/125536>,
+        <http://taxref.mnhn.fr/lod/taxon/125539>,
+        <http://taxref.mnhn.fr/lod/taxon/125544>,
+        <http://taxref.mnhn.fr/lod/taxon/125551>,
+        <http://taxref.mnhn.fr/lod/taxon/125561>,
+        <http://taxref.mnhn.fr/lod/taxon/125571>,
+        <http://taxref.mnhn.fr/lod/taxon/125581>,
+        <http://taxref.mnhn.fr/lod/taxon/125582>,
+        <http://taxref.mnhn.fr/lod/taxon/125583>,
+        <http://taxref.mnhn.fr/lod/taxon/125587>,
+        <http://taxref.mnhn.fr/lod/taxon/125588>,
+        <http://taxref.mnhn.fr/lod/taxon/125590>,
+        <http://taxref.mnhn.fr/lod/taxon/125598>,
+        <http://taxref.mnhn.fr/lod/taxon/125599>,
+        <http://taxref.mnhn.fr/lod/taxon/125601>,
+        <http://taxref.mnhn.fr/lod/taxon/125607>,
+        <http://taxref.mnhn.fr/lod/taxon/125610>,
+        <http://taxref.mnhn.fr/lod/taxon/125611>,
+        <http://taxref.mnhn.fr/lod/taxon/125612>,
+        <http://taxref.mnhn.fr/lod/taxon/125615>,
+        <http://taxref.mnhn.fr/lod/taxon/125619>,
+        <http://taxref.mnhn.fr/lod/taxon/125635>,
+        <http://taxref.mnhn.fr/lod/taxon/125640>,
+        <http://taxref.mnhn.fr/lod/taxon/125642>,
+        <http://taxref.mnhn.fr/lod/taxon/125663>,
+        <http://taxref.mnhn.fr/lod/taxon/125667>,
+        <http://taxref.mnhn.fr/lod/taxon/125673>,
+        <http://taxref.mnhn.fr/lod/taxon/125682>,
+        <http://taxref.mnhn.fr/lod/taxon/125687>,
+        <http://taxref.mnhn.fr/lod/taxon/125688>,
+        <http://taxref.mnhn.fr/lod/taxon/125690>,
+        <http://taxref.mnhn.fr/lod/taxon/125692>,
+        <http://taxref.mnhn.fr/lod/taxon/125694>,
+        <http://taxref.mnhn.fr/lod/taxon/125699>,
+        <http://taxref.mnhn.fr/lod/taxon/125700>,
+        <http://taxref.mnhn.fr/lod/taxon/125701>,
+        <http://taxref.mnhn.fr/lod/taxon/125702>,
+        <http://taxref.mnhn.fr/lod/taxon/125704>,
+        <http://taxref.mnhn.fr/lod/taxon/125705>,
+        <http://taxref.mnhn.fr/lod/taxon/125714>,
+        <http://taxref.mnhn.fr/lod/taxon/125717>,
+        <http://taxref.mnhn.fr/lod/taxon/125718>,
+        <http://taxref.mnhn.fr/lod/taxon/125720>,
+        <http://taxref.mnhn.fr/lod/taxon/125722>,
+        <http://taxref.mnhn.fr/lod/taxon/125724>,
+        <http://taxref.mnhn.fr/lod/taxon/125726>,
+        <http://taxref.mnhn.fr/lod/taxon/125727>,
+        <http://taxref.mnhn.fr/lod/taxon/125728>,
+        <http://taxref.mnhn.fr/lod/taxon/125731>,
+        <http://taxref.mnhn.fr/lod/taxon/125734>,
+        <http://taxref.mnhn.fr/lod/taxon/125735>,
+        <http://taxref.mnhn.fr/lod/taxon/125736>,
+        <http://taxref.mnhn.fr/lod/taxon/125739>,
+        <http://taxref.mnhn.fr/lod/taxon/125749>,
+        <http://taxref.mnhn.fr/lod/taxon/125761>,
+        <http://taxref.mnhn.fr/lod/taxon/125764>,
+        <http://taxref.mnhn.fr/lod/taxon/125768>,
+        <http://taxref.mnhn.fr/lod/taxon/125772>,
+        <http://taxref.mnhn.fr/lod/taxon/125779>,
+        <http://taxref.mnhn.fr/lod/taxon/125781>,
+        <http://taxref.mnhn.fr/lod/taxon/125788>,
+        <http://taxref.mnhn.fr/lod/taxon/611679>,
+        <http://taxref.mnhn.fr/lod/taxon/717592>,
+        <http://taxref.mnhn.fr/lod/taxon/717594>,
+        <http://taxref.mnhn.fr/lod/taxon/717615>,
+        <http://taxref.mnhn.fr/lod/taxon/717624>,
+        <http://taxref.mnhn.fr/lod/taxon/717626>,
+        <http://taxref.mnhn.fr/lod/taxon/717633>,
+        <http://taxref.mnhn.fr/lod/taxon/717637>,
+        <http://taxref.mnhn.fr/lod/taxon/717645>,
+        <http://taxref.mnhn.fr/lod/taxon/717648> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/717630> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pistachiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447410> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113750> .
+
+<http://ontology.inrae.fr/frenchcropusage/Plantains_puciers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113804> .
+
+<http://ontology.inrae.fr/frenchcropusage/Plaqueminiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/95047>,
+        <http://taxref.mnhn.fr/lod/taxon/95048> .
+
+<http://ontology.inrae.fr/frenchcropusage/Poinsettias> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/445632> .
+
+<http://ontology.inrae.fr/frenchcropusage/Poireaux> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/81483> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/81483> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/81483> .
+
+<http://ontology.inrae.fr/frenchcropusage/Poirees> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/85811> .
+
+<http://ontology.inrae.fr/frenchcropusage/Poiriers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/116574>,
+        <http://taxref.mnhn.fr/lod/taxon/447001> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/116574>,
+        <http://taxref.mnhn.fr/lod/taxon/139545> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pois> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/113778>,
+        <http://taxref.mnhn.fr/lod/taxon/138869> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113778> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pois_chiches> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/91136> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/91136> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/91136> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pois_fourragers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/138869> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/113778> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pois_potagers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/113778> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/113778> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pois_proteagineux> ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/113778> .
+
+<http://ontology.inrae.fr/frenchcropusage/Poivrons> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/87873> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pomelos> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/971723> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/160289> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pommes_de_terre> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/124125> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/124125> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pommiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107207> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/107207> .
+
+<http://ontology.inrae.fr/frenchcropusage/Potirons> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/93550> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/93550> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pourpiers_maraichers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/115215>,
+        <http://taxref.mnhn.fr/lod/taxon/717436> .
+
+<http://ontology.inrae.fr/frenchcropusage/Primeveres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/115931>,
+        <http://taxref.mnhn.fr/lod/taxon/115933>,
+        <http://taxref.mnhn.fr/lod/taxon/115939> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/115925> .
+
+<http://ontology.inrae.fr/frenchcropusage/Pruniers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/116067>,
+        <http://taxref.mnhn.fr/lod/taxon/116158>,
+        <http://taxref.mnhn.fr/lod/taxon/965160> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/116067> .
+
+<http://ontology.inrae.fr/frenchcropusage/Quenettiers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447595> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/107992>,
+        <http://taxref.mnhn.fr/lod/taxon/447595> .
+
+<http://ontology.inrae.fr/frenchcropusage/Quinoas> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/160222> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/160222> .
+
+<http://ontology.inrae.fr/frenchcropusage/Radis> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/117355> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/117355> .
+
+<http://ontology.inrae.fr/frenchcropusage/Radis_noirs_potagers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/613588> .
+
+<http://ontology.inrae.fr/frenchcropusage/Raiforts> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/117353>,
+        <http://taxref.mnhn.fr/lod/taxon/83866>,
+        <http://taxref.mnhn.fr/lod/taxon/92052> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ramboutans> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/447596> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447596> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ray_grass> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106499> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ray_grass_anglais> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106499> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ray_grass_italie> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/106497>,
+        <http://taxref.mnhn.fr/lod/taxon/106517> .
+
+<http://ontology.inrae.fr/frenchcropusage/Renoncules_cultivees> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/717442> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ricins> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/117806> .
+
+<http://ontology.inrae.fr/frenchcropusage/Riz> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/111793> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/111793> .
+
+<http://ontology.inrae.fr/frenchcropusage/Romarins> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/118865> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ronces> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/118932>,
+        <http://taxref.mnhn.fr/lod/taxon/118983>,
+        <http://taxref.mnhn.fr/lod/taxon/119009>,
+        <http://taxref.mnhn.fr/lod/taxon/119016>,
+        <http://taxref.mnhn.fr/lod/taxon/119074>,
+        <http://taxref.mnhn.fr/lod/taxon/119111>,
+        <http://taxref.mnhn.fr/lod/taxon/119147>,
+        <http://taxref.mnhn.fr/lod/taxon/119162>,
+        <http://taxref.mnhn.fr/lod/taxon/119184>,
+        <http://taxref.mnhn.fr/lod/taxon/119211>,
+        <http://taxref.mnhn.fr/lod/taxon/119229>,
+        <http://taxref.mnhn.fr/lod/taxon/119237>,
+        <http://taxref.mnhn.fr/lod/taxon/119281>,
+        <http://taxref.mnhn.fr/lod/taxon/119286>,
+        <http://taxref.mnhn.fr/lod/taxon/119378>,
+        <http://taxref.mnhn.fr/lod/taxon/810952> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/108822>,
+        <http://taxref.mnhn.fr/lod/taxon/119097>,
+        <http://taxref.mnhn.fr/lod/taxon/119220> .
+
+<http://ontology.inrae.fr/frenchcropusage/Roquettes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/97041> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/97041> .
+
+<http://ontology.inrae.fr/frenchcropusage/Rosiers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/118073> .
+
+<http://ontology.inrae.fr/frenchcropusage/Rosiers_parfum> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/118756> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sainfoins> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/110139>,
+        <http://taxref.mnhn.fr/lod/taxon/110142> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/110139> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/110139> .
+
+<http://ontology.inrae.fr/frenchcropusage/Salades> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/104771> .
+
+<http://ontology.inrae.fr/frenchcropusage/Salsifis> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/127007> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127028>,
+        <http://taxref.mnhn.fr/lod/taxon/127029> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sariettes> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/120908> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sarrasins> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/97935> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sauges> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/120655>,
+        <http://taxref.mnhn.fr/lod/taxon/120678>,
+        <http://taxref.mnhn.fr/lod/taxon/140519>,
+        <http://taxref.mnhn.fr/lod/taxon/706714> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/120678>,
+        <http://taxref.mnhn.fr/lod/taxon/120691> .
+
+<http://ontology.inrae.fr/frenchcropusage/Saules> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/120189>,
+        <http://taxref.mnhn.fr/lod/taxon/120273>,
+        <http://taxref.mnhn.fr/lod/taxon/120282>,
+        <http://taxref.mnhn.fr/lod/taxon/120295>,
+        <http://taxref.mnhn.fr/lod/taxon/120311>,
+        <http://taxref.mnhn.fr/lod/taxon/120339>,
+        <http://taxref.mnhn.fr/lod/taxon/120360>,
+        <http://taxref.mnhn.fr/lod/taxon/120362>,
+        <http://taxref.mnhn.fr/lod/taxon/120380>,
+        <http://taxref.mnhn.fr/lod/taxon/120409>,
+        <http://taxref.mnhn.fr/lod/taxon/120418>,
+        <http://taxref.mnhn.fr/lod/taxon/120443>,
+        <http://taxref.mnhn.fr/lod/taxon/120444>,
+        <http://taxref.mnhn.fr/lod/taxon/120462>,
+        <http://taxref.mnhn.fr/lod/taxon/120501>,
+        <http://taxref.mnhn.fr/lod/taxon/120505>,
+        <http://taxref.mnhn.fr/lod/taxon/120512>,
+        <http://taxref.mnhn.fr/lod/taxon/120519>,
+        <http://taxref.mnhn.fr/lod/taxon/120523>,
+        <http://taxref.mnhn.fr/lod/taxon/120525>,
+        <http://taxref.mnhn.fr/lod/taxon/120526>,
+        <http://taxref.mnhn.fr/lod/taxon/120528>,
+        <http://taxref.mnhn.fr/lod/taxon/120534>,
+        <http://taxref.mnhn.fr/lod/taxon/120541>,
+        <http://taxref.mnhn.fr/lod/taxon/120546>,
+        <http://taxref.mnhn.fr/lod/taxon/120566> .
+
+<http://ontology.inrae.fr/frenchcropusage/Scorsoneres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/140807> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/121959> .
+
+<http://ontology.inrae.fr/frenchcropusage/Seigles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/122085> .
+
+<http://ontology.inrae.fr/frenchcropusage/Serradelles> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/111424> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sesames> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/455271> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/455271> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sojas> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/100422> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/100422> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sojas_oleoproteagineux> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/100422> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sojas_verts> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/630879> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sorghos> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/124388> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/124369> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/124369>,
+        <http://taxref.mnhn.fr/lod/taxon/124389> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sorghos_grains> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/124388> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/124369> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/124369>,
+        <http://taxref.mnhn.fr/lod/taxon/124389> .
+
+<http://ontology.inrae.fr/frenchcropusage/Surfaces_toujours_en_herbe> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128114> .
+
+<http://ontology.inrae.fr/frenchcropusage/Sylviculture> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/87143> .
+
+<http://ontology.inrae.fr/frenchcropusage/Tabac> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/109614> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/109614> .
+
+<http://ontology.inrae.fr/frenchcropusage/Thyms> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/126566>,
+        <http://taxref.mnhn.fr/lod/taxon/126580>,
+        <http://taxref.mnhn.fr/lod/taxon/126594>,
+        <http://taxref.mnhn.fr/lod/taxon/126596> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/126582> .
+
+<http://ontology.inrae.fr/frenchcropusage/Tomates> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/124070> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/124070> .
+
+<http://ontology.inrae.fr/frenchcropusage/Topinambours> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/853309> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/101055> .
+
+<http://ontology.inrae.fr/frenchcropusage/Tournesols> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/101135> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/101144>,
+        <http://taxref.mnhn.fr/lod/taxon/91010> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/101027> .
+
+<http://ontology.inrae.fr/frenchcropusage/Trefles> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/127436>,
+        <http://taxref.mnhn.fr/lod/taxon/127522>,
+        <http://taxref.mnhn.fr/lod/taxon/159942> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127274>,
+        <http://taxref.mnhn.fr/lod/taxon/127314>,
+        <http://taxref.mnhn.fr/lod/taxon/127457>,
+        <http://taxref.mnhn.fr/lod/taxon/159942> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/159942> .
+
+<http://ontology.inrae.fr/frenchcropusage/Trefles_blancs> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/127454> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127454>,
+        <http://taxref.mnhn.fr/lod/taxon/929299> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/127454> .
+
+<http://ontology.inrae.fr/frenchcropusage/Trefles_hybrides> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127337>,
+        <http://taxref.mnhn.fr/lod/taxon/127402> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/127337> .
+
+<http://ontology.inrae.fr/frenchcropusage/Trefles_incarnats> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127340> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/127340> .
+
+<http://ontology.inrae.fr/frenchcropusage/Trefles_micheli> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/127386> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127386>,
+        <http://taxref.mnhn.fr/lod/taxon/141860> .
+
+<http://ontology.inrae.fr/frenchcropusage/Trefles_perse> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127274>,
+        <http://taxref.mnhn.fr/lod/taxon/127314>,
+        <http://taxref.mnhn.fr/lod/taxon/127457> .
+
+<http://ontology.inrae.fr/frenchcropusage/Trefles_violets> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/127439>,
+        <http://taxref.mnhn.fr/lod/taxon/152218> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/127439> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/127439> .
+
+<http://ontology.inrae.fr/frenchcropusage/Valerianes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/128416>,
+        <http://taxref.mnhn.fr/lod/taxon/128419> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128419> .
+
+<http://ontology.inrae.fr/frenchcropusage/Vanilliers> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/447885> .
+
+<http://ontology.inrae.fr/frenchcropusage/Veroniques> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/128938>,
+        <http://taxref.mnhn.fr/lod/taxon/129046>,
+        <http://taxref.mnhn.fr/lod/taxon/129049>,
+        <http://taxref.mnhn.fr/lod/taxon/129056> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128938> .
+
+<http://ontology.inrae.fr/frenchcropusage/Verveines> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/630866>,
+        <http://taxref.mnhn.fr/lod/taxon/630867>,
+        <http://taxref.mnhn.fr/lod/taxon/966158> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/128754> .
+
+<http://ontology.inrae.fr/frenchcropusage/Vesces_fourrageres> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/129109>,
+        <http://taxref.mnhn.fr/lod/taxon/129265> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/129153>,
+        <http://taxref.mnhn.fr/lod/taxon/129265>,
+        <http://taxref.mnhn.fr/lod/taxon/129298> ;
+    ns1:candidateAlignment_geves <http://taxref.mnhn.fr/lod/taxon/129265> .
+
+<http://ontology.inrae.fr/frenchcropusage/Vetivers> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/632480> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/632480> .
+
+<http://ontology.inrae.fr/frenchcropusage/Vignes_agrement> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/112463>,
+        <http://taxref.mnhn.fr/lod/taxon/112465> .
+
+<http://ontology.inrae.fr/frenchcropusage/Vignes_cultivees> ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/129968> .
+
+<http://ontology.inrae.fr/frenchcropusage/Violettes_odorantes> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/129632> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/129632> .
+
+<http://ontology.inrae.fr/frenchcropusage/Ylang_ylangs> ns1:candidateAlignment_direct <http://taxref.mnhn.fr/lod/taxon/446902> ;
+    ns1:candidateAlignment_eppo <http://taxref.mnhn.fr/lod/taxon/446902> .
+

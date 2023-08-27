@@ -1,0 +1,42 @@
+,variable_id,variable_name,variable_accession_number,ontology_name
+0,FruitingEfficiency,Fruiting efficiency,WIPO:0000277,Wheat Inra Phenotype Ontology
+1,Heading,,CO_321:1000036,Wheat Crop Ontology
+2,PictureSpike,Spike ; WHEALBI common garden 2015,WIPO:0000279,Wheat Inra Phenotype Ontology
+3,LodgingIntensity,,CO_321:1000099,Wheat Crop Ontology
+4,CarbonContent,,WIPO:0000276,Wheat Inra Phenotype Ontology
+5,AwnRoughness,,WIPO:0000274,Wheat Inra Phenotype Ontology
+6,AwnTexture,AwnRoughness,WIPO:0000274,Wheat Inra Phenotype Ontology
+7,Frost susceptibility,WinterSurvival,CO_321:1000271,Wheat Crop Ontology
+8,GrainWeight,Grain weight,CO_321:1000177,Wheat Crop Ontology
+9,ColdTolerance,Winter survival,CO_321:1000271,Wheat Crop Ontology
+10,Heading,Heading date,CO_321:1000036,Wheat Crop Ontology
+11,PictureStem,Leaf hairiness and anthocyanin coloration of auricles ; WHEALBI common garden 2015,WIPO:0000279,Wheat Inra Phenotype Ontology
+12,SpikeLength,,CO_321:1000079,Wheat Crop Ontology
+13,YR-SCORE_%,Yellow Rust (0-100%),WIPO:0000280,Wheat Inra Phenotype Ontology
+14,PowderyMildewSusceptibility,,CO_321:1000145,Wheat Crop Ontology
+15,RowType,,WIPO:0000285,Wheat Inra Phenotype Ontology
+16,PictureLeaf,Leave hairiness ; WHEALBI common garden 2015 OR Stripe rust on leaf ; WHEALBI common garden 2015,WIPO:0000279,Wheat Inra Phenotype Ontology
+17,PictureField,Field view ; WHEALBI common garden 2015,WIPO:0000279,Wheat Inra Phenotype Ontology
+18,SeedArea,,CO_321:1000144,Wheat Crop Ontology
+19,PLOT-GW_g,PlotGrainWeight,CO_321:1000073,Wheat Crop Ontology
+20,PeduncleExtrusion,,WIPO:0000284,Wheat Inra Phenotype Ontology
+21,PlotGrainWeight,,CO_321:1000073,Wheat Crop Ontology
+22,AwnLength,,WIPO:0000273,Wheat Inra Phenotype Ontology
+23,AwnTexture,,WIPO:0000274,Wheat Inra Phenotype Ontology
+24,Height,,CO_321:1000218,Wheat Crop Ontology
+25,LeafLength,,WIPO:0000286,Wheat Inra Phenotype Ontology
+26,PlantEstablishment,,WIPO:0000272,Wheat Inra Phenotype Ontology
+27,PeduncleLength,Peduncle length,WIPO:0000278,Wheat Inra Phenotype Ontology
+28,StripeRustSusceptibility,,CO_321:1000162,Wheat Crop Ontology
+29,PlantEstablishment,Plant Establishment,WIPO:0000272,Wheat Inra Phenotype Ontology
+30,ColdTolerance,,CO_321:1000271,Wheat Crop Ontology
+31,AwnRoughness,Awn roughness,WIPO:0000274,Wheat Inra Phenotype Ontology
+32,TKW_g,1000_GrainWeight,CO_321:1000177,Wheat Crop Ontology
+33,LeafRustSusceptibility,,CO_321:1000221,Wheat Crop Ontology
+34,GrainWeight,,CO_321:1000177,Wheat Crop Ontology
+35,CarbonIsotopeDiscrimination,,WIPO:0000275,Wheat Inra Phenotype Ontology
+36,SeedWidth,,CO_321:1000147,Wheat Crop Ontology
+37,AwnLength,Awn length,WIPO:0000273,Wheat Inra Phenotype Ontology
+38,Height,Plant height,CO_321:1000218,Wheat Crop Ontology
+39,SeedLength,,CO_321:1000146,Wheat Crop Ontology
+40,LeafWidth,,WIPO:0000287,Wheat Inra Phenotype Ontology

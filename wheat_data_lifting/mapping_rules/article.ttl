@@ -1,0 +1,134 @@
+@prefix xrr: <http://i3s.unice.fr/xr2rml#> .
+@prefix rr:  <http://www.w3.org/ns/r2rml#> .
+@prefix d2kab: <http://ns.inria.fr/d2kab/> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix bibo:   <http://purl.org/ontology/bibo/> .
+@prefix dce:    <http://purl.org/dc/elements/1.1/>.
+@prefix dct:    <http://purl.org/dc/terms/>.
+@prefix fabio:  <http://purl.org/spar/fabio/> .
+@prefix frbr:   <http://purl.org/vocab/frbr/core#>.
+@prefix oa:     <http://www.w3.org/ns/oa#>.
+@prefix prov:   <http://www.w3.org/ns/prov#>.
+@prefix schema: <http://schema.org/>.
+
+@prefix ncbi: <http://identifiers.org/taxonomy/> .
+@prefix pmid: 		<https://pubmed.ncbi.nlm.nih.gov/>.
+
+<#Source>
+	a rr:TripleMap;
+	xrr:logicalSource [
+		xrr:query """db.Documents.find()""";
+	];
+	
+	rr:subjectMap [ 
+		rr:template "https://pubmed.ncbi.nlm.nih.gov/{$.doc_id}" ;
+		rr:class fabio:ResearchPaper;
+	];
+	
+	rr:predicateObjectMap [
+        rr:predicate fabio:hasPubMedId;
+        rr:objectMap [ 
+			xrr:reference "$.doc_id";
+			rr:datatype xsd:string;
+		];
+    ];
+	
+	rr:predicateObjectMap [
+        rr:predicate dct:title;
+        rr:objectMap [ 
+			rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#articletitle";
+		];
+    ];
+	
+	rr:predicateObjectMap [
+        rr:predicate dct:abstract;
+        rr:objectMap [ 
+			rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#abstract";
+		];
+    ].
+
+<#Title>
+	a rr:TripleMap;
+	xrr:logicalSource [
+		xrr:query """db.Documents.find({"section_name" : "articletitle"})""";
+	];
+	
+	rr:subjectMap [ 
+		rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#articletitle" ;
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate rdf:value;
+		rr:objectMap [
+			rr:template "{$.content}";
+			rr:termType rr:Literal;
+			rr:datatype xsd:string;
+		];
+	];
+	
+	rr:predicateObjectMap [
+        rr:predicate frbr:partOf;
+        rr:objectMap [ 
+			rr:template "https://pubmed.ncbi.nlm.nih.gov/{$.doc_id}";
+		];
+    ].
+
+<#Abstract>
+	a rr:TripleMap;
+	xrr:logicalSource [
+		xrr:query """db.Documents.find({"section_name" : {$regex : "abstracttext"}})""";
+	];
+	
+	rr:subjectMap [ 
+		rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#abstract" ;
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate frbr:partOf;
+		rr:objectMap [
+			rr:template "https://pubmed.ncbi.nlm.nih.gov/{$.doc_id}";
+		];
+	].
+	
+
+<#Abstract_value>
+	a rr:TripleMap;
+	xrr:logicalSource [
+		xrr:query """db.Documents.find({"section_name" : {$regex : "abstracttext"}})""";
+	];
+	
+	rr:subjectMap [ 
+		rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#{$.section_name}" ;
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate frbr:partOf;
+		rr:objectMap [
+			rr:template "http://ns.inria.fr/d2kab/article/{$.doc_id}#abstract";
+		];
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate rdfs:label;
+		rr:objectMap [
+			rr:template "{$.section_name}";
+			rr:termType rr:Literal;
+			rr:datatype xsd:string;
+		];
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate rdf:value;
+		rr:objectMap [
+			rr:template "{$.content}";
+			rr:termType rr:Literal;
+			rr:datatype xsd:string;
+		];
+	].
+	
+	

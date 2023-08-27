@@ -1,0 +1,19 @@
+SELECT DISTINCT ?study ?variableName
+WHERE {
+	?study a ppeo:study; ppeo:hasEndDateTime ?date.
+
+	?observationUnit a ppeo:observation_unit;          
+                         ppeo:hasBiologicalMaterial ?biologicalMaterial; 
+                         ppeo:partOf ?study.
+
+        ?biologicalMaterial a ppeo:biological_material;
+                            ppeo:hasAccessionName ?accession.
+
+	?observation a sosa:Observation; 
+                    sosa:observedProperty ?variable;  ppeo:hasObservedSubject ?observationUnit.
+
+	?variable a CO_321:Variable; skos:altLabel ?variableName.
+
+        FILTER(regex(str(?variableName), "Frost")  || regex(str(?variableName), "lodging"))
+
+}

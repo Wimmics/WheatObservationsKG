@@ -3,7 +3,7 @@ import numpy as np
 
 error = []
 """
-The main goal of this script is to transform the original CSV from URGI observation campaign to a consitant CSV.
+The main goal of this script is to transform the original CSV from URGI observation campaign to a consistent CSV.
 The problem with the actual CSV is that each row is a campaign with variables that can be empty. It's hard to lift
 data with morphXR2RML with such CSV and can't be uploaded in a mongoDB.
 

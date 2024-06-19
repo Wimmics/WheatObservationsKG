@@ -1,0 +1,79 @@
+@prefix xrr: <http://i3s.unice.fr/xr2rml#> .
+@prefix rr:  <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix ppeo: <http://purl.org/ppeo/PPEO.owl#> .
+
+<#obsLevel>
+	a rr:TriplesMap;
+	xrr:logicalSource [
+		xrr:query """db.ObservationsUnit.find({})""";
+	];
+	
+	rr:subjectMap [
+		rr:template "http://www.urgi.versailles.inrae.fr/observation_level/{$.observation_level}";
+		rr:class ppeo:observation_level;
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate rdf:value;
+		rr:objectMap [
+			xrr:reference "$.observation_level_num_";
+			rr:datatype xsd:string;
+		];
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate ppeo:type;
+		rr:objectMap [
+			xrr:reference "$.observation_level";
+			rr:datatype xsd:string;
+		];
+	].
+	
+<#ObsUnit>
+	a rr:TriplesMap;
+	xrr:logicalSource [
+		xrr:query """db.ObservationsUnit.find({})""";
+	];
+	
+	rr:subjectMap [
+		rr:template "http://www.urgi.versailles.inrae.fr/observation_unit/{$.id}";
+		rr:class ppeo:observation_unit;
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate ppeo:hasBiologicalMaterial;
+		rr:objectMap [
+			rr:template "http://www.urgi.versailles.inrae.fr/biological_material/{$.biological}";
+		];
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate ppeo:partOf;
+		rr:objectMap [
+			rr:template "http://www.urgi.versailles.inrae.fr/study/{$.study}";
+		];
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate ppeo:hasFactorValue;
+		rr:objectMap [
+			rr:template "http://www.urgi.versailles.inrae.fr/factor_value/{$.itk_value}";
+		];
+	];
+	
+	rr:predicateObjectMap [
+		rr:predicate ppeo:hasObservationLevel;
+		rr:objectMap [
+			rr:template "http://www.urgi.versailles.inrae.fr/observation_level/{$.observation_level}";
+		];
+	].
+
+	
+	
+	

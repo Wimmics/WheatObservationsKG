@@ -166,7 +166,7 @@ if __name__ == '__main__':
     scale_data = make_scale(co_dataframe)
     ordinal_data = make_concept_scale(co_dataframe)
 
-    pd.DataFrame(variable_data, columns=variable_label).to_csv("variable.csv", index=False, encoding="UTF-8")
+    pd.DataFrame(variable_data, columns=variable_label).to_csv("output/variable.csv", index=False, encoding="UTF-8")
     pd.DataFrame(variable_synonyme_data, columns=entity_synonyme_label).to_csv("variable_synonyme.csv", index=False, encoding="UTF-8")
     pd.DataFrame(trait_data, columns=trait_label).to_csv("trait.csv", index=False, encoding="UTF-8")
     pd.DataFrame(trait_synonyme_data, columns=entity_synonyme_label).to_csv("trait_synonyme.csv", index=False, encoding="UTF-8")

@@ -1,0 +1,46 @@
+@prefix bibo:           <http://purl.org/ontology/bibo/> .
+@prefix dct:            <http://purl.org/dct/terms/> .
+@prefix foaf:           <http://xmlns.com/foaf/0.1/> .
+@prefix omv:            <http://omv.ontoware.org/2005/05/ontology#> .
+@prefix owl:            <http://www.w3.org/2002/07/owl#> .
+@prefix prov:           <http://www.w3.org/ns/prov#>.
+@prefix rdfs:           <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema:         <https://schema.org/> .
+@prefix vann:           <http://purl.org/vocab/vann/> .
+
+<http://www.cropontology.org/rdf/CO_321>
+    a owl:Ontology, rdfs:Resource ;
+    vann:preferredNamespaceUri <http://www.cropontology.org/rdf/CO_321#> ;
+    vann:preferredNamespacePrefix "CO_321" ;
+    dct:title "Wheat Crop Ontology OWL"@en ;
+    dct:description "The Wheat Ontology compiles phenotypic traits used in multi-trial evaluation of varieties."@en ;
+    dct:subject <http://data.agroportal.lirmm.fr/categories/TRAITS>, <http://aims.fao.org/aos/agrovoc/c_5956> ;
+    foaf:primaryTopic <http://data.agroportal.lirmm.fr/categories/TRAITS>, <http://aims.fao.org/aos/agrovoc/c_5956> ;
+    dct:license <https://spdx.org/licenses/etalab-2.0> ;
+    schema:license <https://spdx.org/licenses/etalab-2.0> ;
+    dct:publisher
+        <https://ror.org/02kvxyf05>, # Inria
+        <https://ror.org/0496p8026>, # University Côte d_Azur
+        <https://ror.org/02feahw73>, # CNRS
+        <https://ror.org/003vg9w96>; # INRAE
+    omv:hasOntologyLanguage <http://www.w3.org/2002/07/owl> ;
+    omv:hasOntologySyntax <http://www.w3.org/2002/07/owl> ;
+    bibo:status "draft" ;
+    owl:versionIRI <http://www.cropontology.org/rdf/CO_321#2022-02-18> ;
+    owl:versionInfo "2022-02-18" ;
+    dct:issued "2022-02-18" ;
+    owl:priorVersion <https://agroportal.lirmm.fr/ontologies/CO_321> ;
+    schema:keywords "trait", "phenotype", "plant nutrition", "plant breeding", "agriculture", "plant development stage", "food"@en ;
+    dct:contributor "Shrestha, Rosemary", "Pietragalla, Julian", "Valette, Léo", "Reynolds, Matthew", "Singh, Pawan", "Pena, Javier", "Autrique, Enrique", "González, Hector", "Guzmán, Carlos", "Winge, Luzie", "Waring, David", "Molero, Gemma", "Pommier, Cyril", "Letellier, Thomas", "Legouis, Jacques", "Laporte, Marie Angélique", "Arnaud, Elisabeth", "Cooper, Laurel", "Payne, Tom", "Yacoubi, Nadia", "Faron, Catherine", "Michel, Franck", "Barbe, Arnaud" ;    
+    schema:subjectOf       <https://doi.org/10.1093/aobpla/plq008> ;
+    . 
+
+# --- Organizations involved
+<https://ror.org/0496p8026> a foaf:Organization; foaf:name "University Côte d'Azur";
+    foaf:homepage <http://www.univ-cotedazur.fr>.
+<https://ror.org/02kvxyf05> a foaf:Organization; foaf:name "Inria";
+    foaf:homepage <https://www.inria.fr>.
+<https://ror.org/02feahw73> a foaf:Organization; foaf:name "CNRS";
+    foaf:homepage <https://www.cnrs.fr>.
+<https://ror.org/003vg9w96> a foaf:Organization; foaf:name "INRAE";
+    foaf:homepage <https://www.inrae.fr>.

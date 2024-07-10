@@ -1,0 +1,2665 @@
+id,value,description
+0000464,1,highly susceptible
+0000464,4,tolerant
+0000464,5,highly tolerant
+0000464,2,susceptible
+0000464,3,intermediate
+0000885,0,very poor (VP)
+0000885,3,poor to fair (P-F)
+0000885,4,fair (F)
+0000885,1,very poor to poor (VP-P)
+0000885,2,poor (P)
+0000885,7,good to very good (G-VG)
+0000885,8,very good (VG)
+0000885,5,fair to good (F-G)
+0000885,6,good (G)
+0000885,9,excellent (E)
+0000884,1,very poor (VP)
+0000884,4,poor to fair (P-F)
+0000884,5,fair (F)
+0000884,2,very poor to poor (VP-P)
+0000884,3,poor (P)
+0000884,8,good to very good (G-VG)
+0000884,9,very good (VG)
+0000884,6,fair to good (F-G)
+0000884,7,good (G)
+0000462,1,very poor (VP)
+0000462,4,good (G)
+0000462,5,very good (VG)
+0000462,2,poor (P)
+0000462,3,fair (F)
+0000471,0,no visible infection (0)
+0000471,MR,"moderately resistant (MR), small lesions surrounded by necrotic areas"
+0000471,I,"intermediate (M), lesions of variable size, some necrosis and/or chlorosis"
+0000471,R,"resistant (R), necrotic areas with or without small lesions"
+0000471,R-MR,resistant to moderately resistance (R-MR)
+0000471,S,"susceptible (S), large lesions, no necrosis or chlorosis"
+0000471,MS,"moderately Susceptible (MS), medium-sized lesions, no necrosis, but some chlorosis possible"
+0000471,MS-S,moderately susceptible to susceptible (MS-S)
+0000468,1,highly susceptible
+0000468,4,susceptible to moderately susceptible
+0000468,5,moderately susceptible
+0000468,2,highly susceptible to susceptible
+0000468,3,susceptible
+0000468,8,tolerant
+0000468,9,highly tolerant
+0000468,6,moderately susceptible to moderately tolerant
+0000468,7,moderately tolerant
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000465,1,none
+0000465,4,low to medium
+0000465,5,medium
+0000465,2,very low
+0000465,3,low
+0000465,8,very high
+0000465,9,severe
+0000465,6,medium to high
+0000465,7,high
+0000753,0,0% (no uredia)
+0000753,10,10% (3.7% occupied by uredia)
+0000753,20,20% (7.4% occupied by uredia)
+0000753,1,1% (0.37% occupied by uredia)
+0000753,5,5% (1.85% occupied by uredia)
+0000753,50,50% (18.5% occupied by uredia)
+0000753,60,60% (22.2% occupied by uredia)
+0000753,30,30% (11.1% occupied by uredia)
+0000753,40,40% (14.8% occupied by uredia)
+0000753,80,80% (29.6% occupied by uredia)
+0000753,90,90% (33.3% occupied by uredia)
+0000753,70,70% (25.9% occupied by uredia)
+0000753,100,100% (37% occupied by uredia)
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000468,1,highly susceptible
+0000468,4,susceptible to moderately susceptible
+0000468,5,moderately susceptible
+0000468,2,highly susceptible to susceptible
+0000468,3,susceptible
+0000468,8,tolerant
+0000468,9,highly tolerant
+0000468,6,moderately susceptible to moderately tolerant
+0000468,7,moderately tolerant
+0000462,1,very poor (VP)
+0000462,4,good (G)
+0000462,5,very good (VG)
+0000462,2,poor (P)
+0000462,3,fair (F)
+0000462,1,very poor (VP)
+0000462,4,good (G)
+0000462,5,very good (VG)
+0000462,2,poor (P)
+0000462,3,fair (F)
+0000464,1,highly susceptible
+0000464,4,tolerant
+0000464,5,highly tolerant
+0000464,2,susceptible
+0000464,3,intermediate
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000866,1,No Description
+0000866,4,No Description
+0000866,5,No Description
+0000866,2,No Description
+0000866,3,No Description
+0000866,6,No Description
+0000464,1,highly susceptible
+0000464,4,tolerant
+0000464,5,highly tolerant
+0000464,2,susceptible
+0000464,3,intermediate
+0000471,0,no visible infection (0)
+0000471,MR,"moderately resistant (MR), small lesions surrounded by necrotic areas"
+0000471,I,"intermediate (M), lesions of variable size, some necrosis and/or chlorosis"
+0000471,R,"resistant (R), necrotic areas with or without small lesions"
+0000471,R-MR,resistant to moderately resistance (R-MR)
+0000471,S,"susceptible (S), large lesions, no necrosis or chlorosis"
+0000471,MS,"moderately Susceptible (MS), medium-sized lesions, no necrosis, but some chlorosis possible"
+0000471,MS-S,moderately susceptible to susceptible (MS-S)
+0000471,0,no visible infection (0)
+0000471,MR,"moderately resistant (MR), small lesions surrounded by necrotic areas"
+0000471,I,"intermediate (M), lesions of variable size, some necrosis and/or chlorosis"
+0000471,R,"resistant (R), necrotic areas with or without small lesions"
+0000471,R-MR,resistant to moderately resistance (R-MR)
+0000471,S,"susceptible (S), large lesions, no necrosis or chlorosis"
+0000471,MS,"moderately Susceptible (MS), medium-sized lesions, no necrosis, but some chlorosis possible"
+0000471,MS-S,moderately susceptible to susceptible (MS-S)
+0000472,S,Strong (S)
+0000472,T,tenacious (T)
+0000472,WT,weak-tenacious (WT)
+0000472,MS,medium strong (MS)
+0000472,W,weak (W)
+0000858,1,white (b<12.5)
+0000858,2,light-yellow (b=12.5-15)
+0000858,3,yellow (b>15)
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000449,0,no damage
+0000449,3,low damage
+0000449,4,low to intermediate damage
+0000449,1,trace
+0000449,2,very low damage
+0000449,7,high damage
+0000449,8,high to very high damage
+0000449,5,intermediate damage
+0000449,6,intermediate to high damage
+0000449,9,very high damage
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000465,1,none
+0000465,4,low to medium
+0000465,5,medium
+0000465,2,very low
+0000465,3,low
+0000465,8,very high
+0000465,9,severe
+0000465,6,medium to high
+0000465,7,high
+0000774,I,"immune (I), 0 % of infection"
+0000774,MS,"moderately susceptible (MS), 12 to 20 % of infection"
+0000774,S,"susceptible (S), 21 to 50 % of infection"
+0000774,R,"resistant (R), 1 to 8 % of infection"
+0000774,MR,"moderately resistant (MR), 9 to 11 % of infection"
+0000774,VS,"very susceptible (VS), > 50 % of infection"
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000774,I,"immune (I), 0 % of infection"
+0000774,MS,"moderately susceptible (MS), 12 to 20 % of infection"
+0000774,S,"susceptible (S), 21 to 50 % of infection"
+0000774,R,"resistant (R), 1 to 8 % of infection"
+0000774,MR,"moderately resistant (MR), 9 to 11 % of infection"
+0000774,VS,"very susceptible (VS), > 50 % of infection"
+0000471,0,no visible infection (0)
+0000471,MR,"moderately resistant (MR), small lesions surrounded by necrotic areas"
+0000471,I,"intermediate (M), lesions of variable size, some necrosis and/or chlorosis"
+0000471,R,"resistant (R), necrotic areas with or without small lesions"
+0000471,R-MR,resistant to moderately resistance (R-MR)
+0000471,S,"susceptible (S), large lesions, no necrosis or chlorosis"
+0000471,MS,"moderately Susceptible (MS), medium-sized lesions, no necrosis, but some chlorosis possible"
+0000471,MS-S,moderately susceptible to susceptible (MS-S)
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000451,1,white
+0000451,2,red to brown
+0000451,3,purple to black
+0000450,0,absent
+0000450,3,sparse
+0000450,4,sparse to intermediate
+0000450,1,very sparse
+0000450,2,very sparse to sparse
+0000450,7,dense
+0000450,8,dense to very dense
+0000450,5,intermediate
+0000450,6,intermadiate to dense
+0000450,9,very dense
+0000450,0,absent
+0000450,3,sparse
+0000450,4,sparse to intermediate
+0000450,1,very sparse
+0000450,2,very sparse to sparse
+0000450,7,dense
+0000450,8,dense to very dense
+0000450,5,intermediate
+0000450,6,intermadiate to dense
+0000450,9,very dense
+0000824,0,No Description
+0000824,3,No Description
+0000824,4,No Description
+0000824,1,No Description
+0000824,2,No Description
+0000824,7,No Description
+0000824,8,No Description
+0000824,5,No Description
+0000824,6,No Description
+0000824,9,No Description
+0000452,W,white
+0000452,R,red
+0000452,P,purple
+0000826,W,white
+0000826,R,red
+0000826,P,purple
+0000826,W/R,white/red
+0000826,R/W,red/white
+0000469,1,1a
+0000469,4,2b
+0000469,5,3a
+0000469,2,1b
+0000469,3,2a
+0000469,8,4b
+0000469,9,5.0
+0000469,6,3b
+0000469,7,4a
+0000453,H,"hard (H, <45)"
+0000453,SH,"semi-hard (SH, 45-55)"
+0000453,S,"soft (S, >55)"
+0000862,H,"hard (H, <45)"
+0000862,S,"soft (S, >55)"
+0000862,SH,"semi-hard (SH, 45-50)"
+0000862,SS,"semi-soft (SS, 51-55)"
+0000459,S,soft (S)
+0000459,H,hard (H)
+0000459,VH,very hard (VH)
+0000459,MS,medium soft (MS)
+0000459,MH,medium hard (MH)
+0000474,1,shrivelled (SH)
+0000474,2,good (G)
+0000474,3,very good (VG)
+0000455,1,small
+0000455,2,medium
+0000455,3,large
+0000454,NV,not vitreous (NV)
+0000454,PV,partly vitreous (PV)
+0000454,V,vitreous (V)
+0000851,W,winter
+0000851,I,facultative (intermediate)
+0000851,S,spring
+0000476,96,"Ripening, 50% of viable seed germinates"
+0000476,97,"Ripening, Seed not dormant"
+0000476,94,"Ripening, Overripe, straw dead and collapsing"
+0000476,95,"Ripening, Seed dormant"
+0000476,22,"Tillering, Main shoot and 2 Tillers"
+0000476,87,"Dough development, Hard dough (thumbnail impression held)"
+0000476,85,"Dough development, Soft dough (firm, thumbnail mark not held)"
+0000476,20,"Tillering, Main shoot only"
+0000476,83,"Dough development, Early dough (elastic, dry and shiny)"
+0000476,21,"Tillering, Main shoot and 1 Tiller"
+0000476,81,"Dough development, Very early dough (slides when crushed)"
+0000476,93,"Ripening, Kernel loosening in daytime"
+0000476,92,"Ripening, Kernel hard (not dented by thumbnail)"
+0000476,91,"Ripening, Kernel hard (difficult to divide, 16% water)"
+0000476,14,"Seedling development , 4 leaves unfolded"
+0000476,15,"Seedling development , 5 leaves unfolded"
+0000476,13,"Seedling development , 3 leaves unfolded"
+0000476,18,"Seedling development , 8 leaves unfolded"
+0000476,19,"Seedling development , 9 or more leaves unfolded"
+0000476,16,"Seedling development , 6 leaves unfolded"
+0000476,17,"Seedling development , 7 leaves unfolded"
+0000476,73,"Kernel and milk development, Early milk (liquid off -white)"
+0000476,75,"Kernel and milk development, Medium milk (milky liquid)"
+0000476,77,"Kernel and milk development, Late milk (more solids in milk)"
+0000476,55,"Heading, ½ of head emerged"
+0000476,53,"Heading, ¼ of head emerged"
+0000476,59,"Heading, Emergence of head complete"
+0000476,57,"Heading, ¾ of head emerged"
+0000476,65,"Flowering or anthesis, Flowering half complete"
+0000476,61,"Flowering or anthesis, Start of flowering"
+0000476,71,"Kernel and milk development, Kernel watery ripe (clear liquid)"
+0000476,69,"Flowering or anthesis, Flowering complete"
+0000476,49,"Booting, First awns visible"
+0000476,51,"Heading, First spikelet of head visible"
+0000476,00,"Germination, Dry seed"
+0000476,45,"Booting, Boot swollen"
+0000476,05,"Germination, Radicle emerged from seed"
+0000476,43,"Booting, Boot just visibly swollen"
+0000476,07,"Germination, Coleoptile emerged from seed"
+0000476,41,"Booting, Flag leaf sheath extending"
+0000476,01,"Germination, Water uptake (imbibition) started"
+0000476,03,"Germination, Imbibition complete"
+0000476,39,"Stem elongation or jointing, Flag leaf ligule/collar just visible"
+0000476,11,"Seedling development , First leaf unfolded"
+0000476,37,"Stem elongation or jointing, Flag leaf just visible"
+0000476,12,"Seedling development , 2 leaves unfolded"
+0000476,36,"Stem elongation or jointing, 6th node detectable"
+0000476,09,"Germination, Leaf just at coleoptile tip"
+0000476,35,"Stem elongation or jointing, 5th node detectable"
+0000476,10,"Seedling development , First leaf emerged"
+0000476,34,"Stem elongation or jointing, 4th node detectable"
+0000476,47,"Booting, Flag leaf sheath opening"
+0000476,33,"Stem elongation or jointing, 3rd node detectable"
+0000476,98,"Ripening, Secondary dormancy"
+0000476,99,"Ripening, Secondary dormancy lost"
+0000476,28,"Tillering, Main shoot and 8 Tillers"
+0000476,27,"Tillering, Main shoot and 7 Tillers"
+0000476,30,"Stem elongation or jointing, Pseudo stem erection"
+0000476,29,"Tillering, Main shoot and 9 or more Tillers 89 Late hard dough (difficult to dent)"
+0000476,24,"Tillering, Main shoot and 4 Tillers"
+0000476,23,"Tillering, Main shoot and 3 Tillers"
+0000476,26,"Tillering, Main shoot and 6 Tillers"
+0000476,25,"Tillering, Main shoot and 5 Tillers"
+0000476,32,"Stem elongation or jointing, 2nd node detectable"
+0000476,31,"Stem elongation or jointing, 1st node detectable"
+0000449,0,no damage
+0000449,3,low damage
+0000449,4,low to intermediate damage
+0000449,1,trace
+0000449,2,very low damage
+0000449,7,high damage
+0000449,8,high to very high damage
+0000449,5,intermediate damage
+0000449,6,intermediate to high damage
+0000449,9,very high damage
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000460,VE,very early (VE)
+0000460,L,late (L)
+0000460,VL,very late (VL)
+0000460,E,early (E)
+0000460,M,moderate (M)
+0000464,1,highly susceptible
+0000464,4,tolerant
+0000464,5,highly tolerant
+0000464,2,susceptible
+0000464,3,intermediate
+0000789,1,No Description
+0000789,4,No Description
+0000789,5,No Description
+0000789,2,No Description
+0000789,3,No Description
+0000789,8,No Description
+0000789,9,No Description
+0000789,6,No Description
+0000789,7,No Description
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000450,0,absent
+0000450,3,sparse
+0000450,4,sparse to intermediate
+0000450,1,very sparse
+0000450,2,very sparse to sparse
+0000450,7,dense
+0000450,8,dense to very dense
+0000450,5,intermediate
+0000450,6,intermadiate to dense
+0000450,9,very dense
+0000827,1,absent
+0000827,4,dense
+0000827,5,very dense
+0000827,2,sparse
+0000827,3,intermediate
+0000450,0,absent
+0000450,3,sparse
+0000450,4,sparse to intermediate
+0000450,1,very sparse
+0000450,2,very sparse to sparse
+0000450,7,dense
+0000450,8,dense to very dense
+0000450,5,intermediate
+0000450,6,intermadiate to dense
+0000450,9,very dense
+0000465,1,none
+0000465,4,low to medium
+0000465,5,medium
+0000465,2,very low
+0000465,3,low
+0000465,8,very high
+0000465,9,severe
+0000465,6,medium to high
+0000465,7,high
+0000877,9,No Description
+0000877,6,No Description
+0000877,5,No Description
+0000877,8,No Description
+0000877,7,No Description
+0000877,2,No Description
+0000877,1,No Description
+0000877,4,No Description
+0000877,3,No Description
+0000768,I,"immune (0), no uredinia or other macroscopic sign of infection"
+0000768,MS,"moderately susceptible (MS), medium-sized pustules, no necrosis, but some chlorosis possible"
+0000768,S,"susceptible (S), large pustules, no necrosis or chlorosis"
+0000768,R,"resistant (R), necrotic areas with or without small pustules"
+0000768,MR,"moderately resistant (MR), small pustules surrounded by necrotic areas"
+0000773,R,"resistant (R), necrotic areas with or without small pustules"
+0000773,S,"susceptible (S), large pustules, no necrosis or chlorosis"
+0000773,MR,"moderately resistant (MR), small pustules surrounded by necrotic areas"
+0000773,MS,"moderately susceptible (MS), medium-sized pustules, no necrosis, but some chlorosis possible"
+0000473,0,no visible infection (0)
+0000473,MR,"moderately resistant (MR), small pustules surrounded by necrotic areas"
+0000473,I,"intermediate (M), pustules of variable size, some necrosis and/or chlorosis"
+0000473,R,"resistant (R), necrotic areas with or without small pustules"
+0000473,R-MR,resistant to moderately resistance (R-MR)
+0000473,S,"susceptible (S), large pustules, no necrosis or chlorosis"
+0000473,MS,"moderately susceptible (MS), medium-sized pustules, no necrosis, but some clorosis possible"
+0000473,MS-S,moderately susceptible to susceptible (MS-S)
+0000606,I,"immune, no uredinia or other macroscopic sign of infection (0)"
+0000606,2,"moderately resistant, small to medium uredinia often surrounded by Chlorosis or necrosis, green island may be surrounded by chlorotic or necrotic border (2)"
+0000606,X,"heterogeneous, random distribution of variable-sized uredinia on single leaf (X)"
+0000606,",","nearly immune, no uredinia, but hypersensitive necrotic or chlorotic flecks present (,)"
+0000606,1,"very resistant, small uredinia surrounded by necrosis (1)"
+0000606,3,"moderately susceptible, medium-sized uredinia that may be associated with chlorosis (3)"
+0000606,4,"susceptible, large uredinia without chlorosis (4)"
+0000606,Y,"heterogeneous, ordered distribution of variable-sized uredinia, with larger uredinia at leaf tip (Y)"
+0000606,Z,"Heterogeneous, ordered distribution of variable-sized uredinia, with larger uredinia at leaf base (Z)"
+0000753,0,0% (no uredia)
+0000753,10,10% (3.7% occupied by uredia)
+0000753,20,20% (7.4% occupied by uredia)
+0000753,1,1% (0.37% occupied by uredia)
+0000753,5,5% (1.85% occupied by uredia)
+0000753,50,50% (18.5% occupied by uredia)
+0000753,60,60% (22.2% occupied by uredia)
+0000753,30,30% (11.1% occupied by uredia)
+0000753,40,40% (14.8% occupied by uredia)
+0000753,80,80% (29.6% occupied by uredia)
+0000753,90,90% (33.3% occupied by uredia)
+0000753,70,70% (25.9% occupied by uredia)
+0000753,100,100% (37% occupied by uredia)
+0000807,0,No visible affection
+0000807,3,60% coverage
+0000807,4,80% coverage
+0000807,1,20% coverage
+0000807,2,40% coverage
+0000807,5,100% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000465,1,none
+0000465,4,low to medium
+0000465,5,medium
+0000465,2,very low
+0000465,3,low
+0000465,8,very high
+0000465,9,severe
+0000465,6,medium to high
+0000465,7,high
+0000465,1,none
+0000465,4,low to medium
+0000465,5,medium
+0000465,2,very low
+0000465,3,low
+0000465,8,very high
+0000465,9,severe
+0000465,6,medium to high
+0000465,7,high
+0000856,1,very early (VE)
+0000856,4,"normal, similar to local check (N)"
+0000856,5,late (L)
+0000856,2,early (E)
+0000856,3,early to normal (E-N)
+0000856,6,very late (VL)
+0000460,VE,very early (VE)
+0000460,L,late (L)
+0000460,VL,very late (VL)
+0000460,E,early (E)
+0000460,M,moderate (M)
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000450,0,absent
+0000450,3,sparse
+0000450,4,sparse to intermediate
+0000450,1,very sparse
+0000450,2,very sparse to sparse
+0000450,7,dense
+0000450,8,dense to very dense
+0000450,5,intermediate
+0000450,6,intermadiate to dense
+0000450,9,very dense
+0000450,0,absent
+0000450,3,sparse
+0000450,4,sparse to intermediate
+0000450,1,very sparse
+0000450,2,very sparse to sparse
+0000450,7,dense
+0000450,8,dense to very dense
+0000450,5,intermediate
+0000450,6,intermadiate to dense
+0000450,9,very dense
+0000462,1,very poor (VP)
+0000462,4,good (G)
+0000462,5,very good (VG)
+0000462,2,poor (P)
+0000462,3,fair (F)
+0000458,E,erect (E)
+0000458,S,spreading (S)
+0000458,P,Prostrate (P)
+0000458,SE,semi-erect (SE)
+0000458,SS,semi-spreading (SS)
+0000461,VS,very short (VS)
+0000461,T,tall (T)
+0000461,VT,very tall (VT)
+0000461,S,short (S)
+0000461,M,medium (M)
+0000599,1,present
+0000599,0,absent
+0000857,0,insensitive
+0000857,3,low
+0000857,4,low to intermediate
+0000857,1,very low
+0000857,2,very low to low
+0000857,7,moderate
+0000857,8,moderate to high
+0000857,5,intermediate
+0000857,6,intermediate to moderate
+0000857,9,high
+0000462,1,very poor (VP)
+0000462,4,good (G)
+0000462,5,very good (VG)
+0000462,2,poor (P)
+0000462,3,fair (F)
+0000782,0,none
+0000782,3,medium
+0000782,4,high
+0000782,1,very low
+0000782,2,low
+0000782,5,severe
+0000788,1,none
+0000788,4,high
+0000788,5,severe
+0000788,2,low
+0000788,3,medium
+0000465,1,none
+0000465,4,low to medium
+0000465,5,medium
+0000465,2,very low
+0000465,3,low
+0000465,8,very high
+0000465,9,severe
+0000465,6,medium to high
+0000465,7,high
+0000790,9,No Description
+0000790,6,No Description
+0000790,5,No Description
+0000790,8,No Description
+0000790,7,No Description
+0000790,2,No Description
+0000790,1,No Description
+0000790,4,No Description
+0000790,3,No Description
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000468,1,highly susceptible
+0000468,4,susceptible to moderately susceptible
+0000468,5,moderately susceptible
+0000468,2,highly susceptible to susceptible
+0000468,3,susceptible
+0000468,8,tolerant
+0000468,9,highly tolerant
+0000468,6,moderately susceptible to moderately tolerant
+0000468,7,moderately tolerant
+0000789,1,No Description
+0000789,4,No Description
+0000789,5,No Description
+0000789,2,No Description
+0000789,3,No Description
+0000789,8,No Description
+0000789,9,No Description
+0000789,6,No Description
+0000789,7,No Description
+0000790,9,No Description
+0000790,6,No Description
+0000790,5,No Description
+0000790,8,No Description
+0000790,7,No Description
+0000790,2,No Description
+0000790,1,No Description
+0000790,4,No Description
+0000790,3,No Description
+0000735,Imm,"Immune (Imm) - No pycnidial formation, no symptoms or occasional hypersensitive fleck."
+0000735,I,Intermediate (I) - Light pycnidial format ion. Coalescing of lesions normally noticeable towards the leaf tip and elsewhere on the leaf.
+0000735,S,"Susceptible (S) - Moderate pycnidial formation, lesions coalescing considerably."
+0000735,HR,"Highly Resistant (HR) - No or only occasional isolated pycnidia formed, particularly in older leaf tissue,  hypersensitive flecking in younger leaf tissue."
+0000735,R,Resistant (R) - Very light pycnidial formation. Some coalescing of lesions mainly toward the leaf tip and in older leaf tissue.
+0000735,VS,"Very susceptible (VS), large, abundant pycnidia, lesions coalescing extensively"
+0000729,VR,"very resistant (VR), average pycnidial density of 0-5%"
+0000729,MS,"moderately susceptible (MS), average pycnidial density coverage of 30-40%"
+0000729,S,"susceptible (S), pycnidial density greater than 40%"
+0000729,R,"resistant (R), average pycnidial density of 5-15%"
+0000729,MR,"moderately resistant (MR), average pycnidial density coverage of 15-30%"
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000789,1,No Description
+0000789,4,No Description
+0000789,5,No Description
+0000789,2,No Description
+0000789,3,No Description
+0000789,8,No Description
+0000789,9,No Description
+0000789,6,No Description
+0000789,7,No Description
+0000790,9,No Description
+0000790,6,No Description
+0000790,5,No Description
+0000790,8,No Description
+0000790,7,No Description
+0000790,2,No Description
+0000790,1,No Description
+0000790,4,No Description
+0000790,3,No Description
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000789,1,No Description
+0000789,4,No Description
+0000789,5,No Description
+0000789,2,No Description
+0000789,3,No Description
+0000789,8,No Description
+0000789,9,No Description
+0000789,6,No Description
+0000789,7,No Description
+0000790,9,No Description
+0000790,6,No Description
+0000790,5,No Description
+0000790,8,No Description
+0000790,7,No Description
+0000790,2,No Description
+0000790,1,No Description
+0000790,4,No Description
+0000790,3,No Description
+0000735,Imm,"Immune (Imm) - No pycnidial formation, no symptoms or occasional hypersensitive fleck."
+0000735,I,Intermediate (I) - Light pycnidial format ion. Coalescing of lesions normally noticeable towards the leaf tip and elsewhere on the leaf.
+0000735,S,"Susceptible (S) - Moderate pycnidial formation, lesions coalescing considerably."
+0000735,HR,"Highly Resistant (HR) - No or only occasional isolated pycnidia formed, particularly in older leaf tissue,  hypersensitive flecking in younger leaf tissue."
+0000735,R,Resistant (R) - Very light pycnidial formation. Some coalescing of lesions mainly toward the leaf tip and in older leaf tissue.
+0000735,VS,"Very susceptible (VS), large, abundant pycnidia, lesions coalescing extensively"
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000742,0,No symptom of sharp eyespot
+0000742,3,"one or more sharp eyespot lesions girdling in total less than or equal to 1/5 of the stem circumference, with the stem remaining un-softened"
+0000742,4,"one or more sharp eyespot lesions girdling in total less than or equal to 2/5 of the stem circumference, with the stem remaining un-softened"
+0000742,1,One or more sharp eyespot lesions on lower sheaths but no symptoms on the stem
+0000742,2,one or more sharp eyespot lesions on upper (as well as lower) sheaths but no symptoms on the stem
+0000742,7,"one or more sharp eyespot lesions girdling in total less than or equal to 5/5 of the stem circumference, with the stem remaining un-softened"
+0000742,8,stem softened with sharp eyespot lesions on the stem
+0000742,5,"one or more sharp eyespot lesions girdling in total less than or equal to 3/5 of the stem circumference, with the stem remaining un-softened"
+0000742,6,"one or more sharp eyespot lesions girdling in total less than or equal to 4/5 of the stem circumference, with the stem remaining un-softened"
+0000742,9,"head prematurely ripened (whitehead) or plant collapsed with sharp eyespot lesions on the stem, or shoot killed as the ear emerges from the sheath with sharp eyespot lesions on the shoot"
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000471,0,no visible infection (0)
+0000471,MR,"moderately resistant (MR), small lesions surrounded by necrotic areas"
+0000471,I,"intermediate (M), lesions of variable size, some necrosis and/or chlorosis"
+0000471,R,"resistant (R), necrotic areas with or without small lesions"
+0000471,R-MR,resistant to moderately resistance (R-MR)
+0000471,S,"susceptible (S), large lesions, no necrosis or chlorosis"
+0000471,MS,"moderately Susceptible (MS), medium-sized lesions, no necrosis, but some chlorosis possible"
+0000471,MS-S,moderately susceptible to susceptible (MS-S)
+0000447,0,awnless
+0000447,3,awnletted (short)
+0000447,4,No Description
+0000447,1,No Description
+0000447,2,No Description
+0000447,7,awned (conspicuous)
+0000447,8,No Description
+0000447,5,No Description
+0000447,6,No Description
+0000447,9,No Description
+0000467,1,very lax
+0000467,4,lax to intermediate
+0000467,5,intermediate
+0000467,2,very lax to lax
+0000467,3,lax
+0000467,8,dense to very dense
+0000467,9,very dense
+0000467,6,intermediate to dense
+0000467,7,dense
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000828,1,none
+0000828,4,low to moderate
+0000828,5,moderate
+0000828,2,very low
+0000828,3,low
+0000828,8,high to very high
+0000828,9,very high
+0000828,6,moderate to high
+0000828,7,high
+0000789,1,No Description
+0000789,4,No Description
+0000789,5,No Description
+0000789,2,No Description
+0000789,3,No Description
+0000789,8,No Description
+0000789,9,No Description
+0000789,6,No Description
+0000789,7,No Description
+0000790,9,No Description
+0000790,6,No Description
+0000790,5,No Description
+0000790,8,No Description
+0000790,7,No Description
+0000790,2,No Description
+0000790,1,No Description
+0000790,4,No Description
+0000790,3,No Description
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000468,1,highly susceptible
+0000468,4,susceptible to moderately susceptible
+0000468,5,moderately susceptible
+0000468,2,highly susceptible to susceptible
+0000468,3,susceptible
+0000468,8,tolerant
+0000468,9,highly tolerant
+0000468,6,moderately susceptible to moderately tolerant
+0000468,7,moderately tolerant
+0000473,0,no visible infection (0)
+0000473,MR,"moderately resistant (MR), small pustules surrounded by necrotic areas"
+0000473,I,"intermediate (M), pustules of variable size, some necrosis and/or chlorosis"
+0000473,R,"resistant (R), necrotic areas with or without small pustules"
+0000473,R-MR,resistant to moderately resistance (R-MR)
+0000473,S,"susceptible (S), large pustules, no necrosis or chlorosis"
+0000473,MS,"moderately susceptible (MS), medium-sized pustules, no necrosis, but some clorosis possible"
+0000473,MS-S,moderately susceptible to susceptible (MS-S)
+0000606,I,"immune, no uredinia or other macroscopic sign of infection (0)"
+0000606,2,"moderately resistant, small to medium uredinia often surrounded by Chlorosis or necrosis, green island may be surrounded by chlorotic or necrotic border (2)"
+0000606,X,"heterogeneous, random distribution of variable-sized uredinia on single leaf (X)"
+0000606,",","nearly immune, no uredinia, but hypersensitive necrotic or chlorotic flecks present (,)"
+0000606,1,"very resistant, small uredinia surrounded by necrosis (1)"
+0000606,3,"moderately susceptible, medium-sized uredinia that may be associated with chlorosis (3)"
+0000606,4,"susceptible, large uredinia without chlorosis (4)"
+0000606,Y,"heterogeneous, ordered distribution of variable-sized uredinia, with larger uredinia at leaf tip (Y)"
+0000606,Z,"Heterogeneous, ordered distribution of variable-sized uredinia, with larger uredinia at leaf base (Z)"
+0000753,0,0% (no uredia)
+0000753,10,10% (3.7% occupied by uredia)
+0000753,20,20% (7.4% occupied by uredia)
+0000753,1,1% (0.37% occupied by uredia)
+0000753,5,5% (1.85% occupied by uredia)
+0000753,50,50% (18.5% occupied by uredia)
+0000753,60,60% (22.2% occupied by uredia)
+0000753,30,30% (11.1% occupied by uredia)
+0000753,40,40% (14.8% occupied by uredia)
+0000753,80,80% (29.6% occupied by uredia)
+0000753,90,90% (33.3% occupied by uredia)
+0000753,70,70% (25.9% occupied by uredia)
+0000753,100,100% (37% occupied by uredia)
+0000456,1,hollow
+0000456,2,intermediate
+0000456,3,solid
+0000828,1,none
+0000828,4,low to moderate
+0000828,5,moderate
+0000828,2,very low
+0000828,3,low
+0000828,8,high to very high
+0000828,9,very high
+0000828,6,moderate to high
+0000828,7,high
+0000819,0,No Description
+0000819,3,No Description
+0000819,4,No Description
+0000819,1,No Description
+0000819,2,No Description
+0000819,5,No Description
+0000819,6,No Description
+0000465,1,none
+0000465,4,low to medium
+0000465,5,medium
+0000465,2,very low
+0000465,3,low
+0000465,8,very high
+0000465,9,severe
+0000465,6,medium to high
+0000465,7,high
+0000466,I,immune
+0000466,MR,moderately resistant
+0000466,LM,light moderate
+0000466,VR,very resistance
+0000466,R,resistant
+0000466,LMS,light moderate susceptible
+0000466,S,susceptible
+0000466,M,moderate
+0000466,MS,moderate susceptible
+0000466,VS,very susceptible
+0000473,0,no visible infection (0)
+0000473,MR,"moderately resistant (MR), small pustules surrounded by necrotic areas"
+0000473,I,"intermediate (M), pustules of variable size, some necrosis and/or chlorosis"
+0000473,R,"resistant (R), necrotic areas with or without small pustules"
+0000473,R-MR,resistant to moderately resistance (R-MR)
+0000473,S,"susceptible (S), large pustules, no necrosis or chlorosis"
+0000473,MS,"moderately susceptible (MS), medium-sized pustules, no necrosis, but some clorosis possible"
+0000473,MS-S,moderately susceptible to susceptible (MS-S)
+0000753,0,0% (no uredia)
+0000753,10,10% (3.7% occupied by uredia)
+0000753,20,20% (7.4% occupied by uredia)
+0000753,1,1% (0.37% occupied by uredia)
+0000753,5,5% (1.85% occupied by uredia)
+0000753,50,50% (18.5% occupied by uredia)
+0000753,60,60% (22.2% occupied by uredia)
+0000753,30,30% (11.1% occupied by uredia)
+0000753,40,40% (14.8% occupied by uredia)
+0000753,80,80% (29.6% occupied by uredia)
+0000753,90,90% (33.3% occupied by uredia)
+0000753,70,70% (25.9% occupied by uredia)
+0000753,100,100% (37% occupied by uredia)
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0000463,R,"Resistant, small dark brown to black spots without any surrounding chlorosis or tan necrosis"
+0000463,MS,"Moderately susceptible, small dark brown to black spots completely surrounded with chlorotic or tan necrostic zones, some of the lesions coalescing"
+0000463,S,"Susceptible, small dark brown to black centres may or may not be distinguishable, most lesions consist of coalescing chlorotic or tan necrotic zones"
+0000463,MR,"Moderately-resistant, small dark brown to black spots with very little chlorosis or tan necrosis"
+0000463,MR-MS,"Moderately resistant to moderately susceptible, small dark brown to black spots completely surrounded by a distinct chlorotic or tan necrosis"
+0000445,0,No visible infection on plants
+0000445,MR-MS,"Moderately resistant to moderately susceptible, small dark brown to black spots completely surrounded by a distinct chlorotic or tan necrosis"
+0000445,MS,"Moderately susceptible, small dark brown to black spots completely surrounded with chlorotic or tan necrostic zones, some of the lesions coalescing"
+0000445,R,"Resistant, small dark brown to black spots without any surrounding chlorosis or tan necrosis"
+0000445,MR,"Moderately-resistant, small dark brown to black spots with very little chlorosis or tan necrosis"
+0000445,S,"Susceptible, small dark brown to black centres may or may not be distinguishable, most lesions consist of coalescing chlorotic or tan necrotic zones"
+0000470,27,"20% plant height affected, 70% coverage"
+0000470,25,"20% plant height affected, 50% coverage"
+0000470,26,"20% plant height affected, 60% coverage"
+0000470,19,"10% plant height affected, 90% coverage"
+0000470,20,20
+0000470,18,"10% plant height affected, 80% coverage"
+0000470,23,"20% plant height affected, 30% coverage"
+0000470,24,"20% plant height affected, 40% coverage"
+0000470,21,"20% plant height affected, 10% coverage"
+0000470,22,"20% plant height affected, 20% coverage"
+0000470,96,"90% plant height affected, 60% coverage"
+0000470,97,"90% plant height affected, 70% coverage"
+0000470,94,"90% plant height affected, 40% coverage"
+0000470,95,"90% plant height affected, 50% coverage"
+0000470,99,"90% plant height affected, 90% coverage"
+0000470,98,"90% plant height affected, 80% coverage"
+0000470,87,"80% plant height affected, 70% coverage"
+0000470,83,"80% plant height affected, 30% coverage"
+0000470,84,"80% plant height affected, 40% coverage"
+0000470,85,"80% plant height affected, 50% coverage"
+0000470,86,"80% plant height affected, 60% coverage"
+0000470,91,"90% plant height affected, 10% coverage"
+0000470,90,90
+0000470,93,"90% plant height affected, 30% coverage"
+0000470,92,"90% plant height affected, 20% coverage"
+0000470,89,"80% plant height affected, 90% coverage"
+0000470,88,"80% plant height affected, 80% coverage"
+0000470,76,"70% plant height affected, 60% coverage"
+0000470,77,"70% plant height affected, 70% coverage"
+0000470,74,"70% plant height affected, 40% coverage"
+0000470,75,"70% plant height affected, 50% coverage"
+0000470,72,"70% plant height affected, 20% coverage"
+0000470,73,"70% plant height affected, 30% coverage"
+0000470,82,"80% plant height affected, 20% coverage"
+0000470,81,"80% plant height affected, 10% coverage"
+0000470,80,80
+0000470,79,"70% plant height affected, 90% coverage"
+0000470,78,"70% plant height affected, 80% coverage"
+0000470,70,70
+0000470,71,"70% plant height affected, 10% coverage"
+0000470,68,"60% plant height affected, 80% coverage"
+0000470,69,"60% plant height affected, 90% coverage"
+0000470,64,"60% plant height affected, 40% coverage"
+0000470,63,"60% plant height affected, 30% coverage"
+0000470,62,"60% plant height affected, 20% coverage"
+0000470,61,"60% plant height affected, 10% coverage"
+0000470,67,"60% plant height affected, 70% coverage"
+0000470,66,"60% plant height affected, 60% coverage"
+0000470,65,"60% plant height affected, 50% coverage"
+0000470,58,"50% plant height affected, 80% coverage"
+0000470,59,"50% plant height affected, 90% coverage"
+0000470,60,60
+0000470,51,"50% plant height affected, 10% coverage"
+0000470,50,50
+0000470,53,"50% plant height affected, 30% coverage"
+0000470,52,"50% plant height affected, 20% coverage"
+0000470,55,"50% plant height affected, 50% coverage"
+0000470,54,"50% plant height affected, 40% coverage"
+0000470,57,"50% plant height affected, 70% coverage"
+0000470,56,"50% plant height affected, 60% coverage"
+0000470,48,"40% plant height affected, 80% coverage"
+0000470,49,"40% plant height affected, 90% coverage"
+0000470,00,no disease
+0000470,46,"40% plant height affected, 60% coverage"
+0000470,12,"10% plant height affected, 20% coverage"
+0000470,45,"40% plant height affected, 50% coverage"
+0000470,13,"10% plant height affected, 30% coverage"
+0000470,44,"40% plant height affected, 40% coverage"
+0000470,10,10
+0000470,43,"40% plant height affected, 30% coverage"
+0000470,11,"10% plant height affected, 10% coverage"
+0000470,42,"40% plant height affected, 20% coverage"
+0000470,16,"10% plant height affected, 60% coverage"
+0000470,41,"40% plant height affected, 10% coverage"
+0000470,17,"10% plant height affected, 70% coverage"
+0000470,40,40
+0000470,14,"10% plant height affected, 40% coverage"
+0000470,39,"30% plant height affected, 90% coverage"
+0000470,15,"10% plant height affected, 50% coverage"
+0000470,47,"40% plant height affected, 70% coverage"
+0000470,38,"30% plant height affected, 80% coverage"
+0000470,33,"30% plant height affected, 30% coverage"
+0000470,32,"30% plant height affected, 20% coverage"
+0000470,35,"30% plant height affected, 50% coverage"
+0000470,34,"30% plant height affected, 40% coverage"
+0000470,29,"20% plant height affected, 90% coverage"
+0000470,28,"20% plant height affected, 80% coverage"
+0000470,31,"30% plant height affected, 10% coverage"
+0000470,30,30
+0000470,37,"30% plant height affected, 70% coverage"
+0000470,36,"30% plant height affected, 60% coverage"
+0000462,1,very poor (VP)
+0000462,4,good (G)
+0000462,5,very good (VG)
+0000462,2,poor (P)
+0000462,3,fair (F)
+0000599,1,present
+0000599,0,absent
+0000449,0,no damage
+0000449,3,low damage
+0000449,4,low to intermediate damage
+0000449,1,trace
+0000449,2,very low damage
+0000449,7,high damage
+0000449,8,high to very high damage
+0000449,5,intermediate damage
+0000449,6,intermediate to high damage
+0000449,9,very high damage
+0000449,0,no damage
+0000449,3,low damage
+0000449,4,low to intermediate damage
+0000449,1,trace
+0000449,2,very low damage
+0000449,7,high damage
+0000449,8,high to very high damage
+0000449,5,intermediate damage
+0000449,6,intermediate to high damage
+0000449,9,very high damage
+0000457,1,none (N)
+0000457,4,moderate (M)
+0000457,5,very severe (V)
+0000457,2,trace (T)
+0000457,3,slight (S)
+0001012,1,White
+0001012,4,Purple
+0001012,5,Amber
+0001012,2,Red
+0001012,3,Black
+0001012,6,Mixed
+0001014,1,Fusiform
+0001014,4,Clavate
+0001014,5,Elliptical
+0001014,2,Branched
+0001014,3,Oblong
+0001014,6,Mixed
+0001015,1,Good
+0001015,2,Moderate
+0001015,3,Poor
+0001012,1,White
+0001012,4,Purple
+0001012,5,Amber
+0001012,2,Red
+0001012,3,Black
+0001012,6,Mixed
+0001016,1,No breakage
+0001016,4,40% plants with broken straw
+0001016,5,50% plants with broken straw
+0001016,2,20% plants with broken straw
+0001016,3,30% plants with broken straw
+0001016,8,80% plants with broken straw
+0001016,9,90% plants with broken straw
+0001016,6,60% plants with broken straw
+0001016,7,70% plants with broken straw
+0001012,1,White
+0001012,4,Purple
+0001012,5,Amber
+0001012,2,Red
+0001012,3,Black
+0001012,6,Mixed
+0001017,1,weak
+0001017,2,mid-strong
+0001017,3,strong
+0001018,0,No anther extrusion
+0001018,3,30% anther extrusion
+0001018,4,40% anther extrusion
+0001018,1,10% anther extrusion
+0001018,2,20% anther extrusion
+0001018,7,70% anther extrusion
+0001018,8,80% anther extrusion
+0001018,5,50% anther extrusion
+0001018,6,60% anther extrusion
+0001018,8,>90% anther extrusion
+0000606,I,"immune, no uredinia or other macroscopic sign of infection (0)"
+0000606,2,"moderately resistant, small to medium uredinia often surrounded by Chlorosis or necrosis, green island may be surrounded by chlorotic or necrotic border (2)"
+0000606,X,"heterogeneous, random distribution of variable-sized uredinia on single leaf (X)"
+0000606,",","nearly immune, no uredinia, but hypersensitive necrotic or chlorotic flecks present (,)"
+0000606,1,"very resistant, small uredinia surrounded by necrosis (1)"
+0000606,3,"moderately susceptible, medium-sized uredinia that may be associated with chlorosis (3)"
+0000606,4,"susceptible, large uredinia without chlorosis (4)"
+0000606,Y,"heterogeneous, ordered distribution of variable-sized uredinia, with larger uredinia at leaf tip (Y)"
+0000606,Z,"Heterogeneous, ordered distribution of variable-sized uredinia, with larger uredinia at leaf base (Z)"
+0001594,1,"unrolled, turgid"
+0001594,4,rolled leaf rim covers part of leaf blade
+0001594,5,leaf is severely rolled
+0001594,2,leaf rim starts to roll
+0001594,3,leaf has shape of a V
+0000462,1,very poor (VP)
+0000462,4,good (G)
+0000462,5,very good (VG)
+0000462,2,poor (P)
+0000462,3,fair (F)
+0500502,0,Absent
+0500502,1,Present
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0500517,1,A
+0500517,2,B
+0500517,3,C
+0500517,4,D
+0500517,5,E
+0500517,6,F
+0500520,1,Resistant
+0500520,2,No Description
+0500520,3,No Description
+0500520,4,No Description
+0500520,5,No Description
+0500520,6,No Description
+0500520,7,No Description
+0500520,8,No Description
+0500520,9,Susceptible
+0500508,0,0 to <1% leaf area affected on any leaf
+0500508,1,1-50% leaf area affected on 4th leaf
+0500508,2,1-5% leaf area affected on 3rd leaf
+0500508,3,5-15% leaf area affected on 3rd leaf
+0500508,4,>15% leaf area affected on 3rd leaf
+0500508,5,1-5% leaf area affected on 2nd leaf
+0500508,6,5-15% leaf area affected on 2nd leaf
+0500508,7,>15% leaf area affected on 2nd leaf
+0500508,8,1-5% leaf area affected on flag leaf
+0500508,9,5-15% leaf area affected on flag leaf
+0500508,10,>15% leaf area affected on flag leaf
+0500520,1,Resistant
+0500520,2,No Description
+0500520,3,No Description
+0500520,4,No Description
+0500520,5,No Description
+0500520,6,No Description
+0500520,7,No Description
+0500520,8,No Description
+0500520,9,Susceptible
+0500519,1,100% flag leaves full upright
+0500519,2,No Description
+0500519,3,No Description
+0500519,4,No Description
+0500519,5,No Description
+0500519,6,No Description
+0500519,7,No Description
+0500519,8,No Description
+0500519,9,100% flag leaves very lax
+0500506,0,no glaucousness
+0500506,1,No Description
+0500506,2,No Description
+0500506,3,No Description
+0500506,4,No Description
+0500506,5,No Description
+0500506,6,No Description
+0500506,7,No Description
+0500506,8,No Description
+0500506,9,No Description
+0500506,10,fully covered
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0500509,0,no injury
+0500509,1,minimal injury
+0500509,2,moderate injury
+0500509,3,maximum injury
+0500518,1,No glaucousness
+0500518,2,No Description
+0500518,3,No Description
+0500518,4,No Description
+0500518,5,No Description
+0500518,6,No Description
+0500518,7,No Description
+0500518,8,No Description
+0500518,9,Very dense
+0500502,0,Absent
+0500502,1,Present
+0500515,1,erect
+0500515,2,No Description
+0500515,3,No Description
+0500515,4,prostrate
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0500520,1,Resistant
+0500520,2,No Description
+0500520,3,No Description
+0500520,4,No Description
+0500520,5,No Description
+0500520,6,No Description
+0500520,7,No Description
+0500520,8,No Description
+0500520,9,Susceptible
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0500507,0,0%
+0500507,1,10%
+0500507,2,20%
+0500507,3,30%
+0500507,4,40%
+0500507,5,50%
+0500507,6,60%
+0500507,7,70%
+0500507,8,80%
+0500507,9,90%
+0500507,10,100%
+0500517,1,A
+0500517,2,B
+0500517,3,C
+0500517,4,D
+0500517,5,E
+0500517,6,F
+0500517,1,A
+0500517,2,B
+0500517,3,C
+0500517,4,D
+0500517,5,E
+0500517,6,F
+0500511,0,No glaucousness
+0500511,1,No Description
+0500511,2,No Description
+0500511,3,No Description
+0500511,4,Fully covered
+0500514,0,0
+0500514,1,1-
+0500514,2,1
+0500514,3,1+
+0500514,4,2-
+0500514,5,2
+0500514,6,2+
+0500514,7,3-
+0500514,8,3
+0500514,9,3+
+0500514,0,0
+0500514,1,1-
+0500514,2,1
+0500514,3,1+
+0500514,4,2-
+0500514,5,2
+0500514,6,2+
+0500514,7,3-
+0500514,8,3
+0500514,9,3+
+0500514,0,0
+0500514,1,1-
+0500514,2,1
+0500514,3,1+
+0500514,4,2-
+0500514,5,2
+0500514,6,2+
+0500514,7,3-
+0500514,8,3
+0500514,9,3+
+0500514,0,0
+0500514,1,1-
+0500514,2,1
+0500514,3,1+
+0500514,4,2-
+0500514,5,2
+0500514,6,2+
+0500514,7,3-
+0500514,8,3
+0500514,9,3+
+0500514,0,0
+0500514,1,1-
+0500514,2,1
+0500514,3,1+
+0500514,4,2-
+0500514,5,2
+0500514,6,2+
+0500514,7,3-
+0500514,8,3
+0500514,9,3+
+0500514,0,0
+0500514,1,1-
+0500514,2,1
+0500514,3,1+
+0500514,4,2-
+0500514,5,2
+0500514,6,2+
+0500514,7,3-
+0500514,8,3
+0500514,9,3+
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000450,0,absent
+0000450,3,sparse
+0000450,4,sparse to intermediate
+0000450,1,very sparse
+0000450,2,very sparse to sparse
+0000450,7,dense
+0000450,8,dense to very dense
+0000450,5,intermediate
+0000450,6,intermadiate to dense
+0000450,9,very dense
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0500510,0,No Description
+0500510,1,No Description
+0500510,2,No Description
+0500510,3,No Description
+0500510,4,No Description
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0500512,0,disease free
+0500512,1,No Description
+0500512,2,No Description
+0500512,3,No Description
+0500512,4,No Description
+0500512,5,severe disease symptoms
+0500513,0,resistant
+0500513,1,No Description
+0500513,2,No Description
+0500513,3,No Description
+0500513,4,No Description
+0500513,5,No Description
+0500513,6,No Description
+0500513,7,No Description
+0500513,8,No Description
+0500513,9,susceptible
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0000446,0,No visible affection
+0000446,3,30% coverage
+0000446,4,40% coverage
+0000446,1,10% coverage
+0000446,2,20% coverage
+0000446,7,70% coverage
+0000446,8,80% coverage
+0000446,5,50% coverage
+0000446,6,60% coverage
+0000446,9,90% coverage
+0500516,1,yellow/green
+0500516,2,No Description
+0500516,3,No Description
+0500516,4,No Description
+0500516,5,blue
+0500518,1,No glaucousness
+0500518,2,No Description
+0500518,3,No Description
+0500518,4,No Description
+0500518,5,No Description
+0500518,6,No Description
+0500518,7,No Description
+0500518,8,No Description
+0500518,9,Very dense
+0500502,0,Absent
+0500502,1,Present
+0500521,1,Very Thin
+0500521,2,No Description
+0500521,3,No Description
+0500521,4,No Description
+0500521,5,No Description
+0500521,6,No Description
+0500521,7,No Description
+0500521,8,No Description
+0500521,9,Maximal Thickness
+0500522,5,All 5 Stems Hollow
+0500522,6,No Description
+0500522,7,No Description
+0500522,8,No Description
+0500522,9,No Description
+0500522,10,No Description
+0500522,11,No Description
+0500522,12,No Description
+0500522,13,No Description
+0500522,14,No Description
+0500522,15,No Description
+0500522,16,No Description
+0500522,17,No Description
+0500522,18,No Description
+0500522,19,No Description
+0500522,20,No Description
+0500522,21,No Description
+0500522,22,No Description
+0500522,23,No Description
+0500522,24,No Description
+0500522,25,All 5 Stems Solid
+1030002,1,weak extrusion
+1030002,5,strong extrusion
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030006,1,Resistant
+1030006,9,susceptible
+1030102,2,resistant
+1030102,3,intermediate
+1030102,5,sensitive
+1030102,2,resistant
+1030102,3,intermediate
+1030102,5,sensitive
+1030006,1,Resistant
+1030006,9,susceptible

@@ -1,0 +1,824 @@
+id,name,class,decimal,upper,lower
+0000805,g/m2,NumericalScale,0.0,0.0,100.0
+0000804,kg/ha,NumericalScale,0.0,0.0,20000.0
+0000432,t/ha,NumericalScale,2.0,0.0,20.0
+0001431,g/plant,NumericalScale,1.0,0.0,0.0
+0000412,g/plot,NumericalScale,1.0,0.0,12000.0
+0000806,kg/plot,NumericalScale,3.0,1.0,6.0
+0000464,1-5 TOL scale,OrdinalScale,1.0,0.0,0.0
+0000885,0-9 scoring scale,OrdinalScale,1.0,0.0,0.0
+0000884,1-9 scoring scale,OrdinalScale,1.0,0.0,0.0
+0000462,1-5 scoring scale,OrdinalScale,1.0,0.0,0.0
+0000471,1-8 generic disease field response scale,OrdinalScale,1.0,0.0,0.0
+0000468,1-9 TOL scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000465,1-9 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000753,0-12 Modified Cobb Scale,OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000468,1-9 TOL scale,OrdinalScale,1.0,0.0,0.0
+0000462,1-5 scoring scale,OrdinalScale,1.0,0.0,0.0
+0000427,ml,NumericalScale,1.0,4.0,25.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000462,1-5 scoring scale,OrdinalScale,1.0,0.0,0.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000414,%,NumericalScale,1.0,0.0,100.0
+0000414,%,NumericalScale,1.0,0.0,100.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000464,1-5 TOL scale,OrdinalScale,1.0,0.0,0.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000420,g/m2/day,NumericalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000422,joules,NumericalScale,0.0,25.0,350.0
+0000426,min,DurationScale,1.0,0.4,8.0
+0000413,%/min,NumericalScale,1.0,0.0,0.0
+0000866,1-6 MIXTYP scale,NominalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000464,1-5 TOL scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000471,1-8 generic disease field response scale,OrdinalScale,1.0,0.0,0.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000419,cm2,NumericalScale,1.0,0.0,60.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000471,1-8 generic disease field response scale,OrdinalScale,1.0,0.0,0.0
+0000416,a value,NumericalScale,1.0,0.0,0.0
+0000417,b value,NumericalScale,1.0,0.0,0.0
+0000424,L value,NumericalScale,1.0,0.0,0.0
+0000430,s,DurationScale,0.0,60.0,1000.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000472,1-5 GLUTYP scale,OrdinalScale,0.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000427,ml,NumericalScale,1.0,4.0,25.0
+0000631,ml/%,NumericalScale,1.0,0.0,0.0
+0000858,1-3 FLRYELLCLS scale,NominalScale,0.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000449,0-9 DAMAGE scale,OrdinalScale,1.0,0.0,0.0
+0000794,0-9 DAMAGE scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000465,1-9 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000774,0-5 FHB field response scale,OrdinalScale,1.0,0.0,0.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000774,0-5 FHB field response scale,OrdinalScale,1.0,0.0,0.0
+0000471,1-8 generic disease field response scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000439,spikelet,NumericalScale,1.0,0.0,100.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000451,1-3 GLMCOL scale,NominalScale,0.0,0.0,0.0
+0000450,0-9 density scale,OrdinalScale,1.0,0.0,0.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000450,0-9 density scale,OrdinalScale,1.0,0.0,0.0
+0000415,µm,NumericalScale,0.0,0.1,0.5
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000824,0-9 GRNAPP scale,OrdinalScale,1.0,0.0,0.0
+0000825,0-9 GRNAPP scale + text,TextScale,1.0,0.0,0.0
+0000433,delta 13C,NumericalScale,2.0,0.0,0.0
+0000452,1-3 GRNCOL scale,NominalScale,0.0,0.0,0.0
+0000416,a value,NumericalScale,1.0,0.0,0.0
+0000417,b value,NumericalScale,1.0,0.0,0.0
+0000424,L value,NumericalScale,1.0,0.0,0.0
+0000826,1-5 GRNCOL scale,NominalScale,0.0,0.0,0.0
+0000469,1-9 USETYP scale,NominalScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000453,1-3 HRDCLS scale,OrdinalScale,0.0,0.0,0.0
+0000862,1-4 HRDCLS scale,OrdinalScale,0.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000459,1-5 HRDCLS scale,OrdinalScale,0.0,0.0,0.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000865,mg/kg,NumericalScale,2.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000392,grain/m2,NumericalScale,0.0,1000.0,50000.0
+0000435,grain/spike,NumericalScale,1.0,10.0,300.0
+0000436,grain/spikelet,NumericalScale,1.0,1.0,30.0
+0000865,mg/kg,NumericalScale,2.0,0.0,0.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000474,1-3 GRNPLUMP scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000455,1-3 SIZE scale,OrdinalScale,1.0,0.0,0.0
+0000867,g/l,NumericalScale,1.0,0.0,0.0
+0000423,kg/hl,NumericalScale,1.0,37.0,87.0
+0000454,1-3 SEDVTR scale,OrdinalScale,0.0,0.0,0.0
+0001033,g/1000 grain,NumericalScale,1.0,20.0,70.0
+0001432,g/100 grain,NumericalScale,1.0,0.0,0.0
+0001433,g/200 grain,NumericalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000805,g/m2,NumericalScale,0.0,0.0,100.0
+0000804,kg/ha,NumericalScale,0.0,0.0,20000.0
+0000432,t/ha,NumericalScale,2.0,0.0,20.0
+0001431,g/plant,NumericalScale,1.0,0.0,0.0
+0000412,g/plot,NumericalScale,1.0,0.0,12000.0
+0000806,kg/plot,NumericalScale,3.0,1.0,6.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000896,num,NumericalScale,0.0,0.0,0.0
+0000865,mg/kg,NumericalScale,2.0,0.0,0.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000851,1-3 GROWTHCLS scale,NominalScale,0.0,0.0,0.0
+0000476,Zadoks or decimal code (00-99),OrdinalScale,0.0,0.0,0.0
+0000449,0-9 DAMAGE scale,OrdinalScale,1.0,0.0,0.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000855,Julian date (JD),TimeScale,0.0,0.0,0.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000460,1-5 Phenological relative scale,OrdinalScale,0.0,0.0,0.0
+0000464,1-5 TOL scale,OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000789,1-9 disease scale,OrdinalScale,1.0,0.0,0.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000802,infertile tiller/m,NumericalScale,0.0,0.0,0.0
+0000803,infertile tiller/m2,NumericalScale,0.0,0.0,0.0
+0000805,g/m2,NumericalScale,0.0,0.0,100.0
+0000804,kg/ha,NumericalScale,0.0,0.0,20000.0
+0000432,t/ha,NumericalScale,2.0,0.0,20.0
+0000412,g/plot,NumericalScale,1.0,0.0,12000.0
+0000806,kg/plot,NumericalScale,3.0,1.0,6.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000433,delta 13C,NumericalScale,2.0,0.0,0.0
+0000418,CCI,NumericalScale,1.0,10.0,75.0
+0000450,0-9 density scale,OrdinalScale,1.0,0.0,0.0
+0000827,1-5 density scale,OrdinalScale,1.0,0.0,0.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000450,0-9 density scale,OrdinalScale,1.0,0.0,0.0
+0000415,µm,NumericalScale,0.0,0.1,0.5
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000465,1-9 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000877,9-1 PRECO scale,OrdinalScale,1.0,0.0,0.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000768,0-4 PRECO scale,OrdinalScale,1.0,0.0,0.0
+0000773,1-4 PRECO scale,OrdinalScale,1.0,0.0,0.0
+0000473,1-8 rust field response scale,OrdinalScale,1.0,0.0,0.0
+0000606,0-8 Rust infection type,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000753,0-12 Modified Cobb Scale,OrdinalScale,1.0,0.0,0.0
+0000429,mmol/m2/s,NumericalScale,0.0,0.0,0.0
+0000442,stoma/mm2,NumericalScale,1.0,0.0,0.0
+0000431,s/m,NumericalScale,1.0,0.0,200.0
+0000415,µm,NumericalScale,0.0,0.1,0.5
+0000415,µm,NumericalScale,0.0,0.1,0.5
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000807,0-5 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000465,1-9 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000465,1-9 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000856,1-6 Phenological relative scale,OrdinalScale,0.0,0.0,0.0
+0000855,Julian date (JD),TimeScale,0.0,0.0,0.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000460,1-5 Phenological relative scale,OrdinalScale,0.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000437,node,NumericalScale,1.0,1.0,15.0
+0000450,0-9 density scale,OrdinalScale,1.0,0.0,0.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000450,0-9 density scale,OrdinalScale,1.0,0.0,0.0
+0000462,1-5 scoring scale,OrdinalScale,1.0,0.0,0.0
+0000458,1-5 GHABIT scale,OrdinalScale,1.0,0.0,0.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000813,m,NumericalScale,2.0,0.0,2.5
+0000461,1-5 RELTPH scale,OrdinalScale,0.0,0.0,0.0
+0000599,0-1 absent-present,NominalScale,0.0,0.0,0.0
+0000857,1-9 PHOTORESP scale,OrdinalScale,1.0,0.0,0.0
+0000814,plant/ha,NumericalScale,0.0,0.0,0.0
+0000817,plant/m2,NumericalScale,0.0,0.0,0.0
+0000815,plant/m,NumericalScale,0.0,0.0,0.0
+0000816,plant/plot,NumericalScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000462,1-5 scoring scale,OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000782,0-5 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000788,1-5 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000465,1-9 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000790,9-1 disease scale,OrdinalScale,1.0,0.0,0.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000468,1-9 TOL scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000417,b value,NumericalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000789,1-9 disease scale,OrdinalScale,1.0,0.0,0.0
+0000790,9-1 disease scale,OrdinalScale,1.0,0.0,0.0
+0000735,0-5 Septoria Response scale,OrdinalScale,1.0,0.0,0.0
+0000729,1-5 Septoria response scale,OrdinalScale,1.0,0.0,0.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000789,1-9 disease scale,OrdinalScale,1.0,0.0,0.0
+0000790,9-1 disease scale,OrdinalScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000789,1-9 disease scale,OrdinalScale,1.0,0.0,0.0
+0000790,9-1 disease scale,OrdinalScale,1.0,0.0,0.0
+0000735,0-5 Septoria Response scale,OrdinalScale,1.0,0.0,0.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000742,0-9 RCERE scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000471,1-8 generic disease field response scale,OrdinalScale,1.0,0.0,0.0
+0000447,0-9 AWNS scale,OrdinalScale,1.0,0.0,0.0
+0000467,1-9 SPKDEN scale,OrdinalScale,1.0,1.0,9.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000441,spike/m2,NumericalScale,0.0,0.0,1000.0
+0000818,spike/m,NumericalScale,0.0,10.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000828,1-9 general scale,OrdinalScale,1.0,0.0,0.0
+0000440,spikelet/spike,NumericalScale,1.0,1.0,50.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000789,1-9 disease scale,OrdinalScale,1.0,0.0,0.0
+0000790,9-1 disease scale,OrdinalScale,1.0,0.0,0.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000468,1-9 TOL scale,OrdinalScale,1.0,0.0,0.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000473,1-8 rust field response scale,OrdinalScale,1.0,0.0,0.0
+0000606,0-8 Rust infection type,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000753,0-12 Modified Cobb Scale,OrdinalScale,1.0,0.0,0.0
+0000456,1-3 STMSOL scale,OrdinalScale,1.0,0.0,0.0
+0000828,1-9 general scale,OrdinalScale,1.0,0.0,0.0
+0000415,µm,NumericalScale,0.0,0.1,0.5
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000819,0-6 Sterility scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000465,1-9 incidence scale,OrdinalScale,1.0,0.0,0.0
+0000443,text,TextScale,0.0,0.0,0.0
+0000466,0-9 Mc Neal scale,OrdinalScale,1.0,0.0,0.0
+0000473,1-8 rust field response scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000753,0-12 Modified Cobb Scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000727,0-9 percentage scale + text,TextScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000463,1-5 TANSPOT field response scale,OrdinalScale,1.0,0.0,0.0
+0000445,0-5 TANSPOT field response scale,OrdinalScale,1.0,0.0,0.0
+0000728,Double digit (00-99) + text,TextScale,1.0,0.0,0.0
+0000470,Double digit (00-99),OrdinalScale,1.0,0.0,0.0
+0000850,yyyymmdd,TimeScale,0.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000820,tiller/m,NumericalScale,0.0,0.0,1000.0
+0000821,tiller/m2,NumericalScale,0.0,0.0,10000.0
+0000444,tiller/plant,NumericalScale,1.0,0.0,0.0
+0000462,1-5 scoring scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000599,0-1 absent-present,NominalScale,0.0,0.0,0.0
+0000449,0-9 DAMAGE scale,OrdinalScale,1.0,0.0,0.0
+0000416,a value,NumericalScale,1.0,0.0,0.0
+0000417,b value,NumericalScale,1.0,0.0,0.0
+0000424,L value,NumericalScale,1.0,0.0,0.0
+0000430,s,DurationScale,0.0,60.0,1000.0
+0000427,ml,NumericalScale,1.0,4.0,25.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000449,0-9 DAMAGE scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000457,1-5 DMG scale,OrdinalScale,1.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000414,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0001012,1-6 COLOR scale,NominalScale,1.0,0.0,0.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0001014,1-6 SPKTYPE scale,OrdinalScale,1.0,0.0,0.0
+0001015,1-3 STDEST scale,OrdinalScale,1.0,0.0,0.0
+0001012,1-6 COLOR scale,NominalScale,1.0,0.0,0.0
+0001016,1-9 STRAWBREAK scale,OrdinalScale,1.0,0.0,0.0
+0001012,1-6 COLOR scale,NominalScale,1.0,0.0,0.0
+0001017,1-3 STRAWStrength,OrdinalScale,1.0,0.0,0.0
+0000432,t/ha,NumericalScale,2.0,0.0,20.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0001018,0-9 AnthExt,OrdinalScale,1.0,0.0,0.0
+0000440,spikelet/spike,NumericalScale,1.0,1.0,50.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000420,g/m2/day,NumericalScale,1.0,0.0,0.0
+0000441,spike/m2,NumericalScale,0.0,0.0,1000.0
+0000420,g/m2/day,NumericalScale,1.0,0.0,0.0
+0000420,g/m2/day,NumericalScale,1.0,0.0,0.0
+0001587,°C day,NumericalScale,1.0,0.0,2000.0
+0001587,°C day,NumericalScale,1.0,0.0,2000.0
+0001587,°C day,NumericalScale,1.0,0.0,2000.0
+0001587,°C day,NumericalScale,1.0,0.0,2000.0
+0001587,°C day,NumericalScale,1.0,0.0,2000.0
+0001587,°C day,NumericalScale,1.0,0.0,2000.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000805,g/m2,NumericalScale,0.0,0.0,100.0
+0001588,µmol CO2/m2/s,NumericalScale,2.0,-5.0,60.0
+0001588,µmol CO2/m2/s,NumericalScale,2.0,-5.0,60.0
+0001588,µmol CO2/m2/s,NumericalScale,2.0,-5.0,60.0
+0001589,µmol CO2/mol,NumericalScale,2.0,0.0,500.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0001590,?mol/m2/s,NumericalScale,1.0,0.0,500.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0001591,mmol H2O/m2/s,NumericalScale,2.0,0.0,100.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0001592,g/MJ,NumericalScale,2.0,0.0,10.0
+0001592,g/MJ,NumericalScale,2.0,0.0,10.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000421,index,NumericalScale,0.0,0.0,1000.0
+0000805,g/m2,NumericalScale,0.0,0.0,100.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0001593,g,NumericalScale,1.0,0.0,0.0
+0000606,0-8 Rust infection type,OrdinalScale,1.0,0.0,0.0
+0001594,1-5 LRoll scale,OrdinalScale,0.0,0.0,0.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000462,1-5 scoring scale,OrdinalScale,1.0,0.0,0.0
+0001656,grains/tiller,NumericalScale,1.0,0.0,0.0
+0001593,g,NumericalScale,1.0,0.0,0.0
+0000855,Julian date (JD),TimeScale,0.0,0.0,0.0
+0500502,0-1 Absence/Presence,OrdinalScale,1.0,0.0,1.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0500517,1-6 Grade Rating,OrdinalScale,1.0,1.0,6.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0500520,1-9 response scale,OrdinalScale,1.0,1.0,9.0
+0500523,degrees C,NumericalScale,1.0,0.0,0.0
+0500523,degrees C,NumericalScale,1.0,0.0,0.0
+0500523,degrees C,NumericalScale,1.0,0.0,0.0
+0500523,degrees C,NumericalScale,1.0,0.0,0.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0500501,-1 to 1 standard deviations,NumericalScale,1.0,-1.0,1.0
+0500527,spad,NumericalScale,1.0,0.0,0.0
+0500508,0-10 response scale,OrdinalScale,1.0,0.0,10.0
+0000440,spikelet/spike,NumericalScale,1.0,1.0,50.0
+0500520,1-9 response scale,OrdinalScale,1.0,1.0,9.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0500519,1-9 Leaf Angle Rating,OrdinalScale,1.0,1.0,9.0
+0500527,spad,NumericalScale,1.0,0.0,0.0
+0500506,0-10 Glaucousness Rating,OrdinalScale,1.0,0.0,10.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0000411,cm,NumericalScale,1.0,5.0,90.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000434,day,DurationScale,0.0,40.0,240.0
+0500501,-1 to 1 standard deviations,NumericalScale,1.0,-1.0,1.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000804,kg/ha,NumericalScale,0.0,0.0,20000.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0500509,0-3 injury scale,OrdinalScale,1.0,0.0,3.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0500526,skcs index,NumericalScale,1.0,0.0,0.0
+0500518,1-9 Glaucousness Rating,OrdinalScale,1.0,1.0,9.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0500502,0-1 Absence/Presence,OrdinalScale,1.0,0.0,1.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0500524,grain,NumericalScale,1.0,0.0,0.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0500515,1-4 Growth Habit Rating,OrdinalScale,1.0,1.0,4.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0001593,g,NumericalScale,1.0,0.0,0.0
+0500525,mg,NumericalScale,1.0,0.0,0.0
+0000804,kg/ha,NumericalScale,0.0,0.0,20000.0
+0001593,g,NumericalScale,1.0,0.0,0.0
+0000428,mm,NumericalScale,1.0,2.0,40.0
+0001033,g/1000 grain,NumericalScale,1.0,20.0,70.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0500520,1-9 response scale,OrdinalScale,1.0,1.0,9.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0500507,0-10 Rating,OrdinalScale,1.0,0.0,10.0
+0500501,-1 to 1 standard deviations,NumericalScale,1.0,-1.0,1.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000855,Julian date (JD),TimeScale,0.0,0.0,0.0
+0000855,Julian date (JD),TimeScale,0.0,0.0,0.0
+0500517,1-6 Grade Rating,OrdinalScale,1.0,1.0,6.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0500517,1-6 Grade Rating,OrdinalScale,1.0,1.0,6.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0001593,g,NumericalScale,1.0,0.0,0.0
+0000425,ppm,NumericalScale,1.0,1.0,15.0
+0500511,0-4 Glaucousness Rating,OrdinalScale,1.0,0.0,4.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0500514,0-9 Stakman Scale Rating,OrdinalScale,1.0,0.0,9.0
+0500514,0-9 Stakman Scale Rating,OrdinalScale,1.0,0.0,9.0
+0500514,0-9 Stakman Scale Rating,OrdinalScale,1.0,0.0,9.0
+0500514,0-9 Stakman Scale Rating,OrdinalScale,1.0,0.0,9.0
+0500514,0-9 Stakman Scale Rating,OrdinalScale,1.0,0.0,9.0
+0500514,0-9 Stakman Scale Rating,OrdinalScale,1.0,0.0,9.0
+0500504,0-1 Rating,NumericalScale,1.0,0.0,1.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000450,0-9 density scale,OrdinalScale,1.0,0.0,0.0
+0500503,0-1 Absorbance Units,NumericalScale,1.0,0.0,1.0
+0500505,0-1 response,NumericalScale,1.0,0.0,1.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0500510,0-4 disease rating with qualifiers,OrdinalScale,0.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0500512,0-5 Rating,OrdinalScale,1.0,0.0,5.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0500513,0-9 Response Scale,OrdinalScale,1.0,0.0,9.0
+0500501,-1 to 1 standard deviations,NumericalScale,1.0,-1.0,1.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0000446,0-9 percentage scale,OrdinalScale,1.0,0.0,0.0
+0500516,1-5 Color Rating,OrdinalScale,1.0,1.0,5.0
+0001593,g,NumericalScale,1.0,0.0,0.0
+0500518,1-9 Glaucousness Rating,OrdinalScale,1.0,1.0,9.0
+0500502,0-1 Absence/Presence,OrdinalScale,1.0,0.0,1.0
+0500501,-1 to 1 standard deviations,NumericalScale,1.0,-1.0,1.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0500521,1-9 Thickness Rating,OrdinalScale,1.0,1.0,9.0
+0500522,5-25 5 Stem Solidness Rating,OrdinalScale,1.0,5.0,25.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000410,%,NumericalScale,1.0,0.0,100.0
+0000283,kg/ha,NumericalScale,0.0,0.0,0.0
+1030002,1 to 5 note,OrdinalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030003,g/m_,NumericalScale,0.0,0.0,0.0
+1030003,g/m_,NumericalScale,0.0,0.0,0.0
+1030005,B-NB,NumericalScale,0.0,0.0,0.0
+1030003,g/m_,NumericalScale,0.0,0.0,0.0
+1030013,dd,DurationScale,0.0,0.0,0.0
+1030013,dd,DurationScale,0.0,0.0,0.0
+1030007,jj/mm/aa ,TimeScale,0.0,0.0,0.0
+1030008,jj/mm/aa,TimeScale,0.0,0.0,0.0
+1030008,jj/mm/aa,TimeScale,0.0,0.0,0.0
+1030008,jj/mm/aa,TimeScale,0.0,0.0,0.0
+1030012,d,DurationScale,0.0,0.0,0.0
+1030013,dd,DurationScale,0.0,0.0,0.0
+1030008,jj/mm/aa,TimeScale,0.0,0.0,0.0
+1030012,d,DurationScale,0.0,0.0,0.0
+1030008,jj/mm/aa ,TimeScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030012,d,DurationScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030003,g/m_,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000283,kg/ha,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+1030010,g,NumericalScale,0.0,0.0,0.0
+1030011, q/ha,NumericalScale,0.0,0.0,0.0
+1030011, q/ha,NumericalScale,0.0,0.0,0.0
+1030010,g,NumericalScale,0.0,0.0,0.0
+0000080,m_,NumericalScale,0.0,0.0,0.0
+1030017,mm,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030008,jj/mm/aa,DateScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030012,d,DurationScale,0.0,0.0,0.0
+1030013,dd,DurationScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030008,jj/mm/aa ,TimeScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030003,g/m_,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000283,kg/ha,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000283,kg/ha,NumericalScale,0.0,0.0,0.0
+0000189,count unit,NumericalScale,0.0,0.0,0.0
+0000283,kg/ha,NumericalScale,0.0,0.0,0.0
+0000283,kg/ha,NumericalScale,0.0,0.0,0.0
+1030003,g/m_,NumericalScale,0.0,0.0,0.0
+1030014,kg biomasse/kg d'N,NumericalScale,0.0,0.0,0.0
+1030099,%/Kg,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030014,kg biomasse/kg d'N,NumericalScale,0.0,0.0,0.0
+1030015,% de proteines/kg N/ha,NumericalScale,0.0,0.0,0.0
+1030016,mm_,NumericalScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+1030017,mm,NumericalScale,0.0,0.0,0.0
+1030017,mm,NumericalScale,0.0,0.0,0.0
+1030017,mm,NumericalScale,0.0,0.0,0.0
+1030018,plants/m_,NumericalScale,0.0,0.0,0.0
+1030018,plants/m_,NumericalScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+0000283,kg/ha,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+1030012,d ,DurationScale,0.0,0.0,0.0
+0000009,kg,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030019,kg/hl,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030010,g,NumericalScale,0.0,0.0,0.0
+1030010,g,NumericalScale,0.0,0.0,0.0
+1030010,g,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+1030020,°C,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+1030010,g,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030022,surface verte globale du couvert note de 1 a 10,OrdinalScale,0.0,1.0,10.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000015,cm,NumericalScale,0.0,0.0,0.0
+1030012,d,DurationScale,0.0,0.0,0.0
+1030100,kg/hl,nanScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0
+0000098,ml,NumericalScale,0.0,0.0,0.0
+0000190,ratio,NumericalScale,0.0,0.0,0.0
+0000098,ml,NumericalScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030101,mn,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030102,Scale from 2 to 5,OrdinalScale,0.0,0.0,0.0
+1030102,Scale from 2 to 5,OrdinalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+0000187,%,NumericalScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030109,N.A,nanScale,0.0,0.0,0.0
+1030006,1 to 9 note,OrdinalScale,0.0,1.0,9.0

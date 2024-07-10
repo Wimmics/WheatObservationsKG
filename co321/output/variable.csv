@@ -1,0 +1,824 @@
+id,name,context,stage,xref,date,trait,method,scale
+0001034,BM_Calc_gm2,Trial evaluation,After physiological maturity (DS87),BMS_29020,25/10/2015,0000005,0001027,0000805
+0001035,BM_Calc_kgha,Trial evaluation,After physiological maturity (DS87),BMS_29022,25/10/2015,0000005,0001027,0000804
+0001036,BM_Calc_tha,Trial evaluation,After physiological maturity (DS87),BMS_18010,23/09/2014,0000005,0001027,0000432
+0001037,BM_M_gPlnt,Trial evaluation,After physiological maturity (DS87),BMS_29903,25/10/2015,0000005,0000229,0001431
+0001038,BM_M_gPlot,Trial evaluation,After physiological maturity (DS87),BMS_22668,25/10/2015,0000005,0000229,0000412
+0001039,BM_M_kgPlot,Trial evaluation,After physiological maturity (DS87),BMS_22669,25/10/2015,0000005,0000229,0000806
+0001040,AcdTol_E_1to5,Trial evaluation,DS15-DS65,BMS_29004,23/09/2014,0000078,0000299,0000464
+0001041,AgrScr_E_0to9,Nursery/Trial evaluation,Generally DS69-DS81,BMS_23052,25/10/2015,0000162,0000351,0000885
+0001042,AgrScr_E_1to9,Nursery/Trial evaluation,Generally DS69-DS81,BMS_23051,25/10/2015,0000162,0000351,0000884
+0001043,AgrScr_E_1to5,Nursery/Trial evaluation,Generally DS69-DS81,BMS_23050,21/12/2018,0000162,0000351,0000462
+0001044,AtritResp_E_1to8,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29015,23/09/2014,0000082,0000304,0000471
+0001045,AlTol_E_1to9,Nursery/Trial evaluation,DS15-DS65,BMS_29005,23/09/2014,0000079,0000300,0000468
+0001046,AntDmg_E_pct,Trial evaluation,After the event,BMS_29013,23/09/2014,0000084,0000305,0000410
+0001047,Ant_date_ymd,Trial evaluation,Flowering half complete (DS65),BMS_29012,25/10/2015,0000121,0000832,0000850
+0001048,Ant_dto_day,Trial evaluation,Flowering half complete (DS65),BMS_22674,23/09/2014,0000121,0000336,0000434
+0001049,AphDmg_E_pct,Trial evaluation,After the event,BMS_22924,25/10/2015,0000085,0000306,0000410
+0001050,AphDmg_E_1to5,Trial evaluation,After the event,BMS_23208,23/09/2014,0000085,0000306,0000457
+0001051,ArmyWDmg_E_pct,Trial evaluation,After the event,BMS_29014,23/09/2014,0000086,0000307,0000410
+0001052,AwnLng_M_cm,Trial evaluation,DS75-DS89,BMS_29018,23/09/2014,0000026,0000247,0000411
+0001053,BLBInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22827,25/10/2015,0000931,0000346,0000727
+0001054,BLBSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22826,23/09/2014,0000932,0000690,0000470
+0001055,BLSSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29019,23/09/2014,0001019,0000690,0000470
+0001056,HgramInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22835,25/10/2015,0000933,0000691,0000727
+0001057,HgramInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22836,25/10/2015,0000933,0000691,0000410
+0001058,HgramInc_E_0to9pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22834,25/10/2015,0000933,0000691,0000446
+0001059,PhordCI_Calc_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23042,25/10/2015,0000692,0001026,0000410
+0001060,PhordInc_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23044,25/10/2015,0000935,0000648,0000465
+0001061,PhordSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29135,25/10/2015,0000647,0000693,0000410
+0001062,PhordSev_E_0to12,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23043,25/10/2015,0000647,0000324,0000753
+0001063,RsecaInc_E_0to9pcttext,Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22812,25/10/2015,0000936,0000372,0000727
+0001064,RSecaSev_E_00to99text,Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22813,25/10/2015,0000710,0000690,0000728
+0001065,RsecaSev_E_00to99,Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22811,23/09/2014,0000710,0000690,0000470
+0001066,BSMV_E_0to9pct,Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_29025,23/09/2014,0000095,0000315,0000446
+0001067,BYDInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22848,25/10/2015,0000096,0000316,0000727
+0001068,BYDInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22849,25/10/2015,0000096,0000316,0000410
+0001069,BYDInc_E_0to9pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22847,21/12/2018,0000096,0000316,0000446
+0001070,BirdDmg_E_pct,Trial evaluation,After the event,BMS_22921,25/10/2015,0000087,0000308,0000410
+0001071,BirdDmg_E_1to5,Trial evaluation,After the event,BMS_22715,23/09/2014,0000087,0000308,0000457
+0001072,BlkPtInc_E_pct,Trial evaluation,After harvest (From DS87),BMS_22846,25/10/2015,0000097,0000694,0000410
+0001073,BlkPtInc_E_0to9pct,Trial evaluation,After harvest (From DS87),BMS_22844,25/10/2015,0000097,0000694,0000446
+0001074,Boot_date_ymd,Research-intensive characterization,Boot swollen (DS45),BMS_29023,25/10/2015,0000191,0000833,0000850
+0001075,Boot_dateInit_ymd,Research-intensive characterization,DS39-DS41,BMS_29100,25/10/2015,0000191,0000841,0000850
+0001076,Boot_dto_day,Research-intensive characterization,Boot swollen (DS45),BMS_29037,23/09/2014,0000191,0000376,0000434
+0001077,Boot_dtoInit_day,Research-intensive characterization,DS39-DS41,BMS_29041,23/09/2014,0000191,0000379,0000434
+0001078,BTol_E_1to9,Nursery/Trial evaluation,DS15-DS65,BMS_29024,25/10/2015,0000678,0000792,0000468
+0001079,CrmStr_E_1to5,Trial evaluation,After harvest (From DS87),BMS_29030,23/09/2014,0000065,0000287,0000462
+0001080,LofVol_M_ml,Trial evaluation,After harvest (From DS87),BMS_23219,23/09/2014,0000124,0000338,0000427
+0001081,NDVI_M_Idx,Nursery/Trial evaluation,DS10-DS85,BMS_29122,21/12/2018,0000301,0000364,0000421
+0001082,NPQI_M_Idx,Trial evaluation,DS10-DS85,BMS_29124,23/09/2014,0000197,0000364,0000421
+0001083,NWI1_M_Idx,Trial evaluation,DS10-DS85,BMS_29125,23/09/2014,0000198,0000364,0000421
+0001084,NWI2_M_Idx,Trial evaluation,DS10-DS85,BMS_29126,23/09/2014,0000199,0000364,0000421
+0001085,NWI3_M_Idx,Trial evaluation,DS10-DS85,BMS_29127,21/12/2018,0000200,0000364,0000421
+0001086,NWI4_M_Idx,Trial evaluation,DS10-DS85,BMS_29128,23/09/2014,0000201,0000364,0000421
+0001087,PRI_M_Idx,Trial evaluation,DS10-DS85,BMS_29145,23/09/2014,0000202,0000364,0000421
+0001088,RARSc_M_Idx,Trial evaluation,DS10-DS85,BMS_29153,23/09/2014,0000203,0000364,0000421
+0001089,RARSa_M_Idx,Trial evaluation,DS10-DS85,BMS_29151,23/09/2014,0000204,0000364,0000421
+0001090,RARSb_M_Idx,Trial evaluation,DS10-DS85,BMS_29152,23/09/2014,0000205,0000364,0000421
+0001091,SR_M_Idx,Trial evaluation,DS10-DS85,BMS_29174,23/09/2014,0000206,0000364,0000421
+0001092,StayGreen_E_1to5,Research-intensive characterization,DS15-DS91,BMS_23225,23/09/2014,0000059,0000280,0000462
+0001093,SIPI_M_Idx,Trial evaluation,DS10-DS85,BMS_29170,23/09/2014,0000208,0000364,0000421
+0001094,CT_M_C,Nursery/Trial evaluation,DS24-DS81,BMS_29032,23/09/2014,0000193,0000381,0000414
+0001095,CTD_Calc_C,Nursery/Trial evaluation,Pre-heading and during grain-filling,BMS_23015,23/09/2014,0000006,0000230,0000414
+0001096,WI_M_Idx,Trial evaluation,DS10-DS85,BMS_29204,23/09/2014,0000209,0000364,0000421
+0001097,ColdTol_E_pct,Nursery/Trial evaluation,After the event,BMS_23207,25/10/2015,0000080,0000302,0000410
+0001098,ColdTol_E_1to5,Nursery/Trial evaluation,After the event,BMS_29027,23/09/2014,0000080,0000302,0000464
+0001099,ColeopLng_M_cm,Research-intensive characterization,DS09-DS10,BMS_29028,23/09/2014,0000029,0000250,0000411
+0001100,TilSpSpkInc_E_pct,Nursery/Trial evaluation,From DS85,BMS_23228,21/12/2018,0000281,0000363,0000410
+0001101,RootRot_E_0to9pct,Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_29160,21/12/2018,0000649,0000695,0000446
+0001102,CookSdF_M_Idx,Trial evaluation,After harvest (From DS87),BMS_29026,23/09/2014,0000064,0000286,0000421
+0001103,GrndCov_GS15_pct,Research-intensive characterization,DS15,BMS_29079,23/09/2014,0000014,0000237,0000410
+0001104,GrndCov_M_pct,Trial evaluation,DS10-DS35,BMS_29078,23/09/2014,0000014,0000405,0000410
+0001105,CropGrwRate_Calc_gm2day,Research-intensive characterization,DS05-DS89,BMS_29031,23/09/2014,0000407,0000408,0000420
+0001106,HavenDmg_E_pct,Trial evaluation,,BMS_29093,23/09/2014,0000111,0000327,0000410
+0001107,DRidge_date_ymd,Research-intensive characterization,DS14-DS15 approx.,BMS_29034,25/10/2015,0000182,0000834,0000850
+0001108,DRidge_dto_day,Research-intensive characterization,DS14-DS15 approx.,BMS_29038,23/09/2014,0000182,0000377,0000434
+0001109,AlvIe_Calc_pct,Trial evaluation,After harvest (From DS87),BMS_29006,23/09/2014,0000210,0000385,0000410
+0001110,AlvPG_Calc_Idx,Trial evaluation,After harvest (From DS87),BMS_29009,23/09/2014,0000395,0000385,0000421
+0001111,AlvPL_Calc_Idx,Trial evaluation,After harvest (From DS87),BMS_29010,23/09/2014,0000145,0000385,0000421
+0001112,AlvG_M_mm,Trial evaluation,After harvest (From DS87),BMS_29017,23/09/2014,0000211,0000385,0000428
+0001113,AlvL_M_mm,Trial evaluation,After harvest (From DS87),BMS_29007,23/09/2014,0000212,0000385,0000428
+0001114,AlvP_M_mm,Trial evaluation,After harvest (From DS87),BMS_29008,23/09/2014,0000213,0000385,0000428
+0001115,AlvW_M_joules,Trial evaluation,After harvest (From DS87),BMS_29011,23/09/2014,0000144,0000385,0000422
+0001116,MixTim_M_min,Trial evaluation,After harvest (From DS87),BMS_29118,21/12/2018,0000149,0000389,0000426
+0001117,MixTq_M_pctmin,Trial evaluation,After harvest (From DS87),BMS_29119,23/09/2014,0000225,0000389,0000413
+0001118,MixTyp_E_1to6,Trial evaluation,After harvest (From DS87),BMS_29120,23/09/2014,0000228,0000389,0000866
+0001119,DroughtTol_E_pct,Nursery/Trial evaluation,After the event,BMS_29036,23/09/2014,0000131,0000275,0000410
+0001120,DroughtTol_E_1to5,Nursery/Trial evaluation,After the event,BMS_29035,23/09/2014,0000131,0000275,0000464
+0001121,TcontInc_E_pct,Nursery/Trial evaluation,From DS85,BMS_29189,21/12/2018,0000101,0000319,0000410
+0001122,Emer_date_ymd,Nursery/Trial evaluation,DS10,,25/10/2015,0000021,0000835,0000850
+0001123,Emer_dto_day,Nursery/Trial evaluation,DS10,,25/10/2015,0000021,0000242,0000434
+0001124,PherpResp_E_1to8,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_29137,23/09/2014,0000102,0000320,0000471
+0001125,FND_date_ymd,Research-intensive characterization,First node detectable (DS31),BMS_29056,25/10/2015,0000183,0000837,0000850
+0001126,FND_dto_day,Research-intensive characterization,First node detectable (DS31),BMS_29040,23/09/2014,0000183,0000378,0000434
+0001127,FLeafA_M_cm2,Research-intensive characterization,DS61-DS75,BMS_29048,23/09/2014,0000141,0000347,0000419
+0001128,FLeafSen_E_pct,Research-intensive characterization,From DS71,BMS_29049,23/09/2014,0000194,0000382,0000410
+0001129,UagroResp_E_1to8,Nursery/Trial evaluation,From booting (DS45),BMS_29199,23/09/2014,0000103,0000321,0000471
+0001130,FlrCol_M_avalue,Trial evaluation,After harvest (From DS87),BMS_29050,23/09/2014,0000214,0000400,0000416
+0001131,FlrCol_M_bvalue,Trial evaluation,After harvest (From DS87),BMS_29051,23/09/2014,0000214,0000400,0000417
+0001132,FlrCol_M_Lvalue,Trial evaluation,After harvest (From DS87),BMS_29052,23/09/2014,0000214,0000400,0000424
+0001133,FlrFN_M_s,Trial evaluation,After harvest (From DS87),BMS_29053,23/09/2014,0000066,0000288,0000430
+0001134,FLRGluCon_M_pct,Trial evaluation,After harvest (From DS87),BMS_29069,23/09/2014,0000069,0000291,0000410
+0001135,GluTyp_E_1to5,Trial evaluation,After harvest (From DS87),BMS_29071,23/09/2014,0000070,0000292,0000472
+0001136,FlrProt_Kjl_pct,Trial evaluation,After harvest (From DS87),BMS_23230,21/12/2018,0000067,0000289,0000410
+0001137,FlrProt_NIRS_pct,Trial evaluation,After harvest (From DS87),,25/10/2015,0000067,0000944,0000410
+0001138,FlrSDS_M_ml,Trial evaluation,After harvest (From DS87),BMS_22880,21/12/2018,0000146,0000386,0000427
+0001139,SedIdx_M_mlpct,Trial evaluation,After harvest (From DS87),BMS_29164,23/09/2014,0000160,0000398,0000631
+0001140,FlrYellCls_M_1to3,Trial evaluation,After harvest (From DS87),BMS_29054,25/10/2015,0000673,0000847,0000858
+0001141,FlrYld_M_pct,Trial evaluation,After harvest (From DS87),BMS_29055,21/12/2018,0000068,0000290,0000410
+0001142,FolDis_E_1to5,Trial evaluation,After the event,BMS_22711,25/10/2015,0000655,0000701,0000457
+0001143,FrostDmg_E_0to9,Nursery/Trial evaluation,After the event,BMS_29057,23/09/2014,0000127,0000341,0000449
+0001144,FrostDmg_E_0to9text,Nursery/Trial evaluation,After the event,BMS_22928,25/10/2015,0000127,0000341,0000794
+0001145,FrostDmg_E_pct,Nursery/Trial evaluation,After the event,BMS_22927,25/10/2015,0000127,0000341,0000410
+0001146,FrostDmg_E_1to5,Nursery/Trial evaluation,After the event,BMS_22979,25/10/2015,0000127,0000341,0000457
+0001147,FrostDmg_E_1to9,Nursery/Trial evaluation,After the event,BMS_22929,25/10/2015,0000127,0000341,0000465
+0001148,FgramInc_E_0to9pcttext,Trial evaluation,From DS75,BMS_22868,21/12/2018,0000924,0000702,0000727
+0001149,FgramInc_E_pct,Trial evaluation,From DS75,BMS_22869,21/12/2018,0000924,0000702,0000410
+0001150,FgramResp_E_0to5,Trial evaluation,From DS75,BMS_22870,25/10/2015,0000925,0000703,0000774
+0001151,FgramSev_E_00to99text,Trial evaluation,From DS75,BMS_22866,25/10/2015,0000926,0000690,0000728
+0001152,FgramSev_E_00to99,Trial evaluation,From DS75,BMS_22865,25/10/2015,0000926,0000690,0000470
+0001153,FHBAUDPC_Calc_pct,Trial evaluation,From DS75,BMS_23079,21/12/2018,0000651,0000696,0000410
+0001154,FHBDON_M_ppm,Trial evaluation,After harvest (From DS87),BMS_29047,21/12/2018,0000652,0000698,0000425
+0001155,FHBGInc_E_pct,Trial evaluation,From DS75,BMS_22843,21/12/2018,0000927,0000699,0000410
+0001156,FHBSpkInc_E_0to9pcttext,Trial evaluation,From DS75,BMS_22833,25/10/2015,0000928,0000294,0000727
+0001157,FHBSpkInc_E_pct,Trial evaluation,From DS75,BMS_22831,23/09/2014,0000928,0000294,0000410
+0001158,FHBSpkResp_E_0to5,Trial evaluation,From DS75,BMS_22832,25/10/2015,0000929,0000322,0000774
+0001159,FHBSpkResp_E_1to8,Trial evaluation,From DS75,BMS_29044,23/09/2014,0000929,0000322,0000471
+0001160,FHBSpkWt_Calc_pct,Trial evaluation,After harvest (From DS87),BMS_23078,25/10/2015,0000654,0000700,0000410
+0001161,FHBSplInc_Calc_Idx,Trial evaluation,From DS75,BMS_29045,23/09/2014,0000711,0000373,0000421
+0001162,FHBSplInc_Ct_SplInfect,Trial evaluation,From DS75,BMS_29046,23/09/2014,0000711,0000374,0000439
+0001163,FnivLBInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22796,25/10/2015,0000930,0000339,0000727
+0001164,FnivLBInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22797,25/10/2015,0000930,0000339,0000410
+0001165,FnivLBSev_E_00to99text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22798,25/10/2015,0000653,0000690,0000728
+0001166,FnivLBSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22795,23/09/2014,0000653,0000690,0000470
+0001167,FoxiWilt_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22863,23/09/2014,0000168,0000356,0000410
+0001168,GlmCol_E_1to3,Descriptor,DS61-DS75,BMS_29061,23/09/2014,0000031,0000251,0000451
+0001169,GlmGlau_E_0to9,Research-intensive characterization,DS61-DS75,BMS_29062,23/09/2014,0000035,0000255,0000450
+0001170,GlmLng_M_mm,Descriptor,DS61-DS75,BMS_29063,23/09/2014,0000032,0000252,0000428
+0001171,GlmPubDen_E_0to9,Descriptor,DS61-DS75,BMS_29064,23/09/2014,0000033,0000253,0000450
+0001172,GlmPubLng_M_um,Research-intensive characterization,DS61-DS75,BMS_29065,23/09/2014,0000034,0000254,0000415
+0001173,GlmWid_M_mm,Research-intensive characterization,DS61-DS75,BMS_29066,23/09/2014,0000036,0000256,0000428
+0001174,GluA1_M_text,Trial evaluation,After harvest (From DS87),BMS_23236,23/09/2014,0000152,0000390,0000443
+0001175,GluA3_M_text,Trial evaluation,After harvest (From DS87),BMS_29067,23/09/2014,0000155,0000390,0000443
+0001176,GluB1_M_text,Trial evaluation,After harvest (From DS87),BMS_23237,23/09/2014,0000153,0000390,0000443
+0001177,GluB3_M_text,Trial evaluation,After harvest (From DS87),BMS_29068,23/09/2014,0000156,0000390,0000443
+0001178,GluD1_M_text,Trial evaluation,After harvest (From DS87),BMS_23238,23/09/2014,0000154,0000390,0000443
+0001179,GluD3_M_text,Trial evaluation,After harvest (From DS87),BMS_29070,23/09/2014,0000157,0000390,0000443
+0001180,GApp_E_0to9,Trial evaluation,After harvest (From DS87),BMS_22930,25/10/2015,0000656,0000823,0000824
+0001181,GApp_E_0to9text,Trial evaluation,After harvest (From DS87),BMS_22931,25/10/2015,0000656,0000823,0000825
+0001182,GCID_M_delta13C,Research-intensive characterization,From DS87,BMS_29073,23/09/2014,0000195,0000383,0000433
+0001183,GCol_E_1to3,Descriptor,After physiological maturity (DS87),BMS_29074,23/09/2014,0000037,0000257,0000452
+0001184,GCol_M_avalue,Trial evaluation,After harvest (From DS87),BMS_29075,23/09/2014,0000037,0000400,0000416
+0001185,GCol_M_bvalue,Trial evaluation,After harvest (From DS87),BMS_29076,23/09/2014,0000037,0000400,0000417
+0001186,GCol_M_Lvalue,Trial evaluation,After harvest (From DS87),BMS_29077,23/09/2014,0000037,0000400,0000424
+0001187,GCol_E_1to5,Descriptor,After physiological maturity (DS87),BMS_22991,25/10/2015,0000037,0000257,0000826
+0001188,UseTyp_M_1to9+text,Trial evaluation,After harvest (From DS87),BMS_29200,23/09/2014,0000221,0000401,0000469
+0001189,GFP_calc_day,Research-intensive characterization,DS65-DS87,BMS_29058,21/12/2018,0000664,0000838,0000434
+0001190,GFP_calc_pct,Research-intensive characterization,DS65-DS87,BMS_29059,25/10/2015,0000664,0000945,0000410
+0001191,Germ_M_pct,Research-intensive characterization,DS00-DS07,BMS_22660,23/09/2014,0000011,0000234,0000410
+0001192,GHrd_M_1to3,Trial evaluation,After harvest (From DS87),BMS_29097,23/09/2014,0000072,0000295,0000453
+0001193,GHrd_M_1to4,Trial evaluation,After harvest (From DS87),BMS_29098,25/10/2015,0000072,0000295,0000862
+0001194,GHrd_M_pct,Trial evaluation,After harvest (From DS87),BMS_23232,23/09/2014,0000072,0000263,0000410
+0001195,GHrd_M_1to5,Trial evaluation,After harvest (From DS87),BMS_29099,23/09/2014,0000072,0000295,0000459
+0001196,GIron_M_ppm,Trial evaluation,After harvest (From DS87),BMS_29081,21/12/2018,0000222,0000402,0000425
+0001197,GrnIron_M_mgkg,Trial evaluation,After harvest (From DS87),BMS_29080,25/10/2015,0000222,0000402,0000865
+0001198,GMoi_E_pct,Trial evaluation,After physiological maturity (DS87),BMS_22692,23/09/2014,0000012,0000235,0000410
+0001199,GN_Calc_Grnm2,Trial evaluation,After physiological maturity (DS87),BMS_29072,23/09/2014,0000017,0000391,0000392
+0001200,GrnSpk_Calc_GrnSpk,Trial evaluation,After physiological maturity (DS87),BMS_22908,21/12/2018,0000038,0000258,0000435
+0001201,GrnSpl_Calc_GrnSpl,Research-intensive characterization,After physiological maturity (DS87),BMS_23059,21/12/2018,0000041,0000261,0000436
+0001202,GPhos_M_mgkg,Trial evaluation,After harvest (From DS87),BMS_29082,25/10/2015,0000223,0000403,0000865
+0001203,GPhos_M_ppm,Trial evaluation,After harvest (From DS87),BMS_29083,21/12/2018,0000223,0000403,0000425
+0001204,GPlump_E_1to3,Nursery/Trial evaluation,After physiological maturity (DS87),BMS_23216,23/09/2014,0000039,0000259,0000474
+0001205,GProt_Kjl_pct,Trial evaluation,After harvest (From DS87),BMS_22885,21/12/2018,0000073,0000289,0000410
+0001206,GProt_NIRS_pct,Trial evaluation,After harvest (From DS87),,25/10/2015,0000073,0000946,0000410
+0001207,GReten_M_pct,Trial evaluation,After harvest (From DS87),BMS_29084,25/10/2015,0000642,0000798,0000410
+0001208,GScreen_M_pct,Trial evaluation,After harvest (From DS87),BMS_29085,25/10/2015,0000643,0000799,0000410
+0001209,GSize_E_1to3,Descriptor,After physiological maturity (DS87),BMS_23217,23/09/2014,0000040,0000260,0000455
+0001210,TestWt_M_gl,Trial evaluation,After harvest (From DS87),BMS_22685,21/12/2018,0000159,0000397,0000867
+0001211,TestWt_M_kghl,Trial evaluation,After harvest (From DS87),BMS_22684,23/09/2014,0000159,0000397,0000423
+0001212,GVtr_E_1to3,Descriptor,After harvest (From DS87),BMS_29165,23/09/2014,0000042,0000262,0000454
+0001213,GW_M_g1000grn,Trial evaluation,After physiological maturity (DS87),BMS_22683,21/12/2018,0000025,0000246,0001033
+0001214,GW_M_g100grn,Trial evaluation,After physiological maturity (DS87),BMS_29001,25/10/2015,0000025,0000246,0001432
+0001215,GW_M_g200grn,Trial evaluation,After physiological maturity (DS87),BMS_29003,25/10/2015,0000025,0000246,0001433
+0001216,GYellBer_M_pct,Trial evaluation,After harvest (From DS87),BMS_29209,23/09/2014,0000174,0000399,0000410
+0001217,GY_Calc_gm2,Trial evaluation,After physiological maturity (DS87),BMS_29086,25/10/2015,0000013,0001028,0000805
+0001218,GY_Calc_kgha,Trial evaluation,After physiological maturity (DS87),BMS_18000,21/12/2018,0000013,0001028,0000804
+0001219,GY_Calc_tha,Trial evaluation,After physiological maturity (DS87),BMS_22661,23/09/2014,0000013,0001028,0000432
+0001220,GY_M_gPlnt,Trial evaluation,After physiological maturity (DS87),BMS_29087,25/10/2015,0000013,0000236,0001431
+0001221,GY_M_gPlot,Trial evaluation,After physiological maturity (DS87),BMS_22662,21/12/2018,0000013,0000236,0000412
+0001222,GY_M_kgPlot,Trial evaluation,After physiological maturity (DS87),BMS_22665,25/10/2015,0000013,0000236,0000806
+0001223,GY_PctChk_pct,Trial evaluation,After physiological maturity (DS87),BMS_29210,23/09/2014,0000013,0000950,0000410
+0001224,GYFac_Calc_num,Trial evaluation,After harvest (From DS87),BMS_23176,25/10/2015,0000645,0000822,0000896
+0001225,GZinc_M_mgkg,Trial evaluation,After harvest (From DS87),BMS_29088,25/10/2015,0000224,0000404,0000865
+0001226,GZinc_M_ppm,Trial evaluation,After harvest (From DS87),BMS_29089,21/12/2018,0000224,0000404,0000425
+0001227,GrwCls_E_1to3,Descriptor,DS55-DS81,BMS_29090,25/10/2015,0000665,0000839,0000851
+0001228,GrwStg_Zdks_00to99,Research-intensive characterization,DS00-DS99,BMS_22995,23/09/2014,0000016,0000239,0000476
+0001229,HailDmg_E_0to9,Nursery/Trial evaluation,After the event,BMS_29092,23/09/2014,0000126,0000340,0000449
+0001230,HailDmg_E_1to5,Nursery/Trial evaluation,After the event,BMS_22717,25/10/2015,0000126,0000340,0000457
+0001231,HI_Calc_Idx,Trial evaluation,After physiological maturity (DS87),BMS_18120,21/12/2018,0000123,0001030,0000421
+0001232,HI_Calc_pct,Trial evaluation,After physiological maturity (DS87),BMS_22693,23/09/2014,0000123,0001030,0000410
+0001233,Hd_date_jd,Nursery/Trial evaluation,Heading (spike emergence)(DS55),BMS_22900,21/12/2018,0000007,0000840,0000855
+0001234,Hd_date_ymd,Nursery/Trial evaluation,Heading (spike emergence)(DS55),BMS_22899,25/10/2015,0000007,0000840,0000850
+0001235,Hd_dto_day,Nursery/Trial evaluation,Heading (spike emergence)(DS55),BMS_22898,21/12/2018,0000007,0000231,0000434
+0001236,Hd_relat_1to5,Nursery/Trial evaluation,Heading (spike emergence)(DS55),BMS_23223,23/09/2014,0000007,0000244,0000460
+0001237,HeatTol_E_1to5,Nursery/Trial evaluation,After the event,BMS_29094,23/09/2014,0000176,0000365,0000464
+0001238,HelSpInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22753,25/10/2015,0000922,0000876,0000727
+0001239,HelSpLegacy_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22755,25/10/2015,0000923,0000704,0000789
+0001240,HelSpSev_E_00to99text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22754,25/10/2015,0000686,0000690,0000728
+0001241,HelSpSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22752,25/10/2015,0000686,0000690,0000470
+0001242,HerbicideDmg_E_1to5,Trial evaluation,After the event,BMS_22716,25/10/2015,0000679,0000795,0000457
+0001243,HesFlyDmg_E_pct,Trial evaluation,After the event,BMS_29095,23/09/2014,0000088,0000309,0000410
+0001244,InfertTN_Ct_InTllrm,Trial evaluation,DS65-DS81,BMS_29101,25/10/2015,0000644,0000801,0000802
+0001245,InfertTN_Ct_InTllrm2,Trial evaluation,DS65-DS81,BMS_29102,25/10/2015,0000644,0000801,0000803
+0001246,ISBM_Calc_gm2,Research-intensive characterization,DS11-DS87,BMS_29103,25/10/2015,0000393,0001029,0000805
+0001247,ISBM_Calc_kgha,Research-intensive characterization,DS11-DS87,BMS_29105,25/10/2015,0000393,0001029,0000804
+0001248,ISBM_Calc_tha,Research-intensive characterization,DS11-DS87,BMS_29107,23/09/2014,0000393,0001029,0000432
+0001249,ISBM_M_gPlot,Research-intensive characterization,DS11-DS87,BMS_29104,25/10/2015,0000393,0000394,0000412
+0001250,ISBM_M_kgPlot,Research-intensive characterization,DS11-DS87,BMS_29106,25/10/2015,0000393,0000394,0000806
+0001251,InsectDmg_E_pct,Trial evaluation,After the event,BMS_28000,25/10/2015,0000089,0000705,0000410
+0001252,InsectDmg_E_1to5,Trial evaluation,After the event,BMS_22713,25/10/2015,0000089,0000705,0000457
+0001253,TindiInc_E_pct,Nursery/Trial evaluation,After physiological maturity (DS87),BMS_29192,23/09/2014,0000106,0000323,0000410
+0001254,LAI_Calc_Idx,Research-intensive characterization,Seedling development to late grain-filling (DS12-DS81),BMS_29108,23/09/2014,0000184,0000362,0000421
+0001255,LeafCID_M_delta13C,Research-intensive characterization,From DS21,BMS_29116,23/09/2014,0000196,0000383,0000433
+0001256,Chl_M_CCI,Trial evaluation,DS12-DS85,BMS_23055,23/09/2014,0000028,0000249,0000418
+0001257,LeafGlau_E_0to9,Research-intensive characterization,,BMS_29109,23/09/2014,0000048,0000268,0000450
+0001258,LeafGlau_E_1to5,Research-intensive characterization,,BMS_23056,25/10/2015,0000048,0000268,0000827
+0001259,LeafLng_M_cm,Research-intensive characterization,,BMS_29110,23/09/2014,0000044,0000264,0000411
+0001260,LeafPubDen_E_0to9,Research-intensive characterization,,BMS_29111,23/09/2014,0000045,0000265,0000450
+0001261,LeafPubLng_M_um,Research-intensive characterization,,BMS_29112,23/09/2014,0000046,0000266,0000415
+0001262,PrecoCI_Calc_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22758,25/10/2015,0000897,0001026,0000410
+0001263,PrecoInc_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22761,25/10/2015,0000898,0000707,0000465
+0001264,PrecoLegacy_E_9to1,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22762,25/10/2015,0000899,0000900,0000877
+0001265,PrecoNote_E_text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29144,25/10/2015,0000687,0000708,0000443
+0001266,PrecoResp_E_0to4,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22764,25/10/2015,0000178,0000706,0000768
+0001267,PrecoResp_E_1to4,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22763,25/10/2015,0000178,0000706,0000773
+0001268,PrecoResp_E_1to8,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29143,23/09/2014,0000178,0000360,0000473
+0001269,PrecoSdlgResp_E_0to8,Nursery/Trial evaluation,DS11-DS15,BMS_29142,23/09/2014,0000901,0000604,0000606
+0001270,PrecoSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22760,21/12/2018,0000902,0000693,0000410
+0001271,PrecoSev_E_0to12,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22759,25/10/2015,0000902,0000324,0000753
+0001272,StomaCond_M_mmolm2s,Research-intensive characterization,DS12-DS81,BMS_29177,23/09/2014,0000018,0000240,0000429
+0001273,StomaFrq_Ct_stomamm2,Research-intensive characterization,DS12-DS81,BMS_29179,23/09/2014,0000143,0000349,0000442
+0001274,StomaRes_M_sm,Research-intensive characterization,DS12-DS81,BMS_29181,23/09/2014,0000063,0000285,0000431
+0001275,StomaSiz_M_um,Research-intensive characterization,DS12-DS81,BMS_29182,23/09/2014,0000142,0000348,0000415
+0001276,LeafThk_M_um,Research-intensive characterization,,BMS_29113,23/09/2014,0000047,0000267,0000415
+0001277,LeafTNecro_E_pct,Nursery/Trial evaluation,Assessment is conducted through the growing season starting with the onset of the symptom.,BMS_29114,23/09/2014,0000175,0000361,0000410
+0001278,LeafWid_M_mm,Research-intensive characterization,,BMS_29115,23/09/2014,0000049,0000269,0000428
+0001279,Lodg_E_0to9pcttext,Trial evaluation,After the event,BMS_22904,25/10/2015,0000167,0000355,0000727
+0001280,Lodg_E_pct,Trial evaluation,After the event,BMS_18060,21/12/2018,0000167,0000355,0000410
+0001281,Lodg_E_0to5pct,Trial evaluation,After the event,BMS_22906,25/10/2015,0000167,0000355,0000807
+0001282,Lodg_E_0to9pct,Trial evaluation,After the event,BMS_29117,21/12/2018,0000167,0000355,0000446
+0001283,Lodg_E_1to5,Trial evaluation,After the event,BMS_22681,25/10/2015,0000167,0000355,0000457
+0001284,Lodg_E_1to9,Trial evaluation,After the event,BMS_22905,25/10/2015,0000167,0000355,0000465
+0001285,UtritInc_E_pct,Nursery/Trial evaluation,From DS75,BMS_22840,25/10/2015,0000921,0000325,0000410
+0001286,UtritInc_E_1to9,Nursery/Trial evaluation,From DS75,BMS_29201,23/09/2014,0000921,0000325,0000465
+0001287,Mat_relat_1to6,Nursery/Trial evaluation,Physiological maturity (DS87 approx.),BMS_22696,25/10/2015,0000022,0000243,0000856
+0001288,Mat_date_jd,Nursery/Trial evaluation,Physiological maturity (DS87 approx.),BMS_22680,21/12/2018,0000022,0000842,0000855
+0001289,Mat_date_ymd,Nursery/Trial evaluation,Physiological maturity (DS87 approx.),BMS_22678,25/10/2015,0000022,0000842,0000850
+0001290,Mat_dto_day,Nursery/Trial evaluation,Physiological maturity (DS87 approx.),BMS_22677,23/09/2014,0000022,0000232,0000434
+0001291,Mat_relat_1to5,Nursery/Trial evaluation,Physiological maturity (DS87 approx.),BMS_29155,23/09/2014,0000022,0000243,0000460
+0001292,HtereInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22818,25/10/2015,0000170,0000357,0000410
+0001293,HtereSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22815,23/09/2014,0000406,0000690,0000470
+0001294,NodeNO_Ct_node,Descriptor,DS61-DS75,BMS_29123,23/09/2014,0000051,0000271,0000437
+0001295,PedGlau_E_0to9,Research-intensive characterization,DS61-DS75,BMS_29129,23/09/2014,0000054,0000274,0000450
+0001296,PedLng_M_cm,Research-intensive characterization,DS61-DS75,BMS_23053,21/12/2018,0000052,0000272,0000411
+0001297,NeckBreak_E_pct,Nursery/Trial evaluation,,BMS_29121,23/09/2014,0000050,0000270,0000410
+0001298,PedPubDen_E_0to9,Research-intensive characterization,DS61-DS75,BMS_29130,23/09/2014,0000053,0000273,0000450
+0001299,ErlVig_E_1to5,Trial evaluation,DS13-DS23,BMS_22682,23/09/2014,0000009,0000233,0000462
+0001300,GrwHabit_E_1to5,Descriptor,DS25-DS30,BMS_23213,23/09/2014,0000015,0000238,0000458
+0001301,PH_M_cm,Nursery/Trial evaluation,DS75-DS89,BMS_18020,21/12/2018,0000020,0000241,0000411
+0001302,PH_M_m,Nursery/Trial evaluation,DS75-DS89,BMS_22673,25/10/2015,0000020,0000241,0000813
+0001303,PH_E_1to5,Nursery/Trial evaluation,DS75-DS89,BMS_22672,23/09/2014,0000020,0000245,0000461
+0001304,HNecro_E_0to1,Nursery/Trial evaluation,Assessment is conducted through the growing season starting with the onset of the symptom.,BMS_29096,23/09/2014,0000186,0000367,0000599
+0001305,PhotopResp_E_1to9,Descriptor,DS65,BMS_29136,25/10/2015,0000672,0000846,0000857
+0001306,PlntStnd_Calc_Plntha,Trial evaluation,DS10-DS89,BMS_29138,25/10/2015,0000187,0000955,0000814
+0001307,PlntStnd_Calc_Plntm2,Trial evaluation,DS10-DS89,BMS_29140,25/10/2015,0000187,0000955,0000817
+0001308,PlntStnd_Ct_Plntm,Trial evaluation,DS10-DS89,BMS_29139,25/10/2015,0000187,0000368,0000815
+0001309,PlntStnd_Ct_PlntPlot,Trial evaluation,DS10-DS89,BMS_18070,23/09/2014,0000187,0000368,0000816
+0001310,VgP_calc_day,Research-intensive characterization,DS10-DS31,BMS_29202,25/10/2015,0000670,0001429,0000434
+0001311,VgP_calc_pct,Research-intensive characterization,DS10-DS31,BMS_29203,25/10/2015,0000670,0001429,0000410
+0001312,PlntVig_E_1to5,Trial evaluation,DS13-DS81,BMS_18080,25/10/2015,0000680,0001428,0000462
+0001313,EgramInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22804,25/10/2015,0000937,0000330,0000727
+0001314,EgramInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22805,25/10/2015,0000937,0000330,0000410
+0001315,EgramInc_E_0to5,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22807,25/10/2015,0000937,0000330,0000782
+0001316,EgramInc_E_1to5,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22810,25/10/2015,0000937,0000330,0000788
+0001317,EgramInc_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22808,25/10/2015,0000937,0000330,0000465
+0001318,EgramLegacy_E_9to1,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22809,25/10/2015,0000938,0000878,0000790
+0001319,EgramSev_E_00to99text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22803,25/10/2015,0000939,0000690,0000728
+0001320,EgramSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_22806,23/09/2014,0000939,0000690,0000470
+0001321,PnegleDmg_E_pct,Trial evaluation,,BMS_29141,23/09/2014,0000112,0000328,0000410
+0001322,PthornDmg_E_pct,Trial evaluation,,BMS_29150,23/09/2014,0000113,0000329,0000410
+0001323,RepP_Calc_day,Research-intensive characterization,DS14-DS65,BMS_29156,25/10/2015,0000668,0001430,0000434
+0001324,RepP_Calc_pct,Research-intensive characterization,DS14-DS65,BMS_29157,25/10/2015,0000668,0001430,0000410
+0001325,RsolaInc_E_0to9pct,Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_29161,25/10/2015,0000681,0000712,0000446
+0001326,RodentDmg_E_pct,Trial evaluation,After the event,BMS_29159,23/09/2014,0000090,0000310,0000410
+0001327,RootDis_E_1to5,Trial evaluation,After the event,BMS_22712,25/10/2015,0000682,0000713,0000457
+0001328,RLNDmg_E_pct,Trial evaluation,,BMS_29158,23/09/2014,0000161,0000350,0000410
+0001329,DnoxiDmg_E_pct,Trial evaluation,After the event,BMS_29033,23/09/2014,0000091,0000311,0000410
+0001330,SaltTol_E_1to9,Nursery/Trial evaluation,DS15-DS65,BMS_29162,23/09/2014,0000132,0000344,0000468
+0001331,SawflyDmg_E_pct,Trial evaluation,After the event,BMS_29029,23/09/2014,0000092,0000312,0000410
+0001332,SGNDmg_E_pct,Trial evaluation,From DS35,BMS_29016,23/09/2014,0000110,0000326,0000410
+0001333,SemoCol_M_bvalue,Trial evaluation,After harvest (From DS87),BMS_29166,23/09/2014,0000075,0000400,0000417
+0001334,SemoProt_Kjl_pct,Trial evaluation,After harvest (From DS87),BMS_29167,23/09/2014,0000074,0000289,0000410
+0001335,SemoProt_NIRS_pct,Trial evaluation,After harvest (From DS87),,25/10/2015,0000074,0000957,0000410
+0001336,SemoYellPig_M_ppm,Trial evaluation,After harvest (From DS87),BMS_29168,25/10/2015,0000674,0000848,0000425
+0001337,SepSPInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23030,25/10/2015,0000914,0000915,0000410
+0001338,SepSpLegacy_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23028,25/10/2015,0000916,0000358,0000789
+0001339,SepSpLegacy_E_9to1,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23033,25/10/2015,0000916,0000358,0000790
+0001340,SepSpResp_E_0to5,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23031,25/10/2015,0000715,0000716,0000735
+0001341,SepSpResp_E_1to5,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23032,25/10/2015,0000715,0000716,0000729
+0001342,SepSpSev_E_00to99text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23029,25/10/2015,0000714,0000690,0000728
+0001343,SepSpSev_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23027,25/10/2015,0000714,0000879,0000727
+0001344,SepSpSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_23026,23/09/2014,0000714,0000690,0000470
+0001345,SnodoInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22777,25/10/2015,0000917,0000880,0000727
+0001346,SnodoInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22780,25/10/2015,0000917,0000880,0000410
+0001347,SnodoLegacy_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22781,25/10/2015,0000918,0000343,0000789
+0001348,SnodoLegacy_E_9to1,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22782,25/10/2015,0000918,0000343,0000790
+0001349,SnodoSev_E_00to99+text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22776,23/09/2014,0000717,0000690,0000470
+0001350,StritInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22769,25/10/2015,0000919,0000881,0000727
+0001351,StritInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22770,25/10/2015,0000919,0000881,0000410
+0001352,StritLegacy_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22774,25/10/2015,0000920,0000333,0000789
+0001353,StritLegacy_E_9to1,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22772,25/10/2015,0000920,0000333,0000790
+0001354,StritResp_E_0to5,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22773,25/10/2015,0000719,0000720,0000735
+0001355,StritSev_E_00to99text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22771,25/10/2015,0000718,0000690,0000728
+0001356,StritSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22768,23/09/2014,0000718,0000690,0000470
+0001357,RcereInc_E_0to9,Trial evaluation,DS55-DS79,BMS_29154,25/10/2015,0000683,0000721,0000742
+0001358,SnailDmg_E_pct,Trial evaluation,After the event,BMS_29171,23/09/2014,0000093,0000313,0000410
+0001359,SBMVInc_E_0to9pct,Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_29163,23/09/2014,0000173,0000359,0000446
+0001360,SrolfResp_E_1to8,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_29175,23/09/2014,0000115,0000331,0000471
+0001361,Awns_E_0to9,Descriptor,DS65-DS89,BMS_22992,23/09/2014,0000027,0000248,0000447
+0001362,SpkDen_E_1to9,Descriptor,DS61-DS75,BMS_29173,23/09/2014,0000055,0000276,0000467
+0001363,SpkDis_E_1to5,Trial evaluation,After the event,BMS_22986,25/10/2015,0000684,0000722,0000457
+0001364,SpkLng_M_cm,Research-intensive characterization,DS75-DS89,BMS_23057,21/12/2018,0000056,0000277,0000411
+0001365,SN_Calc_Spksm2,Trial evaluation,DS75-DS89,BMS_22909,23/09/2014,0000166,0000958,0000441
+0001366,SN_M_Spksm,Trial evaluation,DS75-DS89,BMS_29172,25/10/2015,0000166,0000354,0000818
+0001367,Shattering_E_pct,Nursery/Trial evaluation,From DS91,BMS_29169,21/12/2018,0000057,0000278,0000410
+0001368,Threshblty_E_1to9,Nursery/Trial evaluation,After physiological maturity (DS87),BMS_29190,25/10/2015,0000659,0000831,0000828
+0001369,SplN_Ct_SplSpk,Research-intensive characterization,DS75-DS89,BMS_23058,21/12/2018,0000058,0000279,0000440
+0001370,HsatiLInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22784,25/10/2015,0000912,0000882,0000727
+0001371,HsatiLInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22785,25/10/2015,0000912,0000882,0000410
+0001372,HsatiLLegacy_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22788,25/10/2015,0000913,0000332,0000789
+0001373,HsatiLLegacy_E_9to1,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22789,25/10/2015,0000913,0000332,0000790
+0001374,HsatiLSev_E_00to99text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22786,25/10/2015,0000723,0000690,0000728
+0001375,HsatiLSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22783,23/09/2014,0000723,0000690,0000470
+0001376,SproutTol_E_1to9,Nursery/Trial evaluation,DS85-DS99,BMS_22920,21/12/2018,0000081,0000303,0000468
+0001377,StmDia_M_mm,Research-intensive characterization,DS61-DS87,BMS_29178,25/10/2015,0000062,0000284,0000428
+0001378,StmLng_M_cm,Research-intensive characterization,DS61-DS75,BMS_29180,23/09/2014,0000060,0000282,0000411
+0001379,PgramCI_Calc_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22756,21/12/2018,0000688,0001026,0000410
+0001380,PgramNote_E_text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29134,25/10/2015,0000903,0000708,0000443
+0001381,PgramResp_E_1to8,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29132,23/09/2014,0000177,0000360,0000473
+0001382,PgramSdlgResp_E_0to8,Nursery/Trial evaluation,DS11-DS15,BMS_29131,23/09/2014,0000904,0000604,0000606
+0001383,PgramSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29133,21/12/2018,0000905,0000693,0000410
+0001384,PgramSev_E_0to12,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22757,25/10/2015,0000905,0000324,0000753
+0001385,StmSol_E_1to3,Research-intensive characterization,DS61-DS75,BMS_29183,23/09/2014,0000061,0000283,0000456
+0001386,StmStrength_E_1to9,Nursery/Trial evaluation,DS61-DS87,BMS_29184,25/10/2015,0000657,0000829,0000828
+0001387,StmWallThk_M_um,Research-intensive characterization,DS61-DS87,BMS_29185,23/09/2014,0000658,0000830,0000415
+0001388,StmWSC_M_pct,Research-intensive characterization,DS55-DS99,BMS_29176,23/09/2014,0000207,0000384,0000410
+0001389,SpkSterility_E_0to6,Research-intensive characterization,DS71-DS79,BMS_23013,25/10/2015,0000165,0000353,0000819
+0001390,SpkSterility_Calc_pct,Research-intensive characterization,DS71-DS79,BMS_23014,23/09/2014,0000165,0000959,0000410
+0001391,PstriCI_Calc_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22765,25/10/2015,0000689,0001026,0000410
+0001392,PstriInc_E_1to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22767,25/10/2015,0000906,0000725,0000465
+0001393,PstriNote_E_text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29149,25/10/2015,0000907,0000708,0000443
+0001394,PstriResp_E_0to9,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29146,21/12/2018,0000179,0000375,0000466
+0001395,PstriResp_E_1to8,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29147,23/09/2014,0000179,0000360,0000473
+0001396,PstriSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29148,21/12/2018,0000908,0000693,0000410
+0001397,PstriSev_E_0to12,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22766,25/10/2015,0000908,0000324,0000753
+0001398,PstriSpkSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22823,25/10/2015,0000909,0000883,0000410
+0001399,SuPDmg_E_1to5,Trial evaluation,After the event,BMS_29186,23/09/2014,0000094,0000314,0000457
+0001400,GgtriInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_29060,23/09/2014,0000119,0000334,0000410
+0001401,GgtriInc_E_1to5,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,BMS_23212,25/10/2015,0000119,0000334,0000457
+0001402,TanSpotInc_E_0to9pcttext,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22791,25/10/2015,0000910,0000726,0000727
+0001403,TanSpotInc_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22793,25/10/2015,0000910,0000726,0000410
+0001404,TanSpotResp_E_1to5,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_29188,23/09/2014,0000345,0000724,0000463
+0001405,TanSpotSdlgResp_E_0to5,Nursery/Trial evaluation,DS11-DS15,BMS_29187,23/09/2014,0000911,0000603,0000445
+0001406,TanSpotSev_E_00to99text,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22792,25/10/2015,0000650,0000690,0000728
+0001407,TanSpotSev_E_00to99,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,BMS_22790,25/10/2015,0000650,0000690,0000470
+0001408,TSpl_date_ymd,Research-intensive characterization,DS25-DS30 approx.,BMS_29197,25/10/2015,0000940,0000844,0000850
+0001409,TSpl_dto_day,Research-intensive characterization,DS25-DS30 approx.,BMS_29042,23/09/2014,0000940,0000380,0000434
+0001410,TN_Ct_Tllrm,Trial evaluation,DS30-DS55,BMS_29194,25/10/2015,0000190,0000371,0000820
+0001411,TN_Ct_Tllrm2,Trial evaluation,DS30-DS55,BMS_29195,25/10/2015,0000190,0000371,0000821
+0001412,TN_Ct_TllrPlnt,Trial evaluation,DS30-DS55,BMS_29196,23/09/2014,0000190,0000371,0000444
+0001413,TllrCapacity_E_1to5,Trial evaluation,DS30-DS45,BMS_29191,23/09/2014,0000189,0000370,0000462
+0001414,TlaevInc_E_pct,Nursery/Trial evaluation,From DS85,BMS_29193,23/09/2014,0000099,0000317,0000410
+0001415,TtritInc_E_pct,Nursery/Trial evaluation,From DS85,BMS_29198,23/09/2014,0000100,0000318,0000410
+0001416,T1BL1RS_M_0to1,Trial evaluation,After harvest (From DS87),BMS_29002,23/09/2014,0000158,0000396,0000599
+0001417,WtrLoggDmg_E_0to9,Nursery/Trial evaluation,After the event,BMS_29091,23/09/2014,0000128,0000342,0000449
+0001418,WMFlrCol_M_avalue,Trial evaluation,After harvest (From DS87),BMS_29205,25/10/2015,0000227,0000400,0000416
+0001419,WMFlrCol_M_bvalue,Trial evaluation,After harvest (From DS87),BMS_29206,23/09/2014,0000227,0000400,0000417
+0001420,WMFlrCol_M_Lvalue,Trial evaluation,After harvest (From DS87),BMS_29207,25/10/2015,0000227,0000400,0000424
+0001421,WMFlrFN_M_s,Trial evaluation,After harvest (From DS87),BMS_29208,23/09/2014,0000071,0000293,0000430
+0001422,WMFlrSDS_M_ml,Trial evaluation,After harvest (From DS87),BMS_23004,23/09/2014,0000147,0000386,0000427
+0001423,WMFlrYellPig_M_ppm,Trial evaluation,After harvest (From DS87),BMS_22895,25/10/2015,0000677,0000849,0000425
+0001424,WKill_E_0to9,Nursery/Trial evaluation,After the event,BMS_23073,25/10/2015,0000164,0000352,0000449
+0001425,WKill_E_pct,Nursery/Trial evaluation,After the event,BMS_23072,21/12/2018,0000164,0000352,0000410
+0001426,WKill_E_1to5,Nursery/Trial evaluation,After the event,BMS_23074,25/10/2015,0000164,0000352,0000457
+0001427,WormDmg_E_pct,Trial evaluation,After the event,BMS_22923,25/10/2015,0000685,0000605,0000410
+0001438,BLBSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,23/09/2014,0000932,0000964,0000410
+0001439,RsecaSev_E_pct,Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,23/09/2014,0000710,0000965,0000410
+0001440,FgramSev_E_pct,Trial evaluation,From DS75,,21/12/2018,0000926,0000968,0000410
+0001441,FnivLBSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,05/01/2016,0000653,0000969,0000410
+0001442,HelSpSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,05/01/2016,0000686,0000986,0000410
+0001443,HtereSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,23/09/2014,0000406,0000987,0000410
+0001444,EgramSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease.,,05/01/2016,0000939,0000988,0000410
+0001445,SepSpSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,21/12/2018,0000714,0000879,0000410
+0001446,SnodoSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,23/09/2014,0000717,0000991,0000410
+0001447,StritSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,05/01/2016,0000718,0000992,0000410
+0001448,HsatiLSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,05/01/2016,0000723,0001013,0000410
+0001449,TanSpotSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,05/01/2016,0000650,0001434,0000410
+0001450,MgrisSev_E_pct,Nursery/Trial evaluation,Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.,,23/09/2014,0001031,0001435,0000414
+0001451,ForgDM_E_pct,Nursery/Trial evaluation,,,23/09/2014,0001032,0001436,0000410
+0001452,Wsurv_E_pct,Nursery/Trial evaluation,,,25/10/2015,0000963,0001437,0000410
+0001453,AwnCol_E_1to6,Nursery/Trial evaluation,,,05/01/2016,0000960,0000983,0001012
+0001454,GNDVI_M_Idx,Nursery/Trial evaluation,DS10-DS85,,05/01/2016,0000961,0000984,0000421
+0001455,RNDVI_M_Idx,Nursery/Trial evaluation,DS10-DS85,,23/09/2014,0000962,0000985,0000421
+0001456,GAmyloPec_M_pct,Nursery/Trial evaluation,,,05/01/2016,0000966,0000989,0000410
+0001457,GLys_M_pct,Nursery/Trial evaluation,,,05/01/2016,0000967,0000990,0000410
+0001458,RachLng_M_mm,Nursery/Trial evaluation,,,21/12/2018,0000970,0000993,0000428
+0001459,SpkTyp_E_1to6,Nursery/Trial evaluation,,,05/01/2016,0000971,0000994,0001014
+0001460,StdEst_E_1to3,Nursery/Trial evaluation,,,05/01/2016,0000972,0000995,0001015
+0001461,StmCol_E_1to6,Nursery/Trial evaluation,,,05/01/2016,0000973,0000996,0001012
+0001462,StrawBreak_E_1to9,Nursery/Trial evaluation,,,05/01/2016,0000974,0000997,0001016
+0001463,StrawCol_E_1to6,Nursery/Trial evaluation,,,05/01/2016,0000975,0000998,0001012
+0001464,StrawStn_E_1to3,Nursery/Trial evaluation,,,05/01/2016,0000976,0000999,0001017
+0001465,StrawYld_E_tha,Nursery/Trial evaluation,,,05/01/2016,0000977,0001000,0000432
+0001466,WMFlrAsh_E_pct,Nursery/Trial evaluation,,,05/01/2016,0000978,0001001,0000410
+0001467,GLng_M_mm,Nursery/Trial evaluation,,,05/01/2016,0000979,0001002,0000428
+0001468,GWid_M_mm,Nursery/Trial evaluation,,,05/01/2016,0000980,0001003,0000428
+0001469,GThk_M_mm,Nursery/Trial evaluation,,,05/01/2016,0000981,0001004,0000428
+0001470,GSize_ScreenCount1_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001005,0000410
+0001471,GSize_ScreenCount2_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001006,0000410
+0001472,GSize_ScreenCount3_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001007,0000410
+0001473,GSize_ScreenCount4_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001008,0000410
+0001474,GSize_ScreenCount5_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001009,0000410
+0001475,GSize_ScreenCount6_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001010,0000410
+0001476,GSize_ScreenMass1_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001020,0000410
+0001477,GSize_ScreenMass2_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001021,0000410
+0001478,GSize_ScreenMass3_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001022,0000410
+0001479,GSize_ScreenMass4_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001023,0000410
+0001480,GSize_ScreenMass5_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001024,0000410
+0001481,GSize_ScreenMass6_pct,Nursery/Trial evaluation,,,05/01/2016,0000040,0001025,0000410
+0001482,AnthExt_E_pct,Nursery/Trial evaluation,,,05/01/2016,0000982,0001011,0000410
+0001483,AnthExt_E_0to9,Nursery/Trial evaluation,,,05/01/2016,0000982,0001011,0001018
+0001595,InfertSpkN_Ct_SplSpk,Nursery/Trial evaluation,,,21/12/2018,0001484,0001530,0000440
+0001596,RSpkGP_Calc_pct,Nursery/Trial evaluation,,,22/07/2016,0001485,0001531,0000410
+0001597,CGR_Calc_gm2day,Nursery/Trial evaluation,,,22/07/2016,0000407,0001532,0000420
+0001599,SN_Calc_Spksm2,Nursery/Trial evaluation,,,21/12/2018,0000166,0001534,0000441
+0001600,GYPR_Calc_gm2day,Nursery/Trial evaluation,,,22/07/2016,0001486,0001535,0000420
+0001601,BMPR_Calc_gm2day,Nursery/Trial evaluation,,,22/07/2016,0001487,0001536,0000420
+0001602,TTTS_Calc_Cday,Nursery/Trial evaluation,,,22/07/2016,0001488,0001537,0001587
+0001603,TTIB_Calc_Cday,Nursery/Trial evaluation,,,22/07/2016,0001489,0001538,0001587
+0001604,TTB_Calc_Cday,Nursery/Trial evaluation,,,22/07/2016,0001490,0001539,0001587
+0001605,TTH_Calc_Cday,Nursery/Trial evaluation,,,22/07/2016,0001491,0001540,0001587
+0001606,TTA_Calc_Cday,Nursery/Trial evaluation,,,22/07/2016,0001492,0001541,0001587
+0001607,TTM_calc_Cday,Nursery/Trial evaluation,,,22/07/2016,0001493,0001542,0001587
+0001608,StmWSC_NIR_pct,Nursery/Trial evaluation,,,22/07/2016,0000207,0001543,0000410
+0001609,StmWSC_Atrone_pct,Nursery/Trial evaluation,,,22/07/2016,0000207,0001544,0000410
+0001610,SpkPho_Textile_pct,Nursery/Trial evaluation,,,22/07/2016,0001494,0001545,0000410
+0001611,FE_Calc_Idx,Nursery/Trial evaluation,,,22/07/2016,0001495,0001546,0000421
+0001612,SpkPI_Calc_Idx,Nursery/Trial evaluation,,,22/07/2016,0001496,0001547,0000421
+0001613,LeafPI_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001497,0001548,0000421
+0001614,LeafSPI_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001498,0001549,0000421
+0001615,TSPI_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001499,0001550,0000421
+0001616,SLA_M_m2kg1,Nursery/Trial evaluation,,,22/07/2016,0001500,0001551,0000805
+0001617,Anet_M_umolCO2m2s2,Nursery/Trial evaluation,,,22/07/2016,0001501,0001552,0001588
+0001618,Asat_M_umolCO2m2s1,Nursery/Trial evaluation,,,22/07/2016,0001502,0001553,0001588
+0001619,Amax_M_umolCO2m2s2,Nursery/Trial evaluation,,,22/07/2016,0001503,0001554,0001588
+0001620,Ci_M_umolCO2mol1,Nursery/Trial evaluation,,,22/07/2016,0001504,0001555,0001589
+0001621,PhiPS2_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001505,0001556,0000421
+0001622,PhiCO2_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001506,0001557,0000421
+0001623,ETR_M_?molm2s1,Nursery/Trial evaluation,,,22/07/2016,0001507,0001558,0001590
+0001624,FmDA_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001508,0001559,0000421
+0001625,FmLA_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001508,0001560,0000421
+0001626,FoDA_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001509,0001561,0000421
+0001627,FoLA_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001509,0001562,0000421
+0001628,FvDA_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001510,0001563,0000421
+0001629,FvLA_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001510,0001564,0000421
+0001630,FvDAFmDA_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001511,0001565,0000421
+0001631,FvLAFmLA_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001511,0001566,0000421
+0001632,Fs_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001512,0001567,0000421
+0001633,LeafTR_M_mmolH2Om2s1,Nursery/Trial evaluation,,,22/07/2016,0001513,0001568,0001591
+0001634,CiCa_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001514,0001569,0000421
+0001635,LI_M_pct,Nursery/Trial evaluation,,,22/07/2016,0001515,0001570,0000410
+0001636,RUE_Calc_gMJ,Nursery/Trial evaluation,,,22/07/2016,0001516,0001571,0001592
+0001637,RUET_Calc_gMJ,Nursery/Trial evaluation,,,22/07/2016,0001516,0001572,0001592
+0001638,LeafPSSRa_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001517,0001573,0000421
+0001639,LeafPSSRb_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001518,0001574,0000421
+0001640,LeafR675_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001519,0001575,0000421
+0001641,LeafR550_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001520,0001576,0000421
+0001642,LeafR750R550_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001521,0001577,0000421
+0001643,LeafR750R700_M_Idx,Nursery/Trial evaluation,,,22/07/2016,0001522,0001578,0000421
+0001644,SpkDW_Calc_gm2,Nursery/Trial evaluation,,,22/07/2016,0001523,0001579,0000805
+0001645,FLeafLLng_M_cm,Research-intensive characterization,,,21/12/2018,0001524,0001580,0000411
+0001646,FLeafLWid_M_mm,Research-intensive characterization,,,25/10/2015,0001525,0001581,0000428
+0001647,SpkGW_M_g,Nursery/Trial evaluation,After physiological maturity (DS87),,21/12/2018,0001526,0001582,0001593
+0001648,PstriSdlgResp_E_0to8,Nursery/Trial evaluation,DS11-DS15,,25/10/2015,0001527,0001583,0000606
+0001649,LRollSev_E_1to5,Nursery/Trial evaluation,,,25/10/2015,0001528,0001584,0001594
+0001650,LRollInc_E_pct,Nursery/Trial evaluation,,,25/10/2015,0001529,0001585,0000410
+0001651,ISBM_E_1to5,Nursery/Trial evaluation,DS11-DS87,,25/10/2015,0000393,0001586,0000462
+0001657,GrnTllr_Calc_GrnTllr,Trial evaluation,After physiological maturity (DS87),,03/05/2018,0001652,0001654,0001656
+0001658,TllrGW_M_g,Trial evaluation,After physiological maturity (DS87),,03/05/2018,0001653,0001655,0001593
+0501001,Ant_E_jd,Trial evaluation,,,21/12/2018,0000121,0000832,0000855
+0501003,BlkGlmCol_M_0to1,Trial evaluation,,,21/12/2018,0500046,0500208,0500502
+0501004,BLSSev_E_0to9,Trial evaluation,,,21/12/2018,0001019,0500103,0000446
+0501005,BQ_Rating_1to6,Trial evaluation,,,21/12/2018,0500001,0500101,0500517
+0501006,BQ_Score_pct,Trial evaluation,,,21/12/2018,0500001,0500102,0000410
+0501007,BYDInc_E_pct,Trial evaluation,,,21/12/2018,0000096,0500104,0000410
+0501011,BYDResp_E_1to9,Trial evaluation,,,21/12/2018,0500002,0500108,0500520
+0501019,CanopyTemp_Ant_M_c,Trial evaluation,,,21/12/2018,0500004,0500116,0500523
+0501020,CanopyTemp_GF_M_c,Trial evaluation,,,21/12/2018,0500004,0500119,0500523
+0501021,CanopyTempDep_Ant_Calc_c,Trial evaluation,,,21/12/2018,0500005,0500117,0500523
+0501022,CanopyTempDep_GF_Calc_c,Trial evaluation,,,21/12/2018,0500005,0500118,0500523
+0501023,CD_M_cm,Trial evaluation,,,21/12/2018,0500006,0500120,0000411
+0501024,CD_Rating_sd,Trial evaluation,,,21/12/2018,0500006,0500121,0500501
+0501025,Chl_M_spad,Trial evaluation,,,21/12/2018,0000028,0000249,0500527
+0501026,EgramResp_E_0to10,Trial evaluation,,,21/12/2018,0500045,0500122,0500508
+0501027,FertSpkN_Ct_SplSpk,Trial evaluation,,,21/12/2018,0500007,0500123,0000440
+0501028,FgramResp_E_1to9,Trial evaluation,,,21/12/2018,0000925,0000703,0500520
+0501029,FGramSev_GH_E_pct,Trial evaluation,,,21/12/2018,0000926,0500124,0000410
+0501030,FHBDI_Calc_pct,Trial evaluation,,,21/12/2018,0500019,0500125,0000410
+0501038,FHBDON_15ADON_M_ppm,Trial evaluation,,,21/12/2018,0000652,0500135,0000425
+0501039,FHBDON_3ADON_M_ppm,Trial evaluation,,,21/12/2018,0000652,0500136,0000425
+0501040,FHBFlorets_M_pct,Trial evaluation,,,21/12/2018,0500020,0500133,0000410
+0501041,FHBISK_Calc_pct,Trial evaluation,,,21/12/2018,0500021,0500134,0000410
+0501042,FLeafAng_E_1to9,Trial evaluation,,,21/12/2018,0500008,0500143,0500519
+0501044,FLeafChl_M_spad,Trial evaluation,,,21/12/2018,0500009,0500145,0500527
+0501047,FLeafGlau_E_0to10,Trial evaluation,,,21/12/2018,0500010,0500144,0500506
+0501048,FLeafGreenTime_Calc_day,Trial evaluation,,,21/12/2018,0500012,0500148,0000434
+0501049,FLeafLWid_M_cm,Trial evaluation,,,21/12/2018,0001525,0001581,0000411
+0501050,FLeafSen_M_0to9,Trial evaluation,,,21/12/2018,0000194,0500149,0000446
+0501053,FLeafSenTime_Calc_day,Trial evaluation,,,21/12/2018,0500011,0500152,0000434
+0501054,FlrYld_E_sd,Trial evaluation,,,21/12/2018,0000068,0500153,0500501
+0501055,ForAsh_M_pct,Trial evaluation,,,21/12/2018,0500013,0500154,0000410
+0501056,ForFib_M_pct,Trial evaluation,,,21/12/2018,0500014,0500155,0000410
+0501057,ForgDM_Calc_kgha,Trial evaluation,,,21/12/2018,0001032,0500156,0000804
+0501058,ForMst_M_pct,Trial evaluation,,,21/12/2018,0500015,0500157,0000410
+0501059,ForNDF_M_pct,Trial evaluation,,,21/12/2018,0500016,0500158,0000410
+0501060,ForPrt_M_pct,Trial evaluation,,,21/12/2018,0500017,0500159,0000410
+0501061,ForStr_M_pct,Trial evaluation,,,21/12/2018,0500018,0500160,0000410
+0501062,FrostDmg_E_0to3,Trial evaluation,,,21/12/2018,0000127,0000341,0500509
+0501063,GArse_M_ppm,Trial evaluation,,,21/12/2018,0500024,0500161,0000425
+0501064,GCadm_M_ppm,Trial evaluation,,,21/12/2018,0500026,0500162,0000425
+0501065,GCalc_M_ppm,Trial evaluation,,,21/12/2018,0500027,0500163,0000425
+0501066,GCoba_M_ppm,Trial evaluation,,,21/12/2018,0500028,0500164,0000425
+0501067,GCopp_M_ppm,Trial evaluation,,,21/12/2018,0500029,0500165,0000425
+0501068,GHrd_Calc_skcs,Trial evaluation,,,21/12/2018,0000072,0500227,0500526
+0501069,Glau_E_1to9,Trial evaluation,,,21/12/2018,0500022,0500166,0500518
+0501070,GLead_M_ppm,Trial evaluation,,,21/12/2018,0500030,0500167,0000425
+0501071,GLith_M_ppm,Trial evaluation,,,21/12/2018,0500031,0500168,0000425
+0501072,GlmPub_M_0to1,Trial evaluation,,,21/12/2018,0500023,0500169,0500502
+0501073,GLys_M_pct,Trial evaluation,,,21/12/2018,0000967,0500170,0000410
+0501074,GMagn_M_ppm,Trial evaluation,,,21/12/2018,0500032,0500171,0000425
+0501075,GMang_M_ppm,Trial evaluation,,,21/12/2018,0500033,0500172,0000425
+0501076,GMoly_M_ppm,Trial evaluation,,,21/12/2018,0500034,0500173,0000425
+0501077,GN_10Spk_M_grain,Trial evaluation,,,21/12/2018,0000017,0500174,0500524
+0501078,GNick_M_ppm,Trial evaluation,,,21/12/2018,0500035,0500175,0000425
+0501079,GPota_M_ppm,Trial evaluation,,,21/12/2018,0500036,0500176,0000425
+0501080,GrnAsh_M_pct,Trial evaluation,,,21/12/2018,0500025,0500177,0000410
+0501081,GrwHabit_E_1to4,Trial evaluation,,,21/12/2018,0000015,0000238,0500515
+0501082,GSulp_M_ppm,Trial evaluation,,,21/12/2018,0500037,0500179,0000425
+0501083,GW_30Spk_E_g,Trial evaluation,,,21/12/2018,0000025,0500182,0001593
+0501084,GW_Calc_mg,Trial evaluation,,,21/12/2018,0000025,0500228,0500525
+0501085,GW_E_g,Trial evaluation,,,21/12/2018,0000025,0500183,0000804
+0501086,GW_E_g1000grn,Trial evaluation,,,21/12/2018,0000025,0500181,0001593
+0501087,GWid_M_mm,Trial evaluation,,,21/12/2018,0500038,0500178,0000428
+0501088,GY_E_kgha,Trial evaluation,,,21/12/2018,0000013,0500180,0001033
+0501089,HesFlyDmg_B_E_0to9,Trial evaluation,,,21/12/2018,0000088,0500184,0000446
+0501090,HesFlyDmg_C_E_0to9,Trial evaluation,,,21/12/2018,0000088,0500185,0000446
+0501091,HesFlyDmg_D_E_0to9,Trial evaluation,,,21/12/2018,0000088,0500186,0000446
+0501092,HesFlyDmg_E_1to9,Trial evaluation,,,21/12/2018,0000088,0000309,0500520
+0501093,HesFlyDmg_L_E_0to9,Trial evaluation,,,21/12/2018,0000088,0500187,0000446
+0501094,HesFlyDmg_O_E_0to9,Trial evaluation,,,21/12/2018,0000088,0500188,0000446
+0501095,InfertSpkN_E_0to10,Trial evaluation,,,21/12/2018,0001484,0500189,0500507
+0501096,LASRC_Rating_sd,Trial evaluation,,,21/12/2018,0500039,0500191,0500501
+0501097,LASRC_Score_pct,Trial evaluation,,,21/12/2018,0500039,0500190,0000410
+0501098,Lodg_E_Z50_pct,Trial evaluation,,,21/12/2018,0000167,0500192,0000410
+0501099,Lodg_E_Z55_pct,Trial evaluation,,,21/12/2018,0000167,0500193,0000410
+0501100,Mat_canopy_jd,Trial evaluation,,,21/12/2018,0000022,0500194,0000855
+0501101,Mat_Spk_jd,Trial evaluation,,,21/12/2018,0000022,0500195,0000855
+0501102,MQ_Rating_1to6,Trial evaluation,,,21/12/2018,0500041,0500196,0500517
+0501103,MQ_Score_pct,Trial evaluation,,,21/12/2018,0500041,0500197,0000410
+0501104,MSE_Rating_1to6,Trial evaluation,,,21/12/2018,0500042,0500198,0500517
+0501105,MSE_Score_pct,Trial evaluation,,,21/12/2018,0500042,0500199,0000410
+0501106,MTW_M_g,Trial evaluation,,,21/12/2018,0500040,0500200,0001593
+0501107,NIV_M_ppm,Trial evaluation,,,21/12/2018,0500043,0500201,0000425
+0501108,PedGlau_E_0to4,Trial evaluation,,,21/12/2018,0000054,0000274,0500511
+0501109,PgramInc_E_pct,Trial evaluation,,,21/12/2018,0500053,0500209,0000410
+0501110,PgramInf_BCCBC_E_0to9,Trial evaluation,,,21/12/2018,0500054,0500212,0500514
+0501111,PgramInf_FIELD_E_0to9,Trial evaluation,,,21/12/2018,0500054,0500213,0500514
+0501112,PgramInf_JRCQC_E_0to9,Trial evaluation,,,21/12/2018,0500054,0500214,0500514
+0501113,PgramInf_TRTTF_E_0to9,Trial evaluation,,,21/12/2018,0500054,0500215,0500514
+0501114,PgramInf_TTKSK_E_0to9,Trial evaluation,,,21/12/2018,0500054,0500216,0500514
+0501115,PgramInf_TTTF_E_0to9,Trial evaluation,,,21/12/2018,0500054,0500217,0500514
+0501116,PgramResp_E_0to1,Trial evaluation,,,21/12/2018,0000177,0500210,0500504
+0501118,PgramSev_E_0to9,Trial evaluation,,,21/12/2018,0000905,0000693,0000446
+0501120,PlntStnd_E_0to9,Trial evaluation,,,21/12/2018,0000187,0500202,0000450
+0501121,PPOActivity_E_au,Trial evaluation,,,21/12/2018,0500044,0500203,0500503
+0501122,PrecoResp_E_0to1,Trial evaluation,,,21/12/2018,0000178,0000706,0500505
+0501123,PrecoResp_E_0to9,Trial evaluation,,,21/12/2018,0000178,0000706,0000446
+0501124,PrecoSdlgResp_CA1.2_E_0to9,Trial evaluation,,,21/12/2018,0000901,0500204,0000446
+0501125,PrecoSdlgResp_E_0to4,Trial evaluation,,,21/12/2018,0000901,0500205,0500510
+0501126,PrecoSdlgResp_FieldMix_E_0to9,Trial evaluation,,,21/12/2018,0000901,0500206,0000446
+0501127,PrecoSdlgResp_Race1_E_0to9,Trial evaluation,,,21/12/2018,0000901,0500207,0000446
+0501138,SBMVCI_Calc_0to5,Trial evaluation,,,21/12/2018,0500049,0500223,0500512
+0501139,SBMVInc_E_pct,Trial evaluation,,,21/12/2018,0000173,0000359,0000410
+0501140,SBMVResp_E_0to9,Trial evaluation,,,21/12/2018,0500050,0500224,0500513
+0501141,SE_Rating_sd,Trial evaluation,,,21/12/2018,0500048,0500225,0500501
+0501142,SE_Score_pct,Trial evaluation,,,21/12/2018,0500048,0500226,0000410
+0501143,Shattering_E_0to9,Trial evaluation,,,21/12/2018,0000057,0000278,0000446
+0501144,SnodoResp_E_0to9,Trial evaluation,,,21/12/2018,0500047,0500229,0000446
+0501145,SnodoSev_E_0to9,Trial evaluation,,,21/12/2018,0000717,0000991,0000446
+0501146,SnodoSev_Spike_E_0to9,Trial evaluation,,,21/12/2018,0000717,0500230,0000446
+0501147,SpkCol_E_1to5,Trial evaluation,,,21/12/2018,0500051,0500231,0500516
+0501148,SpkDW_M_g,Trial evaluation,,,21/12/2018,0001523,0500232,0001593
+0501149,SpkGlau_E_1to9,Trial evaluation,,,21/12/2018,0500052,0500233,0500518
+0501150,SpkGlau_M_0to1,Trial evaluation,,,21/12/2018,0500052,0500234,0500502
+0501151,SSRC_Rating_sd,Trial evaluation,,,21/12/2018,0500055,0500235,0500501
+0501152,SSRC_Score_pct,Trial evaluation,,,21/12/2018,0500055,0500236,0000410
+0501153,StmDia_M_1to9,Trial evaluation,,,21/12/2018,0000062,0000284,0500521
+0501154,StmSol_E_5to25,Trial evaluation,,,21/12/2018,0000061,0000283,0500522
+0501155,VegPrt_M_pct,Trial evaluation,,,21/12/2018,0500056,0500237,0000410
+0501156,CanopySen_Avg_M_pct,Trial evaluation,,,03/02/2019,0500003,0500238,0000410
+1000003,ABSN.Z65.Z92_kg/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000003,15/06/2016,1010001,1020027,0000283
+1000004,AE_score,,,WIPO:0000004,15/06/2016,1010002,1021083,1030002
+1000005,A-F0(<=10)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000005,15/06/2016,1010003,1021082,0000187
+1000006,A-F1(<=12)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000006,15/06/2016,1010003,1021081,0000187
+1000007,A-F2(<=14)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000007,15/06/2016,1010003,1021080,0000187
+1000008,A-F3(<=16)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000008,15/06/2016,1010003,1021079,0000187
+1000009,A-F4(<=18)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000009,15/06/2016,1010003,1021078,0000187
+1000010,A-F5(<=20)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000010,15/06/2016,1010003,1021077,0000187
+1000011,A-F6(<=22)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000011,15/06/2016,1010003,1021076,0000187
+1000012,A-F7(<=24)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000012,15/06/2016,1010003,1021075,0000187
+1000013,A-F8(<=26)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000013,15/06/2016,1010003,1021074,0000187
+1000014,A-F9(<=28)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000014,15/06/2016,1010003,1021073,0000187
+1000015,AGDM_g/m_,,,WIPO:0000015,15/06/2016,0000007,1020018,1030003
+1000016,AGDM.Z65.Z92_t/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000016,15/06/2016,1010100,1021072,1030003
+1000017,AWN_B-NB,,,WIPO:0000017,15/06/2016,1010102,1021071,1030005
+1000018,AGDM.Z92_g/m_,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000018,15/06/2016,0000006,1021070,1030003
+1000021,FUS-INOC+350DD_dd,,INOC+350DD,WIPO:0000021,15/06/2016,1010007,1021069,1030013
+1000022,FUS-INOC+450DD_dd,,INOC+450DD,WIPO:0000022,15/06/2016,1010103,1021068,1030013
+1000026,D.Z00_jj/mm/aa,,Z.00 (Dry seed),WIPO:0000026,15/06/2016,0000007,1020018,1030007
+1000029,D.Z10_jj/mm/aa,,Z10 (First leaf through coleoptile),WIPO:0000029,15/06/2016,0000021,1020018,1030008
+1000032,D.Z30_jj/mm/aa,,Z30 (Pseudostem (youngest leaf sheath erection)),WIPO:0000032,15/06/2016,1010104,1021067,1030008
+1000035,D.Z55_jj/mm/aa,,Z55 (Ear half emerged),WIPO:0000035,15/06/2016,1010012,1020005,1030008
+1000036,D.Z55_d,,Z55 (Ear half emerged),WIPO:0000036,15/06/2016,1010012,1020005,1030012
+1000037,D.Z55_dd,,Z55 (Ear half emerged),WIPO:0000037,15/06/2016,1010012,1020005,1030013
+1000038,D.Z65_jj/mm/aa,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000038,15/06/2016,1010013,1020006,1030008
+1000039,D.Z65_d,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000039,15/06/2016,1010013,1020006,1030012
+1000041,D.Z92_jj/mm/aa,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000041,15/06/2016,0000008,1021066,1030008
+1000047,EFFG_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000047,15/06/2016,1010016,1021065,0000187
+1000048,EFFREMN_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000048,15/06/2016,1010017,1021064,0000187
+1000049,SEN-END_d,,,WIPO:0000049,15/06/2016,1010018,1020033,1030012
+1000051,ENR-F1.Z69_score,,Z69 (Anthesis complete),WIPO:0000051,15/06/2016,1010108,1021063,1030006
+1000052,ENR-F1.Z75_score,,Z75 (Medium milk),WIPO:0000052,15/06/2016,1010108,1021062,1030006
+1000053,ENR-F1.Z83_score,,Z83 (Early dough),WIPO:0000053,15/06/2016,1010108,1021061,1030006
+1000054,AGDM.Z65_t/ha,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000054,15/06/2016,0000005,1020007,1030003
+1000055,N.Z65_%,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000055,15/06/2016,1010109,1020008,0000187
+1000056,FUS-FDK_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000056,15/06/2016,1010101,1020009,0000187
+1000057,FSPS,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000057,15/06/2016,0000058,1021060,0000190
+1000058,FUS-SPK.350DD_%,,INOC+350DD,WIPO:0000058,15/06/2016,1010115,1020043,0000187
+1000059,FUS-SPK.450DD_%,,INOC+450DD,WIPO:0000059,15/06/2016,1010115,1021059,0000187
+1000067,GNC_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000067,15/06/2016,1010105,1020010,0000187
+1000068,GNY_kg/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000068,15/06/2016,1010106,1020008,0000283
+1000069,GPA,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000069,15/06/2016,0000017,1020010,0000190
+1000070,GPC_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000070,15/06/2016,1010015,1020012,0000187
+1000071,GPS,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000071,15/06/2016,0000038,1021058,0000190
+1000072,G/P,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000072,15/06/2016,1010098,1020010,0000190
+1000073,PLOT-GW_g,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000073,15/06/2016,0000025,1021057,1030010
+1000074,GY_q/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000074,15/06/2016,0000013,1020013,1030011
+1000076,GY15,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000076,15/06/2016,0000013,1020014,1030011
+1000077,GY15.bot_g,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000077,15/06/2016,1010117,1021056,1030010
+1000078,PLOT-HA_m_,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000078,15/06/2016,1010021,1021055,0000080
+1000079,SPIKELENGTH.Z30_mm,,Z30 (Pseudostem (youngest leaf sheath erection)),WIPO:0000079,15/06/2016,0000056,1021054,1030017
+1000080,HI,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000080,15/06/2016,0000123,1021053,0000187
+1000081,AIR-HYGRO,,,WIPO:0000081,15/06/2016,1010024,1020021,0000187
+1000083,NNI.Z65_%,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000083,15/06/2016,1010025,1021052,0000187
+1000084,NNI.Z91_%,,"Z91 (Grain hard, difficult to divide)",WIPO:0000084,15/06/2016,1010025,1021051,0000187
+1000085,FUS-INOC-DATE_jj/mm/aa,,,WIPO:0000085,15/06/2016,1010026,1021050,1030008
+1000086,FUS-INOC-GROUP,,,WIPO:0000086,15/06/2016,1010027,1021049,1030109
+1000087,SEN-DUR_d,,,WIPO:0000087,15/06/2016,1010028,1020018,1030012
+1000088,SEN-DUR_dd,,,WIPO:0000088,15/06/2016,1010028,1020018,1030013
+1000089,L-F0(<=4.5)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000089,15/06/2016,0000979,1020028,0000187
+1000090,L-F1(<=5.0)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000090,15/06/2016,0000979,1020028,0000187
+1000091,L-F2(<=5.5)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000091,15/06/2016,0000979,1020028,0000187
+1000092,L-F3(<=6.0)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000092,15/06/2016,0000979,1020028,0000187
+1000093,L-F4(<=6.5)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000093,15/06/2016,0000979,1020028,0000187
+1000094,L-F5(<=7.0)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000094,15/06/2016,0000979,1020028,0000187
+1000095,L-F6(<=7.5)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000095,15/06/2016,0000979,1020028,0000187
+1000096,L-F7(<=8.0)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000096,15/06/2016,0000979,1020028,0000187
+1000097,L-F8(<=8.5)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000097,15/06/2016,0000979,1020028,0000187
+1000098,L-F9(<=9.0)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000098,15/06/2016,0000979,1020028,0000187
+1000099,LS_score,,,WIPO:0000099,15/06/2016,0000167,1020016,1030006
+1000100,MARVIN-NBGRAINS,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000100,15/06/2016,0000017,1020028,1030109
+1000101,FUS-SCORE_score,,,WIPO:0000101,15/06/2016,0000924,1020018,1030006
+1000104,FUS-SPK_%,,,WIPO:0000104,15/06/2016,1010096,1021048,0000187
+1000105,FUS-SPK.350DD_score,,INOC+350DD,WIPO:0000105,15/06/2016,1010095,1021047,1030006
+1000106,FUS-SPK.450DD_score,,INOC+450DD,WIPO:0000106,15/06/2016,1010095,1021046,1030006
+1000107,FUS-SCORE.350DD_score,,INOC+350DD,WIPO:0000107,15/06/2016,1010097,1021045,1030006
+1000108,FUS-SCORE.450DD_score,,INOC+450DD,WIPO:0000108,15/06/2016,1010097,1021044,1030006
+1000109,ST-SCORE_score,,,WIPO:0000109,15/06/2016,0000919,1020018,1030006
+1000110,ST-INOC-DATE_jj/mm/aa,,,WIPO:0000110,15/06/2016,1010034,1021043,1030008
+1000113,ST-FDI,,,WIPO:0000113,15/06/2016,1010035,1020018,1030109
+1000114,ST-F1-SCORE_score,,,WIPO:0000114,15/06/2016,1010036,1020018,1030006
+1000115,ST-F2-SCORE_score,,,WIPO:0000115,15/06/2016,1010036,1020018,1030006
+1000116,ST-SDI_score,,,WIPO:0000116,15/06/2016,1010037,1020041,1030006
+1000117,ST-SPO_score,,,WIPO:0000117,15/06/2016,1010038,1021042,1030006
+1000118,ABSN.Z65_g/m_,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000118,15/06/2016,1010039,1021041,1030003
+1000119,NDVI,,,WIPO:0000119,15/06/2016,0000301,1020045,0000190
+1000120,NDVI.Z71,,Z71 (Kernel water ripe (no starch)),WIPO:0000120,15/06/2016,0000301,1020045,0000190
+1000121,NDVI.Z73,,Z73 (Early milk),WIPO:0000121,15/06/2016,0000301,1020045,0000190
+1000122,NDVI.Z75,,Z75 (Medium milk),WIPO:0000122,15/06/2016,0000301,1020045,0000190
+1000123,NDVI.Z80,,Z80 (Kernel no longer watery but still soft and dough-like.),WIPO:0000123,15/06/2016,0000301,1020045,0000190
+1000124,NDVI.Z65,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000124,15/06/2016,0000301,1020045,0000190
+1000125,ABSN-MAX.Z65_kg/ha,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000125,15/06/2016,1010099,1020026,0000283
+1000126,NHI_%,,,WIPO:0000126,15/06/2016,1010041,1021040,0000187
+1000133,STR-NA.Z92_kg/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000133,15/06/2016,1010043,1021039,0000283
+1000134,NT.Z13,,Z13 (Three leaves emerged),WIPO:0000134,15/06/2016,0000190,1021038,0000189
+1000135,ABSN.Z92_kg/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000135,15/06/2016,1010045,1021037,0000283
+1000136,ABSN-MAX.Z92_kg/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000136,15/06/2016,1010046,1020026,0000283
+1000137,ABSN.Z91_g/m_,,"Z91 (Grain hard, difficult to divide)",WIPO:0000137,15/06/2016,1010047,1021036,1030003
+1000138,NUE,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000138,15/06/2016,1010048,1021035,1030014
+1000139,NUE-prot,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000139,15/06/2016,1010049,1021034,1030099
+1000140,NUpE.Z65_%,,Z65 (Anthesis half-way (anthers occurring half way to tip and base of ear)),WIPO:0000140,15/06/2016,1010050,1021033,0000187
+1000141,NUpE.Z92_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000141,15/06/2016,1010051,1021032,0000187
+1000142,NUtE,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000142,15/06/2016,1010052,1021031,1030014
+1000143,NUtE-prot,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000143,15/06/2016,1010053,1021030,1030015
+1000144,GRAIN-AREA_mm_,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000144,15/06/2016,1010054,1020040,1030016
+1000145,PM-SCORE_score,,,WIPO:0000145,15/06/2016,0000937,1021029,1030006
+1000146,GRAIN-LENGTH_mm,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000146,15/06/2016,0000979,1020040,1030017
+1000147,GRAIN-WIDTH_mm,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000147,15/06/2016,0000980,1020040,1030017
+1000148,PH_mm,,,WIPO:0000148,15/06/2016,0000020,1020030,1030017
+1000150,PPA.Z11_plants/m_,,Z11  (First leaf emerged),WIPO:0000150,15/06/2016,1010059,1021028,1030018
+1000151,PPA.Z13_plants/m_,,Z13 (Three leaves emerged),WIPO:0000151,15/06/2016,1010059,1020007,1030018
+1000152,BR-SCORE_1 to 9 score,,,WIPO:0000152,15/06/2016,1010060,1021027,1030006
+1000159,FUS-RelW,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000159,15/06/2016,1010093,1020044,1030109
+1000160,REMN_kg/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000160,15/06/2016,1010063,1021026,0000283
+1000161,RH_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000161,15/06/2016,0000012,1020031,0000187
+1000162,YR-SCORE_score,,,WIPO:0000162,15/06/2016,0000907,1021025,1030006
+1000163,SA,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000163,15/06/2016,0000055,1020032,0000190
+1000164,SEN-F1.Z75_%,,Z75 (Medium milk),WIPO:0000164,15/06/2016,1010000,1021024,0000187
+1000165,SEN-F1.Z80_%,,Z80 (Kernel no longer watery but still soft and dough-like.),WIPO:0000165,15/06/2016,1010000,1021023,0000187
+1000166,SEN-F2.Z75_%,,Z75 (Medium milk),WIPO:0000166,15/06/2016,1010000,1021022,0000187
+1000167,SEN-F2.Z80_%,,Z80 (Kernel no longer watery but still soft and dough-like.),WIPO:0000167,15/06/2016,1010000,1021021,0000187
+1000168,SSPS,,,WIPO:0000168,15/06/2016,0000058,1021020,0000190
+1000169,SEN-START_d,,,WIPO:0000169,15/06/2016,1010068,1021019,1030012
+1000171,STR-DM.Z92_kg/ha,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000171,15/06/2016,0001032,1020010,0000009
+1000172,STR-N.Z92_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000172,15/06/2016,1010070,1020010,0000187
+1000173,SW_kg/hl,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000173,15/06/2016,0000159,1020034,1030019
+1000174,T-CANOP.Z45_°C,,Z45 (Boots swollen),WIPO:0000174,15/06/2016,0000193,1021018,1030020
+1000175,T-CANOP_°C,,,WIPO:0000175,15/06/2016,0000193,1021017,1030020
+1000176,MARVIN-GW,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000176,15/06/2016,0000025,1020028,1030109
+1000177,TKW_g,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000177,15/06/2016,0000025,1020036,1030010
+1000179,TKW15_g,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000179,15/06/2016,0000025,1021016,1030010
+1000180,TKWbrut_g,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000180,15/06/2016,0000025,1021015,1030010
+1000181,T-CANOP-MAX_°C,,,WIPO:0000181,15/06/2016,0000193,1020035,1030020
+1000182,T-CANOP-MAX.Z75_°C,,Z75 (Medium milk),WIPO:0000182,15/06/2016,0000193,1020035,1030020
+1000183,T-CANOP-MIN_°C,,,WIPO:0000183,15/06/2016,0000193,1020035,1030020
+1000184,T-CANOP-MIN.Z75_°C,,Z75 (Medium milk),WIPO:0000184,15/06/2016,0000193,1020035,1030020
+1000185,T-CANOP-MOY_°C,,,WIPO:0000185,15/06/2016,0000193,1020035,1030020
+1000186,T-CANOP-MOY.Z75_°C,,Z75 (Medium milk),WIPO:0000186,15/06/2016,0000193,1020035,1030020
+1000187,T-CANOP-NEUTRE_°C,,,WIPO:0000187,15/06/2016,0000193,1020035,1030020
+1000188,T-CANOP-REF.Z75_°C,,Z75 (Medium milk),WIPO:0000188,15/06/2016,0000193,1020035,1030020
+1000189,TSPS,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000189,15/06/2016,0000058,1021014,0000190
+1000190,PLOT-VALID_score,,,WIPO:0000190,15/06/2016,1010081,1021013,1030006
+1000191,VI,,,WIPO:0000191,15/06/2016,1010082,1020020,0000190
+1000192,VI.Z71,,Z71 (Kernel water ripe (no starch)),WIPO:0000192,15/06/2016,1010082,1020020,0000190
+1000193,VI.Z73,,Z73 (Early milk),WIPO:0000193,15/06/2016,1010082,1020020,0000190
+1000194,VI.Z75,,Z75 (Medium milk),WIPO:0000194,15/06/2016,1010082,1020020,0000190
+1000195,VI.Z80,,Z80 (Kernel no longer watery but still soft and dough-like.),WIPO:0000195,15/06/2016,1010082,1020020,0000190
+1000196,VI.Z85,,Z85  (Soft dough),WIPO:0000196,15/06/2016,1010082,1020020,0000190
+1000197,MARVIN-TKW_g,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000197,15/06/2016,0000025,1020028,1030010
+1000198,W-F0(<=2.50)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000198,15/06/2016,1010084,1020028,0000187
+1000199,W-F1(<=2.75)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000199,15/06/2016,1010084,1020028,0000187
+1000200,W-F2(<=3.00)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000200,15/06/2016,1010084,1020028,0000187
+1000201,W-F3(<=3.25)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000201,15/06/2016,1010084,1020028,0000187
+1000202,W-F4(<=3.50)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000202,15/06/2016,1010084,1020028,0000187
+1000203,W-F5(<=3.75)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000203,15/06/2016,1010084,1020028,0000187
+1000204,W-F6(<=4.00)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000204,15/06/2016,1010084,1020028,0000187
+1000205,W-F7(<=4.25)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000205,15/06/2016,1010084,1020028,0000187
+1000206,W-F8(<=4.50)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000206,15/06/2016,1010084,1020028,0000187
+1000207,W-F9(<=4.75)_%,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000207,15/06/2016,1010084,1020028,0000187
+1000208,SOIL-WR,,,WIPO:0000208,15/06/2016,1010085,1021012,1030109
+1000210,GLAI_note,,,WIPO:0000210,15/06/2016,0000184,1021011,1030022
+1000216,HA,,"Z92 (Grain hard, not dented by thumbnail)",WIPO:0000216,15/06/2016,0000072,1021010,1030109
+1000217,r,,,WIPO:0000217,21/09/2017,0000013,1020029,0000187
+1000218,ht,,,WIPO:0000218,21/09/2017,0000020,1021009,0000015
+1000219,prec,,,WIPO:0000219,21/09/2017,1010127,1021008,1030012
+1000220,ps,,,WIPO:0000220,21/09/2017,0000025,1020047,1030100
+1000221,rb,,,WIPO:0000221,21/09/2017,0000687,1020046,1030006
+1000222,zel,,,WIPO:0000222,21/09/2017,1010130,1021007,0000098
+1000223,pel,,,WIPO:0000223,21/09/2017,1010131,1020054,0000190
+1000224,sds,,,WIPO:0000224,21/09/2017,1010132,1021006,0000098
+1000225,vp,,,WIPO:0000225,21/09/2017,1010146,1021005,1030109
+1000226,W,,,WIPO:0000226,21/09/2017,1010156,1020054,1030109
+1000227,P,,,WIPO:0000227,21/09/2017,1010155,1020054,1030109
+1000228,L,,,WIPO:0000228,21/09/2017,1010154,1020054,1030109
+1000229,P/L,,,WIPO:0000229,21/09/2017,1010153,1020054,1030101
+1000230,G,,,WIPO:0000230,21/09/2017,1010152,1020054,1030109
+1000231,hag,,,WIPO:0000231,21/09/2017,1010145,1021004,1030109
+1000232,NpateC,,,WIPO:0000232,21/09/2017,1010151,1020053,0000187
+1000233,NpainC,,,WIPO:0000233,21/09/2017,1010150,1020052,0000187
+1000234,NtotC,,,WIPO:0000234,21/09/2017,1010148,1020052,0000187
+1000235,volC,,,WIPO:0000235,21/09/2017,1010147,1020052,0000187
+1000236,NpateG,,,WIPO:0000236,21/09/2017,1010151,1020051,0000187
+1000237,NpainG,,,WIPO:0000237,21/09/2017,1010150,1020051,0000187
+1000238,NmieG,,,WIPO:0000238,21/09/2017,1010149,1020051,0000187
+1000239,NtotG,,,WIPO:0000239,21/09/2017,1010148,1020051,1030109
+1000240,volG,,,WIPO:0000240,21/09/2017,1010147,1020051,1030109
+1000241,NpateL,,,WIPO:0000241,21/09/2017,1010151,1020050,0000187
+1000242,NpainL,,,WIPO:0000242,21/09/2017,1010150,1020050,0000187
+1000243,NmieL,,,WIPO:0000243,21/09/2017,1010149,1020050,0000187
+1000244,NtotL,,,WIPO:0000244,21/09/2017,1010148,1020050,1030109
+1000245,volL,,,WIPO:0000245,21/09/2017,1010147,1020050,1030109
+1000246,NpateS,,,WIPO:0000246,21/09/2017,1010151,1020049,0000187
+1000247,NpainS,,,WIPO:0000247,21/09/2017,1010150,1020049,0000187
+1000248,NmieS,,,WIPO:0000248,21/09/2017,1010149,1020049,0000187
+1000249,NtotS,,,WIPO:0000249,21/09/2017,1010148,1020049,1030109
+1000250,volS,,,WIPO:0000250,21/09/2017,1010147,1020049,1030109
+1000251,pvp,,,WIPO:0000251,21/09/2017,1010139,1021003,1030102
+1000252,pva,,,WIPO:0000252,21/09/2017,1010139,1021002,1030102
+1000253,NpateD,,,WIPO:0000253,21/09/2017,1010151,1020048,0000187
+1000254,NpainD,,,WIPO:0000254,21/09/2017,1010150,1020048,0000187
+1000255,NmieD,,,WIPO:0000255,21/09/2017,1010149,1020048,0000187
+1000256,NtotD,,,WIPO:0000256,21/09/2017,1010148,1020048,1030109
+1000257,volD,,,WIPO:0000257,21/09/2017,1010147,1020048,1030109
+1000271,fr,,,WIPO:0000271,21/09/2017,1010144,1021001,1030006

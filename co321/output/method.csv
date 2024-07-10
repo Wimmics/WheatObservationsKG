@@ -1,0 +1,824 @@
+id,name,class,description,formula,reference
+0001027,BM Computation,ComputationMethod,"Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot. Biomass as other yield components can be calculated or measured individually (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0001027,BM Computation,ComputationMethod,"Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot. Biomass as other yield components can be calculated or measured individually (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0001027,BM Computation,ComputationMethod,"Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot. Biomass as other yield components can be calculated or measured individually (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000229,BM Measurement,MeasurementMethod,"Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot. Biomass as other yield components can be calculated or measured individually (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000229,BM Measurement,MeasurementMethod,"Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot. Biomass as other yield components can be calculated or measured individually (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000229,BM Measurement,MeasurementMethod,"Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot. Biomass as other yield components can be calculated or measured individually (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000299,AcdTol  Estimation,EstimationMethod,Observe the growth of plants per plot/entry in a low pH (acid) soil field and rate the tolerance.,,"Reynolds et al., 2001 (Ch. 15)"
+0000351,AgrScr Estimation,EstimationMethod,For agronomic score observe visually detectable signs of factors limiting yields and rate.,,
+0000351,AgrScr Estimation,EstimationMethod,For agronomic score observe visually detectable signs of factors limiting yields and rate.,,
+0000351,AgrScr Estimation,EstimationMethod,For agronomic score observe visually detectable signs of factors limiting yields and rate.,,
+0000304,AtritResp Estimation,EstimationMethod,Standard method for Alternaria leaf blight field response.,,"Duveiller et al., 2012"
+0000300,AlTol Estimation,EstimationMethod,Observe the growth of plants per plot/entry in a soil presenting aluminum toxicity and rate the tolerance.,,"Reynolds et al., 2001 (Ch. 15)"
+0000305,AntDmg Estimation,EstimationMethod,Standard method for ant damage.,,
+0000832,Ant DS65 date Estimation,EstimationMethod,Record date of anthesis (DS65) when 50% of spikes have flowered (i.e. at least 1 anther dehisced).,,"Zadoks et al., 1974,  Pask et al., 2012"
+0000336,Ant DS65 DT Computation,ComputationMethod,"Number of days required from sowing to when 50% of spikes have flowered (DS65). However, when planting in dry soils in dryland areas it is counted from the first day of rainfall or irrigation which is sufficient for germination, or from emergence date.",xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000306,AphDmg Estimation,EstimationMethod,Standard method for aphid damage.,,"Duveiller et al., 2012"
+0000306,AphDmg Estimation,EstimationMethod,Standard method for aphid damage.,,"Duveiller et al., 2012"
+0000307,ArmyWDmg Estimation,EstimationMethod,Standard method for armyworm damage.,,"Duveiller et al., 2012"
+0000247,AwnLng  Measurement,MeasurementMethod,Standard method for awn length.,,
+0000346,BLBInc Estimation,EstimationMethod,Standard method for Bacterial leaf blight incidence.,,"Duveiller et al., 1997 (Chapter 3)"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000691,HgramInc Estimation,EstimationMethod,Standard method for Barley Helminthosporium leaf stripe incidence.,,
+0000691,HgramInc Estimation,EstimationMethod,Standard method for Barley Helminthosporium leaf stripe incidence.,,
+0000691,HgramInc Estimation,EstimationMethod,Standard method for Barley Helminthosporium leaf stripe incidence.,,
+0001026,Rust Coefficient of infection Computation,ComputationMethod,"Coefficient of infection (CI) calculated by multiplying the severity times a constant for host response: where immune = 0.0, R=0.2, MR =0.4, MS =0.8, and S=1.0.",xxxx,"Roelfs et al., 1992"
+0000648,PhordInc Estimation,EstimationMethod,Standard method for Barley leaf rust incidence.,,"Roelfs, A.P., R.P. Singh, and E.E. Saari. 1992. Rust Diseases of Wheat: Concepts and methods of disease management. Mexico, D.F.: CIMMYT."
+0000693,Rust severity Estimation,EstimationMethod,"Severity of rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000324,Modified cobb scale for severity,EstimationMethod,"Severity of leaf/stem/stripe rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000372,RsecaInc Estimation,EstimationMethod,Standard method for barley scald incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000315,BSMV Estimation,EstimationMethod,Standard method for barley stripe mosaic virus incidence.,,"Duveiller et al., 2012"
+0000316,BYDInc Estimation,EstimationMethod,Standard method for barley yellow dwarf incidence.,,"Duveiller et al., 2012"
+0000316,BYDInc Estimation,EstimationMethod,Standard method for barley yellow dwarf incidence.,,"Duveiller et al., 2012"
+0000316,BYDInc Estimation,EstimationMethod,Standard method for barley yellow dwarf incidence.,,"Duveiller et al., 2012"
+0000308,BirdDmg Estimation,EstimationMethod,Standard method for bird damage.,,
+0000308,BirdDmg Estimation,EstimationMethod,Standard method for bird damage.,,
+0000694,BlkPtInc Estimation,EstimationMethod,Black point incidence is usually expressed as the percentage of grain with black point symptoms.,,
+0000694,BlkPtInc Estimation,EstimationMethod,Black point incidence is usually expressed as the percentage of grain with black point symptoms.,,
+0000833,Boot DS45 date Estimation,EstimationMethod,Record booting stage (DS45) when 50% of culms present boot swollen.,,"Zadoks et al., 1974,  Pask et al., 2012"
+0000841,Boot DS39 date Estimation,EstimationMethod,Record date of initiation of booting stage when 50% of the culms expected to produce spikes are between DS39 (Flag leaf ligule/collar just visible) and DS41 (Flag leaf sheath extending).,,"Zadoks et al., 1974,  Pask et al., 2012"
+0000376,Boot DS45 DT Computation,ComputationMethod,"Number of days from sowing to booting stage (DS45). However, when planting in dry soils in dryland areas it is counted from the first day of rainfall or irrigation which is sufficient for germination, or from emergence date.",xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000379,Boot DS39 DT Computation,ComputationMethod,"Number of days from sowing to initiation of booting (DS39-DS41). However, when planting in dry soils in dryland areas it is counted from the first day of rainfall or irrigation which is sufficient for germination, or from emergence date.",xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000792,BTol Estimation,EstimationMethod,"The response of a cultivar or genotype is expressed on a score 1-9, where 1= highly susceptible and 9 = highly tolerant, based on the extent of bronze colored necrosis of leaf tips extending down the leaf margins",,
+0000287,CrmStr Estimation,EstimationMethod,Standard method for crumb structure.,,
+0000338,LofVol Measurement,MeasurementMethod,Standard method for loaf volume.,,
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000280,StayGreen Estimation,EstimationMethod,"Stay-green assessment is conducted through the growing season, starting with the onset of the senescence of the specific organ to be evaluated.",,
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000381,CT Measurement,MeasurementMethod,"Take measurements at least two times from full ground cover to the end of booting ('pre-heading'), and at least two times from the end of anthesis to late grainfilling ('grain-filling') -with 5-7 days between each measurement to give a reasonably heritable estimate of trait expression.",,"Pask et al., 2012 (Ch. 1)"
+0000230,CTD Computation,ComputationMethod,Standard method for canopy temperature depression.,xxxx,"Pask et al., 2012 (Ch. 1)"
+0000364,Canopy spectral reflectance Measurement,MeasurementMethod,Standard method for spectral reflectance.,,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0000302,ColdTol Estimation,EstimationMethod,Observe the growth of plants per plot/entry at temperature lower than the optimum temperature and rate the tolerance.,,"Reynolds et al., 2001 (Ch. 9)"
+0000302,ColdTol Estimation,EstimationMethod,Observe the growth of plants per plot/entry at temperature lower than the optimum temperature and rate the tolerance.,,"Reynolds et al., 2001 (Ch. 9)"
+0000250,ColeopLng  Measurement,MeasurementMethod,Standard method for coleoptile length.,,
+0000363,TilSpSpkInc Estimation,EstimationMethod,Common bunt incidence is usually expressed as the percentage of bunted spikes within a row.,,"Wilcoxson and Saari, 1996"
+0000695,RootRot Estimation,EstimationMethod,Standard method for common root rot incidence.,,
+0000286,CookSdF Measurement,MeasurementMethod,Standard method for cookie spread factor.,,
+0000237,GrndCov Measurement (GS15),MeasurementMethod,Standard method for ground cover at 5 leaves stage.,,
+0000405,GrndCov Measurement,MeasurementMethod,High throughput approaches to measuring ground cover are: visual assessment or digital analysis of photographs,,"Pask et al., 2012 (Ch. 10)"
+0000408,CropGrwRate Computation,ComputationMethod,Standard method for crop growth rate.,xxxx,"Karimi and Siddique, 1991"
+0000327,HavenDmg Estimation,EstimationMethod,Cereal cyst nematodes are more readily detected on seedlings than on adult plants. The roots of infested plants develop frequent branches and swellings (cysts).,,"Riley et al., 2009, Duveiller et al., 2012"
+0000834,DR date Estimation,EstimationMethod,"Record date of double ridge stage (DS14-15 approx.). Double ridge signifies that the plant?s main growing point will produce no more primordial leaves, and instead will produce primordial spikelets of the young spike. The dissection and observation of the main tiller apex on an optic magnifier is required.",,"Kirby and Appleyard, 1984"
+0000377,DR DT Computation,ComputationMethod,"Number of days from sowing to double ridge (DS14-15 approx.). However, when planting in dry soils in dryland areas it is counted from the first day of rainfall or irrigation which is sufficient for germination, or from emergence date.",xxxx,"Kirby and Appleyard, 1984"
+0000385,ALVEOGRAPH determination AACC 54-30 A,MeasurementMethod,"1. A sample of 60 grams or 250 grams of flour is mixed with a salt solution to form a dough.  2. The dough is sheeted, rested and inflated in the Chopin Alveograph, 2. Five 4.5 centimeter circular dough patties are formed and then rested in the alveograph in a temperature-regulated compartment at 25 degrees Celsius for approximately 20 minutes, 3. Each dough patty is tested individually. The alveograph blows air into a dough patty, which expands into a bubble that eventually breaks, 4. The pressure inside the bubble is recorded as a curve on graph paper. The alveograph determines the gluten strength of a dough by measuring the force required to blow and break a bubble of dough. The results include P Value, L Value, and W Value.",xxxx,
+0000385,ALVEOGRAPH determination AACC 54-30 A,MeasurementMethod,"1. A sample of 60 grams or 250 grams of flour is mixed with a salt solution to form a dough.  2. The dough is sheeted, rested and inflated in the Chopin Alveograph, 2. Five 4.5 centimeter circular dough patties are formed and then rested in the alveograph in a temperature-regulated compartment at 25 degrees Celsius for approximately 20 minutes, 3. Each dough patty is tested individually. The alveograph blows air into a dough patty, which expands into a bubble that eventually breaks, 4. The pressure inside the bubble is recorded as a curve on graph paper. The alveograph determines the gluten strength of a dough by measuring the force required to blow and break a bubble of dough. The results include P Value, L Value, and W Value.",xxxx,
+0000385,ALVEOGRAPH determination AACC 54-30 A,MeasurementMethod,"1. A sample of 60 grams or 250 grams of flour is mixed with a salt solution to form a dough.  2. The dough is sheeted, rested and inflated in the Chopin Alveograph, 2. Five 4.5 centimeter circular dough patties are formed and then rested in the alveograph in a temperature-regulated compartment at 25 degrees Celsius for approximately 20 minutes, 3. Each dough patty is tested individually. The alveograph blows air into a dough patty, which expands into a bubble that eventually breaks, 4. The pressure inside the bubble is recorded as a curve on graph paper. The alveograph determines the gluten strength of a dough by measuring the force required to blow and break a bubble of dough. The results include P Value, L Value, and W Value.",xxxx,
+0000385,ALVEOGRAPH determination AACC 54-30 A,MeasurementMethod,"1. A sample of 60 grams or 250 grams of flour is mixed with a salt solution to form a dough.  2. The dough is sheeted, rested and inflated in the Chopin Alveograph, 2. Five 4.5 centimeter circular dough patties are formed and then rested in the alveograph in a temperature-regulated compartment at 25 degrees Celsius for approximately 20 minutes, 3. Each dough patty is tested individually. The alveograph blows air into a dough patty, which expands into a bubble that eventually breaks, 4. The pressure inside the bubble is recorded as a curve on graph paper. The alveograph determines the gluten strength of a dough by measuring the force required to blow and break a bubble of dough. The results include P Value, L Value, and W Value.",xxxx,
+0000385,ALVEOGRAPH determination AACC 54-30 A,MeasurementMethod,"1. A sample of 60 grams or 250 grams of flour is mixed with a salt solution to form a dough.  2. The dough is sheeted, rested and inflated in the Chopin Alveograph, 2. Five 4.5 centimeter circular dough patties are formed and then rested in the alveograph in a temperature-regulated compartment at 25 degrees Celsius for approximately 20 minutes, 3. Each dough patty is tested individually. The alveograph blows air into a dough patty, which expands into a bubble that eventually breaks, 4. The pressure inside the bubble is recorded as a curve on graph paper. The alveograph determines the gluten strength of a dough by measuring the force required to blow and break a bubble of dough. The results include P Value, L Value, and W Value.",xxxx,
+0000385,ALVEOGRAPH determination AACC 54-30 A,MeasurementMethod,"1. A sample of 60 grams or 250 grams of flour is mixed with a salt solution to form a dough.  2. The dough is sheeted, rested and inflated in the Chopin Alveograph, 2. Five 4.5 centimeter circular dough patties are formed and then rested in the alveograph in a temperature-regulated compartment at 25 degrees Celsius for approximately 20 minutes, 3. Each dough patty is tested individually. The alveograph blows air into a dough patty, which expands into a bubble that eventually breaks, 4. The pressure inside the bubble is recorded as a curve on graph paper. The alveograph determines the gluten strength of a dough by measuring the force required to blow and break a bubble of dough. The results include P Value, L Value, and W Value.",xxxx,
+0000385,ALVEOGRAPH determination AACC 54-30 A,MeasurementMethod,"1. A sample of 60 grams or 250 grams of flour is mixed with a salt solution to form a dough.  2. The dough is sheeted, rested and inflated in the Chopin Alveograph, 2. Five 4.5 centimeter circular dough patties are formed and then rested in the alveograph in a temperature-regulated compartment at 25 degrees Celsius for approximately 20 minutes, 3. Each dough patty is tested individually. The alveograph blows air into a dough patty, which expands into a bubble that eventually breaks, 4. The pressure inside the bubble is recorded as a curve on graph paper. The alveograph determines the gluten strength of a dough by measuring the force required to blow and break a bubble of dough. The results include P Value, L Value, and W Value.",xxxx,
+0000389,MIXOGRAPH determination AACC 54-40 A,EstimationMethod,"1. A sample of 35 grams of flour on a 14 percent moisture basis is weighed and placed in a mixograph bowl, 2. Water is added to the flour from a buret and the bowl is inserted into the mixograph, 3. The flour and water are mixed together to form a dough, 4. As the dough is mixed, the mixograph records a curve on graph paper.",,
+0000389,MIXOGRAPH determination AACC 54-40 A,EstimationMethod,"1. A sample of 35 grams of flour on a 14 percent moisture basis is weighed and placed in a mixograph bowl, 2. Water is added to the flour from a buret and the bowl is inserted into the mixograph, 3. The flour and water are mixed together to form a dough, 4. As the dough is mixed, the mixograph records a curve on graph paper.",,
+0000389,MIXOGRAPH determination AACC 54-40 A,EstimationMethod,"1. A sample of 35 grams of flour on a 14 percent moisture basis is weighed and placed in a mixograph bowl, 2. Water is added to the flour from a buret and the bowl is inserted into the mixograph, 3. The flour and water are mixed together to form a dough, 4. As the dough is mixed, the mixograph records a curve on graph paper.",,
+0000275,DroughtTol Estimation,EstimationMethod,Observe the growth of plants per plot/entry under droughted condition and rate the tolerance.,,"Reynolds et al., 2001"
+0000275,DroughtTol Estimation,EstimationMethod,Observe the growth of plants per plot/entry under droughted condition and rate the tolerance.,,"Reynolds et al., 2001"
+0000319,TcontInc Estimation,EstimationMethod,Standard method for dwarf bunt incidence.,,"Wilcoxson and Saari, 1996"
+0000835,Emer DS10 date Estimation,EstimationMethod,Record date of when 50% of seedlings have emerged (DS10).,,"Zadoks et al., 1974,  Pask et al., 2012"
+0000242,Emer DS10 days Computation,ComputationMethod,Number of days from sowing to the seedling emergence (DS10).,xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000320,PherpResp Estimation,EstimationMethod,Standard method for eye spot field response.,,"Duveiller et al., 2012"
+0000837,FND DS31 date Estimation,EstimationMethod,Record date of first node detectable (DS31). It is easier to determine in the field than DS30. It is estimated in-field as the day at which the first node can be detected at approximately 1 cm above the tillering node. The observation is performed in the main tiller.,,"Zadoks et al., 1974,  Pask et al., 2012"
+0000378,FND DS31 DT Computation,ComputationMethod,"Number of days from sowing to first node detectable. However, when planting in dry soils in dryland areas it is counted from the first day of rainfall or irrigation which is sufficient for germination, or from emergence date.",xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000347,FLeafA  Measurement,MeasurementMethod,Standard method for flag leaf area.,,
+0000382,FLeafSen Estimation,EstimationMethod,"Rate using a scale from 0 (0% senescence) to 10 (100% senescence) using the guide, in increments of 10%.",,"Pask et al., 2012 (Ch. 12)"
+0000321,UagroResp Estimation,EstimationMethod,Standard method for flag smut field response.,,"Wilcoxson and Saari, 1996"
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000288,FlrFN  Measurement,MeasurementMethod,"1. A 7-gram sample of ground wheat or flour is weighed and combined with 25 milliliter of distilled water in a glass falling number tube with a stirrer and shaken to form a slurry.  When grinding a wheat sample to perform a falling number test, it should be at least 300 grams to assure a representative sample, 2. As the slurry is heated in a boiling water bath at 100° Centigrade and stirred constantly, the starch gelatinizes and forms a thick paste, 3. The time it takes the stirrer to drop through the paste is recorded as the falling number value.",,
+0000291,FLRGluCon Measurement,MeasurementMethod,"1. A 10-gram sample of flour or ground wheat is weighed and placed into the glutomatic washing chamber on top of the polyester screen, 2. The sample is mixed and washed with a 2 percent salt solution for 5 minutes, 3. The wet gluten is removed from the washing chamber, placed in the centrifuge holder, and centrifuged, 4. The residue retained on top of the screen and through the screen is weighed.",,
+0000292,GluTyp Estimation,EstimationMethod,"Gluten type is determined based on gluten properties data (flour protein content, Alveograph W, Alveograph P/L) following Peña 2011: Wheat End-use Quality types.",,"Peña, 2011"
+0000289,Kjeldahl AACC 56-81B,MeasurementMethod,Kjeldahl AACC 56-81B.,,
+0000944,NIRS Measurement,MeasurementMethod,NIR calibrated based on Kjeldahl results.,,
+0000386,SDS-sedimentation determination,MeasurementMethod,"A small sample of flour or ground wheat (1.0 grams) is weighed and placed in 25-milliliter glass-stoppered graduated cylinder. This is mixed with different solutions for some minutes and then rested. Finally, the volume of the sediment is recorded after 21 minutes.",,
+0000398,SedIdx Measurement,MeasurementMethod,Standard method for sedimentation index.,,
+0000847,FlrYellCls Measurement,MeasurementMethod,"Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color, 5. Flour yellowness classification in classes according the b value (Minolta chromameter) as white (b<12.5), light-yellow (b=12.5-15) or yellow (b>15).",,
+0000290,FlrYld Measurement,MeasurementMethod,Standard method for flour yield.,,
+0000701,FolDis Estimation,EstimationMethod,Standard method for foliar disease development.,,
+0000341,FrostDmg Estimation,EstimationMethod,Score the spike damage caused by frost.,,"Reynolds et al., 2001 (Ch. 9)"
+0000341,FrostDmg Estimation,EstimationMethod,Score the spike damage caused by frost.,,"Reynolds et al., 2001 (Ch. 9)"
+0000341,FrostDmg Estimation,EstimationMethod,Score the spike damage caused by frost.,,"Reynolds et al., 2001 (Ch. 9)"
+0000341,FrostDmg Estimation,EstimationMethod,Score the spike damage caused by frost.,,"Reynolds et al., 2001 (Ch. 9)"
+0000341,FrostDmg Estimation,EstimationMethod,Score the spike damage caused by frost.,,"Reynolds et al., 2001 (Ch. 9)"
+0000702,FgramInc Estimation,EstimationMethod,Standard method for Fusarium graminearum incidence.,,
+0000702,FgramInc Estimation,EstimationMethod,Standard method for Fusarium graminearum incidence.,,
+0000703,FgramResp Estimation,EstimationMethod,Standard method for Fusarium graminearum response.,,
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000696,FHBAUDPC Computation,ComputationMethod,Calculate area under disease progress curve.,xxxx,"Duveiller et al., 2012"
+0000698,FHBDON Measurement,MeasurementMethod,Standard method for content of deoxynivalenol or DON (vomitoxin) that is often associated with FHB (Fusarium spp.) infected grains.,,
+0000699,FHBGInc Estimation,EstimationMethod,Standard method for FHB grain incidence.,,"Duveiller et al., 2012"
+0000294,FHBSpkInc Estimation,EstimationMethod,Standard method for FHB spike incidence.,,"Duveiller et al., 2012"
+0000294,FHBSpkInc Estimation,EstimationMethod,Standard method for FHB spike incidence.,,"Duveiller et al., 2012"
+0000322,FHBSpkResp Estimation,EstimationMethod,Standard method for FHB spike response.,,"Duveiller et al., 2012"
+0000322,FHBSpkResp Estimation,EstimationMethod,Standard method for FHB spike response.,,"Duveiller et al., 2012"
+0000700,FHBSpkWt Computation,ComputationMethod,Relative spike weight is calculated by dividing spike weight (at maturity) from infected by the non-infected.,xxxx,"Duveiller et al., 2012"
+0000373,FHBSplInc Computation,ComputationMethod,"Calculated as the index (ratio) of infected spikelets over total number of spikelets by Calonectria nivalis (Fusarium nivale, F. graminearum) causing scab disease in spike.",xxxx,"Duveiller et al., 2012"
+0000374,FHBSplInc Counting,CountingMethod,Standard method for FHB infected spikelets counting.,,"Duveiller et al., 2012"
+0000339,FnivLBInc Estimation,EstimationMethod,Standard method for Fusarium leaf blotch incidence.,,"Duveiller et al., 2014"
+0000339,FnivLBInc Estimation,EstimationMethod,Standard method for Fusarium leaf blotch incidence.,,"Duveiller et al., 2014"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000356,FoxiWilt  Estimation,EstimationMethod,Standard method for Fusarium wilt incidence.,,
+0000251,GlmCol Estimation,EstimationMethod,Standard method for glume color.,,
+0000255,GlmGlau Estimation,EstimationMethod,Standard method for glume glaucousness.,,
+0000252,GlmLng Measurement,MeasurementMethod,Standard method for glume length.,,
+0000253,GlmPubDen  Estimation,EstimationMethod,Standard method for glume pubescence density.,,
+0000254,GlmPubLng Measurement,MeasurementMethod,Standard method for glume pubescence length.,,
+0000256,GlmWid Measurement,MeasurementMethod,Standard method for glume width.,,
+0000390,SDS-PAGE electrophoresis,MeasurementMethod,"1. Extract storage proteins (glutenins/gliadins) from wheat grain, 2. Separate glutenins from gliadins, 3. Run proteins extracts in polyacrylamide gels, 4. Stain the gel and de-stain, 5. Identify the allele for each locus.",,"Payne and Lawrence, 1983, Singh et al., 1991, Peña et al., 2004"
+0000390,SDS-PAGE electrophoresis,MeasurementMethod,"1. Extract storage proteins (glutenins/gliadins) from wheat grain, 2. Separate glutenins from gliadins, 3. Run proteins extracts in polyacrylamide gels, 4. Stain the gel and de-stain, 5. Identify the allele for each locus.",,"Payne and Lawrence, 1983, Singh et al., 1991, Peña et al., 2004"
+0000390,SDS-PAGE electrophoresis,MeasurementMethod,"1. Extract storage proteins (glutenins/gliadins) from wheat grain, 2. Separate glutenins from gliadins, 3. Run proteins extracts in polyacrylamide gels, 4. Stain the gel and de-stain, 5. Identify the allele for each locus.",,"Payne and Lawrence, 1983, Singh et al., 1991, Peña et al., 2004"
+0000390,SDS-PAGE electrophoresis,MeasurementMethod,"1. Extract storage proteins (glutenins/gliadins) from wheat grain, 2. Separate glutenins from gliadins, 3. Run proteins extracts in polyacrylamide gels, 4. Stain the gel and de-stain, 5. Identify the allele for each locus.",,"Payne and Lawrence, 1983, Singh et al., 1991, Peña et al., 2004"
+0000390,SDS-PAGE electrophoresis,MeasurementMethod,"1. Extract storage proteins (glutenins/gliadins) from wheat grain, 2. Separate glutenins from gliadins, 3. Run proteins extracts in polyacrylamide gels, 4. Stain the gel and de-stain, 5. Identify the allele for each locus.",,"Payne and Lawrence, 1983, Singh et al., 1991, Peña et al., 2004"
+0000390,SDS-PAGE electrophoresis,MeasurementMethod,"1. Extract storage proteins (glutenins/gliadins) from wheat grain, 2. Separate glutenins from gliadins, 3. Run proteins extracts in polyacrylamide gels, 4. Stain the gel and de-stain, 5. Identify the allele for each locus.",,"Payne and Lawrence, 1983, Singh et al., 1991, Peña et al., 2004"
+0000823,GApp Estimation,EstimationMethod,Standard method for grain appearance.,,
+0000823,GApp Estimation,EstimationMethod,Standard method for grain appearance.,,
+0000383,CID determination,MeasurementMethod,"Proceed following the protocol for sampling of grains or leaves for CID in Chapter 6 in Pask et al., 2012. Mass spectrometers generate differential values of stable carbon isotope composition (?13C), expressed negative values in parts per thousand (?) (Farquhar et al., 1989): ?13C (?) = [(Rsample/Rstandard)?1] x 1000. Where: the ratio of heavy to light isotope (R = 13C/12C) for the sample is in comparison to Peedee Belemnite (PDB) carbonate (limestone) standard. Following Farquhar et al. (1989) ? rather than using carbon isotope composition values (?13C), positive values for CID (?13C) can be calculated for easier statistical analysis as: ?13C = [(?a-?p)]/[1 + (?p/1000)]",,"Pask et al., 2012 (Ch. 6), Reynolds et al., 2001 (Ch. 5)"
+0000257,GCol Estimation,EstimationMethod,Standard method for grain color.,,
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000257,GCol Estimation,EstimationMethod,Standard method for grain color.,,
+0000401,UseTyp Measurement,MeasurementMethod,Standard method for grain use type.,,"Peña, 2009"
+0000838,GFP pct Computation,ComputationMethod,Calculated time between anthesis (DS65) and maturity (DS87)of crop cycle duration.,xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000945,GFP days Computation,ComputationMethod,Calculated time between anthesis (DS65) and maturity (DS87)of crop cycle duration.,xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000234,Germ Measurement,MeasurementMethod,"Laboratory seed test for germination should be carried out before seeding to calculate seeding rates or determine the status of storage seed. The percentage of seeds capable of producing normal seedlings under ordinarily favorable conditions (not including seeds which produce weak, malformed, or obviously abnormal sprouts), determined by methods ISTA seed testing protocols.",,"ISTA, 2014 (International Rules for Seed Testing)"
+0000295,GHrd Measurement,MeasurementMethod,Standard method for grain hardness class.,,
+0000295,GHrd Measurement,MeasurementMethod,Standard method for grain hardness class.,,
+0000263,Modified Particle Size Index AACC 55-30  or NIR calibrated based on PSI results,MeasurementMethod,Modified Particle Size Index AACC 55-30 or NIR calibrated based on PSI results,,
+0000295,GHrd Measurement,MeasurementMethod,Standard method for grain hardness class.,,
+0000402,GIron Measurement,MeasurementMethod,Standard method for grain iron content.,,
+0000402,GIron Measurement,MeasurementMethod,Standard method for grain iron content.,,
+0000235,GMoi Estimation,EstimationMethod,Moisture content is determined by drying a grain wheat sample in an air oven and comparing the weight of the sample before and after heating. The amount of weight loss is the moisture content. Moisture content results are expressed as a percentage.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000391,GN Computation,ComputationMethod,"Grain number (GNO) as other yield components can be calculated or measured individually (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives. GNO determines the sink size of the crop and under many conditions it is strongly correlated with yield. Grains/m2 (GNO) = yield (g/m2) / TGW (g) x 1000.",xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000258,GrnSpk Computation,ComputationMethod,The number of grains per spike can be measured independently by threshing a known number of randomly selected spikes per plot (10-20 spikes per plot) or can be calculated as: Grains per spike (GSP) = grains m2 / spikes m2.,xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000261,GrnSpl Computation,ComputationMethod,"Sample as for spikelets per spike randomly select 5-10 spikes per plot, by selecting at the base of the culm. Count the spikelets, thresh, count grains, and calculate, or less accurately simply calculate from calculated grains per spike and measured spikelet number.",xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000403,GPhos Measurement,MeasurementMethod,Standard method for grain phosphorus content.,,
+0000403,GPhos Measurement,MeasurementMethod,Standard method for grain phosphorus content.,,
+0000259,GPlump Estimation,EstimationMethod,Standard method for grain plumpness.,,
+0000289,Kjeldahl AACC 56-81B,MeasurementMethod,Kjeldahl AACC 56-81B.,,
+0000946,NIRS Measurement,MeasurementMethod,NIR calibrated based on Kjeldahl results.,,
+0000798,GReten Measurement,MeasurementMethod,Measured as weight by percentage of all matter remaining above a 2 mm slotted screen ? 40 shakes in the direction of the slots.,,
+0000799,GScreen Measurement,MeasurementMethod,Measured as weight by percentage of all matter passing through a 2 mm slotted screen ? 40 shakes in the direction of the slots,,
+0000260,GSize Estimation,EstimationMethod,Visual observation of grains size.,,
+0000397,AACC 55-10 or SeedCount management procedure,MeasurementMethod,Standard method for test weight.,,
+0000397,AACC 55-10 or SeedCount management procedure,MeasurementMethod,Standard method for test weight.,,
+0000262,GVtr Estimation,EstimationMethod,Standard method for seed vitreousness.,,
+0000246,GW Measurement,MeasurementMethod,Dry grains at 70oC and weigh.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000246,GW Measurement,MeasurementMethod,Dry grains at 70oC and weigh.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000246,GW Measurement,MeasurementMethod,Dry grains at 70oC and weigh.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000399,GYellBer Measurement,MeasurementMethod,Standard method for yellow berry incidence.,,
+0001028,GY Computation,ComputationMethod,Use formulae to calculate grain yield in g/m2,xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0001028,GY Computation,ComputationMethod,Use formulae to calculate grain yield in g/m2,xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0001028,GY Computation,ComputationMethod,Use formulae to calculate grain yield in g/m2,xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000236,GY Measurement,MeasurementMethod,"The weight of the grain harvested is registered on a scale, decide which method suit better for your objectives. In breeding trials, a sample area (rather than the whole plot) is generally used for estimating yield. Discard borders when combine harvest for a better estimation of yield.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000236,GY Measurement,MeasurementMethod,"The weight of the grain harvested is registered on a scale, decide which method suit better for your objectives. In breeding trials, a sample area (rather than the whole plot) is generally used for estimating yield. Discard borders when combine harvest for a better estimation of yield.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000236,GY Measurement,MeasurementMethod,"The weight of the grain harvested is registered on a scale, decide which method suit better for your objectives. In breeding trials, a sample area (rather than the whole plot) is generally used for estimating yield. Discard borders when combine harvest for a better estimation of yield.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000950,GY Relative to check Computation,ComputationMethod,Calculate grain yield of an entry as percentage over a local check.,xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000822,GYFac Computation,ComputationMethod,Standard method for yield factor,xxxx,
+0000404,GZinc Measurement,MeasurementMethod,Standard method for grain zinc content.,,
+0000404,GZinc Measurement,MeasurementMethod,Standard method for grain zinc content.,,
+0000839,GrwCls Estimation,EstimationMethod,"Classification of vernalization responsive growth habit as winter, facultative or spring wheat",,
+0000239,GrwStg Zadoks Estimation,EstimationMethod,"Observe the growth stage or development stage (DS) of wheat plants using the Zadoks scale decimal code, based on 10 major stages, with each stage divided into sub-stages.",,"Zadoks et al., 1974,  Pask et al., 2012"
+0000340,HailDmg Estimation,EstimationMethod,Score the damage caused by hail.,,
+0000340,HailDmg Estimation,EstimationMethod,Score the damage caused by hail.,,
+0001030,HI Computation,ComputationMethod,Harvest index is expressed in percentage and can be calculated as Harvest index (%) = (Grain yield/Biomass)*100.,xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0001030,HI Computation,ComputationMethod,Harvest index is expressed in percentage and can be calculated as Harvest index (%) = (Grain yield/Biomass)*100.,xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000840,Hd DS55 date Estimation,EstimationMethod,"Record date of heading (DS55) when 50% of the spike is emerged (i.e., middle of the spike at the flag leaf ligule) on 50% of all stems.",,"Zadoks et al., 1974,  Pask et al., 2012"
+0000840,Hd DS55 date Estimation,EstimationMethod,"Record date of heading (DS55) when 50% of the spike is emerged (i.e., middle of the spike at the flag leaf ligule) on 50% of all stems.",,"Zadoks et al., 1974,  Pask et al., 2012"
+0000231,Hd DS55 days Computation,ComputationMethod,"Number of days required from sowing to spike emergence from the flag leaf (DS55). However, when planting in dry soils in dryland areas it is counted from the first day of rainfall or irrigation which is sufficient for germination, or from emergence date.",xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000244,Hd DS55 relative Estimation,EstimationMethod,Assessment of heading (DS55) compared to best local check which represents the best locally adopted germplasm at each location grown in standard or normal environment.,,"Zadoks et al., 1974,  Pask et al., 2012"
+0000365,HeatTol Estimation,EstimationMethod,Observe the growth of plants per plot/entry under heat condition and rate the tolerance.,,"Reynolds et al., 2001"
+0000876,HelSpInc Estimation,EstimationMethod,Standard method for Helminthosporium species incidence.,,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000704,HelSpLegacy Estimation,EstimationMethod,Standard method for Helminthosporium species legacy.,,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000795,HerbicideDmg Estimation,EstimationMethod,Standard method for herbicide damage.,,
+0000309,HesFlyDmg Estimation,EstimationMethod,Standard method for hessian fly damage.,,"Duveiller et al., 2012"
+0000801,InfertTN Counting,CountingMethod,Count the number of infertile tillers.,,
+0000801,InfertTN Counting,CountingMethod,Count the number of infertile tillers.,,
+0001029,ISBM Computation,ComputationMethod,"Sampling is typically performed at sequential developmental stages/time intervals through crop growth. Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot.  In most cases, determinations of dry mass are made on representative sub-samples to reduce oven space requirement, take additional measurements (e.g., fertile culm count) etc. Several protocols available (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012 (Ch. 15)"
+0001029,ISBM Computation,ComputationMethod,"Sampling is typically performed at sequential developmental stages/time intervals through crop growth. Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot.  In most cases, determinations of dry mass are made on representative sub-samples to reduce oven space requirement, take additional measurements (e.g., fertile culm count) etc. Several protocols available (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012 (Ch. 15)"
+0001029,ISBM Computation,ComputationMethod,"Sampling is typically performed at sequential developmental stages/time intervals through crop growth. Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot.  In most cases, determinations of dry mass are made on representative sub-samples to reduce oven space requirement, take additional measurements (e.g., fertile culm count) etc. Several protocols available (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012 (Ch. 15)"
+0000394,ISBM Measurement,MeasurementMethod,"Sampling is typically performed at sequential developmental stages/time intervals through crop growth. Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot.  In most cases, determinations of dry mass are made on representative sub-samples to reduce oven space requirement, take additional measurements (e.g., fertile culm count) etc. Several protocols available (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012 (Ch. 15)"
+0000394,ISBM Measurement,MeasurementMethod,"Sampling is typically performed at sequential developmental stages/time intervals through crop growth. Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot.  In most cases, determinations of dry mass are made on representative sub-samples to reduce oven space requirement, take additional measurements (e.g., fertile culm count) etc. Several protocols available (Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012), decide which method suit better for your objectives.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012 (Ch. 15)"
+0000705,InsectDmg Estimation,EstimationMethod,Standard method for insect damage.,,
+0000705,InsectDmg Estimation,EstimationMethod,Standard method for insect damage.,,
+0000323,TindiInc Estimation,EstimationMethod,Standard method for karnal bunt incidence.,,"Wilcoxson and Saari, 1996"
+0000362,LAI Computation,ComputationMethod,"LAI can be determined directly by taking a sample of canopy from a plant canopy, measuring the leaf area per sample plot with an area meter or image scanner and dividing it by the plot land surface area. Indirect methods use ceptometer to measure canopy geometry or light extinction and relate it to LAI. (LAI = leaf area / ground area, m2 / m2).","(LAI = leaf area / ground area, m2 / m2)","Bell and Fischer, 1994, Pask et al., 2012"
+0000383,CID determination,MeasurementMethod,"Proceed following the protocol for sampling of grains or leaves for CID in Chapter 6 in Pask et al., 2012. Mass spectrometers generate differential values of stable carbon isotope composition (?13C), expressed negative values in parts per thousand (?) (Farquhar et al., 1989): ?13C (?) = [(Rsample/Rstandard)?1] x 1000. Where: the ratio of heavy to light isotope (R = 13C/12C) for the sample is in comparison to Peedee Belemnite (PDB) carbonate (limestone) standard. Following Farquhar et al. (1989) ? rather than using carbon isotope composition values (?13C), positive values for CID (?13C) can be calculated for easier statistical analysis as: ?13C = [(?a-?p)]/[1 + (?p/1000)]",,"Pask et al., 2012 (Ch. 6), Reynolds et al., 2001 (Ch. 5)"
+0000249,Chl Measurement,MeasurementMethod,"The chlorophyll content of leaves (and other green tissues) can be quickly, and non-destructively measured using a hand-held battery portable optical meter (e.g., Minolta SPAD-502 chlorophyll meter) which measures the chlorophyll content via light transmittance (absorbance of red light at 650 nm and infrared light at 940 nm) and compensates for differing leaf thicknesses. Readings from the instrument are not absolute chlorophyll values, instead each reading is a ?chlorophyll concentration index? (CCI, ranging from 0 to 99.9). Measurements are typically made on the flag leaf (once fully expanded), although measurements of lower leaves may be taken to assess canopy chlorophyll profiles.",,"Pask et al., 2012 (Ch. 9)"
+0000268,LeafGlau Estimation,EstimationMethod,Standard method for leaf glaucousness.,,
+0000268,LeafGlau Estimation,EstimationMethod,Standard method for leaf glaucousness.,,
+0000264,LeafLng Measurement,MeasurementMethod,Standard method for leaf length.,,
+0000265,LeafPubDen Estimation,EstimationMethod,Standard method for leaf pubescence density.,,
+0000266,LeafPubLng  Measurement,MeasurementMethod,Standard method for leaf pubescence length.,,
+0001026,Rust Coefficient of infection Computation,ComputationMethod,"Coefficient of infection (CI) calculated by multiplying the severity times a constant for host response: where immune = 0.0, R=0.2, MR =0.4, MS =0.8, and S=1.0.",xxxx,"Roelfs et al., 1992"
+0000707,PrecoInc Estimation,EstimationMethod,Standard method for leaf rust incidence.,,"Roelfs et al., 1992"
+0000900,PrecoLegacy Estimation,EstimationMethod,Standard method for leaf rust legacy.,,"Roelfs et al., 1992"
+0000708,Note Estimation,EstimationMethod,Notes taken in the field.,,"Roelfs et al., 1992"
+0000706,PrecoResp Estimation,EstimationMethod,Standard method for leaf rust response.,,"Roelfs et al., 1992"
+0000706,PrecoResp Estimation,EstimationMethod,Standard method for leaf rust response.,,"Roelfs et al., 1992"
+0000360,Adult plants rust field response Estimation,EstimationMethod,"Response (type of disease reaction) in adult plant to leaf/stem/stripe rust, refers to the infection type and is classified according to the following scale: 0-No visible infection. R-Resistant, necrotic areas with or without small pustules. MR-Moderately Resistant, small pustules surrounded by necrotic areas. M-Intermediate, pustules of variable size, some necrosis and/or chlorosis. MS-Moderately Susceptible, medium-sized pustules, no necrosis, but some chlorosis possible. S-Susceptible, large pustules, no necrosis or chlorosis.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000604,Seedling rust field response Estimation,EstimationMethod,Seedling host responses are normally scored as susceptible or resistant depending on the infection type produced with a designated isolate in a particular environment. The infection type produced will often change if the environment is altered.,,"Roelfs, A.P., R.P. Singh, and E.E. Saari. 1992. Rust Diseases of Wheat: Concepts and methods of disease management. Mexico, D.F.: CIMMYT."
+0000693,Rust severity Estimation,EstimationMethod,"Severity of rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000324,Modified cobb scale for severity,EstimationMethod,"Severity of leaf/stem/stripe rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000240,StomaCond Measurement,MeasurementMethod,Standard method for stomatal conductance.,,"Pask et al., 2012 (Ch. 2)"
+0000349,StomaFrq Counting,CountingMethod,Standard method for stomatal frequency.,,
+0000285,StomaRes Measurement,MeasurementMethod,Standard method for stomatal resistance.,,"Pask et al., 2012 (Ch. 2)"
+0000348,StomaSiz  Measurement,MeasurementMethod,Standard method for stomatal size.,,
+0000267,LeafThk Measurement,MeasurementMethod,Standard method for leaf thickness.,,
+0000361,LeafTNecro Estimation,EstimationMethod,Leaf tip necrosis is observed and rated in percentage.,,
+0000269,LeafWid Measurement,MeasurementMethod,Standard method for leaf width.,,
+0000355,Lodg Estimation,EstimationMethod,Estimate of the area lodged in the sampled plot.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000355,Lodg Estimation,EstimationMethod,Estimate of the area lodged in the sampled plot.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000355,Lodg Estimation,EstimationMethod,Estimate of the area lodged in the sampled plot.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000355,Lodg Estimation,EstimationMethod,Estimate of the area lodged in the sampled plot.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000355,Lodg Estimation,EstimationMethod,Estimate of the area lodged in the sampled plot.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000355,Lodg Estimation,EstimationMethod,Estimate of the area lodged in the sampled plot.,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000325,UtritInc Estimation,EstimationMethod,Standard method for loose smut incidence.,,"Wilcoxson and Saari, 1996"
+0000325,UtritInc Estimation,EstimationMethod,Standard method for loose smut incidence.,,"Wilcoxson and Saari, 1996"
+0000243,Mat DS87 relative Estimation,EstimationMethod,Assessment of physiological maturity (approx. DS87) compared to best local check which represents the best locally adopted germplasm at each location grown in standard or normal environment.,,"Zadoks et al., 1974,  Pask et al., 2012"
+0000842,Mat DS87 date Estimation,EstimationMethod,"Record date of physiological maturity (approx. DS87). It is estimated as when the grain reaches the maximum dry weight and the grain becomes viable. It is most easily determined in-field when 50% of the peduncles are ripe (i.e., yellow).",,"Zadoks et al., 1974,  Pask et al., 2012"
+0000842,Mat DS87 date Estimation,EstimationMethod,"Record date of physiological maturity (approx. DS87). It is estimated as when the grain reaches the maximum dry weight and the grain becomes viable. It is most easily determined in-field when 50% of the peduncles are ripe (i.e., yellow).",,"Zadoks et al., 1974,  Pask et al., 2012"
+0000232,Mat DS87 DT Computation,ComputationMethod,"Number of days required from sowing to physiological maturity (approx. DS87). However, when planting in dry soils in dryland areas it is counted from the first day of rainfall or irrigation which is sufficient for germination, or from emergence date.",xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0000243,Mat DS87 relative Estimation,EstimationMethod,Assessment of physiological maturity (approx. DS87) compared to best local check which represents the best locally adopted germplasm at each location grown in standard or normal environment.,,"Zadoks et al., 1974,  Pask et al., 2012"
+0000357,HtereInc Estimation,EstimationMethod,Standard method for net blotch incidence.,,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000271,NodeN Counting,CountingMethod,Standard method for node number.,,
+0000274,PedGlau Estimation,EstimationMethod,Standard method for peduncle glaucousness.,,
+0000272,PedLng  Measurement,MeasurementMethod,Standard method for peduncle length.,,
+0000270,NeckBreak Estimation,EstimationMethod,Standard method for neck break.,,
+0000273,PedPubDen Estimation,EstimationMethod,Standard method for peduncle pubescence density.,,
+0000233,ErlVig Estimation,EstimationMethod,Observe vigour of the plants per plot/entry and rate it.,,
+0000238,GrwHabit Estimation,EstimationMethod,Observe the growth habit of wheat plants during tillering stages and rate whether erect/semi-erect/prostrate/semi-spreading/spreading,,
+0000241,PH Measurement,MeasurementMethod,Measure the length of individual culms from soil surface to the tip of the spike (do not include awn) and record to the nearest centimeter. (Average of 4-10 plants/culms per plot).,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000241,PH Measurement,MeasurementMethod,Measure the length of individual culms from soil surface to the tip of the spike (do not include awn) and record to the nearest centimeter. (Average of 4-10 plants/culms per plot).,,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000245,PH Estimation,EstimationMethod,"Score a relative plant height to local check using 1-5 scale where 3 is used for the local check (1 = short, 5 = tall). Assessment of plant height compared to best local check which represents the best locally adopted germplasm at each location grown in standard or normal environment.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000367,HNecro Estimation,EstimationMethod,"Some forms of spotting and necrosis result from chromosomal instability or genetic aberrations, these disorders are known as hybrid necrosis. Affected plants show differing degrees of necrosis, often associated with stunting or dwarf clumping. Hybrid necrosis usually is observed in early generation material, and affected progeny are eliminated",,
+0000846,PhotopResp Estimation,EstimationMethod,Observe the tendency of flowering according day-length,,
+0000955,PlntStnd Computation,ComputationMethod,Calculate number of plant per area.,xxxx,
+0000955,PlntStnd Computation,ComputationMethod,Calculate number of plant per area.,xxxx,
+0000368,PlntStnd Counting,CountingMethod,Counting the number of plant per area or row.,,
+0000368,PlntStnd Counting,CountingMethod,Counting the number of plant per area or row.,,
+0001429,VgP Computation,ComputationMethod,Calculated as time in days between emergence (DS10) and first node detectable (DS31).,xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0001429,VgP Computation,ComputationMethod,Calculated as time in days between emergence (DS10) and first node detectable (DS31).,xxxx,"Zadoks et al., 1974,  Pask et al., 2012"
+0001428,PlntVig Estimation,EstimationMethod,Observe vigour of the plants per plot/entry and rate it.,,
+0000330,EgramInc Estimation,EstimationMethod,Standard method for powdery mildew incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000330,EgramInc Estimation,EstimationMethod,Standard method for powdery mildew incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000330,EgramInc Estimation,EstimationMethod,Standard method for powdery mildew incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000330,EgramInc Estimation,EstimationMethod,Standard method for powdery mildew incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000330,EgramInc Estimation,EstimationMethod,Standard method for powdery mildew incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000878,EgramLegacy Estimation,EstimationMethod,Standard method for powdery mildew legacy.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000328,PnegleDmg Estimation,EstimationMethod,"Above-ground symptoms of root lesion nematodes are often indistinct and difficult to identify, but include poor vigor, stunted growth, poor tillering, and wilting in response to moisture stress. Often, crop growth in an infected field will be irregular or patchy. Below ground, cereal roots will display generalized root browning, with lesions rapidly coalescing to produce extensive areas of discoloration. Lesions are only readily observed on the roots in the very early stages of infection. Lateral roots will be reduced in both length and number, and the root system may be thin and poorly branched or appear necrotic.",,"Duveiller et al., 2012"
+0000329,PthornDmg Estimation,EstimationMethod,"Above-ground symptoms of root lesion nematodes are often indistinct and difficult to identify, but include poor vigor, stunted growth, poor tillering, and wilting in response to moisture stress. Often, crop growth in an infected field will be irregular or patchy. Below ground, cereal roots will display generalized root browning, with lesions rapidly coalescing to produce extensive areas of discoloration. Lesions are only readily observed on the roots in the very early stages of infection. Lateral roots will be reduced in both length and number, and the root system may be thin and poorly branched or appear necrotic.",,"Duveiller et al., 2012"
+0001430,RepP Computation,ComputationMethod,Calculated as time between double ridge (approx. DS14) and anthesis (DS65) as percentage of crop cycle duration.,xxxx,"Kirby and Appleyard, 1984, Zadoks et al., 1974,  Pask et al., 2012"
+0001430,RepP Computation,ComputationMethod,Calculated as time between double ridge (approx. DS14) and anthesis (DS65) as percentage of crop cycle duration.,xxxx,"Kirby and Appleyard, 1984, Zadoks et al., 1974,  Pask et al., 2012"
+0000712,RsolaInc Estimation,EstimationMethod,Standard method for rhizoctonia root rot incidence.,,
+0000310,RodentDmg Estimation,EstimationMethod,Standard method for rodent damage.,,
+0000713,RootDis Estimation,EstimationMethod,Standard method for root disease development.,,
+0000350,RLNDmg Estimation,EstimationMethod,"Above-ground symptoms of root lesion nematodes are often indistinct and difficult to identify, but include poor vigor, stunted growth, poor tillering, and wilting in response to moisture stress. Often, crop growth in an infected field will be irregular or patchy. Below ground, cereal roots will display generalized root browning, with lesions rapidly coalescing to produce extensive areas of discoloration. Lesions are only readily observed on the roots in the very early stages of infection. Lateral roots will be reduced in both length and number, and the root system may be thin and poorly branched or appear necrotic.",,"Duveiller et al., 2012"
+0000311,DnoxiDmg Estimation,EstimationMethod,Standard method for russian wheat aphid damage.,,"Duveiller et al., 2012"
+0000344,SaltTol  Estimation,EstimationMethod,Observe the growth of plants per plot/entry at the field presenting soil salinity and rate the tolerance.,,"Reynolds et al., 2001 (Ch. 8)"
+0000312,SawflyDmg Estimation,EstimationMethod,Standard method for sawfly damage.,,"Duveiller et al., 2012"
+0000326,SGNDmg  Estimation,EstimationMethod,"Distorted leaves and stems are evident prior to heading. As diseased plants approach maturity, galls are formed in the florets, replacing the kernels. The galls are similar in shape to the seed they replace and are dark brown in color. Large numbers of motile larvae are present within the galls and become active after the galls have been moistened. These nematodes can act as vectors of Clavibacter tritici.",,"Duveiller et al., 2012"
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000289,Kjeldahl AACC 56-81B,MeasurementMethod,Kjeldahl AACC 56-81B.,,
+0000957,NIRS Measurement,MeasurementMethod,NIR calibrated based on Kjeldahl results.,,
+0000848,SemoYellPig Measurement,MeasurementMethod,Standard method for semolina yellow pigment.,,
+0000915,SepSPInc Estimation,EstimationMethod,Standard method for Septoria species incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000358,SepSpLegacy Estimation,EstimationMethod,Standard method for Septoria species legacy.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000358,SepSpLegacy Estimation,EstimationMethod,Standard method for Septoria species legacy.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000716,SepSpResp Estimation,EstimationMethod,Standard method for Septoria species response.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000716,SepSpResp Estimation,EstimationMethod,Standard method for Septoria species response.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000879,SepSpSev Estimation,EstimationMethod,Standard method for Septoria species causing Septoria blotch severity.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000880,SnodoInc Estimation,EstimationMethod,Standard method for Septoria nodorum blotch incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000880,SnodoInc Estimation,EstimationMethod,Standard method for Septoria nodorum blotch incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000343,SnodoLegacy Estimation,EstimationMethod,Standard method for Septoria nodorum blotch legacy.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000343,SnodoLegacy Estimation,EstimationMethod,Standard method for Septoria nodorum blotch legacy.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000881,StritInc Estimation,EstimationMethod,Standard method for Septoria tritici blotch incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000881,StritInc Estimation,EstimationMethod,Standard method for Septoria tritici blotch incidence.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000333,StritLegacy Estimation,EstimationMethod,Standard method for Septoria tritici blotch legacy.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000333,StritLegacy Estimation,EstimationMethod,Standard method for Septoria tritici blotch legacy.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000720,StritResp Estimation,EstimationMethod,Standard method for Septoria tritici blotch response.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000721,RcereInc Estimation,EstimationMethod,Main shoots are assessed for sharp eyespot disease.,,
+0000313,SnailDmg Estimation,EstimationMethod,Standard method for snail damage.,,"Duveiller et al., 2012"
+0000359,SBMVInc Estimation,EstimationMethod,Standard method for soil borne mosaic virus incidence.,,
+0000331,SrolfResp Estimation,EstimationMethod,Standard method for southern blight response.,,"Duveiller et al., 2012"
+0000248,Awns Estimation,EstimationMethod,Standard method for awnedness.,,
+0000276,SpkDen Estimation,EstimationMethod,Standard method for spike density.,,
+0000722,SpkDis Estimation,EstimationMethod,Standard method for spike disease development.,,
+0000277,SpkLng Measurement,MeasurementMethod,Measured in centimeters from the base of the spike to the tip excluding the awns (average of 6-10 random spikes in plot).,,
+0000958,SN Computation,ComputationMethod,Calculated from yield components sampling.,xxxx,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000354,SN Measurement,MeasurementMethod,"It can be easily and non-destructively measured during grain-filling (i.e., before physiological maturity) by counting in a given area or length of row.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000278,Shattering Estimation,EstimationMethod,Standard method for spike shattering.,,
+0000831,Threshblty Estimation,EstimationMethod,Observe threshability by hand threshing of one or two spikes and rate it according how easily grains are separated from the rachis and glumes using 1 (hard to thresh) to 9 (easy to thresh) scale.,,
+0000279,SplN Counting,CountingMethod,"Both the total number of spikelets and the number of fertile spikelets (i.e., those containing grain) per spike should be counted towards the end of grain-filling, but before physiological maturity (to avoid losses due to movement through the plots). Randomly sample 5-10 spikes per plot, by selecting at the base of the culm. Count the total number of spikelets (pair-by-pair, from the base to the tip), then obtain the average. When sampling large numbers of samples or plots, time may be saved by randomly counting one side of the spike and multiplying by two.",,"Bell and Fischer, 1994, Reynolds et al., 2001, Pask et al., 2012"
+0000882,HsatiLInc Estimation,EstimationMethod,Standard method for Spot blotch incidence.,,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000882,HsatiLInc Estimation,EstimationMethod,Standard method for Spot blotch incidence.,,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000332,HsatiLLegacy Estimation,EstimationMethod,Standard method for Spot blotch legacy.,,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000332,HsatiLLegacy Estimation,EstimationMethod,Standard method for Spot blotch legacy.,,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000303,SproutTol  Estimation,EstimationMethod,Observe the tendency of grain to sprout when in the spike and rate the tolerance.,,"Reynolds et al., 2001 (Ch. 12)"
+0000284,StmDia Measurement,MeasurementMethod,Standard method for stem diameter.,,
+0000282,StmLng Measurement,MeasurementMethod,Standard method for stem length.,,
+0001026,Rust Coefficient of infection Computation,ComputationMethod,"Coefficient of infection (CI) calculated by multiplying the severity times a constant for host response: where immune = 0.0, R=0.2, MR =0.4, MS =0.8, and S=1.0.",xxxx,"Roelfs et al., 1992"
+0000708,Note Estimation,EstimationMethod,Notes taken in the field.,,"Roelfs et al., 1992"
+0000360,Adult plants rust field response Estimation,EstimationMethod,"Response (type of disease reaction) in adult plant to leaf/stem/stripe rust, refers to the infection type and is classified according to the following scale: 0-No visible infection. R-Resistant, necrotic areas with or without small pustules. MR-Moderately Resistant, small pustules surrounded by necrotic areas. M-Intermediate, pustules of variable size, some necrosis and/or chlorosis. MS-Moderately Susceptible, medium-sized pustules, no necrosis, but some chlorosis possible. S-Susceptible, large pustules, no necrosis or chlorosis.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000604,Seedling rust field response Estimation,EstimationMethod,Seedling host responses are normally scored as susceptible or resistant depending on the infection type produced with a designated isolate in a particular environment. The infection type produced will often change if the environment is altered.,,"Roelfs, A.P., R.P. Singh, and E.E. Saari. 1992. Rust Diseases of Wheat: Concepts and methods of disease management. Mexico, D.F.: CIMMYT."
+0000693,Rust severity Estimation,EstimationMethod,"Severity of rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000324,Modified cobb scale for severity,EstimationMethod,"Severity of leaf/stem/stripe rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000283,StmSol Estimation,EstimationMethod,Standard method for stem solidness.,,
+0000829,StmStrength Estimation,EstimationMethod,Standard method for stem strength.,,
+0000830,StmWallThk Measurement,MeasurementMethod,Standard method for stem wall thickness.,,
+0000384,StmWSC Measurement,MeasurementMethod,"Sampling for water soluble carbohydrate is often combined with in-season biomass sampling and partitioning. Ensure to plan sampling approach carefully to allow for maximal data collection/economy of sampling (e.g., data on partitioning weights can be collected on the same 20 culm sample). The leaf lamina and/or leaf sheath may also be analyzed for WSC separately, or not removed from the stem for ?whole stem? analysis. Lab analysis is performed by NIR or wet chemical method.",,"Pask et al., 2012 (Ch. 16)"
+0000353,SpkSterility Estimation,EstimationMethod,Standard method for sterility index.,,
+0000959,SpkSterility Computation,ComputationMethod,Standard method for sterility index computation.,xxxx,
+0001026,Rust Coefficient of infection Computation,ComputationMethod,"Coefficient of infection (CI) calculated by multiplying the severity times a constant for host response: where immune = 0.0, R=0.2, MR =0.4, MS =0.8, and S=1.0.",xxxx,"Roelfs et al., 1992"
+0000725,PstriInc Estimation,EstimationMethod,Standard method for Stripe rust incidence.,,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000708,Note Estimation,EstimationMethod,Notes taken in the field.,,"Roelfs et al., 1992"
+0000375,Field response McNEAL Estimation,EstimationMethod,"Response (type of disease reaction) in adult plant to stripe rust, refers to the infection type and is classified according to the MCNEAL scale.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000360,Adult plants rust field response Estimation,EstimationMethod,"Response (type of disease reaction) in adult plant to leaf/stem/stripe rust, refers to the infection type and is classified according to the following scale: 0-No visible infection. R-Resistant, necrotic areas with or without small pustules. MR-Moderately Resistant, small pustules surrounded by necrotic areas. M-Intermediate, pustules of variable size, some necrosis and/or chlorosis. MS-Moderately Susceptible, medium-sized pustules, no necrosis, but some chlorosis possible. S-Susceptible, large pustules, no necrosis or chlorosis.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000693,Rust severity Estimation,EstimationMethod,"Severity of rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000324,Modified cobb scale for severity,EstimationMethod,"Severity of leaf/stem/stripe rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000883,PstriSpkSev Estimation,EstimationMethod,"Severity of rust in spike is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0000314,SuPDmg  Estimation,EstimationMethod,Standard method for suni pest damage.,,
+0000334,GgtriInc Estimation,EstimationMethod,Standard method for take all incidence.,,"Duveiller et al., 2012"
+0000334,GgtriInc Estimation,EstimationMethod,Standard method for take all incidence.,,"Duveiller et al., 2012"
+0000726,TanSpotInc Estimation,EstimationMethod,Standard method for tan spot incidence in adult plants.,,"Duveiller et al., 1998, Duveiller et al., 2012"
+0000726,TanSpotInc Estimation,EstimationMethod,Standard method for tan spot incidence in adult plants.,,"Duveiller et al., 1998, Duveiller et al., 2012"
+0000724,TanSpotResp Estimation,EstimationMethod,Standard method for scoring tan spot response in adult plants.,,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000603,TanSpotSdlgResp Estimation,EstimationMethod,Standard method for scoring tan spot response in seedlings.,,"Duveiller et al., 1998, Duveiller et al., 2012, Lamari and Bernier, 1998."
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000690,Double digit Estimation,EstimationMethod,"The method was improved by using two digits, representing the vertical disease progress and an estimate of severity. The first digit gives the relative height of the disease using the original 0-9 Saari-Prescott scale as a measure. The second digit shows the disease severity as a percentage but in terms of 0-9. Because it is difficult to evaluate diseases on dead leaves, disease notes should be taken when at least four leaves are still alive and green (soft to mid-dough growth stage). Then visually evaluate the average percentage severity on only those leaves of the uppermost four that are infected. In practice, the percent severity is estimated on an overall score. The following format is used for scoring severity: 10% coverage = 1, 20% coverage = 2, 30% coverage = 3, 40% coverage = 4, 50% coverage = 5, 60% coverage = 6, 70% coverage = 7, 80% coverage = 8, 90% coverage = 9. The score of 10 is not used.",,"Duveiller et al., 1998, Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000844,TSpl date Estimation,EstimationMethod,"Record date of terminal spikelet stage (DS25-30 approx.). It is estimated as the date at which the final spikelet can be observed on the forming spike within the stem of the main culm, typically measured on around 3-5 plants per plot. It required a main tiller dissection and an observation of the apex on an optic magnifier.",,"Zadoks et al., 1974,  Pask et al., 2012"
+0000380,TSpl DT Computation,ComputationMethod,"Number of days from sowing to terminal spikelet (DS25-30 approx.). However, when planting in dry soils in dryland areas it is counted from the first day of rainfall or irrigation which is sufficient for germination, or from emergence date.",xxxx,"Kirby and Appleyard, 1984"
+0000371,TN Counting,CountingMethod,"Count or calculate the number of total tillers (fertile and infertile) per lineal meter, per plant or per square meter.",,
+0000371,TN Counting,CountingMethod,"Count or calculate the number of total tillers (fertile and infertile) per lineal meter, per plant or per square meter.",,
+0000371,TN Counting,CountingMethod,"Count or calculate the number of total tillers (fertile and infertile) per lineal meter, per plant or per square meter.",,
+0000370,TllrCapacity Estimation,EstimationMethod,Standard method for tillering capacity.,,
+0000317,TlaevInc Estimation,EstimationMethod,Tilletia laevis incidence is usually expressed as the percentage of bunted spikes within a row.,,"Wilcoxson and Saari, 1996"
+0000318,TtritInc Estimation,EstimationMethod,Tilletia tritici incidence is usually expressed as the percentage of bunted spikes within a row.,,"Wilcoxson and Saari, 1996"
+0000396,SDS-PAGE Electrophoresis (1BL1RS),MeasurementMethod,Detect in the SDS-PAGE gel the presence of some protein bands from rye chromosome translocation.,,
+0000342,WtrLoggDmg  Estimation,EstimationMethod,Score the damage caused by waterlogging,,"Reynolds et al., 2001 (Ch. 11)"
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000400,Minolta Chroma Meter Test,MeasurementMethod,"Measurement of flour/whole meal/grain color with the Minolta chromameter, L value represents whiteness, a* value (reddishness) represents red and green colors and b* value (yellowness) represents yellow and blue colors. Using the Minolta Chroma Meter Test: 1. A sample of flour/whole meal/grain is placed on the granular materials attachment and compacted, 2. The Minolta Chroma Meter is inserted into the granular materials attachment, 3. Measurements are taken and recorded, 4.Color results are reported in terms of 3-dimensional color values based on the following rating scale: L* value whiteness: 100 white, 0 black, a* value positive +60 red color, negative values -60 green color, b* value positive +60 yellow color, negative values -60 blue color.",,
+0000293,WMFlrFN Measurement,MeasurementMethod,Standard method for whole meal flour falling number.,,
+0000386,SDS-sedimentation determination,MeasurementMethod,"A small sample of flour or ground wheat (1.0 grams) is weighed and placed in 25-milliliter glass-stoppered graduated cylinder. This is mixed with different solutions for some minutes and then rested. Finally, the volume of the sediment is recorded after 21 minutes.",,
+0000849,WMFlrYellPig Measurement,MeasurementMethod,Standard method for whole meal flour yellow pigment.,,
+0000352,WKill Estimation,EstimationMethod,Observe winterkill of plants per plot and rate it.,,"Reynolds et al., 2001 (Ch. 9)"
+0000352,WKill Estimation,EstimationMethod,Observe winterkill of plants per plot and rate it.,,"Reynolds et al., 2001 (Ch. 9)"
+0000352,WKill Estimation,EstimationMethod,Observe winterkill of plants per plot and rate it.,,"Reynolds et al., 2001 (Ch. 9)"
+0000605,WormDmg Estimation,EstimationMethod,Standard method for worm damage.,,
+0000964,BLBSev Estimation,EstimationMethod,Standard method for wheat bacterial leaf blight severity.,,
+0000965,RsecaSev Estimation,EstimationMethod,Standard method for barley scald blight severity.,,
+0000968,FgramSev Estimation,EstimationMethod,Standard method for Fusarium graminearum severity.,,
+0000969,FnivLBSev Estimation,EstimationMethod,Standard method for Fusarium leaf blotch severity.,,
+0000986,HelSpSev Estimation,EstimationMethod,Standard method for Helminthosporium species causing spot blotch severity.,,
+0000987,HtereSev Estimation,EstimationMethod,Standard method for net blotch severity.,,
+0000988,EgramSev Estimation,EstimationMethod,Standard method for powdery mildew severity.,,
+0000879,SepSpSev Estimation,EstimationMethod,Standard method for Septoria species causing Septoria blotch severity.,,"Saari and Prescott, 1975, Eyal et al., 1987,  Duveiller et al., 2012"
+0000991,SnodoSev Estimation,EstimationMethod,Standard method for Septoria nodorum blotch severity.,,
+0000992,StritSev Estimation,EstimationMethod,Standard method for Septoria tritici blotch severity.,,
+0001013,HsatiLSev Estimation,EstimationMethod,Standard method for spot blotch severity.,,
+0001434,TanSpotSev Estimation,EstimationMethod,Standard method for tan spot severity.,,
+0001435,MgrisSev Estimation,EstimationMethod,Standard method for wheat blast severity.,,
+0001436,ForgDM Estimation,EstimationMethod,Standard method for forage dry matter.,,
+0001437,Wsurv Estimation,EstimationMethod,Standard method for winter survival.,,
+0000983,AwnCol Estimation,EstimationMethod,Standard method for awn color.,,
+0000984,GNDVI Measurement,MeasurementMethod,Standard method for spectral reflectance.,,
+0000985,RNDVI Measurement,MeasurementMethod,Standard method for spectral reflectance.,,
+0000989,GAmyloPec Measurement,MeasurementMethod,Standard method for grain amylopectin content.,,
+0000990,GLys Measurement,MeasurementMethod,Standard method for grain lysine content.,,
+0000993,RachLng Measurement,MeasurementMethod,Standard method for rachis length.,,
+0000994,SpkTyp Estimation,EstimationMethod,Standard method for spike type.,,
+0000995,StdEst Estimation,EstimationMethod,Standard method for standard establishment.,,
+0000996,StmCol Estimation,EstimationMethod,Standard method for stem color.,,
+0000997,StrawBreak Estimation,EstimationMethod,Standard method for straw breakage.,,
+0000998,StrawCol Estimation,EstimationMethod,Standard method for straw color.,,
+0000999,StrawStn Estimation,EstimationMethod,Standard method for straw strength.,,
+0001000,StrawYld Estimation,EstimationMethod,Standard method for straw yield.,,
+0001001,WMFlrAsh Estimation,EstimationMethod,Standard method for ash content in whole meal flour.,,
+0001002,GLng Measurement,MeasurementMethod,Standard method for whole grain length.,,
+0001003,GWid Measurement,MeasurementMethod,Standard method for whole grain width.,,
+0001004,GThk Measurement,MeasurementMethod,Standard method for whole grain thickness.,,
+0001005,Image Analysis Screen Count1,CountingMethod,Standard method for screening grain size distribution >2.8 Screen using Seed Count (SC5000R)machine.,,
+0001006,Image Analysis Screen Count2,CountingMethod,Standard method for screening grain size distribution ranging from 2.8 ? 2.5 Screen using Seed Count (SC5000R) machine.,,
+0001007,Image Analysis Screen Count3,CountingMethod,Standard method for screening grain size distribution ranging from 2.5 ? 2.2 Screen using Seed Count (SC5000R) machine.,,
+0001008,Image Analysis Screen Count4,CountingMethod,Standard method for screening grain size distribution ranging from 2.2 ? 2.0 Screen using Seed Count (SC5000R) machine.,,
+0001009,Image Analysis Screen Count5,CountingMethod,Standard method for screening grain size distribution ranging from 2.0 ? 1.6 Screen using Seed Count (SC5000R) machine.,,
+0001010,Image Analysis Screen Count6,CountingMethod,Standard method for screening grain size distribution <1.6 Screen using Seed Count (SC5000R) machine.,,
+0001020,Image Analysis Screen Mass1,CountingMethod,Measurement of grain size distribution based on the percent mass of the grains greater than 2.8 mm based on screenings using the Seed Count (SC5000R) machine.,,Estimation
+0001021,Image Analysis Screen Mass2,CountingMethod,Measurement of grain size distribution based on the percent mass of the grains that fall between 2.8 mm - 2.5 mm based on screenings using the Seed Count (SC5000R) machine.,,
+0001022,Image Analysis Screen Mass3,CountingMethod,Measurement of grain size distribution based on the percent mass of the grains that fall between 2.5 mm - 2.2 mm based on screenings using the Seed Count (SC5000R) machine.,,
+0001023,Image Analysis Screen Mass4,CountingMethod,Measurement of grain size distribution based on the percent mass of the grains that fall between 2.2 mm - 2.0 mm based on screenings using the Seed Count (SC5000R) machine.,,
+0001024,Image Analysis Screen Mass5,CountingMethod,Measurement of grain size distribution based on the percent mass of the grains that fall between 2.0 mm - 1.6 mm based on screenings using the Seed Count (SC5000R) machine.,,
+0001025,Image Analysis Screen Mass6,CountingMethod,Measurement of grain size distribution based on the percent mass of the grains that are below 1.6 mm based on screenings using the Seed Count (SC5000R) machine.,,
+0001011,AnthExt Estimation,EstimationMethod,Standard method for anther extrusion.,,
+0001011,AnthExt Estimation,EstimationMethod,Standard method for anther extrusion.,,
+0001530,InfertSpkN Counting,CountingMethod,"The number of infertile spikelets (i.e., those NOT containing grain) per spike should be counted towards the end of grain-filling, but before physiological maturity (to avoid losses due to movement through the plots). Randomly sample 5-10 spikes per plot, by selecting at the base of the culm. Count the total number of spikelets (pair-by-pair, from the base to the tip), then obtain the average.",,
+0001531,RSpkGP Computation,ComputationMethod,Phase period where the spike growth the most regarding the whole crop cycle and can be calculated as (anthesis date-initiation of booting date)/days to maturity *100.,(DTA-DTInB)/DTM *100,
+0001532,CGR Computation,ComputationMethod,"It is measured during rapid spike growth phase. Cut all aboveground biomass in a predetermined area (A). Avoid border effects by sampling away from edges of plot.  Then, CRG is the production of biomass per day between initiation of booting and seven days after anthesis. Calculated as  (Biomass 7DAA/m2 - Biomass InB/m2)/Days from InB to 7DAA.",(Biomass 7DAA/m2 - Biomass InB/m2)/Days from InB to 7DAA.,
+0001534,SN Computation,ComputationMethod,Calculated from biomass seven days after anthesis (7DAA) sampling.,,
+0001535,GYPR Computation,ComputationMethod,Calculated with grain yield obtained /days to maturity.,,
+0001536,BMPR Computation,ComputationMethod,Calculated with final biomass obtained /days to maturity.,,
+0001537,TTTS Computation,ComputationMethod,Calculated with climatic data where degree days are accumulating since emergence until terminal spikelet(thermal time from da1+day2+day3...). To calculate daily thermal time= (Temperature max + Temperature min)/2.,,
+0001538,TTIB Computation,ComputationMethod,Calculated with climatic data where degree days are accumulating since emergence until initiation of booting (thermal time from da1+day2+day3...). To calculate daily thermal time= (Temperature max + Temperature min)/2.,,
+0001539,TTB Computation,ComputationMethod,Calculated with climatic data where degree days are accumulating since emergence until booting (thermal time from da1+day2+day3...). To calculate daily thermal time= (Temperature max + Temperature min)/2.,,
+0001540,TTH Computation,ComputationMethod,Calculated with climatic data where degree days are accumulating since emergence until emergence (thermal time from da1+day2+day3...). To calculate daily thermal time= (Temperature max + Temperature min)/2.,,
+0001541,TTA Computation,ComputationMethod,Calculated with climatic data where degree days are accumulating since emergence until anthesis (thermal time from da1+day2+day3...). To calculate daily thermal time= (Temperature max + Temperature min)/2.,,
+0001542,TTM Computation,ComputationMethod,Calculated with climatic data where degree days are accumulating since emergence until physiological maturity (thermal time from da1+day2+day3...). To calculate daily thermal time= (Temperature max + Temperature min)/2.,,
+0001543,StmWSC NIR Measurement,MeasurementMethod,Water soluble carbohydrates of stem dry weight measured with NIRs.,,
+0001544,StmWSC Atrone Measurement,MeasurementMethod,Water soluble carbohydrates of stem dry weight measured with chemical method Antrone.,,
+0001545,SpkPho Computation,ComputationMethod,"Textile treatment is used to inhibit photosynthesis of the spikes through shading(comparison between control and treated spikes). Randomly selected spikes (for example: 12 spikes) per plot are covered with a special designed textile 10 days after anthesis under irrigation and drought or 10 days after heading under heat environments. Then, at physiological maturity the spikes are harvested together with 12 control spikes and the number of grains and weight are recorded and compared the treated spikes with the control ones (Sanchez-Bragado et al., 2016).",,
+0001546,FE Computation,ComputationMethod,Spike fertility index. Dry weight of 20 randomly selected spikes at anthesis. Fruiting Efficiency= number of grains at maturity / spike dry matter at anthesis.,,
+0001547,SpkPI Computation,ComputationMethod,Calculated from shoots sampled seven days after anthesis and SPI is expressed as a ratio and can be calculated as SPI= (dry weight of spikes at anthesis+7/dry weight of the whole plants (shoots) at anthesis+7).,SpikeDW Anth+7/Shoot DW Anth+7,
+0001548,LeafPI Computation,MeasurementMethod,"Leaf Lamina Coefficient = Lamina DM measured at7 DAA/whole plant DM at 7 DAA. Individual shoots (for example: 10-20) are harvested seven days after anthesis and the shoots are separated into: spikes, leaf laminas, true stem, leaf sheath. The dry weight of leaf lamina is recorded and the total dry weight calculated. The partitioning index is calculated comparing the weight of each individual part regarding the total weight of the plant.",,
+0001549,LeafSPI Computation,MeasurementMethod,"Leaf Sheath Coefficient = Leaf Sheath DM measured at 7 DAA/whole plant DM at 7 DAA. Individual shoots (for example: 10-20) are harvested seven days after anthesis and the shoots are separated into: spikes, leaf laminas, true stem, leaf sheath. The dry weight of leaf sheath is recorded and the total dry weight calculated. The partitioning index is calculated comparing the weight of each individual part regarding the total weight of the plant.",,
+0001550,TSPI Computation,MeasurementMethod,"True Stem Coefficient = True stem DM measured at 7 DAA/whole plant DM at 7 DAA. Individual shoots (for example: 10-20) are harvested seven days after anthesis and the shoots are separated into: spikes, leaf laminas, true stem, leaf sheath. The dry weight of true stem is recorded and the total dry weight calculated. The partitioning index is calculated comparing the weight of each individual part regarding the total weight of the plant.",,
+0001551,SLA Measurement,MeasurementMethod,"Leaf area of flag leaf or all laminas is measured. Then the leaves are oven dried at 60-70oC for 48h and the dry weight is recorded. Then, the specific leaf area is calculated as the ratio of leaf area to dry mass SLA= leaf area/dry mass.",,
+0001552,Anet Measurement,MeasurementMethod,Standard method for gas exchange and fluorescence measurements.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001553,Asat Measurement,MeasurementMethod,Standard method for gas exchange and fluorescence measurements.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001554,Amax Measurement,MeasurementMethod,Standard method for gas exchange and fluorescence measurements.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001555,Ci Computation,MeasurementMethod,Standard method for gas exchange and fluorescence measurements.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001556,PhiPS2 Measurement,MeasurementMethod,Standard method for fluorescence measurement.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001557,PhiCO2 Measurement,MeasurementMethod,Standard method for gas exchange measurement.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001558,ETR Measurement,MeasurementMethod,Standard method for gas exchange and fluorescence measurements.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001559,FmDA Measurement,MeasurementMethod,Maximal level of fluorescence measured from a dark adapted leaf.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001560,FmLA Measurement,MeasurementMethod,Maximal level of fluorescence measured from a light adapted leaf.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001561,FoDA Measurement,MeasurementMethod,Minimal level of fluorescence measured from a dark adapted leaf.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001562,FoLA Measurement,MeasurementMethod,Minimal level of fluorescence measured from a light adapted leaf.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001563,FvDA Measurement,MeasurementMethod,Variable fluorescence measured from a dark adapted leaf.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001564,FvLA Measurement,MeasurementMethod,Variable fluorescence measured from a light adapted leaf.,,
+0001565,FvDAFmLA measurement,MeasurementMethod,Maximum quantum yield of PSII measured from a dark adapted leaf.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001566,FvLAFmLA measurement,MeasurementMethod,Maximum quantum yield of PSII measured from a light adapted leaf.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001567,Fs Measurement,MeasurementMethod,Standard method for gas exchange and fluorescence measurements.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001568,LeafTR Measurement,MeasurementMethod,Standard method for gas exchange and fluorescence measurements.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001569,CiCa Measurement,MeasurementMethod,Standard method for gas exchange and fluorescence measurements.,,"Pask et al., 2012, chapter 13, Molero and Lopes."
+0001570,LI Computation,ComputationMethod,"Measurement of the light intercepted by the canopy using a ceptometer as described in Pask et al., 2012, chapter 11, Mullan and Pietragalla.",,"Pask et al., 2012, chapter 11, Mullan and Pietragalla"
+0001571,RUE Computation,ComputationMethod,"Measurement of Radiation Use Efficiency as described in Pask et al., 2012, chapter 11, Mullan and Pietragalla.",Radiation Use Efficiency = Biomass / (MJ accumm* (LI/100)),"Pask et al., 2012, chapter 11, Mullan and Pietragalla"
+0001572,RUET Computation,ComputationMethod,"Measurement of Radiation Use Efficiency as described in Pask et al., 2012, chapter 11, Mullan and Pietragalla.",Radiation Use Efficiency = (Biomass at Maturity-Biomass at 40 DAE) / (MJ accummulated between 40 DAE until Physiological maturity* (LI/100)),"Pask et al., 2012, chapter 11, Mullan and Pietragalla"
+0001573,LeafPSSRa Measurement,MeasurementMethod,Standard method for spectral reflectance.,R800/R675,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0001574,LeafPSSRb Measurement,MeasurementMethod,Standard method for spectral reflectance.,R800/R650,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0001575,Leaf R675 Measurement,MeasurementMethod,Standard method for leaf spectral reflectance normalized to R675.,R675,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0001576,Leaf R550 Measurement,MeasurementMethod,Standard method for leaf spectral reflectance normalized to R550.,R550,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0001577,Leaf R750/R550 Measurement,MeasurementMethod,Standard method for leaf spectral reflectance normalized to R750/R550.,R750/550,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0001578,Leaf R750/R700 Measurement,MeasurementMethod,Standard method for leaf spectral reflectance normalized to R750/700.,R750/700,"Pask et al., 2012 (Ch. 7), Reynolds et al., 2001 (Ch. 5)"
+0001579,SpkDW Computation,ComputationMethod,Standard spike dry weight method.,,
+0001580,FLeafLLng Measurement,MeasurementMethod,Standard method for flag leaf lamina length.,,
+0001581,FLeafLWid Measurement,MeasurementMethod,Standard method for flag leaf lamina width.,,
+0001582,SpkGW Measurement,MeasurementMethod,Dry grains at 70oC and weigh.,,
+0001583,Seedling rust field response Estimation,EstimationMethod,Seedling host responses are normally scored as susceptible or resistant depending on the infection type produced with a designated isolate in a particular environment. The infection type produced will often change if the environment is altered.,,"Roelfs, A.P., R.P. Singh, and E.E. Saari. 1992. Rust Diseases of Wheat: Concepts and methods of disease management. Mexico, D.F.: CIMMYT."
+0001584,LRollSev Estimation,EstimationMethod,Standard method for leaf rolling severity.,,
+0001585,LRollInc Estimation,EstimationMethod,Standard method for leaf rolling incidence.,,
+0001586,ISBM Estimation,EstimationMethod,Standard method for In-season aboveground biomass.,,
+0001654,GrnTllr Computation,ComputationMethod,,,
+0001655,TllrGW Measurement,MeasurementMethod,,,
+0000832,Ant DS65 date Estimation,EstimationMethod,Record date of anthesis (DS65) when 50% of spikes have flowered (i.e. at least 1 anther dehisced).,,"Zadoks et al., 1974, Pask et al., 2012"
+0500208,Pseudo-Black Presence Measurement,MeasurementMethod,Scoring of pseudo-black chaff as presence / absence (1/0),,
+0500103,BLS Estimation,EstimationMethod,"Common name: Bacterial leaf streak. Causal organism: Xanthomonas translucens pv. Undulosa. Severity rating: 0=no disease , 9=all leaf photosynthetic area lost.",,
+0500101,Baking Quality Rating Estimation,EstimationMethod,"The baking quality of a genotype relative to the standard variety used for that nursery. A= 1, B= 2, C= 3, D= 4, E= 5, F= 6.",,
+0500102,Baking Quality Score Estimation,EstimationMethod,Combined cookie diameter and sucrose SRC relative to a check variety.,,
+0500104,BYDInc Estimation - Average,EstimationMethod,"The mean BYDV incidence across multiple ratings; see BYDV incidence T1, BYDV incidence T2, and BYDV incidence T3.",,
+0500108,BYDResp Estimation,EstimationMethod,"Barley yellow dwarf virus plant response. Resistant= 1, susceptible= 9.",,
+0500116,CanopyTempAnt Measurement,MeasurementMethod,Canopy temperature at anthesis (Feekes 10.5.1-10.5.3) measured using a hand-held infrared thermometer.,,
+0500119,CanopyTempGF Measurement,MeasurementMethod,Canopy temperature at grain fill (Feekes 11.1-11.2 ) measured using a hand-held infrared thermometer.,,
+0500117,CanopyTempDepAnt Computation,ComputationMethod,Canopy temperature depression at anthesis (Feekes 10.5.1-10.5.3),,
+0500118,CanopyTempDepGF Computation,ComputationMethod,Canopy temperature depression at grain fill (Feekes 11.1-11.2),,
+0500120,Cookie Diameter Measurement,MeasurementMethod,Standard method for cookie diameter measurement.,,
+0500121,Cookie Diameter Rating Computation,ComputationMethod,"Standard deviations from the mean cookie diameter of check varieties. questionable= -1, above average= 1.",,
+0000249,Chl Measurement,MeasurementMethod,"The chlorophyll content of leaves (and other green tissues) can be quickly, and non-destructively measured using a hand-held battery portable optical meter (e.g., Minolta SPAD-502 chlorophyll meter) which measures the chlorophyll content via light transmittance (absorbance of red light at 650 nm and infrared light at 940 nm) and compensates for differing leaf thicknesses. Readings from the instrument are not absolute chlorophyll values, instead each reading is a ?chlorophyll concentration index? (CCI ranging from 0 to 99.9). Measurements are typically made on the flag leaf (once fully expanded), although measurements of lower leaves may be taken to assess canopy chlorophyll profiles.",,"Pask et al., 2012 (Ch. 9)"
+0500122,EgramResp Estimation,EstimationMethod,Powdery mildew plant response scoring.,,
+0500123,Fertile SplN Counting,CountingMethod,Average count of fertile spikelets per spike.,,
+0000703,FgramResp Estimation,EstimationMethod,Standard method for Fusarium graminearum response.,,
+0500124,FgramSev Greenhouse Estimation,EstimationMethod,Average percent of inoculated heads infected with Fusarium head blight (FHB) in greenhouse tests.,,
+0500125,FHB Disease Index Computation - Average,ComputationMethod,"For trials where the FHB disease index was calculated at multiple time points, this variable holds the average FHB disease index across each time point.",,
+0500135,FHB15-ADON Measurement,MeasurementMethod,Concentration of the mycotoxin deoxynivalenol (DON) in the acetylated form 15-ADON.,,
+0500136,FHB3-ADON Measurement,MeasurementMethod,Concentration of the mycotoxin deoxynivalenol (DON) in the acetylated form 3-ADON.,,
+0500133,FHB Infected Florets Measurement,MeasurementMethod,Percentage of florets infected with Fusarium head blight (FHB) following point inoculation.,,
+0500134,FHB ISK Index Computation,ComputationMethod,"Fusarium disease index that combines FHB incidence, FHB severity, and FHB grain (kernel) incidence (ISK)", calculated as 0.3 * FHB incidence + 0.3 * FHB severity + 0.4 * FHB grain incidence.,
+0500143,Flag Leaf Angle Estimation - Z50,EstimationMethod,Flag leaf angle is scored based on the visual estimate of flag leaf angle at Zadock scale 50 (inflorescence emergence). Leaf angle score: 1=100% flag leaves full upright. 9=100% flag leaves very lax,,
+0500145,FLeafChl Measurement,MeasurementMethod,Chlorophyll content of the flag leaf measured by a SPAD (Special Products Analysis Division of Minolta) meter. A SPAD unit is not directly related to optical transmission through a leaf.,,
+0500144,Flag Leaf Glaucousness Estimation,EstimationMethod,"Assessment of glaucousness in flag leaf i.e. visual manifestation of epicuticular wax; no glaucousness= 0, fully covered= 10.",,
+0500148,FLeafGreenTime Computation,ComputationMethod,Number of days between heading and flag leaf senescence (= flag leaf senescence - days to heading).,,
+0001581,FLeafLWid Measurement,MeasurementMethod,Standard method for flag leaf lamina width.,,
+0500149,FLeafSen Estimation,EstimationMethod,Assessment of the extent of flag leaf senescence i.e. the progressive yellowing of the flag leaf.,,
+0500152,FLeafSenTime Computation,ComputationMethod,Number of days required for 50% of the flag leaves to lose green color.,,
+0500153,FlrYld Estimation,EstimationMethod,"Standard deviations from the mean flour yield of check varieties. Questionable= -1, above average= 1.",,
+0500154,ForAsh NIR Measurement,MeasurementMethod,Measurement of Forage Ash by NIR,,
+0500155,ForFib NIR Measurement,MeasurementMethod,Measurement of Forage Fiber by NIR,,
+0500156,ForgDM Computation,ComputationMethod,"Computation of above ground biomass, on dry weight basis, of plant material at heading (DS55).",,
+0500157,ForMst NIR Measurement,MeasurementMethod,Measurement of Forage Moisture,,
+0500158,ForNDF NIR Measurement,MeasurementMethod,Measurement of Forage NDF by NIR,,
+0500159,ForPrt NIR Measurement,MeasurementMethod,Measurement of Forage Protein by NIR,,
+0500160,ForStr NIR Measurement,MeasurementMethod,Measurement of Forage Starch by NIR,,
+0000341,FrostDmg Estimation,EstimationMethod,Score the spike damage caused by frost.,,"Reynolds et al., 2001 (Ch. 9)"
+0500161,GArsenic Measurement,MeasurementMethod,Standard method for grain arsenic content.,,
+0500162,GCadmium Measurement,MeasurementMethod,Standard method for grain cadmium content.,,
+0500163,GCalcium Measurement,MeasurementMethod,Standard method for grain calcium content.,,
+0500164,GCobalt Measurement,MeasurementMethod,Standard method for grain cobalt content.,,
+0500165,GCopper Measurement,MeasurementMethod,Standard method for grain copper content.,,
+0500227,Single Kernel Characterization System Computation,ComputationMethod,"Grain hardness analysis using the single kernel characterization system 4100 (SKCS, Perten Instruments, Huddinge, Sweden).",,
+0500166,Glau Estimation,EstimationMethod,Estimation of overall plant glaucousness,,
+0500167,GLead Measurement,MeasurementMethod,Standard method for grain lead content.,,
+0500168,GLithium Measurement,MeasurementMethod,Standard method for grain lithium content.,,
+0500169,Glume Pubescence Presence Measurement,MeasurementMethod,Glume pubescence scored as absence/presence (0/1),,
+0500170,GLys Protein Measurement,MeasurementMethod,"Lysine in the grain, expressed as percent of protein.",,
+0500171,GMagnesium Measurement,MeasurementMethod,Standard method for grain magnesium content.,,
+0500172,GManganese Measurement,MeasurementMethod,Standard method for grain manganese content.,,
+0500173,GMolybdenum Measurement,MeasurementMethod,Standard method for grain molybdenum content.,,
+0500174,GN 10 Spikes Estimation,EstimationMethod,Grain number counted from 10 spikes of the main tillers,,
+0500175,GNickel Measurement,MeasurementMethod,Standard method for grain nickel content.,,
+0500176,GPotassium Measurement,MeasurementMethod,Standard method for grain potassium content.,,
+0500177,Grain Ash Measurement,MeasurementMethod,Grain ash concentration determined by NIR infrared transmittance at 12% moisture,,
+0000238,GrwHabit Estimation,EstimationMethod,Observe the growth habit of wheat plants during tillering stages and rate whether erect/semi-erect/prostrate/semi-spreading/spreading,,
+0500179,GSulphur Measurement,MeasurementMethod,Standard method for grain sulphur content.,,
+0500182,GW Estimation,EstimationMethod,Grain yield (g dwt) from 1 m row cut at physiological maturity (DS87).,,
+0500228,SKCS Computation,ComputationMethod,"Grain weight using the single kernel characterization system 4100 (SKCS, Perten Instruments, Huddinge, Sweden).",,
+0500183,GY 10 Spikes Estimation,EstimationMethod,"Grain yield expressed in kilograms per hectare, measured from ten spikes on the main tillers.",,
+0500181,GW 30 Spikes Estimation,EstimationMethod,Weight of seeds from 30 wheat spikes.,,
+0500178,Grain Width Measurement,MeasurementMethod,"Grain width analysis using the single kernel characterization system 4100 (SKCS, Perten Instruments, Huddinge, Sweden)",,
+0500180,GW 10 Spikes Estimation,EstimationMethod,Seed size estimated by weighing 1000 seeds from ten spikes on the main tillers.,,
+0500184,HesFlyDmg BiotypeB Estimation,EstimationMethod,Plant response to hessian fly biotype B,,
+0500185,HesFlyDmg BiotypeC Estimation,EstimationMethod,Plant response to hessian fly biotype C,,
+0500186,HesFlyDmg BiotypeD Estimation,EstimationMethod,Plant response to hessian fly biotype D,,
+0000309,HesFlyDmg Estimation,EstimationMethod,Standard method for hessian fly damage.,,"Duveiller et al., 2012"
+0500187,HesFlyDmg BiotypeL Estimation,EstimationMethod,Plant response to hessian fly biotype L,,
+0500188,HesFlyDmg BiotypeO Estimation,EstimationMethod,Plant response to hessian fly biotype O,,
+0500189,InfertSpkN Estimation,EstimationMethod,Estimation of the number of infertile spikelets per spike.,,
+0500191,Lactic Acid SRC Rating Estimation,EstimationMethod,"Lactic acid solvent retention capacity (SRC) rated as the standard deviations from the mean lactic acid SRC of check varieties. Questionable= -1, above average= 1.",,
+0500190,Lactic Acid  SRC Score Estimation,EstimationMethod,"Measure of gluten strength. Typical values are below 85% for weak soft varieties, and above 105% or 110% for strong soft varieties.",,
+0500192,Lodg Z50 Estimation,EstimationMethod,,,
+0500193,Lodg Z55 Estimation,EstimationMethod,,,
+0500194,Mat DS87 canopy Estimation,EstimationMethod,Julian calendar date of canopy maturity i.e. when 50% of the green canopy completely loses color.,,
+0500195,Mat DS87 spike Estimation,EstimationMethod,Julian calendar date of spike maturity i.e. when 50% of the spikes completely lose color.,,
+0500196,Milling Quality Rating Estimation,EstimationMethod,"Flour yield of a genotype relative to the standard variety used for that nursery. A= 1, B= 2, C= 3, D= 4, E= 5, F= 6.",,
+0500197,Milling Quality Score Estimation,EstimationMethod,Flour yield adjusted by comparison to a check variety.,,
+0500198,MSE Rating Estimation,EstimationMethod,"Softness equivalent is a flour particle size test that is correlated to break flour yields. Softness equivalent rating of a genotype relative to the standard variety used for that nursery. A= 1, B= 2, C= 3, D= 4, E= 5, F= 6.",,
+0500199,MSE Score Estimation,EstimationMethod,Softness equivalent is a flour particle size test that is correlated to break flour yields," score calculated as (grain weight - bran weight) - mids / (grain weight - bran weight). Smaller amounts of mids means smaller particle size, greater break flour, greater SE. Adjusted to 15% moisture.",
+0500200,MTW Measurement,MeasurementMethod,The fixed Column weight of the VSK sample that fits in a 15.7 mL copper vessel measuring 20 mm in diameter and 50 mm in height,,
+0500201,Nivalenol Measurement,MeasurementMethod,Measure of the level of the compound Nivalenol.,,
+0000274,PedGlau Estimation,EstimationMethod,Standard method for peduncle glaucousness.,,
+0500209,Rust Incidence Estimation,EstimationMethod,Estimation of stem rust incidence,,
+0500212,Rust Infection Type BCCBC Estimation,EstimationMethod,"A qualitative analysis of the type of disease symptoms exhibited by seedlings inoculated with stem rust (Puccinia graminis f. sp. tritici) race BCCBC during greenhouse trials. The original ratings, made using the scale from Stakman et al. (1962), were converted to a 0-9 linear disease scale for analysis: 0, 1-, 1, 1+, 2-, 2 2+, 3-, 3, 3+ were coded as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, respectively (Zhang et al, 2014).",,"Zhang et al, 2014"
+0500213,Rust Infection Type Field Bulk Estimation,EstimationMethod,"A qualitative analysis of the type of disease symptoms exhibited by seedlings inoculated with stem rust (Puccinia graminis f. sp. tritici) a bulk of stem rust races from the field during greenhouse trials. The original ratings, made using the scale from Stakman et al. (1962), were converted to a 0-9 linear disease scale for analysis: 0, 1-, 1, 1+, 2-, 2 2+, 3-, 3, 3+ were coded as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, respectively (Zhang et al, 2014).",,"Zhang et al, 2014"
+0500214,Rust Infection Type JRCQC Estimation,EstimationMethod,"A qualitative analysis of the type of disease symptoms exhibited by seedlings inoculated with stem rust (Puccinia graminis f. sp. tritici) race JRCQC during greenhouse trials. The original ratings, made using the scale from Stakman et al. (1962), were converted to a 0-9 linear disease scale for analysis: 0, 1-, 1, 1+, 2-, 2 2+, 3-, 3, 3+ were coded as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, respectively (Zhang et al, 2014).",,"Zhang et al, 2014"
+0500215,Rust Infection Type TRTTF Estimation,EstimationMethod,"A qualitative analysis of the type of disease symptoms exhibited by seedlings inoculated with stem rust (Puccinia graminis f. sp. tritici) race TRTTF during greenhouse trials. The original ratings, made using the scale from Stakman et al. (1962), were converted to a 0-9 linear disease scale for analysis: 0, 1-, 1, 1+, 2-, 2 2+, 3-, 3, 3+ were coded as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, respectively (Zhang et al, 2014).",,"Zhang et al, 2014"
+0500216,Rust Infection Type TTKSK Estimation,EstimationMethod,"A qualitative analysis of the type of disease symptoms exhibited by seedlings inoculated with stem rust (Puccinia graminis f. sp. tritici) race TTKSK during greenhouse trials. The original ratings, made using the scale from Stakman et al. (1962), were converted to a 0-9 linear disease scale for analysis: 0, 1-, 1, 1+, 2-, 2 2+, 3-, 3, 3+ were coded as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, respectively (Zhang et al, 2014).",,"Zhang et al, 2014"
+0500217,Rust Infection Type TTTTF Estimation,EstimationMethod,"A qualitative analysis of the type of disease symptoms exhibited by seedlings inoculated with stem rust (Puccinia graminis f. sp. tritici) race TTTTF during greenhouse trials. The original ratings, made using the scale from Stakman et al. (1962), were converted to a 0-9 linear disease scale for analysis: 0, 1-, 1, 1+, 2-, 2 2+, 3-, 3, 3+ were coded as 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, respectively (Zhang et al, 2014).",,"Zhang et al, 2014"
+0500210,Rust Infection Response Estimation - Final,EstimationMethod,"A qualitative anaylsis of the type of stem rust (Puccinia graminis f. sp. Tritici) symptoms that are exhibited. Infection responses are limited to: Resistant (R): small uredinia surrounded by chlorosis or necrosis ; Moderately resistant (MR): medium sized uredinia surrounded by chlorosis or necrosis ; Moderately susceptible (MS): medium-large compatible uredinia without chlorosis and necrosis ; Susceptible (S): large, compatible uredinia without chlorosis and necrosis. The following numerical scale has been used to quantify conventional notations of infection response: R= 0.2, MR= 0.4, MS= 0.8, S= 1.0 (Yu et al. 2011). Stem rust infection response is typically recorded in conjunction with stem rust severity.",,
+0000693,Rust severity Estimation,EstimationMethod,"Severity of rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",,"Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+0500202,PlntStnd Estimation,EstimationMethod,Estimation of the number of living plants.,,
+0500203,PPO Activity Estimation,EstimationMethod,Measures oxidation of an L-DOPA substrate to a red-colored product as an indirect measure of PPO activity,,
+0000706,PrecoResp Estimation,EstimationMethod,Standard method for leaf rust response.,,"Roelfs et al., 1992"
+0000706,PrecoResp Estimation,EstimationMethod,Standard method for leaf rust response.,,"Roelfs et al., 1992"
+0500204,PrecoResp Seedling CA1.2 Estimation,EstimationMethod,Leaf rust seedling response to CA1.2,,
+0500205,PrecoResp Seedling Estimation,EstimationMethod,Leaf rust seedling response,,
+0500206,PrecoResp Seedling Field Mix Estimation,EstimationMethod,Leaf rust seedling response to Field Mix,,
+0500207,PrecoResp Seedling Race 1 Estimation,EstimationMethod,Leaf rust seedling response to Race 1,,
+0500223,SBMV Infection Coefficient,ComputationMethod,Calculation of soil borne mosaic coefficient of infection,,
+0000359,SBMVInc Estimation,EstimationMethod,Standard method for soil borne mosaic virus incidence.,,
+0500224,SBMV Response Estimation,EstimationMethod,Estimation of plant response to wheat soil-borne mosaic virus,,
+0500225,SE Rating Estimation,EstimationMethod,"Rated as the standard deviations from the mean softness equivalent of check varieties. Questionable= -1, above average= 1.",,
+0500226,SE Score Estimation,EstimationMethod,"Score calculated as (grain weight - bran weight) - mids / (grain weight - bran weight). Smaller amounts of mids means smaller particle size, greater break flour, greater SE. Not adjusted to standard moisture.",,
+0000278,Shattering Estimation,EstimationMethod,Standard method for spike shattering.,,
+0500229,SnodoResp Estimation,EstimationMethod,Rating of Septoria nodorum blotch plant response.,,
+0000991,SnodoSev Estimation,EstimationMethod,Standard method for Septoria nodorum blotch severity.,,
+0500230,SnodoSev Spike Estimation,EstimationMethod,Rating of Septoria nodorum blotch severity of symptoms on spikes,,
+0500231,SpkCol Estimation,EstimationMethod,Visual rating of spike color during grain filling,,
+0500232,SpkDW Measurement,MeasurementMethod,Spike weight (grain + glumes/rachis/awns) in g dwt m-1 row from plants cut at physiological maturity (DS87).,,
+0500233,SpkGlau Estimation,EstimationMethod,Estimation of spike glaucousness,,
+0500234,SpkGlau Presence Measurement,MeasurementMethod,Spike glaucousness scored as absence/presence (0/1),,
+0500235,Sucrose SRC Rating Estimation,EstimationMethod,"Rated as the standard deviations from the mean sucrose SRC of check varieties. Questionable= -1, above average= 1.",,
+0500236,Sucrose SRC Score Estimation,EstimationMethod,Sugar snap cookie diameters decrease by 0.07 cm for each percentage point increase in sucrose SRC score.,,
+0000284,StmDia Measurement,MeasurementMethod,Standard method for stem diameter.,,
+0000283,StmSol Estimation,EstimationMethod,Standard method for stem solidness.,,
+0500237,Vegetative Protein Measurement,MeasurementMethod,Protein concentration of vegetative biomass harvested at physiological maturity,,
+0500238,Canopy Senescence Measurement - Average,MeasurementMethod,Percentage (%) of leaf area (canopy) that has lost green color during the process of physiological maturity - average of observations.,,
+1020027,ABSN.Z92 - ABSN.Z65,ComputationMethod,,(ABSN.Z92 - ABSN.Z65),
+1021083,undefined,EstimationMethod,Unavailable method description,,
+1021082,undefined,EstimationMethod,Unavailable method description,,
+1021081,undefined,EstimationMethod,Unavailable method description,,
+1021080,undefined,EstimationMethod,Unavailable method description,,
+1021079,undefined,EstimationMethod,Unavailable method description,,
+1021078,undefined,EstimationMethod,Unavailable method description,,
+1021077,undefined,EstimationMethod,Unavailable method description,,
+1021076,undefined,EstimationMethod,Unavailable method description,,
+1021075,undefined,EstimationMethod,Unavailable method description,,
+1021074,undefined,EstimationMethod,Unavailable method description,,
+1021073,undefined,EstimationMethod,Unavailable method description,,
+1020018,Direct measure,MeasurementMethod,,,
+1021072,undefined,EstimationMethod,Unavailable method description,,
+1021071,undefined,EstimationMethod,Unavailable method description,,
+1021070,undefined,EstimationMethod,Unavailable method description,,
+1021069,undefined,EstimationMethod,Unavailable method description,,
+1021068,undefined,EstimationMethod,Unavailable method description,,
+1020018,Direct measure,MeasurementMethod,,,
+1020018,Direct measure,MeasurementMethod,,,
+1021067,undefined,EstimationMethod,Unavailable method description,,
+1020005,Direct measure spike,MeasurementMethod,Arvalis methode: 50% spikes half emerged,,
+1020005,Direct measure spike,MeasurementMethod,Arvalis methode: 50% spikes half emerged,,
+1020005,Direct measure spike,MeasurementMethod,Arvalis methode: 50% spikes half emerged,,
+1020006,Direct measure spikes stamen,MeasurementMethod,Arvalis methode: 50% spikes visible stamen,,
+1020006,Direct measure spikes stamen,MeasurementMethod,Arvalis methode: 50% spikes visible stamen,,
+1021066,undefined,EstimationMethod,Unavailable method description,,
+1021065,undefined,EstimationMethod,Unavailable method description,,
+1021064,undefined,EstimationMethod,Unavailable method description,,
+1020033,Senescence computed from anthesis,ComputationMethod,(SEN-START + SEN-DUR),,
+1021063,undefined,EstimationMethod,Unavailable method description,,
+1021062,undefined,EstimationMethod,Unavailable method description,,
+1021061,undefined,EstimationMethod,Unavailable method description,,
+1020007,"Direct measure for 0,7 m2",MeasurementMethod,Arvalis method :  on 0.7 m_,,
+1020008,Direct measure Dumas,MeasurementMethod,Arvalis method: Analyse Dumas / NIRS,,
+1020009,manual harvest,MeasurementMethod,manual harvest,,
+1021060,undefined,EstimationMethod,Unavailable method description,,
+1020043,Infected spikes observed on 100 spikes,MeasurementMethod,,,
+1021059,undefined,EstimationMethod,Unavailable method description,,
+1020010,15 spikes direct measure,MeasurementMethod,Arvalis method: on 15 spikes ,,
+1020008,Direct measure Dumas,MeasurementMethod,Arvalis method: Analyse Dumas / NIRS, (GY x GNC) / 100,
+1020010,15 spikes direct measure,MeasurementMethod,Arvalis method: on 15 spikes ,,
+1020012,Direct measure NIRS,MeasurementMethod,Arvalis method: NIRS measure on harvester ,,
+1021058,undefined,EstimationMethod,Unavailable method description,,
+1020010,15 spikes direct measure,MeasurementMethod,Arvalis method: on 15 spikes ,,
+1021057,undefined,EstimationMethod,Unavailable method description,,
+1020013,Direct measure harvest 0% humidity,MeasurementMethod,Arvalis method: Mechanised harvest 0% humidity,,
+1020014,Direct measure harvest 15% humidity,MeasurementMethod,Arvalis method: Mechanised harvest 15% humidity,,
+1021056,undefined,EstimationMethod,Unavailable method description,,
+1021055,undefined,EstimationMethod,Unavailable method description,,
+1021054,undefined,EstimationMethod,Unavailable method description,,
+1021053,undefined,EstimationMethod,Unavailable method description,,
+1020021,Wheather station measure,MeasurementMethod,Wheather station measure,,
+1021052,undefined,EstimationMethod,Unavailable method description,,
+1021051,undefined,EstimationMethod,Unavailable method description,,
+1021050,undefined,EstimationMethod,Unavailable method description,,
+1021049,undefined,EstimationMethod,Unavailable method description,,
+1020018,Direct measure,MeasurementMethod,,,
+1020018,Direct measure,MeasurementMethod,,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020016,Direct measure lodging,MeasurementMethod,Arvalis method: 1-10 scale based on  lodged surface percentage and lodge angle,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020018,Direct measure,MeasurementMethod,,,
+1021048,undefined,EstimationMethod,Unavailable method description,,
+1021047,undefined,EstimationMethod,Unavailable method description,,
+1021046,undefined,EstimationMethod,Unavailable method description,,
+1021045,undefined,EstimationMethod,Unavailable method description,,
+1021044,undefined,EstimationMethod,Unavailable method description,,
+1020018,Direct measure,MeasurementMethod,,,
+1021043,undefined,EstimationMethod,Unavailable method description,,
+1020018,Direct measure,MeasurementMethod,,calculated measure FDI=[(FLAGmean+1)/10]*[(FLAG-1mean+1)/10]*100,
+1020018,Direct measure,MeasurementMethod,,,
+1020018,Direct measure,MeasurementMethod,,,
+1020041, Seedling Disease Index measurement,MeasurementMethod,,ST-SDI=[(201-(2*%GREEN)+(1*%NECROSIS)+(3*%PYCNIDIA))/60]-[1/60],
+1021042,undefined,EstimationMethod,Unavailable method description,,
+1021041,undefined,EstimationMethod,Unavailable method description,,
+1020045,NIRS computation,ComputationMethod, (NIRrefc-REDrefc)/(NIRrefc+REDrefc),,
+1020045,NIRS computation,ComputationMethod, (NIRrefc-REDrefc)/(NIRrefc+REDrefc),,
+1020045,NIRS computation,ComputationMethod, (NIRrefc-REDrefc)/(NIRrefc+REDrefc),,
+1020045,NIRS computation,ComputationMethod, (NIRrefc-REDrefc)/(NIRrefc+REDrefc),,
+1020045,NIRS computation,ComputationMethod, (NIRrefc-REDrefc)/(NIRrefc+REDrefc),,
+1020045,NIRS computation,ComputationMethod, (NIRrefc-REDrefc)/(NIRrefc+REDrefc),,
+1020026,top 5% of ABSN of the trial,MeasurementMethod,,,Cormier et al 2014
+1021040,undefined,EstimationMethod,Unavailable method description,,
+1021039,undefined,EstimationMethod,Unavailable method description,,
+1021038,undefined,EstimationMethod,Unavailable method description,,
+1021037,undefined,EstimationMethod,Unavailable method description,,
+1020026,top 5% of ABSN of the trial,MeasurementMethod,,,
+1021036,undefined,EstimationMethod,Unavailable method description,,
+1021035,undefined,EstimationMethod,Unavailable method description,,
+1021034,undefined,EstimationMethod,Unavailable method description,,
+1021033,undefined,EstimationMethod,Unavailable method description,,
+1021032,undefined,EstimationMethod,Unavailable method description,,
+1021031,undefined,EstimationMethod,Unavailable method description,,
+1021030,undefined,EstimationMethod,Unavailable method description,,
+1020040,Measure with Marvin or OptoMachine,EstimationMethod,Estimated with the Marvin or OptoMachine,,
+1021029,undefined,EstimationMethod,Unavailable method description,,
+1020040,Measure with Marvin or OptoMachine,EstimationMethod,Estimated with the Marvin or OptoMachine,,
+1020040,Measure with Marvin or OptoMachine,EstimationMethod,Estimated with the Marvin or OptoMachine,,
+1020030,Direct measure with measuring rod,MeasurementMethod,Arvalis method : 5 measures with measuring rod,,
+1021028,undefined,EstimationMethod,Unavailable method description,,
+1020007,"Direct measure for 0,7 m2",MeasurementMethod,Arvalis method :  on 0.7 m_,,
+1021027,undefined,EstimationMethod,Unavailable method description,,
+1020044,Infected/Non infected,ComputationMethod,Ratio infected grain weight/non infected grain weight,,
+1021026,undefined,EstimationMethod,Unavailable method description,,
+1020031,Direct or computed measure on harvester,MeasurementMethod,"Arvalis method : Harvester on board measure, on harvest sample machine . Direct measure or (PF -PS)/PF*100",,
+1021025,undefined,EstimationMethod,Unavailable method description,,
+1020032,Direct measure nb of spikes per area,MeasurementMethod,Arvalis method : from 0.25 to 0.7 m_,,
+1021024,undefined,EstimationMethod,Unavailable method description,,
+1021023,undefined,EstimationMethod,Unavailable method description,,
+1021022,undefined,EstimationMethod,Unavailable method description,,
+1021021,undefined,EstimationMethod,Unavailable method description,,
+1021020,undefined,EstimationMethod,Unavailable method description,,
+1021019,undefined,EstimationMethod,Unavailable method description,,
+1020010,15 spikes direct measure,MeasurementMethod,Arvalis method: on 15 spikes ,Straw = (stem + leaf + shaff),
+1020010,15 spikes direct measure,MeasurementMethod,Arvalis method: on 15 spikes ,Straw = (stem + leaf + shaff),
+1020034,Direct measure on harvester,MeasurementMethod,"Arvalis method : Harvester on board measure, on harvest sample machine ",,
+1021018,undefined,EstimationMethod,Unavailable method description,,
+1021017,undefined,EstimationMethod,Unavailable method description,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020036,1200 grains direct measure,MeasurementMethod,Arvalis method : on 1200 grains from mechanised harvest,,
+1021016,undefined,EstimationMethod,Unavailable method description,,
+1021015,undefined,EstimationMethod,Unavailable method description,,
+1020035,Thermometer,MeasurementMethod,,,
+1020035,Thermometer,MeasurementMethod,,,
+1020035,Thermometer,MeasurementMethod,,,
+1020035,Thermometer,MeasurementMethod,,,
+1020035,Thermometer,MeasurementMethod,,,
+1020035,Thermometer,MeasurementMethod,,,
+1020035,Thermometer,MeasurementMethod,,,
+1020035,Thermometer,MeasurementMethod,,,
+1021014,undefined,EstimationMethod,Unavailable method description,,
+1021013,undefined,EstimationMethod,Unavailable method description,,
+1020020,,MeasurementMethod,GreenSeeker protocol (computed from measured wavelength on vegetation cover),,
+1020020,,MeasurementMethod,GreenSeeker protocol (computed from measured wavelength on vegetation cover),,
+1020020,,MeasurementMethod,GreenSeeker protocol (computed from measured wavelength on vegetation cover),,
+1020020,,MeasurementMethod,GreenSeeker protocol (computed from measured wavelength on vegetation cover),,
+1020020,,MeasurementMethod,GreenSeeker protocol (computed from measured wavelength on vegetation cover),,
+1020020,Greenseeker protocol,MeasurementMethod,GreenSeeker protocol (computed from measured wavelength on vegetation cover),,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1020028,Marvin,EstimationMethod,Estimated with the Marvin,,
+1021012,undefined,EstimationMethod,Unavailable method description,,
+1021011,undefined,EstimationMethod,Unavailable method description,,
+1021010,undefined,EstimationMethod,Unavailable method description,,
+1020029,Reference variety comparaison,MeasurementMethod,Yield expressed as a percentage of the average yield of reference varieties.,,
+1021009,undefined,EstimationMethod,Unavailable method description,,
+1021008,undefined,EstimationMethod,Unavailable method description,,
+1020047, Wheight of  100 litter of grain,MeasurementMethod,,,
+1020046,"Disease intensity score on a 1 to 9 increasing scale (1: no disease, 9: very severe).",nanMethod,,,
+1021007,undefined,EstimationMethod,Unavailable method description,,
+1020054,Alveograph Chopin,EstimationMethod,Unavailable method description,,
+1021006,undefined,EstimationMethod,Unavailable method description,,
+1021005,undefined,EstimationMethod,Unavailable method description,,
+1020054,Alveograph Chopin,EstimationMethod,Unavailable method description,,
+1020054,Alveograph Chopin,EstimationMethod,Unavailable method description,,
+1020054,Alveograph Chopin,EstimationMethod,Unavailable method description,,
+1020054,Alveograph Chopin,EstimationMethod,Unavailable method description,,
+1020054,Alveograph Chopin,EstimationMethod,Unavailable method description,,
+1021004,undefined,EstimationMethod,Unavailable method description,,
+1020053,Breadmaking test CNERNA REWRITE THOSE DESCRIPTIONS,EstimationMethod,Unavailable method description,,
+1020052,Breadmaking test CNERNA,EstimationMethod,Unavailable method description,,
+1020052,Breadmaking test CNERNA,EstimationMethod,Unavailable method description,,
+1020052,Breadmaking test CNERNA,EstimationMethod,Unavailable method description,,
+1020051,Breadmaking test BIPEA (G),EstimationMethod,Unavailable method description,,
+1020051,Breadmaking test BIPEA (G),EstimationMethod,Unavailable method description,,
+1020051,Breadmaking test BIPEA (G),EstimationMethod,Unavailable method description,,
+1020051,Breadmaking test BIPEA (G),EstimationMethod,Unavailable method description,,
+1020051,Breadmaking test BIPEA (G),EstimationMethod,Unavailable method description,,
+1020050,Breadmaking test BIPEA (L),EstimationMethod,Unavailable method description,,
+1020050,Breadmaking test BIPEA (L),EstimationMethod,Unavailable method description,,
+1020050,Breadmaking test BIPEA (L),EstimationMethod,Unavailable method description,,
+1020050,Breadmaking test BIPEA (L),EstimationMethod,Unavailable method description,,
+1020050,Breadmaking test BIPEA (L),EstimationMethod,Unavailable method description,,
+1020049,Breadmaking test BIPEA (S),EstimationMethod,Unavailable method description,,
+1020049,Breadmaking test BIPEA (S),EstimationMethod,Unavailable method description,,
+1020049,Breadmaking test BIPEA (S),EstimationMethod,Unavailable method description,,
+1020049,Breadmaking test BIPEA (S),EstimationMethod,Unavailable method description,,
+1020049,Breadmaking test BIPEA (S),EstimationMethod,Unavailable method description,,
+1021003,undefined,EstimationMethod,Unavailable method description,,
+1021002,undefined,EstimationMethod,Unavailable method description,,
+1020048,Gallardon,EstimationMethod,Providers (bakeries): Gallardon.,,
+1020048,Gallardon,EstimationMethod,Providers (bakeries): Gallardon.,,
+1020048,Gallardon,EstimationMethod,Providers (bakeries): Gallardon.,,
+1020048,Gallardon,EstimationMethod,Providers (bakeries): Gallardon.,,
+1020048,Gallardon,EstimationMethod,Providers (bakeries): Gallardon.,,
+1021001,undefined,EstimationMethod,Unavailable method description,,
